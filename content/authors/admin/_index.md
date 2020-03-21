@@ -64,9 +64,7 @@ user_groups:
 
 Ecco a voi Diderot!
 
-Chi siamo?
-
-  dalla volontà  di impegnarsi in qualcosa di utile che prende vita #Diderot, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalità  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare un'alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
+Dalla volontà  di impegnarsi in qualcosa di utile che prende vita #Diderot, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalità  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare un'alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
 
 Cosa facciamo?
 
