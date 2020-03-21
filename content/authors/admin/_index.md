@@ -13,7 +13,7 @@ superuser: true
 role: Dubitare per credere, dubitare prima di credere!
 
 # Short bio (displayed in user profile at end of posts)
-#bio: Dubitare per credere, dubitare prima di credere!
+bio: Dubitare per credere, dubitare prima di credere!
 # interests:
 # - Artificial Intelligence
 # - Computational Linguistics 
