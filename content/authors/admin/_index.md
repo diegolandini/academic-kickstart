@@ -38,16 +38,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '#contact'  # For a direct email link, use "diderot.salotto@gmail.com".
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://www.facebook.com/Diderot-Official-101209088192213/?__tn__=%2Cd-k-R&eid=ARCrRZk65zkYvNMFbZqzbgaXoNmc55L9o77kxM_srf_rdMbNS5qfhRBCt4GnBClz8BL8d1Wrv654-Uny
+- icon: instagram
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.instagram.com/diderot.official/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
