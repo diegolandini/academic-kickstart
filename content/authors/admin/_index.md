@@ -13,8 +13,7 @@ superuser: true
 role: Dubitare per credere, dubitare prima di credere!
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Dubitare per credere, dubitare prima di credere!
 interests:
 - Artificial Intelligence
 - Computational Linguistics
@@ -65,21 +64,20 @@ user_groups:
 - Visitors
 ---
 
-âœ…Ecco a voi Diderotâ€¼ï¸
+Ecco a voi Diderot!
 
-Chi siamoâ“
-â¬‡ï¸
-Eâ€™ dalla volontÃ  di impegnarsi in qualcosa di utile che prende vita #Diderot, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalitÃ  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare unâ€™alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
+Chi siamo?
+E dalla volontÃ  di impegnarsi in qualcosa di utile che prende vita #Diderot, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalitÃ  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare unâ€™alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
 
-Cosa facciamoâ“
-â¬‡ï¸
+Cosa facciamo?
+
 Nella speranza di poter davvero cambiare la realtÃ  in cui viviamo, noi, i ragazzi di Diderot, senza pretese e senza scetticismo scriviamo per aiutare i nostri coetanei a sviluppare un senso #critico che Ã¨ alla base della #libertÃ  di pensiero, per imparare insieme a mettere in dubbio quello che ci viene detto e discutere sempre, senza tregua, di quello che accade intorno a noi.
 Sconfiggere lâ€™immobilismo del pensiero tipico della nostra generazione Ã¨ il nostro sognoðŸ”Š
 #Mentiinmovimento
 
-Come lo facciamoâ“
-â¬‡ï¸
-Attraverso lâ€™accostamento di diverse fonti trattiamo tematiche ed argomenti completi e approfonditi, offrendo inoltre la possibilitÃ  a tutti gli utenti di confrontarsi con noi autori e persino permettendo loro di scrivere per Diderot.
+Come lo facciamo?
+
+Attraverso l'accostamento di diverse fonti trattiamo tematiche ed argomenti completi e approfonditi, offrendo inoltre la possibilitÃ  a tutti gli utenti di confrontarsi con noi autori e persino permettendo loro di scrivere per Diderot.
 Ciascun articolo viene pubblicato sul nostro sito e sui social e tramite la pubblicazione dei post interagiamo con i lettori, raccogliendo richieste, opinioni e domande.
 Vogliamo dare voce a ogni #pensiero, ogni dubbio che noi giovani nutriamo,per discuterne #liberamente.
 La partecipazione di tutti coloro che leggono i nostri articoli Ã¨ utile a noi per migliorare il lavoro che svolgiamo ogni giorno e a voi in modo da sviluppare un pensiero critico incondizionato, che sarÃ  libero di esprimersi in qualsiasi momento e che potrÃ  addirittura arricchire lâ€™esperienza di Diderot.
@@ -87,9 +85,8 @@ La partecipazione di tutti coloro che leggono i nostri articoli Ã¨ utile a noi
 A presto per nuove sorprese!
 Dubitare per credere,dubitare prima di credere!
 
-ðŸ‘‰ðŸ»E se anche tu dubiti in qualcosa,vuoi discutere di qualcosa e hai la voglia di farlo,diventa Diderot anche tu!
-       âž¡ï¸    #YouareDiderot    â¬…ï¸
+   »E se anche tu dubiti in qualcosa,vuoi discutere di qualcosa e hai la voglia di farlo,diventa Diderot anche tu!
+                 #YouareDiderot    
 
-ðŸ‘‰ðŸ»Dubitare per credere, dubitare prima di credere!
+   »Dubitare per credere, dubitare prima di credere!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
