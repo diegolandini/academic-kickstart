@@ -17,8 +17,41 @@ git pull
 
 ## Aggiungere le modifiche
 
+Nota: vale per qualsiasi modifica, aggiunta o anche cancellazione: in ogni caso bisogna sempre eseguire il comando ```git add```
+
 ```
 git add pippo.md
 git commit -m "ho modificato pippo.md"
 git push
 ```
+
+## Aggiornare hugo
+
+Verificato che il template academic é piuttosto schizzinoso sulle versioni di hugo, é opportuno utilizzare sempre la versione di hugo che il template si aspetta. La maniera piú semplice é *NON* usare il package manager di Linux, ma installarlo direttamente. Fortunatamente hugo é un solo file binario, quindi é molto semplice.
+
+Per esempio, la versione 0.63.1 di hugo si puó scaricare da qui:
+
+https://github.com/gohugoio/hugo/releases/download/v0.63.1/hugo_extended_0.63.1_Linux-64bit.tar.gz
+
+dopodiché si puó decomprimere il file
+
+```
+tar xzvf ~/Downloads/hugo_extended_0.63.1_Linux-64bit.tar.gz
+```
+
+e poi copiare i binario di hugo in una directory in cui possa essere eseguito (ossia una directory sul PATH, come per esempio /usr/bin)
+
+```
+cd /tmp
+tar xzvf ~/Downloads/hugo_extended_0.63.1_Linux-64bit.tar.gz
+sudo cp hugo /usr/bin
+```
+
+dopodiché verificare che la nuova versione di hugo sia disponibile
+
+```
+hugo version
+Hugo Static Site Generator v0.63.1-CE9ACEB7/extended linux/amd64 BuildDate: 2020-01-23T20:15:47Z
+```
+
+## Gestire un conflitto
