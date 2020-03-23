@@ -3,7 +3,6 @@ title: "Intervista a Ruggero Freddi"
 authors:
 - Diderot
 date: "2020-03-23"
-math: true
 doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-23"
