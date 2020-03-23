@@ -1,7 +1,7 @@
 ---
-title: 'Crisi  Climatica  Il WMO lancia l allarme'
-subtitle: 'mentre tutto il mondo parla del coronavirsu diderot pensa a wmo'
-summary: mentre tutto il mondo parla del coronavirsu diderot pensa a wmo.
+title: 'Crisi  Climatica  Il WMO lancia l'allarme'
+subtitle: 'Mentre tutto il mondo è concentrato sull’emergenza Coronavirus una pubblicazione del WMO ha attirato l’attenzione di Diderot'
+summary: Mentre tutto il mondo è concentrato sull’emergenza Coronavirus una pubblicazione del WMO ha attirato l’attenzione di Diderot.
 authors:
 - Diderot
 tags:
