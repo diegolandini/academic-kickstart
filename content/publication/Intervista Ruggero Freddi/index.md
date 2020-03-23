@@ -44,7 +44,7 @@ slides: example
 **Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
 
 
-“Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi”.
+“Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di”, cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi”.
 
 
 **Allora torniamo a noi. 
@@ -120,7 +120,7 @@ Com’è stato riprendere gli studi?**
 **Spiega la vicenda ai nostri lettori.**
 
 
-“Dopo aver richiesto il dottorato a Castelnuovo, la relatrice mi ha consigliato di fare invece richiesta allo S.B.A.I. , il dipartimento dell’ateneo che si occupa di fare ricerca sperimentale in campo ingegneristico, chimico, fisico, matematico … Insomma, un buon punto di partenza per me. Una volta entrato allo S.B.A.I. , dove lavoravo come dottorando, ho potuto iniziare ad applicare per bandi di docenza e co-docenza, avvicinandomi un po’ di più al mio sogno di diventare professore e ricercato universitario.
+“Dopo aver richiesto il dottorato a Castelnuovo, la relatrice mi ha consigliato di fare invece richiesta allo S.B.A.I., il dipartimento dell’ateneo che si occupa di fare ricerca sperimentale in campo ingegneristico, chimico, fisico, matematico … Insomma, un buon punto di partenza per me. Una volta entrato allo S.B.A.I., dove lavoravo come dottorando, ho potuto iniziare ad applicare per bandi di docenza e co-docenza, avvicinandomi un po’ di più al mio sogno di diventare professore e ricercato universitario.
 Ho vinto uno di questi bandi e nell’a.a. 2017-2018 ho iniziato a Ingegneria Meccanica. Il corso è andato bene, i ragazzi mi seguivano tranquillamente, posso dire di essere stato molto attento a svolgere il mio lavoro nel modo migliore possibile. 
 I problemi sono arrivati alla fine del corso: un giorno sono entrato in aula e ho scambiato alcune chiacchiere con i ragazzi prima di cominciare, come al solito e dato che il 10 Giugno si sarebbe tenuto il gay pride ho fatto riferimento alla manifestazione, chiedendo se loro avrebbero partecipato e che sarebbe stato bello se lo avessero fatto.
 E’ scoppiato il finimondo”.
