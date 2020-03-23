@@ -60,7 +60,49 @@ Racconta ai nostri lettori il tuo percorso didattico.**
 **Complimenti! Matematica è uno dei corsi di laurea più difficili, tra l’altro uno dei ragazzi di Diderot ha cominciato proprio lì.**
 
 
-“ Ah sì? E com’è andata? ” chiede Ruggero sorpreso.'
+“ Ah sì? E com’è andata? ” chiede Ruggero sorpreso.
+
+
+**Lasciamo perdere…
+Com’è stato riprendere gli studi?**
+
+
+“ All’inizio un colpo, ragazzi. Ero già titubante di mio, poi l’impatto con una realtà lontanissima da quella di Carlo Masi non ha aiutato per niente, ma in poco tempo ho ritrovato, con piacere, le mie vecchie qualità. Sono molto competitivo e quando incontro un problema lo affronto: Matematica non è affatto una laurea semplice e ho studiato con costanza. Fino alla triennale ho collezionato solo 30 e poi mi sono laureato con la lode. Ho deciso di continuare per la specialistica, la quale è stata molto più difficile per via degli argomenti più recenti però sono riuscito a farmi valere anche lì. Sono andato avanti con un altro 100 e lode, poi il dottorato presso l’istituto S.B.A.I.  che ho concluso nel Febbraio 2020 con “ottimo” …  Ora però mi fate sembrare noioso! ”.
+
+**Non crediamo proprio, Ruggero, perché è a questo punto della storia che arrivano sorprese inattese e non gradite, potremmo dire.**
+
+
+“ E’ così, purtroppo. Questi ultimi mesi all’università sono stati davvero stressanti e molto spesso spiacevoli”.
+
+**Cosa è accaduto?**
+
+
+
+“ Ragazzi, è successo che quando sei un personaggio scomodo l’ateneo ti prende e ti butta fuori a calci, ecco cos’è successo. Le scelte che ognuno fa nella vita privata non dovrebbero mai, in nessuna maniera, pregiudicarla sua carriera lavorativa ”.
+
+
+
+**Spiega la vicenda ai nostri lettori.**
+
+
+“ Dopo aver richiesto il dottorato a Castelnuovo, la relatrice mi ha consigliato di fare invece richiesta allo S.B.A.I. , il dipartimento dell’ateneo che si occupa di fare ricerca sperimentale in campo ingegneristico, chimico, fisico, matematico … Insomma, un buon punto di partenza per me. Una volta entrato allo S.B.A.I. , dove lavoravo come dottorando, ho potuto iniziare ad applicare per bandi di docenza e co-docenza, avvicinandomi un po’ di più al mio sogno di diventare professore e ricercato universitario.
+Ho vinto uno di questi bandi e nell’a.a. 2017-2018 ho iniziato a Ingegneria Meccanica. Il corso è andato bene, i ragazzi mi seguivano tranquillamente, posso dire di essere stato molto attento a svolgere il mio lavoro nel modo migliore possibile. 
+I problemi sono arrivati alla fine del corso: un giorno sono entrato in aula e ho scambiato alcune chiacchiere con i ragazzi prima di cominciare, come al solito e dato che il 10 Giugno si sarebbe tenuto il gay pride ho fatto riferimento alla manifestazione, chiedendo se loro avrebbero partecipato e che sarebbe stato bello se lo avessero fatto.
+E’ scoppiato il finimondo ”.
+
+
+**Ti hanno subito contattato dalla presidenza di facoltà?**
+
+
+“ In realtà no, è proprio questo che mi ha preso alla sprovvista! Ho concluso il corso in tranquillità e quell’anno è stato pubblicato un altro bando di co-docenza cui però sono arrivato secondo, ma io ho notato un’irregolarità nella richiesta di applicazione di alcuni partecipanti, tra cui il primo classificato e giustamente ho chiesto ricorso. Risultato: il testo del bando è stato modificato, il concorso è stato fatto una seconda volta e io sono arrivato ultimo, mentre il primo classificato è rimasto il primo classificato ”.
+
+
+**Hai iniziato a insospettirti?**
+
+
+“ Un po’, ma non ho pensato subito al peggio: i bandi sono una dinamica complicata in ateneo e perderne uno non vuol dire automaticamente essere escluso da tutti gli altri. Alcuni colleghi, anzi, sono molto gentili e ti girano i testi dei bandi che sanno che potrebbero interessarti. Non mi sono preoccupato troppo, insomma, soltanto che dopo un paio di settimane mi ha chiamato la mia vecchia agenzia dalla California dicendomi che il mio dipartimento era furioso con me e che la notizia era ovunque.
+Ho subito pensato, ingenuamente, a problemi di carenza nel metodo o nella mia preparazione, ad una perdita di fiducia degli studenti nei miei confronti, qualcosa del genere.
+Sono andato a parlare con il direttore di facoltà e mi ha detto che avrei dovuto tenere d’ora in poi sempre la politica al di fuori dell’università, riferendosi alla mia domanda di mesi prima circa il gay pride ”.'
 
 
 # Summary. An optional shortened abstract.
