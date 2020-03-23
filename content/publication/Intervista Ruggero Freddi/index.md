@@ -146,7 +146,34 @@ Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che 
 
 “ Come no.
 Al terzo anno di dottorato è filato tutto liscio, ho ripreso a tenere i corsi con un buon rendimento e ho migliorato l’organizzazione nelle lezioni. Arrivato al quarto anno, il 2019, quello in cui avrei terminato il mio dottorato, mi è stata proposta una co-docenza con un professore di Analisi I dello S.B.A.I.  e ho subito accettato. Ho iniziato a tenere le lezioni presso Ingegneria Gestionale, che faceva afferenza al dipartimento di Informatica e Sistemistica, desideroso di ampliare il mio curriculum. Insomma, arrivato alla 50° ora di lezione ho iniziato a sentire, da voci di corridoio, che qualcuno mi avrebbe presto tolto la co-docenza, che qualcuno riferiva che nelle mie classi vi erano problemi, ma non mi era stata rivolta alcuna accusa formale e infatti non ho mai replicato perché non conoscevo le fonti. Un collega e la mia relatrice, poi, si sono essi ad osservare le poche ore di lezione che mi rimanevano prima di terminare il corso e dopo ho saputo che convenivano che le mie lezioni erano perfettamente in linea con le altre. 
-Ho deciso quindi di andare a parlare con la direttrice del Dipartimento cui facevo riferimento, che si rifiuta di incontrarmi ”.'
+Ho deciso quindi di andare a parlare con la direttrice del Dipartimento cui facevo riferimento, che si rifiuta di incontrarmi ”.
+
+
+**L’incubo si ripete.**
+
+
+“  L’ho inseguita per un po’, cercano di rimediare un incontro, ma niente, non sono mai riuscito a parlarle.
+Un giorno mi viene comunicato che sono stato sospeso dal mio ruolo di co-docente e che sarei stato sostituito. A quel punto mi sono infuriato, ho scritto a tutti, al direttore, alla relatrice, al preside, al rettore, ma nessuno mi ha risposto esaustivamente. Avevo lavorato 60 ore a nero, senza che mi avessero fatto firmare un contratto ed esigevo delle spiegazioni, oltre a ricevere un pagamento.
+Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica. E guardate che essere rimossi dal proprio ruolo in un ateneo è un avvenimento grave, è una vera e propria macchia sul curriculum vitae”.
+
+
+**Quello che ti è successo è terribile, Ruggero. Se la questione dovesse risolversi, credi che tornerai ad insegnare?**
+
+
+“ Non lo so, ragazzi, non credo proprio. Dopo 3 lauree, 1 dottorato e 8 insegnamenti sono stato cestinato senza una lettera di spiegazioni e senza un colloquio, sinceramente sono deluso.
+E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca”.
+
+
+**Com’è andata a finire? Hai saputo qualcosa?**
+
+
+“  Ho aspettato una settimana dopo il mio incontro con il prorettore e poi una decina di giorni ancora, ma non ho ricevuto risposta, né una data per un appuntamento. Ho deciso quindi di contattare un legale e di dare inizio ad una vertenza che è tuttora in svolgimento. Dopodiché, ho perso l’ennesimo bando e ho deciso di allontanarmi dall’università. Ora aspetto che questa situazione si smuova e che io riesca a ricevere delle spiegazioni”.
+
+
+**Ruggero, grazie per il tuo tempo e ti auguriamo buona fortuna.**
+
+
+“ Grazie a voi, ragazzi! E’ stato un piacere, alla prossima! ”.'
 
 
 # Summary. An optional shortened abstract.
