@@ -177,15 +177,10 @@ Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto
 
 
 “ Non lo so, ragazzi, non credo proprio. Dopo 3 lauree, 1 dottorato e 8 insegnamenti sono stato cestinato senza una lettera di spiegazioni e senza un colloquio, sinceramente sono deluso.
-E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca”.
-
+E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca
 
 **Ruggero, grazie per il tuo tempo e ti auguriamo buona fortuna.
 “ Grazie a voi, ragazzi! E’ stato un piacere, alla prossima! ”.**'
-
-
-# Summary. An optional shortened abstract.
-
 
 summary: 'Questo mese Diderot ha deciso di intervistare Ruggero Freddi, professore dell’università La Sapienza di Roma dalla storia singolare: c’è chi lo conosce come Carlo Masi, divo dell’industria pornografica e chi come ingegnere e matematico brillante. Purtroppo, nel corso della sua vita Ruggero si è ritrovato in un altro, spiacevole ruolo, quello di insegnante letteralmente cacciato dall’ateneo per via delle sue scelte.
 Ecco qui il suo racconto.'
