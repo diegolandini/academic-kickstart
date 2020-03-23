@@ -15,10 +15,10 @@ publishDate: "2020-03-23"
 publication_types: ["1"]
 
 
-abstract: ciao come va tutto benen si parla di cose assurde tipo copltottii gaio ètero altr'o.
+abstract: 'ciao come va tutto benen si parla di cose assurde tipo copltottii gaio Ã¨tero altr'o'
 
 # Summary. An optional shortened abstract.
-summary: ciao come va tutto benen si parla di cose assurde .
+summary: 'ciao come va tutto benen si parla di cose assurde'
 
 tags:
 - scuola 
