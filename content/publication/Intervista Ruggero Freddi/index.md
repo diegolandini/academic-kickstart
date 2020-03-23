@@ -12,6 +12,7 @@ publishDate: "2020-03-23"
 
 abstract: '**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
 
+
 “ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi ”.
 **Allora torniamo a noi. 
 Parlaci di te. Chi sei ?**
