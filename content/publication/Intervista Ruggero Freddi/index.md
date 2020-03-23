@@ -8,8 +8,7 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-23"
 
-abstract:
-'**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
+abstract:'**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
 
 
 “ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi ”.
@@ -180,7 +179,7 @@ Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto
 E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca
 
 **Ruggero, grazie per il tuo tempo e ti auguriamo buona fortuna.
-“ Grazie a voi, ragazzi! E’ stato un piacere, alla prossima! ”.** '
+“ Grazie a voi, ragazzi! E’ stato un piacere, alla prossima! ”.**  '
 
 summary: 'Questo mese Diderot ha deciso di intervistare Ruggero Freddi, professore dell’università La Sapienza di Roma dalla storia singolare: c’è chi lo conosce come Carlo Masi, divo dell’industria pornografica e chi come ingegnere e matematico brillante. Purtroppo, nel corso della sua vita Ruggero si è ritrovato in un altro, spiacevole ruolo, quello di insegnante letteralmente cacciato dall’ateneo per via delle sue scelte.
 Ecco qui il suo racconto.'
