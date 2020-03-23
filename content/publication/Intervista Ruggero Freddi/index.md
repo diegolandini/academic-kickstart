@@ -69,17 +69,17 @@ Com’è stato riprendere gli studi?**
 
 “ All’inizio un colpo, ragazzi. Ero già titubante di mio, poi l’impatto con una realtà lontanissima da quella di Carlo Masi non ha aiutato per niente, ma in poco tempo ho ritrovato, con piacere, le mie vecchie qualità. Sono molto competitivo e quando incontro un problema lo affronto: Matematica non è affatto una laurea semplice e ho studiato con costanza. Fino alla triennale ho collezionato solo 30 e poi mi sono laureato con la lode. Ho deciso di continuare per la specialistica, la quale è stata molto più difficile per via degli argomenti più recenti però sono riuscito a farmi valere anche lì. Sono andato avanti con un altro 100 e lode, poi il dottorato presso l’istituto S.B.A.I.  che ho concluso nel Febbraio 2020 con “ottimo” …  Ora però mi fate sembrare noioso! ”.
 
+
 **Non crediamo proprio, Ruggero, perché è a questo punto della storia che arrivano sorprese inattese e non gradite, potremmo dire.**
 
 
 “ E’ così, purtroppo. Questi ultimi mesi all’università sono stati davvero stressanti e molto spesso spiacevoli”.
 
+
 **Cosa è accaduto?**
 
 
-
 “ Ragazzi, è successo che quando sei un personaggio scomodo l’ateneo ti prende e ti butta fuori a calci, ecco cos’è successo. Le scelte che ognuno fa nella vita privata non dovrebbero mai, in nessuna maniera, pregiudicarla sua carriera lavorativa ”.
-
 
 
 **Spiega la vicenda ai nostri lettori.**
@@ -102,7 +102,51 @@ E’ scoppiato il finimondo ”.
 
 “ Un po’, ma non ho pensato subito al peggio: i bandi sono una dinamica complicata in ateneo e perderne uno non vuol dire automaticamente essere escluso da tutti gli altri. Alcuni colleghi, anzi, sono molto gentili e ti girano i testi dei bandi che sanno che potrebbero interessarti. Non mi sono preoccupato troppo, insomma, soltanto che dopo un paio di settimane mi ha chiamato la mia vecchia agenzia dalla California dicendomi che il mio dipartimento era furioso con me e che la notizia era ovunque.
 Ho subito pensato, ingenuamente, a problemi di carenza nel metodo o nella mia preparazione, ad una perdita di fiducia degli studenti nei miei confronti, qualcosa del genere.
-Sono andato a parlare con il direttore di facoltà e mi ha detto che avrei dovuto tenere d’ora in poi sempre la politica al di fuori dell’università, riferendosi alla mia domanda di mesi prima circa il gay pride ”.'
+Sono andato a parlare con il direttore di facoltà e mi ha detto che avrei dovuto tenere d’ora in poi sempre la politica al di fuori dell’università, riferendosi alla mia domanda di mesi prima circa il gay pride ”.
+
+
+**E come hai reagito?**
+
+
+“ Male. Sono molto orgoglioso di me e dei miei ideali, lo avete visto e quando mi sento attaccato dico tutto quello che mi passa per la testa.
+Gli ho risposto che, da professore, il mio ruolo era anche quello di educatore e che per me era importante difendere quello che io sono, perché è così, ragazzi. Il gay pride è una manifestazione eccentrica, caotica, che attira sempre tante critiche, ma è un traguardo inimmaginabile per chi, come me, ha il dovere di difendere la propria vita e le proprie idee. Questo non va mi dimenticato. Cioè, rega, c’è
+gente che è morta per questa causa, è stata calpestata, derisa e torturata per secoli e io, Ruggero Freddi, ho diritto e dovere di parlarne. Soprattutto nel momento in cui sono un professore.
+Ho anche detto che avrei fatto lezione in tacchi a spillo e a quel punto il direttore è completamente uscito di testa. –Ci deve solo provare!- ha iniziato a dire e io, da bravo rompicoglioni quale sono, ho replicato:  -Secondo lei i transessuali e gli omosessuali non devono mettere piede in università ?-.
+Quella è stata la mia prima situazione d’attrito con l’ateneo.
+Da quel momento in poi nulla mi ha più tolto dalla testa che l’università facesse discriminazioni di questo genere ”.
+
+
+**Dopo che è successo?**
+
+
+“ Tutto e niente, in pratica. Il problema è stato lasciato lì, senza soluzioni e un mese dopo la discussione il mio nome è finito dappertutto, su tutti i siti immaginabili e su network come la CNN; poi Spotted Sapienza ha condiviso uno dei video che ho caricato sul mio profilo Facebook e tanti ragazzi hanno commentato –Ma quello è Carlo Masi-, perché, appunto, sono stato uno dei più famosi. I commenti, ci tengo a dirlo, non erano offensivi nella maggior parte dei casi, erano solo sorpresi di riconoscermi in uno dei professori. Dagospia ha letto la notizia e ha iniziato a fare gossip, quindi è scoppiato il caso Carlo Masi, mi hanno chiamato tutte le testate, il Corriere, la D’Urso, davvero tutti. Quelli del Corriere sono addirittura entrati in aula mentre tenevo lezione e da quel momento in poi gli studenti hanno iniziato ad accusarmi sui social di essere poco professionale. Era colpa mia se la troupe televisiva entrava in aula?”.
+
+
+**E tu hai deciso di dare una scossa alla situazione.**
+
+
+“ Ho incontrato il preside di facoltà, proponendogli una sorta di tregua: loro avrebbero ignorato tutti gli scoop del momento e io avrei rilasciato interviste neutrali, in cui non insultavo né insinuavo giudizi negativi riguardo l’università, d’altronde, io aveva discusso soltanto con il direttore, la Sapienza non mi aveva fatto nessun torto. Per di più, per far vedere che ero realmente intenzionato a porre fine a tutti le polemiche, ho proposto al direttore del dipartimento di organizzare una manifestazione, con tanto di conferenza, sui temi dell’omofobia, del gay pride, della comunità LGBT e sull’HIV. Inutile dire che ha rifiutato la mia proposta.
+Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che invece ha subito accettato e addirittura mi ha indicato alcuni docenti di Medicina per farli intervenire in materia di prevenzione sessuale e circa la diffusione dell’HIV. Ho contattato LINK, ALLAIDS, varie associazioni che operano in Italia per supportare la causa di chi soffre di questa terribile malattia  e poi ho inviato tutto il materiale al preside, per avere un’ultima conferma e soprattutto perché lui stesso mi aveva chiesto di aggiornarlo ”.
+
+
+**Quindi? Cos’è successo?**
+
+
+“ Non ha risposto. L’ho sollecitato e niente, non ha proprio risposto. Quando l’ho incontrato di nuovo ha iniziato a dire che non c’erano autorizzazioni per la manifestazione, né c’erano mai state, anche se lui stesso era stato il primo ad essere d’accordo con me. Cioè, lui mi aveva persino fornito i contatti !”.
+
+
+**Assurdo. E cosa hai fatto?**
+
+
+“ Ho dato degli incompetenti a lui e al rettore. La manifestazione è andata a monte, non vi dico la figura di merda che ho fatto con tutte quelle associazioni che avevo invitato e curiosamente non ho vinto più un bando quell’anno, nonostante la mia esperienza in corsi, lezioni, tutoraggi. La situazione ha impiegato un po’ di tempo a calmarsi, io stesso ce ne ho messo parecchio, ma fortunatamente i miei colleghi mi supportavano e piano piano sono tornato alla quotidianità della mia vita da dottorando”.
+
+
+**Le peripezie all’università finiscono qui?**
+
+
+“ Come no.
+Al terzo anno di dottorato è filato tutto liscio, ho ripreso a tenere i corsi con un buon rendimento e ho migliorato l’organizzazione nelle lezioni. Arrivato al quarto anno, il 2019, quello in cui avrei terminato il mio dottorato, mi è stata proposta una co-docenza con un professore di Analisi I dello S.B.A.I.  e ho subito accettato. Ho iniziato a tenere le lezioni presso Ingegneria Gestionale, che faceva afferenza al dipartimento di Informatica e Sistemistica, desideroso di ampliare il mio curriculum. Insomma, arrivato alla 50° ora di lezione ho iniziato a sentire, da voci di corridoio, che qualcuno mi avrebbe presto tolto la co-docenza, che qualcuno riferiva che nelle mie classi vi erano problemi, ma non mi era stata rivolta alcuna accusa formale e infatti non ho mai replicato perché non conoscevo le fonti. Un collega e la mia relatrice, poi, si sono essi ad osservare le poche ore di lezione che mi rimanevano prima di terminare il corso e dopo ho saputo che convenivano che le mie lezioni erano perfettamente in linea con le altre. 
+Ho deciso quindi di andare a parlare con la direttrice del Dipartimento cui facevo riferimento, che si rifiuta di incontrarmi ”.'
 
 
 # Summary. An optional shortened abstract.
