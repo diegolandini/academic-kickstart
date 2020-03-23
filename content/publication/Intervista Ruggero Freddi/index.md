@@ -1,4 +1,5 @@
 ---
+---
 title: "Intervista a Ruggero Freddi"
 authors:
 - diderot
@@ -15,11 +16,10 @@ publishDate: "2020-03-23"
 publication_types: ["1"]
 
 
-abstract: 'ciao come va tutto benen si parla di cose assurde tipo copltottii gaio ètero altr'o'
+abstract: 'ciao a tutti bella raga'
 
 # Summary. An optional shortened abstract.
-summary: 'ciao come va tutto benen si parla di cose assurde'
-
+summary: 'ciao a tutti'
 tags:
 - scuola 
 - gaio
