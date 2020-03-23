@@ -66,13 +66,15 @@ o, piú concisamente:
 
 ``` git log --oneliner```
 
-e si vede la lista degli ultimi commit, identificati da un numero esadecimale
+e si vede la lista degli ultimi commit, identificati da un numero esadecimale.
+Annotarsi il numero della commit, per esempio ```2a6741b```, ed uscire premendo ```q``` (quit)
 
-Se si vuole ripristinare la situazione ad un particolare commit:
+Nota:non serve usare tutto il numero esadecimale, bastano i primi caratteri
+
+A questo punto per ripristinare la situazione cosí com'era dopo quel commit:
 
 ```git reset --hard 2a6741b```
 
-non serve usare tutto il numero esadecimale, bastano i primi caratteri
 
 
 
