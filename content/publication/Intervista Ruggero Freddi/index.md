@@ -113,7 +113,7 @@ Sono andato a parlare con il direttore di facoltà e mi ha detto che avrei dovut
 
 “ Male. Sono molto orgoglioso di me e dei miei ideali, lo avete visto e quando mi sento attaccato dico tutto quello che mi passa per la testa.
 Gli ho risposto che, da professore, il mio ruolo era anche quello di educatore e che per me era importante difendere quello che io sono, perché è così, ragazzi. Il gay pride è una manifestazione eccentrica, caotica, che attira sempre tante critiche, ma è un traguardo inimmaginabile per chi, come me, ha il dovere di difendere la propria vita e le proprie idee. Questo non va mai dimenticato. Cioè, rega, c’è gente che è morta per questa causa, è stata calpestata, derisa e torturata per secoli e io, Ruggero Freddi, ho diritto e dovere di parlarne. Soprattutto nel momento in cui sono un professore.
-Ho anche detto che avrei fatto lezione in tacchi a spillo e a quel punto il direttore è completamente uscito di testa. –Ci deve solo provare!- ha iniziato a dire e io, da bravo rompicoglioni quale sono, ho replicato":"  -Secondo lei i transessuali e gli omosessuali non devono mettere piede in università ?-.
+Ho anche detto che avrei fatto lezione in tacchi a spillo e a quel punto il direttore è completamente uscito di testa. "–"Ci deve solo provare!"-" ha iniziato a dire e io, da bravo rompicoglioni quale sono, ho replicato":"  "-"Secondo lei i transessuali e gli omosessuali non devono mettere piede in università ?"-".
 Quella è stata la mia prima situazione d’attrito con l’ateneo.
 Da quel momento in poi nulla mi ha più tolto dalla testa che l’università facesse discriminazioni di questo genere “.
 
