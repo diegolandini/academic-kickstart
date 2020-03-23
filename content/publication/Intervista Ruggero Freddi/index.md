@@ -6,7 +6,42 @@ date: "2020-03-23"
 doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-23"
-abstract: '**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
+
+# Summary. An optional shortened abstract.
+summary: 'Questo mese Diderot ha deciso di intervistare Ruggero Freddi, professore dell’università La Sapienza di Roma dalla storia singolare: c’è chi lo conosce come Carlo Masi, divo dell’industria pornografica e chi come ingegnere e matematico brillante. Purtroppo, nel corso della sua vita Ruggero si è ritrovato in un altro, spiacevole ruolo, quello di insegnante letteralmente cacciato dall’ateneo per via delle sue scelte.
+Ecco qui il suo racconto.'
+tags:
+- Intervista
+- Ruggero Freddi
+- Diderot
+- Sapienza
+- Università
+- Scandalo
+- Pregiudizio
+featured: true
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 
+  focal_point: ""
+  preview_only: false
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+
+---
+
+**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
 
 
 “ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi ”.
@@ -172,39 +207,6 @@ E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, 
 **Ruggero, grazie per il tuo tempo e ti auguriamo buona fortuna.**
 
 
-“ Grazie a voi, ragazzi! E’ stato un piacere, alla prossima! ”.'
-
-
-# Summary. An optional shortened abstract.
-summary: 'Questo mese Diderot ha deciso di intervistare Ruggero Freddi, professore dell’università La Sapienza di Roma dalla storia singolare: c’è chi lo conosce come Carlo Masi, divo dell’industria pornografica e chi come ingegnere e matematico brillante. Purtroppo, nel corso della sua vita Ruggero si è ritrovato in un altro, spiacevole ruolo, quello di insegnante letteralmente cacciato dall’ateneo per via delle sue scelte.
-Ecco qui il suo racconto.'
-tags:
-- Intervista
-- Ruggero Freddi
-- Diderot
-- Sapienza
-- Università
-- Scandalo
-- Pregiudizio
-featured: true
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 
-  focal_point: ""
-  preview_only: false
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+“ Grazie a voi, ragazzi! E’ stato un piacere, alla prossima! ”.
 
 ---
