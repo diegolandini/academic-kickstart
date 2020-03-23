@@ -22,7 +22,7 @@ subtitle = ""
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -46,11 +46,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  gradient_start = "DeepSkyBlue"
+   gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
