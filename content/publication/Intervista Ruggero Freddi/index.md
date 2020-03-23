@@ -187,7 +187,7 @@ Ho deciso quindi di andare a parlare con Tiziana Catarci, direttrice del Diparti
 
 “L’ho inseguita per un po’, cercando di rimediare un incontro, ma niente, non sono mai riuscito a parlarle.
 Un giorno mi viene comunicato che sono stato sospeso dal mio ruolo di co-docente e che sarei stato sostituito. A quel punto mi sono infuriato, ho scritto a tutti, al direttore, alla relatrice, al preside, al rettore, ma nessuno mi ha risposto esaustivamente. Avevo lavorato 60 ore a nero, senza che mi avessero fatto firmare un contratto ed esigevo delle spiegazioni, oltre a ricevere un pagamento.
-Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica. Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica."
+Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica."
 
 
 **Quello che ti è successo è terribile, Ruggero. Se la questione dovesse risolversi, credi che tornerai ad insegnare?**
