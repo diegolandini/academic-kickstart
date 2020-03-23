@@ -6,6 +6,8 @@ date: "2020-03-23"
 doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-03-23"
+
+
 abstract: Questo mese Diderot ha deciso di intervistare Ruggero Freddi, professore dell’università La Sapienza di Roma dalla storia singolare: c’è chi lo conosce come Carlo Masi, divo dell’industria pornografica e chi come ingegnere e matematico brillante. Purtroppo, nel corso della sua vita Ruggero si è ritrovato in un altro, spiacevole ruolo, quello di insegnante letteralmente cacciato dall’ateneo per via delle sue scelte.
 Ecco qui il suo racconto.
 
