@@ -9,7 +9,7 @@ publishDate: "2020-03-23"
 abstract: '**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
 
 
-“ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutto si sistemi ”.
+“ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi ”.
 
 
 **Allora torniamo a noi. 
@@ -121,18 +121,17 @@ Da quel momento in poi nulla mi ha più tolto dalla testa che l’università fa
 
 “ Tutto e niente, in pratica. Il problema è stato lasciato lì, senza soluzioni, finchè Spotted Sapienza non ha condiviso uno dei video caricati sul mio profilo Facebook e tanti ragazzi hanno commentato –Ma quello è Carlo Masi-, perché, appunto, sono stato uno dei più famosi. I commenti, ci tengo a dirlo, non erano offensivi nella maggior parte dei casi, erano solo sorpresi di riconoscermi in uno dei professori. A questo punto Dagospia ha letto la notizia e ha iniziato a fare gossip, quindi è scoppiato il caso Carlo Masi, mi hanno chiamato tutte le testate, il Corriere, la D’Urso, davvero tutti. Quelli del Corriere sono addirittura entrati in aula mentre tenevo lezione e da quel momento in poi gli studenti hanno iniziato ad accusarmi sui social di essere poco professionale. Era colpa mia se la troupe televisiva entrava in aula?”.
 
-
 **E tu hai deciso di dare una scossa alla situazione.**
 
 
 “ Ho incontrato il preside di facoltà, proponendogli una sorta di tregua: loro avrebbero ignorato tutti gli scoop del momento e io avrei rilasciato interviste neutrali, in cui non insultavo né insinuavo giudizi negativi riguardo l’università, d’altronde, io aveva discusso soltanto con il direttore, la Sapienza non mi aveva fatto nessun torto. Per di più, per far vedere che ero realmente intenzionato a porre fine a tutti le polemiche, ho proposto al direttore del dipartimento di organizzare una manifestazione, con tanto di conferenza, sui temi dell’omofobia, del gay pride, della comunità LGBT e sull’HIV. Inutile dire che ha rifiutato la mia proposta.
-Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che invece ha subito accettato e addirittura mi ha indicato alcuni docenti di Medicina per farli intervenire in materia di prevenzione sessuale e circa la diffusione dell’HIV. Ho contattato varie associazioni come ANLAIDS che operano in Italia per supportare la causa di chi soffre di questa terribile malattia  e poi ho inviato tutto il materiale al preside, per avere un’ultima conferma e soprattutto perché lui stesso mi aveva chiesto di aggiornarlo ”.
+Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che invece ha subito accettato e addirittura mi ha indicato alcuni docenti di Medicina per farli intervenire in materia di prevenzione sessuale e circa la diffusione dell’HIV. Ho contattato LINK, ALLAIDS, varie associazioni che operano in Italia per supportare la causa di chi soffre di questa terribile malattia  e poi ho inviato tutto il materiale al preside, per avere un’ultima conferma e soprattutto perché lui stesso mi aveva chiesto di aggiornarlo ”.
 
 
 **Quindi? Cos’è successo?**
 
 
-“ Non ha risposto. L’ho sollecitato e niente, non ha proprio risposto. Quando l’ho incontrato di nuovo ha iniziato a dire che non c’erano autorizzazioni per la manifestazione, né c’erano mai state, anche se lui stesso era stato il primo ad essere d’accordo con me. Cioè, lui mi aveva persino fornito i contatti!”.
+“ Non ha risposto. L’ho sollecitato e niente, non ha proprio risposto. Quando l’ho incontrato di nuovo ha iniziato a dire che non c’erano autorizzazioni per la manifestazione, né c’erano mai state, anche se lui stesso era stato il primo ad essere d’accordo con me. Cioè, lui mi aveva persino fornito i contatti !”.
 
 
 **Assurdo. E cosa hai fatto?**
@@ -154,7 +153,7 @@ Ho deciso quindi di andare a parlare con Tiziana Catarci, direttrice del Diparti
 
 “  L’ho inseguita per un po’, cercando di rimediare un incontro, ma niente, non sono mai riuscito a parlarle.
 Un giorno mi viene comunicato che sono stato sospeso dal mio ruolo di co-docente e che sarei stato sostituito. A quel punto mi sono infuriato, ho scritto a tutti, al direttore, alla relatrice, al preside, al rettore, ma nessuno mi ha risposto esaustivamente. Avevo lavorato 60 ore a nero, senza che mi avessero fatto firmare un contratto ed esigevo delle spiegazioni, oltre a ricevere un pagamento.
-Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica. 
+Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica. Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto organizzare un altro incontro con la mia relatrice, ma niente. Mi hanno rimbalzato da un appuntamento all’altro senza che mi venissero date spiegazioni e motivazioni valide per una decisione così drastica.
 
 
 **Quello che ti è successo è terribile, Ruggero. Se la questione dovesse risolversi, credi che tornerai ad insegnare?**
@@ -188,7 +187,6 @@ tags:
 - Scandalo
 - Pregiudizio
 featured: true
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
