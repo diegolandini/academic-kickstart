@@ -39,7 +39,7 @@ Racconta ai nostri lettori il tuo percorso didattico.**
 **Poi ti sei “riscattato”?**
 
 
-“ Esatto, dal secondo anno sono stato inarrestabile. Ho fatto amicizia con dei pazzi totali, i più bravi del corso\: questi ragazzi il giorno studiavano, la sera leggevano libri insieme e il finesettimana giravano per i musei di Roma. Mi hanno affascinato subito e sono diventato loro amico e ovviamente questo mi ha riportato sulla retta via,  in un certo senso. Ricordo che, dopo alcuni mesi e svariati esami, c’era una competizione giocosa tra di noi, che mi ha reso uno dei migliori studenti del mio anno. Dal terzo anno ho vinto alcune borse di studio grazie alla mia media e poi ho tirato dritto fino all’ultimo anno, il 2003, quando finalmente mi sono laureato con una tesi orientata alla matematica, sull’intelligenza artificiale e sul flusso di dati ”.
+“ Esatto, dal secondo anno sono stato inarrestabile. Ho fatto amicizia con dei pazzi totali, i più bravi del corso":"questi ragazzi il giorno studiavano, la sera leggevano libri insieme e il finesettimana giravano per i musei di Roma. Mi hanno affascinato subito e sono diventato loro amico e ovviamente questo mi ha riportato sulla retta via,  in un certo senso. Ricordo che, dopo alcuni mesi e svariati esami, c’era una competizione giocosa tra di noi, che mi ha reso uno dei migliori studenti del mio anno. Dal terzo anno ho vinto alcune borse di studio grazie alla mia media e poi ho tirato dritto fino all’ultimo anno, il 2003, quando finalmente mi sono laureato con una tesi orientata alla matematica, sull’intelligenza artificiale e sul flusso di dati ”.
 
 
 **Dopo la laurea hai trovato lavoro?**
@@ -70,7 +70,7 @@ Racconta ai nostri lettori il tuo percorso didattico.**
 Com’è stato riprendere gli studi?**
 
 
-“ All’inizio un colpo, ragazzi. Ero già titubante di mio, poi l’impatto con una realtà lontanissima da quella di Carlo Masi non ha aiutato per niente, ma in poco tempo ho ritrovato, con piacere, le mie vecchie qualità. Sono molto competitivo e quando incontro un problema lo affronto\: Matematica non è affatto una laurea semplice e ho studiato con costanza. Fino alla triennale ho collezionato solo 30 e poi mi sono laureato con la lode. Ho deciso di continuare per la specialistica, la quale è stata molto più difficile per via degli argomenti più recenti però sono riuscito a farmi valere anche lì. Sono andato avanti con un altro 100 e lode, poi il dottorato presso l’istituto S.B.A.I.  che ho concluso nel Febbraio 2020 con “ottimo” …  Ora però mi fate sembrare noioso! “.
+“ All’inizio un colpo, ragazzi. Ero già titubante di mio, poi l’impatto con una realtà lontanissima da quella di Carlo Masi non ha aiutato per niente, ma in poco tempo ho ritrovato, con piacere, le mie vecchie qualità. Sono molto competitivo e quando incontro un problema lo affronto":" Matematica non è affatto una laurea semplice e ho studiato con costanza. Fino alla triennale ho collezionato solo 30 e poi mi sono laureato con la lode. Ho deciso di continuare per la specialistica, la quale è stata molto più difficile per via degli argomenti più recenti però sono riuscito a farmi valere anche lì. Sono andato avanti con un altro 100 e lode, poi il dottorato presso l’istituto S.B.A.I.  che ho concluso nel Febbraio 2020 con “ottimo” …  Ora però mi fate sembrare noioso! “.
 
 
 **Non crediamo proprio, Ruggero, perché è a questo punto della storia che arrivano sorprese inattese e non gradite, potremmo dire.**
@@ -90,20 +90,20 @@ Com’è stato riprendere gli studi?**
 
 “ Dopo aver richiesto il dottorato a Castelnuovo, la relatrice mi ha consigliato di fare invece richiesta allo S.B.A.I. , il dipartimento dell’ateneo che si occupa di fare ricerca sperimentale in campo ingegneristico, chimico, fisico, matematico … Insomma, un buon punto di partenza per me. Una volta entrato allo S.B.A.I. , dove lavoravo come dottorando, ho potuto iniziare ad applicarmi per bandi di docenza e co-docenza, avvicinandomi un po’ di più al mio sogno di diventare professore e ricercato universitario.
 Ho vinto uno di questi bandi e nell’a.a. 2017-2018 ho iniziato a Ingegneria Meccanica. Il corso è andato bene, i ragazzi mi seguivano tranquillamente, posso dire di essere stato molto attento a svolgere il mio lavoro nel modo migliore possibile. 
-I problemi sono arrivati alla fine del corso\: un giorno sono entrato in aula e ho scambiato alcune chiacchiere con i ragazzi prima di cominciare, come al solito, e dato che il 10 Giugno si sarebbe tenuto il gay pride ho fatto riferimento alla manifestazione, chiedendo se loro avrebbero partecipato e che sarebbe stato bello se lo avessero fatto.
+I problemi sono arrivati alla fine del corso":" un giorno sono entrato in aula e ho scambiato alcune chiacchiere con i ragazzi prima di cominciare, come al solito, e dato che il 10 Giugno si sarebbe tenuto il gay pride ho fatto riferimento alla manifestazione, chiedendo se loro avrebbero partecipato e che sarebbe stato bello se lo avessero fatto.
 E’ scoppiato il finimondo “.
 
 
 **Ti hanno subito contattato dalla presidenza di facoltà?**
 
 
-“ In realtà no, è proprio questo che mi ha preso alla sprovvista! Ho concluso il corso in tranquillità e quell’anno è stato pubblicato un altro bando di co-docenza cui però sono arrivato secondo, ma io ho notato un’irregolarità nella richiesta di applicazione di alcuni partecipanti, tra cui il primo classificato e giustamente ho chiesto ricorso. Risultato\: il testo del bando è stato modificato, il concorso è stato fatto una seconda volta e io sono arrivato ultimo, mentre il primo classificato è rimasto il primo classificato “.
+“ In realtà no, è proprio questo che mi ha preso alla sprovvista! Ho concluso il corso in tranquillità e quell’anno è stato pubblicato un altro bando di co-docenza cui però sono arrivato secondo, ma io ho notato un’irregolarità nella richiesta di applicazione di alcuni partecipanti, tra cui il primo classificato e giustamente ho chiesto ricorso. Risultato":" il testo del bando è stato modificato, il concorso è stato fatto una seconda volta e io sono arrivato ultimo, mentre il primo classificato è rimasto il primo classificato “.
 
 
 **Hai iniziato a insospettirti?**
 
 
-“ Un po’, ma non ho pensato subito al peggio\: i bandi sono una dinamica complicata in ateneo e perderne uno non vuol dire automaticamente essere escluso da tutti gli altri. Alcuni colleghi, anzi, sono molto gentili e ti girano i testi dei bandi che sanno che potrebbero interessarti. Non mi sono preoccupato troppo, insomma, soltanto che dopo un paio di settimane mi ha chiamato la mia vecchia agenzia dalla California dicendomi che il mio dipartimento era furioso con me e che la notizia era ovunque.
+“ Un po’, ma non ho pensato subito al peggio":" i bandi sono una dinamica complicata in ateneo e perderne uno non vuol dire automaticamente essere escluso da tutti gli altri. Alcuni colleghi, anzi, sono molto gentili e ti girano i testi dei bandi che sanno che potrebbero interessarti. Non mi sono preoccupato troppo, insomma, soltanto che dopo un paio di settimane mi ha chiamato la mia vecchia agenzia dalla California dicendomi che il mio dipartimento era furioso con me e che la notizia era ovunque.
 Ho subito pensato, ingenuamente, a problemi di carenza nel metodo o nella mia preparazione, ad una perdita di fiducia degli studenti nei miei confronti, qualcosa del genere.
 Sono andato a parlare con il direttore di facoltà e mi ha detto che avrei dovuto tenere d’ora in poi sempre la politica al di fuori dell’università, riferendosi alla mia domanda di mesi prima circa il gay pride “.
 
@@ -113,7 +113,7 @@ Sono andato a parlare con il direttore di facoltà e mi ha detto che avrei dovut
 
 “ Male. Sono molto orgoglioso di me e dei miei ideali, lo avete visto e quando mi sento attaccato dico tutto quello che mi passa per la testa.
 Gli ho risposto che, da professore, il mio ruolo era anche quello di educatore e che per me era importante difendere quello che io sono, perché è così, ragazzi. Il gay pride è una manifestazione eccentrica, caotica, che attira sempre tante critiche, ma è un traguardo inimmaginabile per chi, come me, ha il dovere di difendere la propria vita e le proprie idee. Questo non va mai dimenticato. Cioè, rega, c’è gente che è morta per questa causa, è stata calpestata, derisa e torturata per secoli e io, Ruggero Freddi, ho diritto e dovere di parlarne. Soprattutto nel momento in cui sono un professore.
-Ho anche detto che avrei fatto lezione in tacchi a spillo e a quel punto il direttore è completamente uscito di testa. –Ci deve solo provare!- ha iniziato a dire e io, da bravo rompicoglioni quale sono, ho replicato\:  -Secondo lei i transessuali e gli omosessuali non devono mettere piede in università ?-.
+Ho anche detto che avrei fatto lezione in tacchi a spillo e a quel punto il direttore è completamente uscito di testa. –Ci deve solo provare!- ha iniziato a dire e io, da bravo rompicoglioni quale sono, ho replicato":"  -Secondo lei i transessuali e gli omosessuali non devono mettere piede in università ?-.
 Quella è stata la mia prima situazione d’attrito con l’ateneo.
 Da quel momento in poi nulla mi ha più tolto dalla testa che l’università facesse discriminazioni di questo genere “.
 
@@ -127,7 +127,7 @@ Da quel momento in poi nulla mi ha più tolto dalla testa che l’università fa
 **E tu hai deciso di dare una scossa alla situazione.**
 
 
-“ Ho incontrato il preside di facoltà, proponendogli una sorta di tregua\: loro avrebbero ignorato tutti gli scoop del momento e io avrei rilasciato interviste neutrali, in cui non insultavo né insinuavo giudizi negativi nei confronti dell’università, d’altronde, io aveva discusso soltanto con il direttore, la Sapienza non mi aveva fatto nessun torto. Per di più, per far vedere che ero realmente intenzionato a porre fine a tutti le polemiche, ho proposto al direttore del dipartimento di organizzare una manifestazione, con tanto di conferenza, sui temi dell’omofobia, del gay pride, della comunità LGBT e sull’HIV. Inutile dire che ha rifiutato la mia proposta.
+“ Ho incontrato il preside di facoltà, proponendogli una sorta di tregua":" loro avrebbero ignorato tutti gli scoop del momento e io avrei rilasciato interviste neutrali, in cui non insultavo né insinuavo giudizi negativi nei confronti dell’università, d’altronde, io aveva discusso soltanto con il direttore, la Sapienza non mi aveva fatto nessun torto. Per di più, per far vedere che ero realmente intenzionato a porre fine a tutti le polemiche, ho proposto al direttore del dipartimento di organizzare una manifestazione, con tanto di conferenza, sui temi dell’omofobia, del gay pride, della comunità LGBT e sull’HIV. Inutile dire che ha rifiutato la mia proposta.
 Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che invece ha subito accettato e addirittura mi ha indicato alcuni docenti di Medicina per farli intervenire in materia di prevenzione sessuale e circa la diffusione dell’HIV. Ho contattato LINK, ANLAIDS, varie associazioni che operano in Italia per supportare la causa di chi soffre di questa terribile malattia  e poi ho inviato tutto il materiale al preside, per avere un’ultima conferma e soprattutto perché lui stesso mi aveva chiesto di aggiornarlo “.
 Quindi? Cos’è successo?
 
