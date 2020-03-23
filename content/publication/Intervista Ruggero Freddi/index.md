@@ -160,7 +160,7 @@ Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto
 
 
 “ Non lo so, ragazzi, non credo proprio. Dopo 3 lauree, 1 dottorato e 8 insegnamenti sono stato cestinato senza una lettera di spiegazioni e senza un colloquio, sinceramente sono deluso.
-E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia: Chi assumerebbe mai un docente che non si piega a soprusi e soprattutto ha avviato una vertenza nei confronti di un'istituzione prestigiosa come La Sapienza? Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca”.
+E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Chi assumerebbe mai un docente che non si piega a soprusi e soprattutto ha avviato una vertenza nei confronti di un'istituzione prestigiosa come La Sapienza? Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca”.
 
 
 **Com’è andata a finire? Hai saputo qualcosa?**
