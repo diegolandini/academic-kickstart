@@ -66,7 +66,7 @@ o, piú concisamente:
 
 ``` git log --oneliner```
 
-e si vede la lista degli ultimi commit, identificati da un numero decimale
+e si vede la lista degli ultimi commit, identificati da un numero esadecimale
 
 Se si vuole ripristinare la situazione ad un particolare commit:
 
