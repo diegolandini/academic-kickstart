@@ -55,3 +55,24 @@ Hugo Static Site Generator v0.63.1-CE9ACEB7/extended linux/amd64 BuildDate: 2020
 ```
 
 ## Gestire un conflitto
+
+## Annullare un commit sbagliato
+
+In generale non si dovrebbe mai pushare su repo qualcosa che non funzioni, ma puó succedere per un motivo o per l'altro.
+
+```git log```
+
+o, piú concisamente:
+
+``` git log --oneliner```
+
+e si vede la lista degli ultimi commit, identificati da un numero decimale
+
+Se si vuole ripristinare la situazione ad un particolare commit:
+
+```git reset --hard 2a6741b```
+
+non serve usare tutto il numero esadecimale, bastano i primi caratteri
+
+
+
