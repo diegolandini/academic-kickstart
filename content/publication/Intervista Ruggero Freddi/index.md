@@ -83,7 +83,7 @@ Racconta ai nostri lettori il tuo percorso didattico.**
 **E come sei finito laggiù?**
 
 
-“Diciamo che non sono conosciuto solo come Ruggero Freddi, ecco, mettiamola in questi termini. E’ in California che ha avuto inizio la mia carriera nell’industria pornografica con lo pseudonimo di Carlo Masi e anche lì sono diventato uno dei più famosi, tant’è che in quel settore sono conosciuto a livello mondiale. La mia vita a San Francisco era in tutto e per tutto quella di una star e per anni ho goduto di un successo enorme”.
+“Diciamo che non sono conosciuto solo come Ruggero Freddi, ecco, mettiamola in questi termini. É in California che ha avuto inizio la mia carriera nell’industria pornografica con lo pseudonimo di Carlo Masi e anche lì sono diventato uno dei più famosi, tant’è che in quel settore sono conosciuto a livello mondiale. La mia vita a San Francisco era in tutto e per tutto quella di una star e per anni ho goduto di un successo enorme”.
 
 
 **Quando hai fatto ritorno qui?**
@@ -108,7 +108,7 @@ Com’è stato riprendere gli studi?**
 **Non crediamo proprio, Ruggero, perché è a questo punto della storia che arrivano sorprese inattese e non gradite, potremmo dire.**
 
 
-“E’ così, purtroppo. Questi ultimi mesi all’università sono stati davvero stressanti e molto spesso spiacevoli”.
+“É così, purtroppo. Questi ultimi mesi all’università sono stati davvero stressanti e molto spesso spiacevoli”.
 
 
 **Cosa è accaduto?**
@@ -123,7 +123,7 @@ Com’è stato riprendere gli studi?**
 “Dopo aver richiesto il dottorato a Castelnuovo, la relatrice mi ha consigliato di fare invece richiesta allo S.B.A.I., il dipartimento dell’ateneo che si occupa di fare ricerca sperimentale in campo ingegneristico, chimico, fisico, matematico … Insomma, un buon punto di partenza per me. Una volta entrato allo S.B.A.I., dove lavoravo come dottorando, ho potuto iniziare ad applicare per bandi di docenza e co-docenza, avvicinandomi un po’ di più al mio sogno di diventare professore e ricercato universitario.
 Ho vinto uno di questi bandi e nell’a.a. 2017-2018 ho iniziato a Ingegneria Meccanica. Il corso è andato bene, i ragazzi mi seguivano tranquillamente, posso dire di essere stato molto attento a svolgere il mio lavoro nel modo migliore possibile. 
 I problemi sono arrivati alla fine del corso: un giorno sono entrato in aula e ho scambiato alcune chiacchiere con i ragazzi prima di cominciare, come al solito e dato che il 10 Giugno si sarebbe tenuto il gay pride ho fatto riferimento alla manifestazione, chiedendo se loro avrebbero partecipato e che sarebbe stato bello se lo avessero fatto.
-E’ scoppiato il finimondo”.
+É scoppiato il finimondo”.
 
 
 **Ti hanno subito contattato dalla presidenza di facoltà?**
@@ -194,7 +194,7 @@ Il rettore ha organizzato un incontro con il prorettore, il quale avrebbe dovuto
 
 
 “Non lo so, ragazzi, non credo proprio. Dopo 3 lauree, 1 dottorato e 8 insegnamenti sono stato cestinato senza una lettera di spiegazioni e senza un colloquio, sinceramente sono deluso.
-E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Chi assumerebbe mai un docente che non si piega a soprusi e soprattutto ha avviato una vertenza nei confronti di un'istituzione prestigiosa come La Sapienza? Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca”.
+É in corso un processo, vediamo come va a finire. Credo che, a questo punto, la mia carriera come professore sia rovinata in tutte le università di Italia. Chi assumerebbe mai un docente che non si piega a soprusi e soprattutto ha avviato una vertenza nei confronti di un'istituzione prestigiosa come La Sapienza? Forse parteciperò ad altri concorsi, per ora non lo so, ma mi sarebbe piaciuto continuare con la mia attività di ricerca”.
 
 
 **Com’è andata a finire? Hai saputo qualcosa?**
@@ -206,6 +206,6 @@ E’ in corso un processo, vediamo come va a finire. Credo che, a questo punto, 
 **Ruggero, grazie per il tuo tempo e ti auguriamo buona fortuna.**
 
 
-“Grazie a voi, ragazzi! E’ stato un piacere, alla prossima!”.
+“Grazie a voi, ragazzi! É stato un piacere, alla prossima!”.
 
 ---
