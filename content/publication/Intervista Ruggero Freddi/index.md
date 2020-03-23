@@ -9,7 +9,7 @@ publishDate: "2020-03-23"
 abstract: '**Ciao Ruggero, grazie per aver accettato di incontrarci. Come stai?**
 
 
-“ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi ”.
+“ Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di” , cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutto si sistemi ”.
 
 
 **Allora torniamo a noi. 
@@ -126,13 +126,13 @@ Da quel momento in poi nulla mi ha più tolto dalla testa che l’università fa
 
 
 “ Ho incontrato il preside di facoltà, proponendogli una sorta di tregua: loro avrebbero ignorato tutti gli scoop del momento e io avrei rilasciato interviste neutrali, in cui non insultavo né insinuavo giudizi negativi riguardo l’università, d’altronde, io aveva discusso soltanto con il direttore, la Sapienza non mi aveva fatto nessun torto. Per di più, per far vedere che ero realmente intenzionato a porre fine a tutti le polemiche, ho proposto al direttore del dipartimento di organizzare una manifestazione, con tanto di conferenza, sui temi dell’omofobia, del gay pride, della comunità LGBT e sull’HIV. Inutile dire che ha rifiutato la mia proposta.
-Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che invece ha subito accettato e addirittura mi ha indicato alcuni docenti di Medicina per farli intervenire in materia di prevenzione sessuale e circa la diffusione dell’HIV. Ho contattato LINK, ALLAIDS, varie associazioni che operano in Italia per supportare la causa di chi soffre di questa terribile malattia  e poi ho inviato tutto il materiale al preside, per avere un’ultima conferma e soprattutto perché lui stesso mi aveva chiesto di aggiornarlo ”.
+Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che invece ha subito accettato e addirittura mi ha indicato alcuni docenti di Medicina per farli intervenire in materia di prevenzione sessuale e circa la diffusione dell’HIV. Ho contattato varie associazioni come ANLAIDS che operano in Italia per supportare la causa di chi soffre di questa terribile malattia  e poi ho inviato tutto il materiale al preside, per avere un’ultima conferma e soprattutto perché lui stesso mi aveva chiesto di aggiornarlo ”.
 
 
 **Quindi? Cos’è successo?**
 
 
-“ Non ha risposto. L’ho sollecitato e niente, non ha proprio risposto. Quando l’ho incontrato di nuovo ha iniziato a dire che non c’erano autorizzazioni per la manifestazione, né c’erano mai state, anche se lui stesso era stato il primo ad essere d’accordo con me. Cioè, lui mi aveva persino fornito i contatti !”.
+“ Non ha risposto. L’ho sollecitato e niente, non ha proprio risposto. Quando l’ho incontrato di nuovo ha iniziato a dire che non c’erano autorizzazioni per la manifestazione, né c’erano mai state, anche se lui stesso era stato il primo ad essere d’accordo con me. Cioè, lui mi aveva persino fornito i contatti!”.
 
 
 **Assurdo. E cosa hai fatto?**
