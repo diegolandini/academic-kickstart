@@ -10,7 +10,7 @@ categories:
 - Big Data
 date: "2020-03-25"
 lastmod: "2020-03-25"
-featured: true
+featured: false
 draft: false
 
 # Featured image
