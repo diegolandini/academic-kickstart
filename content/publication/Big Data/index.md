@@ -109,6 +109,7 @@ Questo è raccontato dettagliatamente nell’intervista di una giornalista del T
 
 
 
+
 Notò con sorpresa che in media le persone giustificavano la volontà affermatasi di voler uscire dall’UE con una serie di false notizie riguardanti la presenza di troppi immigrati, alcuni parlavano addirittura di consistenti flussi migratori turchi. Dopo aver tentato inutilmente di accedere a un archivio degli annunci letti dagli utenti, scrisse un articolo di denuncia ,che indirizzò le ricerche della giornalista su Facebook. 
 -Infatti la verità- dice la Cadwalladr nella sua intervista su Ted - è che ciò che accade su Facebook resta su Facebook, solo tu vedi i tuoi contenuti che poi svaniscono, non c’è modo di alcuna possibile indagine e quindi non c’è modo di capire quali informazioni siano state inoltrate, soprattutto quale impatto ci sia stato sulle persone, come siano stati usati i dati contro le persone. Ma Facebook la risposta a tutto questo la ha, sebbene non voglia condividerla con noi-.
 
