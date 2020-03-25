@@ -61,14 +61,9 @@ Facciamo un passo indietro.
 
 
 Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, quindi, di una vastissima raccolta di dati informativi che per essere estratti e analizzati hanno bisogno di tecnologie e metodi analitici specifici.
-
-
 Stiamo quindi dicendo che facciamo parte di tutto questo? Sì.
-
 Ne siamo coscienti? Probabilmente no.
-
 Non siamo capaci di pesare effettivamente il livello cui siamo di fatto inseriti nell’infinito flusso di informazioni in circolo, perché nasciamo e costruiamo rapporti sociali di cui vi è ogni minima traccia al di là dei nostri portatili o dei cellulare e non sempre ce ne rendiamo conto, o forse sì, ma non è che cambi molto.
-
 È come vivere in back ground.
 
 
@@ -109,6 +104,7 @@ Lo scopo finale era di indurre ogni utente, con post o slogan generati da algori
 Questo è raccontato dettagliatamente nell’intervista di una giornalista del TheObserver, Carol Cadwalladr, che dopo il referendum del 2016 tornò nel suo paese in Galles per completare un reportage sui motivi che avevano indotto gli abitanti britannici a uscire dall’Unione Europea. 
 
 {{< youtube OQSMr-3GGvQ >}}
+
 
 
 Notò con sorpresa che in media le persone giustificavano la volontà affermatasi di voler uscire dall’UE con una serie di false notizie riguardanti la presenza di troppi immigrati, alcuni parlavano addirittura di consistenti flussi migratori turchi. Dopo aver tentato inutilmente di accedere a un archivio degli annunci letti dagli utenti, scrisse un articolo di denuncia ,che indirizzò le ricerche della giornalista su Facebook. 
