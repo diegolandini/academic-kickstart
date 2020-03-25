@@ -32,6 +32,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
+draft: true
+
 ---
 
 Tecnologia di manipolazione silente.
