@@ -49,7 +49,7 @@ La tecnologia è tutto.
 Per molti si tratta di una fede incontrastabile, di progresso, per altri un semplice passatempo innocuo.
 
 
-Eppure a livello pratico è di qualcosa di così pervasivo, che sa così tanto di quotidiano e normale, da aver reso più facili e immediati molti aspetti della nostra vita, compresi quelli economici. Questi ultimi non sono da poco, dal momento che la struttura economica è alla base della nostra società: da essa dipendono così tanti fattori della nostra quotidianità che è impossibile cercare di pensarla come qualcosa di esterno a noi. Mettiamo da parte i discorsi economici però, il punto centrale è che siamo tanto schiavi dell’economia quanto della tecnologia.
+Eppure a livello pratico è un qualcosa di così pervasivo, che sa così tanto di quotidiano e normale, da aver reso più facili e immediati molti aspetti della nostra vita, compresi quelli economici. Questi ultimi non sono da poco, dal momento che la struttura economica è alla base della nostra società: da essa dipendono così tanti fattori della nostra quotidianità che è impossibile cercare di pensarla come qualcosa di esterno a noi. Mettiamo da parte i discorsi economici però, il punto centrale è che siamo tanto schiavi dell’economia quanto della tecnologia.
 
 
 Per come si è evoluta la società nel tempo, oggi coesistono due parti diverse e complementari in ciascuno di noi: una è quella di homo societatis, che deve far fronte a tutte le complicazioni economico-sociali che nascono e crescono esponenzialmente giorno per giorno, l’altra è quella di homo biologicus, più coscienzioso, più critico nei confronti della società in cui vive. Per analizzare il mondo dei big data dobbiamo essere coscienti del nostro lato di homo societatis, e quindi renderci conto di far parte di un flusso enorme di dati che ogni ora, ogni minuto, ogni secondo viene generato da ciascuna delle nostre azioni, come mettere like o cercare qualcosa in rete.
@@ -92,6 +92,7 @@ Con l’ausilio di complessi algoritmi, le immense distese di dati che circolano
 
 
 **Lo scandalo Cambridge Analytica e Brexit**
+
 
 {{< youtube OQSMr-3GGvQ >}}
 
