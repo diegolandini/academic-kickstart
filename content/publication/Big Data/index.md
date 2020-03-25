@@ -8,7 +8,8 @@ doi: ""
 publishDate: "2020-03-25"
 
 # Summary. An optional shortened abstract.
-summary: 'tanti dati.'
+summary: 'Oggi abbiamo voluto approfondire questo argomento che si fa sempre più pressante, in un mercato globale sempre più smart ed informatico, la lotta all’acquisizione dei dati analitici e personali è all’ordine del giorno, e tutto ció ha un unico grande scopo: monitorare le nostre abitudini e attitudini, commerciali e non.
+C’è chi dice che sia una violazione della privacy, chi afferma invece che possa influenzare le proprie preferenze politiche, noi abbiamo cercato di fare una ricerca e questo è quello che abbiamo da dirvi.'
 tags:
 - Big Data
 featured: true
