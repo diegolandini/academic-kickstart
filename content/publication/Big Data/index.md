@@ -8,7 +8,7 @@ doi: ""
 publishDate: "2020-03-25"
 
 # Summary. An optional shortened abstract.
-summary: 'Oggi abbiamo voluto approfondire questo argomento che si fa sempre più pressante, in un mercato globale sempre più smart ed informatico, la lotta all’acquisizione dei dati analitici e personali è all’ordine del giorno, e tutto ció ha un unico grande scopo: monitorare le nostre abitudini e attitudini, commerciali e non.
+summary: 'Oggi abbiamo voluto approfondire questo argomento che si fa sempre più pressante; in un mercato globale sempre più smart ed informatico, la lotta all’acquisizione dei dati analitici e personali è all’ordine del giorno, e tutto ció ha un unico grande scopo: monitorare le nostre abitudini e attitudini, commerciali e non.
 C’è chi dice che sia una violazione della privacy, chi afferma invece che possa influenzare le proprie preferenze politiche, noi abbiamo cercato di fare una ricerca e questo è quello che abbiamo da dirvi.'
 tags:
 - Big Data
@@ -93,6 +93,8 @@ Con l’ausilio di complessi algoritmi, le immense distese di dati che circolano
 
 **Lo scandalo Cambridge Analytica e Brexit**
 
+{{< youtube OQSMr-3GGvQ >}}
+
 
 La società che ha trovato un’ottima, seppur disumana, modalità di utilizzo dei dati è la Cambridge Analytica, che è riuscita a combinare la gestione e l’analisi dei dati con la comunicazione strategica durante la campagna elettorale statunitense, utilizzando queste informazioni per approfondire al meglio le attitudini di pensiero e le debolezze delle persone.
 L’attività di questa azienda è durata però ben poco. 
@@ -105,11 +107,6 @@ Lo scopo finale era di indurre ogni utente, con post o slogan generati da algori
 
 
 Questo è raccontato dettagliatamente nell’intervista di una giornalista del TheObserver, Carol Cadwalladr, che dopo il referendum del 2016 tornò nel suo paese in Galles per completare un reportage sui motivi che avevano indotto gli abitanti britannici a uscire dall’Unione Europea. 
-
-{{< youtube OQSMr-3GGvQ >}}
-
-
-
 
 Notò con sorpresa che in media le persone giustificavano la volontà affermatasi di voler uscire dall’UE con una serie di false notizie riguardanti la presenza di troppi immigrati, alcuni parlavano addirittura di consistenti flussi migratori turchi. Dopo aver tentato inutilmente di accedere a un archivio degli annunci letti dagli utenti, scrisse un articolo di denuncia ,che indirizzò le ricerche della giornalista su Facebook. 
 -Infatti la verità- dice la Cadwalladr nella sua intervista su Ted - è che ciò che accade su Facebook resta su Facebook, solo tu vedi i tuoi contenuti che poi svaniscono, non c’è modo di alcuna possibile indagine e quindi non c’è modo di capire quali informazioni siano state inoltrate, soprattutto quale impatto ci sia stato sulle persone, come siano stati usati i dati contro le persone. Ma Facebook la risposta a tutto questo la ha, sebbene non voglia condividerla con noi-.
