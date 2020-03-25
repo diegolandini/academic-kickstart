@@ -61,7 +61,7 @@ Facciamo un passo indietro.
 **Che cosa vuol dire big data?** 
 
 
-Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, quindi, di una vastissima raccolta di dati informativi che per essere estratti e analizzati hanno bisogno di tecnologie e metodi analitici specifici.
+Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, di una vastissima raccolta di dati informativi che per essere estratti e analizzati hanno bisogno di tecnologie e metodi analitici specifici.
 
 Stiamo quindi dicendo che facciamo parte di tutto questo? Sì.
 
@@ -94,9 +94,6 @@ Con l’ausilio di complessi algoritmi, le immense distese di dati che circolano
 **Lo scandalo Cambridge Analytica e Brexit**
 
 
-{{< youtube OQSMr-3GGvQ >}}
-
-
 La società che ha trovato un’ottima, seppur disumana, modalità di utilizzo dei dati è la Cambridge Analytica, che è riuscita a combinare la gestione e l’analisi dei dati con la comunicazione strategica durante la campagna elettorale statunitense, utilizzando queste informazioni per approfondire al meglio le attitudini di pensiero e le debolezze delle persone.
 L’attività di questa azienda è durata però ben poco. 
 
@@ -107,7 +104,7 @@ Fondata nel 2013, sostenne alle elezioni americane del 2016 Ted Cruz senatore fe
 Lo scopo finale era di indurre ogni utente, con post o slogan generati da algoritmi nelle pagine social più frequentate (come Facebook) a sostenere la scalata del neopresidente e nel frattempo, nel Regno Unito, avvicinare gli elettori britannici alla concreta idea della Brexit. È sconcertante vedere come un referendum di grande importanza come quello della Brexit sia stato svolto al buio, principalmente su Facebook, con un giro di false informazioni che inducevano la popolazione britannica ad accanirsi contro i migranti e a simpatizzare per politiche di centro-destra. 
 
 
-Questo è raccontato dettagliatamente nell’intervista di una giornalista del TheObserver, Carol Cadwalladr, che dopo il referendum del 2016 tornò nel suo paese in Galles per completare un reportage sui motivi che avevano indotto gli abitanti britannici a uscire dall’Unione Europea. 
+Questo è raccontato dettagliatamente nell’intervista (vedi fine articolo) di una giornalista del Guardian, Carol Cadwalladr, che dopo il referendum del 2016 tornò nel suo paese in Galles per completare un reportage sui motivi che avevano indotto gli abitanti britannici a uscire dall’Unione Europea. 
 
 Notò con sorpresa che in media le persone giustificavano la volontà affermatasi di voler uscire dall’UE con una serie di false notizie riguardanti la presenza di troppi immigrati, alcuni parlavano addirittura di consistenti flussi migratori turchi. Dopo aver tentato inutilmente di accedere a un archivio degli annunci letti dagli utenti, scrisse un articolo di denuncia ,che indirizzò le ricerche della giornalista su Facebook. 
 -Infatti la verità- dice la Cadwalladr nella sua intervista su Ted - è che ciò che accade su Facebook resta su Facebook, solo tu vedi i tuoi contenuti che poi svaniscono, non c’è modo di alcuna possibile indagine e quindi non c’è modo di capire quali informazioni siano state inoltrate, soprattutto quale impatto ci sia stato sulle persone, come siano stati usati i dati contro le persone. Ma Facebook la risposta a tutto questo la ha, sebbene non voglia condividerla con noi-.
@@ -126,5 +123,6 @@ Cambridge Analytica, e molte altre aziende accusate di frode, fallirono per banc
 Molti dipendenti di queste aziende però sono ancora in attività con le stesse idee e gli stessi scopi, attratti probabilmente dalle ingenti somme di denaro in circolazione nel settore.
 È brutto pensare che siamo nati dentro a questa tecnologia così tanto amica quanto infame; o forse siamo noi, come specie vivente, che troviamo la via per far emergere unicamente gli aspetti negativi di ogni cosa, senza godere solo dei migliori.
 
+{{< youtube OQSMr-3GGvQ >}}
 
 ---
