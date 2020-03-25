@@ -57,7 +57,7 @@ Per come si è evoluta la società nel tempo, oggi coesistono due parti diverse 
 Facciamo un passo indietro. 
 
 
-**Cosa vuol dire big data?** 
+**Che cosa vuol dire big data?** 
 
 
 Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, quindi, di una vastissima raccolta di dati informativi che per essere estratti e analizzati hanno bisogno di tecnologie e metodi analitici specifici.
@@ -69,13 +69,13 @@ Ne siamo coscienti? Probabilmente no.
 Non siamo capaci di pesare effettivamente il livello cui siamo di fatto inseriti nell’infinito flusso di informazioni in circolo, perché nasciamo e costruiamo rapporti sociali di cui vi è ogni minima traccia al di là dei nostri portatili o dei cellulare e non sempre ce ne rendiamo conto, o forse sì, ma non è che cambi molto. È come vivere in background.
 
 
-Dal momento in cui siamo nati forniamo, cediamo ogni giorno inconsapevolmente una quantità di dati su noi stessi che ci permette di essere studiati sulla base delle nostre decisioni, delle nostre preferenze. Cliccare su quella famosa finestra “accetta cookie” non vuol dire soltanto levarsi di torno un fastidio per poter consultare meglio un sito, ad esempio, ma rappresenta un vero e proprio consenso all’utilizzo dei dati che possono essere raccolti nel corso dell’ultima ricerca sul browser, la stessa che ci ha portato proprio a quell’indirizzo web.   Questo si traduce spesso in pubblicità mirata a soddisfare le tue necessità, come nel caso di un viaggio, di un acquisto, non è niente di che, ci siamo abituati, eppure forse non tutti sanno che oggi, un semplice social network (già Facebook o Instagram) è in grado di raccogliere e sfruttare una quantità tale di dati circa un utente da poter indovinare il suo orientamento sessuale o le sue tendenze politiche, spesso prima ancora che lo stesso ne sia consapevole.
+Dal momento in cui siamo nati forniamo, cediamo ogni giorno inconsapevolmente una quantità di dati su noi stessi che ci permette di essere studiati sulla base delle nostre decisioni, delle nostre preferenze. Cliccare su quella famosa finestra “accetta cookie” non vuol dire soltanto levarsi di torno un fastidio per poter consultare più liberamente un sito, ad esempio, ma rappresenta un vero e proprio consenso all’utilizzo dei dati che possono essere raccolti nel corso dell’ultima ricerca sul browser, la stessa che ci ha portato proprio a quell’indirizzo web.   Questo si traduce spesso in pubblicità mirata a soddisfare le tue necessità, come nel caso di un viaggio, di un acquisto, non è niente di che, ci siamo abituati, eppure forse non tutti sanno che oggi, un semplice social network (già Facebook o Instagram) è in grado di raccogliere e sfruttare una quantità tale di dati circa un utente da poter indovinare il suo orientamento sessuale o le sue tendenze politiche, spesso prima ancora che lo stesso ne sia consapevole.
 
 
 Si fa quasi fatica a crederci, vero? 
 
 
-Eppure le tentate manipolazioni di massa della National Security Agency statunitense saltate fuori nel 2010 e lo scandalo dell’azienda Cambridge Analitica, sono esempi pratici di quanto siamo impotenti e facilmente influenzabili dinanzi all’universo invisibile dei big data.
+Eppure le tentate manipolazioni di massa della National Security Agency statunitense saltate fuori nel 2010 e lo scandalo dell’azienda Cambridge Analytica, sono esempi pratici di quanto siamo impotenti e facilmente influenzabili dinanzi all’universo invisibile dei big data.
 
 
 **Cosa vuol dire datagate?**
