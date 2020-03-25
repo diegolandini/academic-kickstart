@@ -61,6 +61,7 @@ Facciamo un passo indietro.
 
 
 Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, quindi, di una vastissima raccolta di dati informativi che per essere estratti e analizzati hanno bisogno di tecnologie e metodi analitici specifici.
+
 Stiamo quindi dicendo che facciamo parte di tutto questo? Sì.
 
 Ne siamo coscienti? Probabilmente no.
