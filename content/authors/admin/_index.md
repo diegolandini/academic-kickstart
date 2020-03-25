@@ -64,26 +64,19 @@ user_groups:
 
 Ecco a voi Diderot!
 
-Dalla volontà  di impegnarsi in qualcosa di utile che prende vita **#Diderot**, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalità  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare un'alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
+Dalla volontà  di impegnarsi in qualcosa di utile che prende vita **Diderot**, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalità  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare un'alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
 
 **Cosa facciamo?**
 
-Nella speranza di poter davvero cambiare la realtà  in cui viviamo, noi, i ragazzi di Diderot, senza pretese e senza scetticismo scriviamo per aiutare i nostri coetanei a sviluppare un senso **#critico** che è alla base della **#libertà**  di pensiero, per imparare insieme a mettere in dubbio quello che ci viene detto e discutere sempre, senza tregua, di quello che accade intorno a noi.
+Nella speranza di poter davvero cambiare la realtà  in cui viviamo, noi, i ragazzi di Diderot, senza pretese e senza scetticismo scriviamo per aiutare i nostri coetanei a sviluppare un senso **critico** che è alla base della **libertà**  di pensiero, per imparare insieme a mettere in dubbio quello che ci viene detto e discutere sempre, senza tregua, di quello che accade intorno a noi.
 Sconfiggere l'immobilismo del pensiero tipico della nostra generazione è il nostro sogno.
-**#Mentiinmovimento**
+
 
 **Come lo facciamo?**
 
 Attraverso l'accostamento di diverse fonti trattiamo tematiche ed argomenti completi e approfonditi, offrendo inoltre la possibilità  a tutti gli utenti di confrontarsi con noi autori e persino permettendo loro di scrivere per Diderot.
 Ciascun articolo viene pubblicato sul nostro sito e sui social e tramite la pubblicazione dei post interagiamo con i lettori, raccogliendo richieste, opinioni e domande.
-Vogliamo dare voce a ogni **#pensiero**, ogni dubbio che noi giovani nutriamo,per discuterne **#liberamente**.
+Vogliamo dare voce a ogni **pensiero**, ogni dubbio che noi giovani nutriamo,per discuterne **liberamente**.
 La partecipazione di tutti coloro che leggono i nostri articoli è utile a noi per migliorare il lavoro che svolgiamo ogni giorno e a voi in modo da sviluppare un pensiero critico incondizionato, che sarà  libero di esprimersi in qualsiasi momento e che potrà  addirittura arricchire l'esperienza di Diderot.
-**#confrontolibero**
-A presto per nuove sorprese!
-Dubitare per credere,dubitare prima di credere!
 
-   »E se anche tu dubiti in qualcosa,vuoi discutere di qualcosa e hai la voglia di farlo,diventa Diderot anche tu!
-                 **#YouareDiderot**    
-
-   »Dubitare per credere, dubitare prima di credere!
-
+ - Dubitare per credere. dubitare prima di credere!
