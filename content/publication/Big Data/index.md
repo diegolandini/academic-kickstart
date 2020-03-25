@@ -65,12 +65,9 @@ Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, quindi, d
 
 Stiamo quindi dicendo che facciamo parte di tutto questo? Sì.
 
-
 Ne siamo coscienti? Probabilmente no.
 
-
 Non siamo capaci di pesare effettivamente il livello cui siamo di fatto inseriti nell’infinito flusso di informazioni in circolo, perché nasciamo e costruiamo rapporti sociali di cui vi è ogni minima traccia al di là dei nostri portatili o dei cellulare e non sempre ce ne rendiamo conto, o forse sì, ma non è che cambi molto.
-
 
 È come vivere in back ground.
 
