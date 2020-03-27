@@ -38,7 +38,7 @@ draft: false
 
 ---
 
-Il WMO (World Meteorological Organization) un’organizzazione intergovernativa di carattere tecnico con sede a Ginevra, è uno degli istituti specializzati delle Nazioni Unite e ne fanno parte 188 Stati. Il suo compito è quello di raccogliere dati a livello globale di natura metereologica e idrogeologica per poter contribuire alla protezione dell’ambiente, della sicurezza alimentare, delle risorse idriche e dei trasporti. (Se vuoi saperne di più vedi: https://www.treccani.it/enciclopedia/organizzazione-meteorologica-mondiale)
+Il **WMO** (World Meteorological Organization) un’organizzazione intergovernativa di carattere tecnico con sede a Ginevra, è uno degli istituti specializzati delle Nazioni Unite e ne fanno parte 188 Stati. Il suo compito è quello di raccogliere dati a livello globale di natura metereologica e idrogeologica per poter contribuire alla protezione dell’ambiente, della sicurezza alimentare, delle risorse idriche e dei trasporti. (Se vuoi saperne di più vedi: https://www.treccani.it/enciclopedia/organizzazione-meteorologica-mondiale)
 
 L’agenzia pubblica annualmente un report, lo Statement on the State of the Global Climate1, nel quale espone la situazione climatica globale, evidenziando i probabili impatti che le attività di oggi avranno sulla salute del pianeta negli anni avvenire e tutti i rapporti di causalità tra i fenomeni registrati. L’ultima pubblicazione da parte del WMO arriva in un periodo di grande preoccupazione e trova il mondo concentrato sull’emergenza Covid-19, ma segnala un insieme di dati critici che la rendono nel complesso a dir poco agghiacciante. Diderot cerca di riportare il più fedelmente possibile l’analisi del WMO per sollecitare l’attenzione dei lettori in tempo di quarantena.
 
@@ -85,7 +85,7 @@ Rimanendo in ambito malattie, l’alterazione delle condizioni climatiche dal 19
 Il WMO tiene in considerazione anche l’aumento della frequenza con cui si verificano quei fenomeni che compromettono le risorse naturali, come siccità, cicloni tropicali, alluvioni e ondate di calore nelle aree del globo. La grave siccità in Indonesia e nei paesi vicini ha portato alla stagione degli incendi più significativa dal 2015 e non possiamo non ricordare che il numero di incendi segnalati nella regione brasiliana dell’Amazzonia è stato superiore alla media decennale. Più di recente, l’Australia ha vissuto una stagione degli incendi eccezionalmente prolungata e grave nella seconda parte del 2019 con ripetuti focolai che sono proseguiti fino a gennaio 2020. Emblematiche le tristissime immagini degli animali che, terrorizzati dall’incendio, scappano per cercare rifugio nelle braccia dei pompieri.
 
 
-{{< figure library="true" src="koala1.jpg" title="" lightbox="true" >}}
+
 {{< figure library="true" src="koala2.jpg" title="" lightbox="false" >}}
 
 
