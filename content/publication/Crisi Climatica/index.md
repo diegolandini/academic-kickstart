@@ -1,5 +1,5 @@
 ---
-title: "Il WMO lancia l allarme"
+title: "Il WMO lancia l'allarme"
 authors:
 - Diderot
 date: "2020-03-27"
