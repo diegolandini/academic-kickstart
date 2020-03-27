@@ -109,9 +109,8 @@ Ogni piccolo aumento nella temperatura aumenta il rischio che si verifichi uno d
 Tutti gli impegni presi in precedenza giunti a questo punto non sono più sufficienti.
 Le proposte nazionali attuate finora porteranno ad un ulteriore aumento delle emissioni, limitato e inferiore ai livelli precedenti certo, ma pur sempre insufficiente per l’obiettivo concordato. Si è deciso quindi di porre un nuovo limite di crescita a 1.5°C entro il 2030. Tuttavia, il raggiungimento di tale soglia richiede spese e investimenti di enorme portata a causa del mancato impegno mostrato negli anni precedenti. 
 
-**Moriremo tutti**
+**Coronavirus**
 
-Il titolo di questo paragrafo non è facile da leggere e decisamente non incoraggiante ma fortunatamente non ci sono solo cattive notizie!
 Quest’anno il nostro pianeta è stato messo di fronte a una nuova minaccia: il Covid-19. Il nuovo coronavirus che ha causato finora la morte di oltre 22.000 persone (Dti del 26 marzo 2020 su worldmeters.info/coronavirus/), con un incremento quotidiano costante su scala mondiale. Per far fronte a quest’emergenza sono state adottate delle misure contenitive che hanno portato, e stanno portando nel resto del mondo, ad una temporanea, ma gravosa, chiusura di scuole, posti di lavoro e luoghi pubblici, con il conseguente confinamento delle famiglie nelle proprie case.
 Alcune analisi hanno evidenziato come, in merito alla situazione attuale in cui il mondo si trova, sospeso in uno stato di attesa, si sia verificato un calo drastico delle emissioni tossiche nelle più disparate aree industriali del mondo.
 Già a metà febbraio, secondo un’analisi di Lauri Myllyvirta del Centre for Research on Energy and Clean Air, le emissioni di anidride carbonica in Cina rispetto a 30 giorni prima erano diminuite del 25% e quelle di biossido di azoto del 37%, il consumo di carbone delle centrali del 36% e l’utilizzo della capacità di raffinazione del petrolio del 34%.
