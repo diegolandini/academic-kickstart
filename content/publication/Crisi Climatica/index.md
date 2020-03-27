@@ -162,7 +162,6 @@ Note:
 2. Programma delle Nazioni Unite per l’Ambiente. Opera dal 1972 contro i cambiamenti climatici 
 3. Se vuoi saperne di più vedi: https://www.treccani.it/enciclopedia/organizzazione-meteorologica-mondiale
 4. Vedi: https://www.rainews.it/dl/rainews/articoli/Clima-rapporto-UNEP-2019-la-Terra-verso-un-aumento-di-temperatura-di-3-virgola-2-gradi-Onu-non-si-puo-piu-aspettare-c0766ee4-e2dc-4d07-8404-ffc64954fa83.html
-5. Dati del 26 marzo 2020 su worldmeters.info/coronavirus/
-6. Vedi: https://www.nonsoloanimali.com/trovate-nel-mare-di-hong-kong-centinaia-di-mascherine-gettate-in-acqua-dopo-luso/ e https://www.yeslife.it/2020/03/25/covid-19-mascherine-spiagge-mare-rischio-ambiente/
+5. Vedi: https://www.nonsoloanimali.com/trovate-nel-mare-di-hong-kong-centinaia-di-mascherine-gettate-in-acqua-dopo-luso/ e https://www.yeslife.it/2020/03/25/covid-19-mascherine-spiagge-mare-rischio-ambiente/
 
 ---
