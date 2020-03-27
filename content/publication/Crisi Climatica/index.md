@@ -8,7 +8,10 @@ doi: ""
 publishDate: "2020-03-27"
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Nel 2010 si pensava di avere ancora 30 anni a disposizione per poter limitare ed eliminare le conseguenze del riscaldamento globale. Oggi sappiamo di averne a disposizione solo altri 10 per rimediare prima di giungere ai cosiddetti punti di non ritorno.
+È questo l’infausto monito del World Meteorological organisation attraverso un suo report tenuto anno dopo anno sulla situazione climatica-ecologica attuale.
+Ma incontro a quali rischi noi persone stiamo andando nell’effettivo?
+Tra temperature in aumento, surriscaldamento e ghiacciai in scioglimento costante cosa ci prospetta il mondo di domani?'
 tags:
 - Ambiente
 - Clima
