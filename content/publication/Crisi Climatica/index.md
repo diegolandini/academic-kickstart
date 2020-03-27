@@ -41,7 +41,7 @@ draft: false
 
 ---
 
-Il **WMO** (World Meteorological Organization) un’organizzazione intergovernativa di carattere tecnico con sede a Ginevra, è uno degli istituti specializzati delle Nazioni Unite e ne fanno parte 188 Stati. Il suo compito è quello di raccogliere dati a livello globale di natura metereologica e idrogeologica per poter contribuire alla protezione dell’ambiente, della sicurezza alimentare, delle risorse idriche e dei trasporti. (Se vuoi saperne di più vedi: https://www.treccani.it/enciclopedia/organizzazione-meteorologica-mondiale)
+Il **WMO** (World Meteorological Organization) un’organizzazione intergovernativa di carattere tecnico con sede a Ginevra, è uno degli istituti specializzati delle Nazioni Unite e ne fanno parte 188 Stati. Il suo compito è quello di raccogliere dati a livello globale di natura metereologica e idrogeologica per poter contribuire alla protezione dell’ambiente, della sicurezza alimentare, delle risorse idriche e dei trasporti.
 
 L’agenzia pubblica annualmente un report, lo Statement on the State of the Global Climate1, nel quale espone la situazione climatica globale, evidenziando i probabili impatti che le attività di oggi avranno sulla salute del pianeta negli anni avvenire e tutti i rapporti di causalità tra i fenomeni registrati. L’ultima pubblicazione da parte del WMO arriva in un periodo di grande preoccupazione e trova il mondo concentrato sull’emergenza Covid-19, ma segnala un insieme di dati critici che la rendono nel complesso a dir poco agghiacciante. Diderot cerca di riportare il più fedelmente possibile l’analisi del WMO per sollecitare l’attenzione dei lettori in tempo di quarantena.
 
@@ -59,7 +59,7 @@ Questo incremento inarrestabile è dovuto alle concentrazioni sempre maggiori di
 
 Era, infatti, probabilmente già tardi quando nel 2015 le Nazioni Unite compresero l’urgente necessità di rallentare questo aumento fino ad arrestarlo; per questo è stato siglato il famoso Accordo di Parigi nell’Aprile del 2016, il cui punto principale era proprio quello di limitare la crescita ad un massimo di +2°C entro fine secolo.
 Inutile dire che ad ora siamo lontani anni luce dal rispettare quanto stabilito.
-Il rapporto UNEP2 2019 mostra come la Terra stia andando incontro a un aumento di temperatura di ben 3.2°C dai livelli preindustriali. Per il direttore esecutivo dell’UNEP, se non si agisce subito “l’obiettivo dell’1.5°C sarà ormai fuori portata prima del 2030”. Il direttore parla di triplicare se non addirittura quintuplicare gli sforzi a livello globale. (vedi: https://www.rainews.it/dl/rainews/articoli/Clima-rapporto-UNEP-2019-la-Terra-verso-un-aumento-di-temperatura-di-3-virgola-2-gradi-Onu-non-si-puo-piu-aspettare-c0766ee4-e2dc-4d07-8404-ffc64954fa83.html)
+Il rapporto UNEP2 2019 mostra come la Terra stia andando incontro a un aumento di temperatura di ben 3.2°C dai livelli preindustriali. Per il direttore esecutivo dell’UNEP, se non si agisce subito “l’obiettivo dell’1.5°C sarà ormai fuori portata prima del 2030”. Il direttore parla di triplicare se non addirittura quintuplicare gli sforzi a livello globale.
 Il 2019 è stato il secondo anno più caldo mai registrato, superato solo dal 2016. Se il battito di ali di una farfalla scatena la tempesta dall’altra parte del mondo, le conseguenze dell’aumento della temperatura e della concentrazione di gas sono devastanti, soprattutto per quanto riguarda la condizione di oceani e ghiacciai.
 
 **Oceani**
@@ -114,7 +114,7 @@ Le proposte nazionali attuate finora porteranno ad un ulteriore aumento delle em
 
 **Coronavirus**
 
-Quest’anno il nostro pianeta è stato messo di fronte a una nuova minaccia: il Covid-19. Il nuovo coronavirus che ha causato finora la morte di oltre 22.000 persone (Dti del 26 marzo 2020 su worldmeters.info/coronavirus/), con un incremento quotidiano costante su scala mondiale. Per far fronte a quest’emergenza sono state adottate delle misure contenitive che hanno portato, e stanno portando nel resto del mondo, ad una temporanea, ma gravosa, chiusura di scuole, posti di lavoro e luoghi pubblici, con il conseguente confinamento delle famiglie nelle proprie case.
+Quest’anno il nostro pianeta è stato messo di fronte a una nuova minaccia: il Covid-19. Il nuovo coronavirus che ha causato finora la morte di oltre 22.000 persone, con un incremento quotidiano costante su scala mondiale. Per far fronte a quest’emergenza sono state adottate delle misure contenitive che hanno portato, e stanno portando nel resto del mondo, ad una temporanea, ma gravosa, chiusura di scuole, posti di lavoro e luoghi pubblici, con il conseguente confinamento delle famiglie nelle proprie case.
 Alcune analisi hanno evidenziato come, in merito alla situazione attuale in cui il mondo si trova, sospeso in uno stato di attesa, si sia verificato un calo drastico delle emissioni tossiche nelle più disparate aree industriali del mondo.
 Già a metà febbraio, secondo un’analisi di Lauri Myllyvirta del Centre for Research on Energy and Clean Air, le emissioni di anidride carbonica in Cina rispetto a 30 giorni prima erano diminuite del 25% e quelle di biossido di azoto del 37%, il consumo di carbone delle centrali del 36% e l’utilizzo della capacità di raffinazione del petrolio del 34%.
 
@@ -134,7 +134,7 @@ Tutti abbiamo sentito parlare, o abbiamo perfino sperimentato, la corsa all’ac
 
 **Che fine hanno fatto le migliaia di mascherine utilizzate finora?**
 
-Alcuni operatori dell’organizzazione internazionale di tutela del mare, l’Ocean Asia, hanno rinvenuto nei giorni scorsi diverse mascherine di diverso tipo e colore sulle spiagge e nel mare di Sokos di Hong Kong. Gary Stokesu, fondatore del gruppo ambientalista Oceans Asia, ha dichiarato di aver trovato 70 maschere scartate a 100 metri dalla spiaggia e altre 30 maschere al suo ritorno una settimana dopo. (vedi: https://www.nonsoloanimali.com/trovate-nel-mare-di-hong-kong-centinaia-di-mascherine-gettate-in-acqua-dopo-luso/ e https://www.yeslife.it/2020/03/25/covid-19-mascherine-spiagge-mare-rischio-ambiente/).
+Alcuni operatori dell’organizzazione internazionale di tutela del mare, l’Ocean Asia, hanno rinvenuto nei giorni scorsi diverse mascherine di diverso tipo e colore sulle spiagge e nel mare di Sokos di Hong Kong. Gary Stokesu, fondatore del gruppo ambientalista Oceans Asia, ha dichiarato di aver trovato 70 maschere scartate a 100 metri dalla spiaggia e altre 30 maschere al suo ritorno una settimana dopo.
 
 
 Il mancato smaltimento corretto di questi dispositivi di sicurezza potrebbe avere un impatto ambientale rilevante, considerato anche che sono composte per la maggior parte di polipropilene: una materia plastica di sintesi, ottenuta da frazioni del petrolio utilizzata in diversi ambienti, da quello sportivo a quello dell’industria alimentare per l’imballaggio di prodotti come yogurt o margarina, ma anche semplicemente nei bicchierini da caffè o nei tappi delle bottiglie di plastica. Questo materiale si decompone in tempi non rapidi e, in questo caso, rende le mascherine difficili da rompere. Quest’ultimo fattore, aggiunto ai precedenti, aumenta il pericolo per la fauna, marina e forestale, che potrebbe ingerire le mascherine monouso o con filtro FFP2 o FFP3 scambiandole per cibo, azione che potrebbe provocare gravi danni alla salute o anche condurre gli animali alla morte. Non sappiamo inoltre quali altri danni potrebbe contribuire a provocare. Si è visto dopotutto come gli effetti dell’inquinamento non siano immediatamente visibili sulla flora e sulla fauna. Ad esempio, è stato di recente scoperto che le tartarughe marine, specie protetta, a causa dell’ingestione della plastica abbiano sviluppato una nuova malattia prodotta da virus dell’herpes che può facilmente degenerare in tumori.
@@ -160,5 +160,9 @@ La responsabilità non è unicamente degli alti funzionari, dei leader mondiali 
 Note:
 1. Archivio: https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate
 2. Programma delle Nazioni Unite per l’Ambiente. Opera dal 1972 contro i cambiamenti climatici 
+3. Se vuoi saperne di più vedi: https://www.treccani.it/enciclopedia/organizzazione-meteorologica-mondiale
+4. Vedi: https://www.rainews.it/dl/rainews/articoli/Clima-rapporto-UNEP-2019-la-Terra-verso-un-aumento-di-temperatura-di-3-virgola-2-gradi-Onu-non-si-puo-piu-aspettare-c0766ee4-e2dc-4d07-8404-ffc64954fa83.html
+5. Dati del 26 marzo 2020 su worldmeters.info/coronavirus/
+6. Vedi: https://www.nonsoloanimali.com/trovate-nel-mare-di-hong-kong-centinaia-di-mascherine-gettate-in-acqua-dopo-luso/ e https://www.yeslife.it/2020/03/25/covid-19-mascherine-spiagge-mare-rischio-ambiente/
 
 ---
