@@ -6,6 +6,7 @@ Istruzioni varie per gestire il progetto
 
 ```
 git clone git@github.com:diegolandini/diderot.git
+cd diderot
 git submodule update --init --recursive
 ```
 
