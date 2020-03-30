@@ -64,7 +64,7 @@ In generale non si dovrebbe mai pushare su repo qualcosa che non funzioni, ma pu
 
 o, piú concisamente:
 
-``` git log --oneliner```
+``` git log --oneline```
 
 e si vede la lista degli ultimi commit, identificati da un numero esadecimale.
 Annotarsi il numero della commit, per esempio ```2a6741b```, ed uscire premendo ```q``` (quit)
@@ -73,7 +73,15 @@ Nota:non serve usare tutto il numero esadecimale, bastano i primi caratteri
 
 A questo punto per ripristinare la situazione cosí com'era dopo quel commit:
 
-```git reset --hard 2a6741b```
+```git revert --no-commit 2a6741b..HEAD```
+```git push```
+
+NOTA:
+
+se si vuole annullare l'ultimo commit non serve trovare l'identificativo esadecimale del commit.
+Questo comando annulla l'ultimo:
+
+```git revert HEAD~1..HEAD```
 
 
 
