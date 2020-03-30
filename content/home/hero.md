@@ -36,9 +36,16 @@ hero_media = "hero.jpg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
+#[cta]
   url = "https://diderotnews.com/publication/"
   label = "Vedi gli articoli"
+ 
+ [cta]
+  url = "https://www.instagram.com/diderot.official/"
+  label = "Diderot.official"
+  icon_pack = "fab"
+  icon = "instagram"
+
 
 
 +++
