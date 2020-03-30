@@ -1,6 +1,6 @@
 # Istruzioni
 
-Istruzioni varie per gestire il progetto
+Istruzioni varie per gestire Diderot
 
 ## Clonare il progetto da zero
 
@@ -82,7 +82,3 @@ se si vuole annullare l'ultimo commit non serve trovare l'identificativo esadeci
 Questo comando annulla l'ultimo:
 
 ```git revert HEAD~1..HEAD```
-
-
-
-
