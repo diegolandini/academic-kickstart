@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#featured"
+  url = "#hero"
   weight = 20
 
 [[main]]
