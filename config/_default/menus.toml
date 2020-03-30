@@ -10,7 +10,7 @@
 
 [[main]]
   name = "About"
-  url = "https://diderotnews.com/about/"
+  url = "#about"
   weight = 30
 
 [[main]]
