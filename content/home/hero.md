@@ -20,8 +20,8 @@ hero_media = "hero.jpg"
    color = "NavajoWhite"
   
   # Background gradient.
-  gradient_start = "#DAD08D"
-  gradient_end = "#6BD6EC"
+  gradient_start = "#6BD6EC" 
+  gradient_end = "#DAD08D"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
