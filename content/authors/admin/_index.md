@@ -79,4 +79,3 @@ Ciascun articolo viene pubblicato sul nostro sito e sui social e tramite la pubb
 Vogliamo dare voce a ogni **pensiero**, ogni dubbio che noi giovani nutriamo,per discuterne **liberamente**.
 La partecipazione di tutti coloro che leggono i nostri articoli è utile a noi per migliorare il lavoro che svolgiamo ogni giorno e a voi in modo da sviluppare un pensiero critico incondizionato, che sarà  libero di esprimersi in qualsiasi momento e che potrà  addirittura arricchire l'esperienza di Diderot.
 
- - Dubitare per credere. dubitare prima di credere!
