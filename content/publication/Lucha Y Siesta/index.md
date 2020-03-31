@@ -50,7 +50,8 @@ C’è stato un evento o stimolo in particolare che ha portato alla sua realizza
 
 Il progetto nasce da un gruppo di donne che hanno capito quanto l’autorganizzazione fra donne con determinate problematiche, che poi si sono rivelate comuni, potesse dare una risposta valida a ciò che poi in questi anni è emerso come evidente: una fetta di popolazione femminile subisce una serie di discriminazioni legate al reddito, al lavoro e alla violenza, fisica o anche solo psicologica che sia, che le rende ancor più fragili rispetto alle categorie cosiddette svantaggiate.
 
-{{< figure library="true" src=".viale.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="viale.jpg" title="" lightbox="true" >}}
+
 {{< figure library="true" src="aria.jpg" title="" lightbox="true" >}}
 
 L’idea di Lucha y Siesta si è sviluppata da queste intuizioni che 12 anni fa non erano così formate come lo sono oggi, traendo forza anche da un fatto di cronaca, un femminicidio. Una donna fu stuprata ed uccisa sulla Cassia nei pressi di una ferrovia e il suo cadavere fu abbandonato; si trattò di un evento che rimase impresso nelle menti di tutte e tutti in città e che diede il via ad una campagna di sicurezza, promossa dal sindaco Alemanno, molto legata alla protezione della donna vista come vulnerabile. Questo era un tema molto calcato dalla destra romana, che proponeva una soluzione securitaria e basata sull’irrigidimento dei controlli piuttosto che sulla sensibilizzazione, il tutto in chiave razzista. C’erano dei termini di questo discorso che non quadravano: non basta proteggere chi è in difficoltà, si devono fornire degli strumenti per essere più forti. Quello fu un evento che accadde per strada ma, in seguito, l’Istat ha evidenziato che la maggior parte delle violenze, anche sessuali, avvengono da parte di un conoscente, un partner, un parente, un ex marito, un collega. A questo punto fu chiaro che quell’episodio non aveva a che fare con la mancanza di sicurezza o con l’immigrazione, ma con la violenza di genere e, se vogliamo, anche la relazione di potere fra uomo e donna“.
@@ -70,7 +71,7 @@ L’idea di Lucha y Siesta si è sviluppata da queste intuizioni che 12 anni fa 
 Dal momento in cui si accetta di entrare, ha inizio un percorso che richiede una serie di passaggi e che viene man mano definito nei tempi; è chiaro che ci sono dei limiti attraverso colloqui mensili per evitare che si vada avanti all’infinito. In questo modo si è pensato di dare alla donna la possibilità di lavorare sui propri tempi e di essere più dinamica. 
 Fino ad oggi, le donne passate da Lucha y Siesta sono centinaia, quelle che vi hanno vissuto circa 160, quelle che invece si sono rivolte allo sportello di orientamento e ascolto sono più di 1000”.
 
-{{< figure library="true" src=".jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="Lucha alla città (3).jpg" title="" lightbox="true" >}}
 
 **Quali sono difficoltà ricorrenti riportate dalle donne? E come agite per aiutarle?**
 
