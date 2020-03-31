@@ -1,5 +1,5 @@
 ---
-title: "Intervista a Lucha y Siesta pt.1"
+title: "Intervista a Lucha y Siesta (Prima parte)"
 authors:
 - Diderot
 date: "2020-03-31"
