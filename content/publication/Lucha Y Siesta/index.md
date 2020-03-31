@@ -35,7 +35,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft:false
+draft: false
 
 ---
 
