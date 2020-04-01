@@ -35,7 +35,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: false
+draft: true
 
 ---
 **Dato il periodo in cui ci troviamo, per famiglie e coppie la convivenza si fa più stretta. In Cina sono in aumento i casi di violenza domestica registrati: il rischio è elevato e potrebbe già essersi concretizzato anche qui. Inoltre la condizione scoraggia ulteriormente la denuncia. Come vi siete poste di fronte davanti a questa situazione?**
