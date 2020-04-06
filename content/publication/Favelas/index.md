@@ -8,7 +8,7 @@ doi: ""
 publishDate: "2020-04-06"
 
 # Summary. An optional shortened abstract.
-summary: 'Tante famiglie, povertà elevata, numerosi sacrifici, tanta sofferenza, ma soprattutto tanta voglia di esistere, di essere riconosciuti dallo Stato, di non essere calpestati e di non veder distrutti i propri sogni e la propria realtà. Questa è la vita tra le capanne di Ocupaçao do Justo'
+summary: 'Tante famiglie, povertà elevata, numerosi sacrifici, tanta sofferenza, ma soprattutto tanta voglia di esistere, di essere riconosciuti dallo Stato, di non essere calpestati e di non veder distrutti i propri sogni e la propria realtà. Questa è la vita tra le capanne di Ocupaçao do Justo.'
 tags:
 - Favelas
 - Brasile
