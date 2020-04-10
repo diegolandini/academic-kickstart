@@ -73,7 +73,7 @@ Importanti anche gli interventi di Erika Lust, celebre regista di porno al femmi
 È consigliabile quindi fruire di questa versione sana del porno in cui non c'è spazio per  la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori che indossano i preservativi), per una visione di cinema hard dove tutti gli attori sono esseri umani e non oggetti sessuali.
 
 
-{{< figure library="true" src="Klimt.jpg" title="" lightbox="false" >}}
+{{< figure library="true" src="klimt2.jpg" title="" lightbox="false" >}}
 
 
 **Come conoscere il proprio corpo ?**
