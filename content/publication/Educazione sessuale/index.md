@@ -34,7 +34,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 
@@ -109,6 +109,8 @@ Gli studiosi della *Western University* hanno cercato di capire attraverso varie
 La paura e l’insicurezza, che indubbiamente derivano dalle aspettative e dalle pressioni della società nei confronti della donna, ora più che mai devono essere scardinate per far sì che anche noi donne possiamo finalmente prendere le redini del sesso e goderci a pieno questa esperienza, non più come spettatrici ma come protagoniste. Basta finzione, basta compiacimenti e basta insicurezze! Liberiamoci di tutto ciò che ci appesantisce, pensieri superflui che non fanno altro che tenerci strette nelle nostre convinzioni ed isolarci. 
 Il fascino erotico, come diceva lo scrittore Milan Kundera, si esprime più nella deformazione che nella regolarità, più nell’espressività che nella proporzione, più nell’originalità che nella bellezza fatta in serie.
 
+{{< figure library="true" src="l" title="temple-figures-52012_960_720.jpg" lightbox="false" >}}
+
 
 Note:
 
@@ -117,6 +119,7 @@ Note:
 
 2. Altro spunto molto interessante per intraprendere un viaggio verso l’orgasmo è il podcast “VENGO ANCH’IO” della psicologa Leni che, con un tono molto ironico e professionale, parla dei tanti ostacoli che molto spesso ci bloccano nel raggiungimento del piacere:
 https://open.spotify.com/show/0qawUye1XSFPmIRY09LDpM?si=H2oBYp1xT0-urgVp2ejBWw .
+
 
 3. L'ex pornostar Jersey Jaxin: "Ragazzi che ti prendono a pugni in faccia. I liquidi corporei di tutti gli uomini lì presenti sulla tua faccia e negli occhi. Sei tutta dolorante. Le interiora potrebbero uscirti fuori. Non finisce mai. Le persone fanno uso di droghe perché non riescono ad affrontare il modo in cui vengono trattate".
 https://www.collectiveshout.org/porn_stars_speak_out
