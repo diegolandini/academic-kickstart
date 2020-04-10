@@ -46,7 +46,10 @@ Molto spesso il tema dell’educazione sessuale è accompagnato da smorfie di di
 
 Conoscere il proprio corpo è di fondamentale importanza non solo per raggiungere il piacere, ma anche per entrare in contatto con se stessi, accettarsi e scoprire con più consapevolezza il mondo della sessualità.
 Mentre nelle scuole il tema dell’educazione sessuale si esaurisce con un semplice invito ad usare il preservativo e il tema del sesso è totalmente bandito nell’ambiente familiare, i giovani trovano rifugio nell’unico strumento messo a loro disposizione: il porno.
- 
+
+
+{{< figure library="true" src="lupanareprimo.jpg" title="" lightbox="true" >}}
+
 **Il mondo del porno**
  
 Nell’epoca del web 2.0 reperire materiali pornografici è sempre più facile e veloce; il sesso è *ovunque* e se ne parla *sempre*. Molte donne affermano di guardare siti porno non per provare piacere attraverso la masturbazione, bensì per “imparare” ad essere più seducenti, come se il porno fosse un “manuale di istruzioni” che prevede comportamenti e dinamiche schematiche.
@@ -69,6 +72,9 @@ Una valida opzione esiste e si parla infatti di *Porno al femminile* per indicar
 Importanti anche gli interventi di Erika Lust, celebre regista di porno al femminile nonché scrittrice di libri erotici, nei quali afferma che c’è bisogno di più donne nel porno non solo come attrici, ma soprattutto come registe e produttrici. Lust sostiene che il ruolo della donna è ormai cambiato in tutti gli ambiti, restando immutato solamente nel porno ed è quindi il momento di esortare le donne ad entrare in questo mondo e rivoluzionarlo dall’interno.
 È consigliabile fruire di questa versione sana del porno in cui non c'è spazio per la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori indossare i profilattici), per una visione di cinema hard dove tutti i protagonisti sono esseri umani e non oggetti sessuali.
  
+ 
+{{< figure library="true" src="mappe1.jpg" title="" lightbox="true" >}}
+ 
 **Come conoscere il proprio corpo?**
  
 L’autoerotismo ci permette di capire *cosa* vogliamo e *come* lo vogliamo.
@@ -84,6 +90,9 @@ Per la prima volta le donne potevano rivendicare il loro ruolo all’interno del
 
 Ogni ragazza deve molto ai moti del ’68, perché è grazie a questi ultimi che oggi possiamo focalizzarci liberamente sul nostro piacere sessuale, possiamo gridare ad alta voce che anche noi pratichiamo autoerotismo, anche noi abbiamo fantasie sessuali, anche noi abbiamo un ruolo attivo nel rapporto sessuale. È solo in questo modo che si può realizzare una sessualità alla pari, in cui ognuno può dare e ricevere piacere, nell’ottica della reciprocità e della condivisione, parole che non siamo abituati a sentire, ma di cui avremmo fortemente bisogno per migliorare i nostri rapporti. Lo stesso Ovidio, nel suo famoso poema *Ars amatoria* parla di erotismo visto come arte, che oltre a configurarsi come modello di comportamento supporta l’idea che l’atto amoroso debba compiersi con la piena soddisfazione di entrambi i partner.
 Alla luce di tutti gli esempi di erotismo che abbiamo avuto nella storia e nella cultura, non bisogna avere alcuna vergogna a parlare di autoerotismo o di fantasie sessuali: non c’è niente di più spirituale che entrare in contatto con il proprio corpo, ascoltarlo, capirlo ed apprezzarlo in ogni sua sfumatura e particolarità.
+
+{{< figure library="true" src="temple-figures-52012_960_720.jpg" title="" lightbox="true" >}}
+
  
 **L’orgasmo**
  
