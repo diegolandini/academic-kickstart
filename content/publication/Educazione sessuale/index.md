@@ -19,7 +19,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: false
+  preview_only: true
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -66,7 +66,9 @@ Il corpo femminile nella pornografia *mainstream* è condizionato da codici piut
 
 Non è sbagliato guardare porno, è sbagliato il modo di approcciarsi al porno quando esso diviene una guida per le prestazioni sessuali e metro di paragone per le proprie piccole imperfezioni; è solo finzione e così come gli attori recitano la loro parte in un film qualunque, anche i pornoattori hanno un copione nella costellazione dei film del cinema hard.
 Se solo il mondo del porno presentasse delle figure più conformi ai nostri standard e introducesse nuove dinamiche più vicine alla nostra quotidianità e soprattutto alla quotidianità della nostra sessualità, allora potremmo guardare a questo mondo con un occhio più fiducioso.
+
 Una valida opzione esiste e si parla infatti di *Porno al femminile* per indicare le diverse e numerose iniziative finalizzate a produrre una pornografia capace di prendere le distanze rispetto a quella maschile, fatta di donne sottomesse e scenari ripetitivi, in favore di un maggiore coinvolgimento emotivo e non solo. Il collettivo svedese di sole donne *New Level of Pornography* propone dei filmati in cui si illumina la donna come parte attiva del rapporto, che cerca consapevolmente il proprio piacere al contrario di quella presente nella pornografia classica, presentata come accessorio erotico alla mercé della mascolinità. 
+
 Importanti anche gli interventi di Erika Lust, celebre regista di porno al femminile nonché scrittrice di libri erotici, nei quali afferma che c’è bisogno di più donne nel porno non solo come attrici, ma soprattutto come registe e produttrici. Lust sostiene che il ruolo della donna è ormai cambiato in tutti gli ambiti, restando immutato solamente nel porno ed è quindi il momento di esortare le donne ad entrare in questo mondo e rivoluzionarlo dall’interno.
 È consigliabile quindi fruire di questa versione sana del porno in cui non c'è spazio per  la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori che indossano i preservativi), per una visione di cinema hard dove tutti gli attori sono esseri umani e non oggetti sessuali.
 
