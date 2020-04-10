@@ -42,11 +42,12 @@ Sul piacere sessuale sono stati spesi fiumi d’inchiostro: dagli antichi scritt
 La nostra cultura è ricca di immagini, opere, poesie, sculture ed esempi che sottolineano la spiritualità e l’importanza che l’aspetto sessuale ha sempre avuto nelle nostre vite. 
 Nonostante il lungo viaggio che l’erotismo ha percorso nella storia delle diverse culture, ancora non se ne parla liberamente.
 
-{{< figure library="true" src="lupanareprimo.jpg" title="" lightbox="false" >}}
-
 Molto spesso il tema dell’educazione sessuale è accompagnato da smorfie di disapprovazione o da sentimenti di vergogna, come se non avessimo bisogno di indicazioni o consigli in merito a un qualcosa di così naturale. Tanti ragazzi non hanno una conoscenza accurata riguardo il vastissimo mondo della sessualità e i corsi scolastici si focalizzano prevalentemente sugli aspetti negativi, senza dare spazio alla dimensione del piacere, perché tradizionalmente incentrati sui potenziali rischi della sessualità, come le gravidanze indesiderate e le malattie sessualmente trasmissibili. È chiaro che un tale focus negativo suscita spesso molte paure in bambini e ragazzi e, per di più, non risponde al loro bisogno di essere informati e di acquisire competenze.
 Conoscere il proprio corpo è di fondamentale importanza non solo per raggiungere il piacere, ma anche per entrare in contatto con se stessi, accettarsi e scoprire con più consapevolezza il mondo della sessualità.
 Mentre nelle scuole il tema dell’educazione sessuale si esaurisce con un semplice invito ad usare il preservativo e il tema del sesso è totalmente bandito nell’ambiente familiare, i giovani trovano rifugio nell’unico strumento messo a loro disposizione: il porno
+
+
+{{< figure library="true" src="klimt2.jpg" title="" lightbox="false" >}}
 
 
 **Il mondo del porno**
@@ -72,8 +73,7 @@ Una valida opzione esiste e si parla infatti di *Porno al femminile* per indicar
 Importanti anche gli interventi di Erika Lust, celebre regista di porno al femminile nonché scrittrice di libri erotici, nei quali afferma che c’è bisogno di più donne nel porno non solo come attrici, ma soprattutto come registe e produttrici. Lust sostiene che il ruolo della donna è ormai cambiato in tutti gli ambiti, restando immutato solamente nel porno ed è quindi il momento di esortare le donne ad entrare in questo mondo e rivoluzionarlo dall’interno.
 È consigliabile quindi fruire di questa versione sana del porno in cui non c'è spazio per  la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori che indossano i preservativi), per una visione di cinema hard dove tutti gli attori sono esseri umani e non oggetti sessuali.
 
-
-{{< figure library="true" src="klimt2.jpg" title="" lightbox="false" >}}
+{{< figure library="true" src="lupanareprimo.jpg" title="" lightbox="false" >}}
 
 
 **Come conoscere il proprio corpo ?**
