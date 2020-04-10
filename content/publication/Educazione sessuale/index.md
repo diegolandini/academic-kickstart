@@ -70,10 +70,10 @@ Se solo il mondo del porno presentasse delle figure più conformi ai nostri stan
 Una valida opzione esiste e si parla infatti di *Porno al femminile* per indicare le diverse e numerose iniziative finalizzate a produrre una pornografia capace di prendere le distanze rispetto a quella maschile, fatta di donne sottomesse e scenari ripetitivi, in favore di un maggiore coinvolgimento emotivo e non solo. Il collettivo svedese di sole donne *New Level of Pornography* propone dei filmati in cui si illumina la donna come parte attiva del rapporto, che cerca consapevolmente il proprio piacere al contrario di quella presente nella pornografia classica, presentata come accessorio erotico alla mercé della mascolinità.
 
 Importanti anche gli interventi di Erika Lust, celebre regista di porno al femminile nonché scrittrice di libri erotici, nei quali afferma che c’è bisogno di più donne nel porno non solo come attrici, ma soprattutto come registe e produttrici. Lust sostiene che il ruolo della donna è ormai cambiato in tutti gli ambiti, restando immutato solamente nel porno ed è quindi il momento di esortare le donne ad entrare in questo mondo e rivoluzionarlo dall’interno.
-È consigliabile fruire di questa versione sana del porno in cui non c'è spazio per la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori indossare i profilattici), per una visione di cinema hard dove tutti i protagonisti sono esseri umani e non oggetti sessuali.
+È consigliabile fruire di questa versione sana del porno in cui non c'è spazio per la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori indossare i profilattici), per una visione di cinema hard dove tutti i protagonisti sono esseri umani e non oggetti sessuali. (Vedi nota 3 a fine articolo)
  
  
-{{< figure library="true" src="Klimt.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="Klimt2.jpg" title="" lightbox="true" >}}
  
 **Come conoscere il proprio corpo?**
  
