@@ -1,5 +1,5 @@
 ---
-title: "Educazione Sessuale"
+title: "Sesso: storia e attualità dell'arte più antica del mondo"
 authors:
 - Diderot
 date: "2020-04-10"
@@ -109,7 +109,7 @@ Gli studiosi della *Western University* hanno cercato di capire attraverso varie
 La paura e l’insicurezza, che indubbiamente derivano dalle aspettative e dalle pressioni della società nei confronti della donna, ora più che mai devono essere scardinate per far sì che anche noi donne possiamo finalmente prendere le redini del sesso e goderci a pieno questa esperienza, non più come spettatrici ma come protagoniste. Basta finzione, basta compiacimenti e basta insicurezze! Liberiamoci di tutto ciò che ci appesantisce, pensieri superflui che non fanno altro che tenerci strette nelle nostre convinzioni ed isolarci. 
 Il fascino erotico, come diceva lo scrittore Milan Kundera, si esprime più nella deformazione che nella regolarità, più nell’espressività che nella proporzione, più nell’originalità che nella bellezza fatta in serie.
 
-{{< figure library="true" src="l" title="temple-figures-52012_960_720.jpg" lightbox="false" >}}
+{{< figure library="true" src="temple-figures-52012_960_720.jpg" title="" lightbox="false" >}}
 
 
 Note:
