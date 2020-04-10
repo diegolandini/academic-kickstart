@@ -13,7 +13,7 @@ tags:
 - Educazione Sessuale
 - Pornografia
 - Sessualità
-featured: false
+featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
