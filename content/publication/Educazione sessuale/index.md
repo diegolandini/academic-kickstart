@@ -34,7 +34,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 
@@ -73,7 +73,7 @@ Importanti anche gli interventi di Erika Lust, celebre regista di porno al femmi
 È consigliabile fruire di questa versione sana del porno in cui non c'è spazio per la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori indossare i profilattici), per una visione di cinema hard dove tutti i protagonisti sono esseri umani e non oggetti sessuali.
  
  
-{{< figure library="true" src="mappe1.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="Klimt.jpg" title="" lightbox="true" >}}
  
 **Come conoscere il proprio corpo?**
  
