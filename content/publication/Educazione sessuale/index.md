@@ -59,7 +59,7 @@ La verità è che  il mondo del porno offre facilmente una visione distorta dell
 
 
 Specialmente nel panorama italiano, basti solo pensare alla programmazione serale di Rai e Mediaset dove spesso corpi longilinei, glabri e tonici fanno da cornice, suggerendo un ideale di bellezza che ha molto poco a che fare con la realtà. 
-La visione della sessualità che il porno offre è di certo molto ambigua, essendo messe in scena situazioni in cui si descrive una donna sempre disponibile e un uomo sempre potente. È ormai noto a tutti che l’industria pornografica offre un prodotto rivolto soprattutto all’uomo e ai suoi desideri sessuali, per questo è comune che nella pornografia *mainstream* la donna venga spesso mostrata in particolari situazioni di sottomissione e obbedienza, non avendo alcun potere decisionale e partecipazione attiva. Per di più, non mancano di certo scene di abuso o di stupro, reali o meno, di cui sono pieni zeppi praticamente tutti i siti porno, in cui la donna finge persino di godere della violenza subita.
+La visione della sessualità che il porno offre è di certo molto ambigua, essendo messe in scena situazioni in cui si descrive una donna sempre disponibile e un uomo sempre potente. È ormai noto a tutti che l’industria pornografica offre un prodotto rivolto soprattutto all’uomo e ai suoi desideri sessuali, per questo è comune che nella pornografia *mainstream* la donna venga spesso mostrata in particolari situazioni di sottomissione e obbedienza, non avendo alcun potere decisionale e partecipazione attiva. Per di più, non mancano di certo scene di abuso o di stupro, reali o meno, di cui sono pieni zeppi praticamente tutti i siti porno, in cui la donna finge persino di godere della violenza subita. (vedi nota 3).
 
 
 Guardare queste scene in un periodo critico dello sviluppo, ad esempio l’inizio dell’adolescenza, potrebbe generare pensieri, aspettative e modelli relativi alla sessualità che non sono per nulla conformi a quello che in realtà è il sesso nella vita di tutti i giorni. Gli psicologi hanno riscontrato un rapporto tra l'esposizione a contenuti sessualmente espliciti e due precisi atteggiamenti sessisti: il desiderio di controllo nei confronti delle donne e la tendenza alla promiscuità sessuale. In particolare, secondo alcuni studi condotti da un team di ricercatori dell’Università del Nebraska, appare chiaro che l'uso della pornografia influenza il rapporto con le donne e che l'età in cui gli uomini entrano in contatto con il materiale hard influenza lo sviluppo della sessualità e del legame con il sesso opposto.
@@ -117,6 +117,9 @@ Note:
 
 2. Altro spunto molto interessante per intraprendere un viaggio verso l’orgasmo è il podcast “VENGO ANCH’IO” della psicologa Leni che, con un tono molto ironico e professionale, parla dei tanti ostacoli che molto spesso ci bloccano nel raggiungimento del piacere:
 https://open.spotify.com/show/0qawUye1XSFPmIRY09LDpM?si=H2oBYp1xT0-urgVp2ejBWw .
+
+3. L'ex pornostar Jersey Jaxin: "Ragazzi che ti prendono a pugni in faccia. I liquidi corporei di tutti gli uomini lì presenti sulla tua faccia e negli occhi. Sei tutta dolorante. Le interiora potrebbero uscirti fuori. Non finisce mai. Le persone fanno uso di droghe perché non riescono ad affrontare il modo in cui vengono trattate".
+https://www.collectiveshout.org/porn_stars_speak_out
 
 
 ---
