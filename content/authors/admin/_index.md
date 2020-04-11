@@ -76,6 +76,6 @@ Sconfiggere l'immobilismo del pensiero tipico della nostra generazione è il nos
 
 Attraverso l'accostamento di diverse fonti trattiamo tematiche ed argomenti completi e approfonditi, offrendo inoltre la possibilità  a tutti gli utenti di confrontarsi con noi autori e persino permettendo loro di scrivere per Diderot.
 Ciascun articolo viene pubblicato sul nostro sito e sui social e tramite la pubblicazione dei post interagiamo con i lettori, raccogliendo richieste, opinioni e domande.
-Vogliamo dare voce a ogni **pensiero**, ogni dubbio che noi giovani nutriamo,per discuterne **liberamente**.
+Vogliamo dare voce a ogni **pensiero**, ogni dubbio che noi giovani nutriamo, per discuterne **liberamente**.
 La partecipazione di tutti coloro che leggono i nostri articoli è utile a noi per migliorare il lavoro che svolgiamo ogni giorno e a voi in modo da sviluppare un pensiero critico incondizionato, che sarà  libero di esprimersi in qualsiasi momento e che potrà  addirittura arricchire l'esperienza di Diderot.
 
