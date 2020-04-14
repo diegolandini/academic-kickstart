@@ -1,5 +1,5 @@
 ---
-title: "Brexit: diario di viaggio"
+title: "Brexit, un racconto da Londra"
 authors:
 - Diderot
 date: "2020-04-14"
