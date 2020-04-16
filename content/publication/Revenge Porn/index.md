@@ -10,7 +10,7 @@ publishDate: "2020-04-16"
 # Summary. An optional shortened abstract.
 summary: ''
 tags:
--Revenge Porn
+- Revenge Porn
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
