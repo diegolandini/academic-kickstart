@@ -48,7 +48,7 @@ Non si tratta di una vendetta pornografica, ma di **un tipo di porno divulgato c
 
 L’*Oxford English Dictionary* lo presenta così:
 
- **revenge porn **  (also revenge pornography)
+ **revenge porn**  (also revenge pornography)
  
 **NOUN**
 
