@@ -17,7 +17,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: false
+  preview_only: true
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -32,9 +32,13 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
+
+
+{{< figure library="true" src="revengePorn1.jpg" title="" lightbox="false" >}}
+
 
 *Revenge porn* è un’espressione che negli ultimi giorni è saltata di bocca in bocca e di post in post. L’abbiamo sicuramente sentita al telegiornale, letta su Twitter o Facebook, vista su Instagram, ne abbiamo parlato con gli amici, ma quanti si sono davvero interrogati sul suo significato?
 Si tratta di un’espressione inglese la cui traduzione è abbastanza intuitiva, composta dalle parole *revenge* ('vendetta') e *porn* ('porno'). 
@@ -43,9 +47,13 @@ Non si tratta di una vendetta pornografica, ma di **un tipo di porno divulgato c
 
 
 L’*Oxford English Dictionary* lo presenta così:
- **revenge porn ** (also revenge pornography)
+
+ **revenge porn **  (also revenge pornography)
+ 
 **NOUN**
+
 **mass noun**
+
 **Revealing or sexually explicit images or videos of a person posted on the Internet, typically by a former sexual partner, without the consent of the subject and in order to cause them distress or embarrassment.**
 
 
@@ -65,6 +73,9 @@ La donna, quanto più si mostra libera nel vivere la propria sessualità come me
 E’ nella logica del branco che il revenge porn vede infatti il terreno più fertile per il suo sviluppo: l’uomo afferma la propria mascolinità, alimenta il proprio ego e riceve consenso, agisce in un sottobosco in cui non si sente vulnerabile, il gruppo lo protegge e lo aiuta ad aggredire e a sbranare la vittima. Il silenzio degli uomini che assistono, ma non prendono attivamente parte all’aggressione, alimenta la zona grigia della quale il maschilismo sfrenato si nutre e grazie alla quale cresce in maniera esponenziale. 
 
 
+{{< figure library="true" src="revengePorn3.jpg" title="" lightbox="false" >}}
+
+
 **I social e la politica** 
 
 
@@ -75,6 +86,9 @@ Altro punto di fondamentale importanza, significativo nella lotta al revenge por
 L’Italia è una delle poche nazioni in Europa ad avere una legge apposita che identifichi la diffusione di materiale intimo non consensuale come una fattispecie di reato, tuttavia il testo di legge presenta ancora alcune lacune. 
 In primo luogo, il tempo che la vittima ha a disposizione per presentare querela è estremamente breve, sei mesi. Non si tiene così conto del grave trauma psicologico che subiscono le donne vittime di revenge porn e dello stigma sociale che tale fenomeno si trascina dietro. Spesso occorrono mesi alle donne per riuscire a riconoscersi come vittime, ed ancora più è il tempo necessario per elaborare il trauma subito e trovare il coraggio di denunciare, accettando la gogna mediatica e sociale a cui sono e saranno inevitabilmente condannate. Non viene trattato nello specifico il caso in cui le vittime siano minori, come spesso avviene, per tali fattispecie vengono semplicemente operati rinvii alla legge sulla pedopornografia. Nulla è previsto contro la violenza verbale e l’incitamento all’odio presente in maniera dilagante in tali situazioni né vi sono particolari previsioni per tutti i reati connessi, ma vengono operati genericamente rimandi alle leggi competenti in materia, non prevedendo aggravanti nel caso in cui i reati siano perpetrati congiuntamente e facciano dunque parte di un disegno unitario. La legge non pone particolare attenzione alla responsabilità delle piattaforme e al fatto che il reato si configuri come frutto di una catena, sottovalutando la visione d’insieme del fenomeno. Nel caso in cui la condivisione di materiale intimo avvenga da parte del coniuge è giustamente prevista un’aggravante di pena, ponendosi attenzione al tradimento della fiducia alla base dell’istituto del matrimonio. 
 Se quindi tanta strada è stata fatta nella lotta al revenge porn, è vero anche che tanta ancora ne abbiamo da percorrere e che la strategia più efficace è quella condotta attraverso l’educazione sessuale, di genere e digitale. Solo prendendo parte attiva in questa battaglia, ci rivolgiamo sia agli uomini che alle donne, sporcandoci le mani, mettendoci la faccia, prendendo posizione a gran voce, riusciremo a liberarci di questi soffocanti stereotipi maschilisti che ancora oggi, ci fa male dirlo, continuano ad opprimerci.
+
+
+{{< figure library="true" src="revengePorn2.jpg" title="" lightbox="false" >}}
 
 
 NOTE:
