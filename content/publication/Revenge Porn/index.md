@@ -1,5 +1,5 @@
 ---
-title: "Revenge Porn"
+title: "Revenge porn: L'intimità negata"
 authors:
 - Diderot
 date: "2020-04-16"
@@ -42,7 +42,7 @@ Chi pensa però che faccia riferimento a un particolare tipo di vendetta “porn
 Non si tratta di una vendetta pornografica, ma di **un tipo di porno divulgato con intento vendicativo**.
 
 
-L’*Oxford English Dictionary* lo presenta così:
+L’*Oxford English Dictionary* lo presenta così: 
 **revenge porn **(also revenge pornography)
 **NOUN**
 **mass noun**
@@ -83,7 +83,7 @@ NOTE:
 
 2. http://blog.terminologiaetc.it/2019/04/03/significato-traduzione-revenge-porn/
  
-3.https://www.gazzettaufficiale.it/eli/id/2019/07/25/19G00076/sg
+3. https://www.gazzettaufficiale.it/eli/id/2019/07/25/19G00076/sg
 
 
 ---
