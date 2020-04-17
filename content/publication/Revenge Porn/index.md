@@ -46,9 +46,13 @@ Chi pensa però che faccia riferimento a un particolare tipo di vendetta “porn
 Non si tratta di una vendetta pornografica, ma di **un tipo di porno divulgato con intento vendicativo**.
 
 L’*Oxford English Dictionary* lo presenta così:
-**revenge porn **(also revenge pornography)
+
+**revenge porn**(also revenge pornography)
+
 **NOUN**
+
 **mass noun**
+
 **Revealing or sexually explicit images or videos of a person posted on the Internet, typically by a former sexual partner, without the consent of the subject and in order to cause them distress or embarrassment. **
 
 Non si fa riferimento quindi a una vendetta *privata*, ma a un vero e proprio *reato* le cui caratteristiche principali sono la diffusione di immagini senza il consenso della persona interessata, con intento doloso, al fine ad esempio di causare grande ansia o isolamento sociale. Spesso non si tratta solamente della vendetta di una singola persona verso un ex partner, sebbene sia la circostanza cui più facilmente assistiamo, ma anche di altri comportamenti, come la diffusione da parte di terzi e in alcuni casi la pubblicazione di foto provocanti di personaggi famosi ottenute tramite hackeraggio, non solo per ritorsione, ma anche per estorsione.   
