@@ -12,11 +12,6 @@
   weight = 10
 
 [[main]]
-  name = "About"
-  url = "#about"
-  weight = 30
-
-[[main]]
   name = "Contattaci"
   url = "#contact"
   weight = 40
@@ -25,6 +20,11 @@
   name = "Tags"
   url = "tags"
   weight = 50
+
+  [[main]]
+    name = "Chi siamo"
+    url = "authors/admin"
+    weight = 60
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
