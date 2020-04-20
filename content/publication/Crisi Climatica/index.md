@@ -80,7 +80,6 @@ Il pianeta non molla, non si dà per vinto, tenta di mettere in campo i propri m
 
 Le alte temperature che stanno segnando il nostro pianeta portano a risultati decisamente tristi: la distribuzione di ghiaccio marino artico segna nuovi record minimi.
 Quella dello scioglimento dei ghiacci è una vecchia storia, ma rimane attuale e le foto degli orsi polari morenti non sono state diffuse per caso, così come quelle delle lande rocciose emerse in Antartide dopo i più recenti scongelamenti in blocco. Nel 2019, l’estensione media mensile dei ghiacci a settembre (di solito la più bassa dell’anno) è stata la terza più bassa mai registrata nella storia e la massa della calotta glaciale della Groenlandia ha subito una perdita pari a 329Gt. Per rendere l’idea, stiamo parlando di 329.000 miliardi di chili di ghiaccio che non torneranno nel giro di due settimane. È la devastazione!
-
 Altri ghiacciai millenari come quelli dell’Alaska e della Patagonia hanno iniziato a sciogliersi e ciò contribuirà all’innalzamento dei mari. Si teme inoltre che possa rappresentare un serio rischio per la salute dell’uomo, in quanto all’interno del permafrost potrebbero essere addirittura conservati virus millenari ai quali il nostro sistema immunitario è estraneo, ben più pericolosi dell’attuale Covid-19 che ha messo il nostro sistema sanitario in ginocchio. Può sembrare uno scenario improbabile, ma nel momento in cui si verificano cambiamenti così sostanziali nella natura del pianeta, persino ipotesi di questo genere devono essere valutate e tenute sotto controllo.
 
 **Impatto**
@@ -108,7 +107,6 @@ Tutti questi eventi hanno avuto un impatto così forte sulla vita delle popolazi
 Nel 2010 si pensava di avere ancora 30 anni a disposizione per poter limitare ed eliminare le conseguenze del riscaldamento globale. Oggi sappiamo di averne a disposizione solo altri 10 per rimediare prima di giungere ai cosiddetti punti di non ritorno.
 L’idea dei punti di non ritorno è stata introdotta 20 anni fa dal Gruppo Intergovernativo sul Cambiamento Climatico (IPCC) e tengono conto di tutti quegli avvenimenti come la perdita della banchisa nell’Antartico occidentale e della foresta amazzonica, il disgelo estensivo del permafrost e altre componenti chiave del sistema. Sono in totale 30 e vengono considerati “di non ritorno” perché possono arrivare a limiti estremi e poi cambiare in modo irreversibile e improvviso.
 Proviamo a capire meglio. Immaginiamo la Terra come un enorme muro che resiste fino a 30 colpi di martello. Il 31° colpo potrebbe essere quello decisivo.
-
 In passato si pensava che questi punti critici sarebbero stati scatenati solo una volta che l’aumento della temperatura fosse arrivato al valore di +5°C, ma stando agli ultimi rapporti IPCC potrebbero aver già avuto inizio tra i +1° e i +2°C.
 Ogni piccolo aumento nella temperatura aumenta il rischio che si verifichi uno dei 30 punti di non ritorno. Con il +1°C del riscaldamento attuale, si pensa che 9 dei 30 siano già in corso. 
 Tutti gli impegni presi in precedenza giunti a questo punto non sono più sufficienti.
