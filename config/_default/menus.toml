@@ -10,6 +10,11 @@
   name = "Home"
   url = "#hero"
   weight = 10
+  
+  [[main]]
+  name = "Galleria Foto"
+  url = "#gallery"
+  weight = 30
 
 [[main]]
   name = "Contattaci"
