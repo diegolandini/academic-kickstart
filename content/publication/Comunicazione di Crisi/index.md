@@ -2,7 +2,7 @@
 title: "Comunicazione di crisi"
 authors:
 - Diderot
-date: "2020-04-10"
+date: "2020-04-20"
 doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-20"
