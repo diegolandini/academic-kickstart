@@ -14,12 +14,12 @@
 [[main]]
   name = "Contattaci"
   url = "#contact"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Tags"
   url = "#tags"
-  weight = 50
+  weight = 40
 
   [[main]]
     name = "Chi siamo"
