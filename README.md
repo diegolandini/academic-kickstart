@@ -74,7 +74,7 @@ Nota:non serve usare tutto il numero esadecimale, bastano i primi caratteri
 
 A questo punto per ripristinare la situazione cosí com'era dopo quel commit:
 
-```git revert --no-commit 2a6741b..HEAD```
+```git revert -m "revert message" --no-commit 2a6741b..HEAD```
 ```git push```
 
 NOTA:
@@ -82,7 +82,7 @@ NOTA:
 se si vuole annullare l'ultimo commit non serve trovare l'identificativo esadecimale del commit.
 Questo comando annulla l'ultimo:
 
-```git revert HEAD~1..HEAD```
+```git revert -m "revert message" HEAD~1..HEAD```
 
 
 
