@@ -38,6 +38,9 @@ slides: example
 draft: false
 
 ---
+
+{{< figure library="true" src="commcrisi1.jpg" title="" lightbox="false" >}}
+
 Comunicazione è una parola utilizzata spesso in contesti e ambienti diversi e di cui in questi giorni abbiamo sentito parlare molto. “Sì, è giusto quello che stanno facendo, ma la comunicazione è sbagliata”, “Mi è sembrato quasi che parlasse a vanvera, che dicesse tutto e niente allo stesso tempo”, sono diventate frasi di uso comune, come se tutti fossimo diventati improvvisamente consapevoli dell’importanza e del peso delle parole dette in modo corretto e al momento giusto.
 
 
