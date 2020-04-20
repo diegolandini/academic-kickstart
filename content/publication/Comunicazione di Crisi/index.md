@@ -1,5 +1,5 @@
 ---
-title: "Comunicazione di crisi"
+title: "Comunicazione di crisi: gestione delle emergenzw"
 authors:
 - Diderot
 date: "2020-04-20"
@@ -8,7 +8,8 @@ doi: ""
 publishDate: "2020-04-20"
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Come si può far rispettare le regole nel corso di un’emergenza? Quali sono i criteri migliori di comunicazione? Cos’è la comunicazione di crisi? Tra decreti, notizie e inviti a non violare la quarantena, Diderot approfondisce i meccanismi e le strategie comunicative nei periodi più difficili, nei quali c’è bisogno di chiarezza e immediatezza
+'
 tags:
 - Crisi
 - Comunicazione
