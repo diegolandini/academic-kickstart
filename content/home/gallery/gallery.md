@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Brasile - Favelas"
-subtitle = "Le favelas brasiliane"
+subtitle = "Una raccolta di foto delle favelas brasiliane --- Maria Pia Veneziano"
 
 +++
 
