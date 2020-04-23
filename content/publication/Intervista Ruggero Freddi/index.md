@@ -2,6 +2,8 @@
 title: "Intervista a Ruggero Freddi"
 authors:
 - Diderot
+- Lorenzo Feltoni Gurini
+- Diego Landini
 date: "2020-03-23"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -20,9 +22,9 @@ tags:
 - Pregiudizio
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
   preview_only: false
 # Associated Projects (optional).
@@ -47,7 +49,7 @@ slides: example
 “Ciao! Bene, ragazzi, bene, anche se un po’ provato da questi giorni di reclusione forzata. La situazione andava gestita con un po’ più di determinazione sin dall’inizio, dal periodo degli “inviti a non fare”, dei “si consiglia di”, cioè, o te ne freghi o imponi subito dei divieti. Comunque adesso c’è poco da lamentarsi, seguiamo le regole e speriamo tutti si sistemi”.
 
 
-**Allora torniamo a noi. 
+**Allora torniamo a noi.
 Parlaci di te. Chi sei?**
 
 
@@ -121,7 +123,7 @@ Com’è stato riprendere gli studi?**
 
 
 “Dopo aver richiesto il dottorato a Castelnuovo, la relatrice mi ha consigliato di fare invece richiesta allo S.B.A.I., il dipartimento dell’ateneo che si occupa di fare ricerca sperimentale in campo ingegneristico, chimico, fisico, matematico … Insomma, un buon punto di partenza per me. Una volta entrato allo S.B.A.I., dove lavoravo come dottorando, ho potuto iniziare ad applicare per bandi di docenza e co-docenza, avvicinandomi un po’ di più al mio sogno di diventare professore e ricercato universitario.
-Ho vinto uno di questi bandi e nell’a.a. 2017-2018 ho iniziato a Ingegneria Meccanica. Il corso è andato bene, i ragazzi mi seguivano tranquillamente, posso dire di essere stato molto attento a svolgere il mio lavoro nel modo migliore possibile. 
+Ho vinto uno di questi bandi e nell’a.a. 2017-2018 ho iniziato a Ingegneria Meccanica. Il corso è andato bene, i ragazzi mi seguivano tranquillamente, posso dire di essere stato molto attento a svolgere il mio lavoro nel modo migliore possibile.
 I problemi sono arrivati alla fine del corso: un giorno sono entrato in aula e ho scambiato alcune chiacchiere con i ragazzi prima di cominciare, come al solito e dato che il 10 Giugno si sarebbe tenuto il gay pride ho fatto riferimento alla manifestazione, chiedendo se loro avrebbero partecipato e che sarebbe stato bello se lo avessero fatto.
 É scoppiato il finimondo”.
 
@@ -178,7 +180,7 @@ Non mi sono dato per vinto e ho iterato la proposta al preside di facoltà, che 
 
 
 “Come no.
-Al terzo anno di dottorato è filato tutto liscio, ho ripreso a tenere i corsi con un buon rendimento e ho migliorato l’organizzazione nelle lezioni. Arrivato al quarto anno, il 2019, quello in cui avrei terminato il mio dottorato, mi è stata proposta una co-docenza con un professore di Analisi I dello S.B.A.I.  e ho subito accettato. Ho iniziato a tenere le lezioni presso Ingegneria Gestionale, che faceva afferenza al dipartimento di Informatica e Sistemistica, desideroso di ampliare il mio curriculum. Insomma, arrivato alla 50° ora di lezione ho iniziato a sentire, da voci di corridoio, che qualcuno mi avrebbe presto tolto la co-docenza, che qualcuno riferiva che nelle mie classi vi erano problemi, ma non mi era stata rivolta alcuna accusa formale e infatti non ho mai replicato perché non conoscevo le fonti. Un collega e la mia relatrice, poi, si sono essi ad osservare le poche ore di lezione che mi rimanevano prima di terminare il corso e dopo ho saputo che convenivano che le mie lezioni erano perfettamente in linea con le altre. 
+Al terzo anno di dottorato è filato tutto liscio, ho ripreso a tenere i corsi con un buon rendimento e ho migliorato l’organizzazione nelle lezioni. Arrivato al quarto anno, il 2019, quello in cui avrei terminato il mio dottorato, mi è stata proposta una co-docenza con un professore di Analisi I dello S.B.A.I.  e ho subito accettato. Ho iniziato a tenere le lezioni presso Ingegneria Gestionale, che faceva afferenza al dipartimento di Informatica e Sistemistica, desideroso di ampliare il mio curriculum. Insomma, arrivato alla 50° ora di lezione ho iniziato a sentire, da voci di corridoio, che qualcuno mi avrebbe presto tolto la co-docenza, che qualcuno riferiva che nelle mie classi vi erano problemi, ma non mi era stata rivolta alcuna accusa formale e infatti non ho mai replicato perché non conoscevo le fonti. Un collega e la mia relatrice, poi, si sono essi ad osservare le poche ore di lezione che mi rimanevano prima di terminare il corso e dopo ho saputo che convenivano che le mie lezioni erano perfettamente in linea con le altre.
 Ho deciso quindi di andare a parlare con Tiziana Catarci, direttrice del Dipartimento cui facevo riferimento, che si è rifiuta di incontrarmi”.
 
 

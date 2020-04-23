@@ -2,6 +2,8 @@
 title: "Intervista a Lucha y Siesta (Prima parte)"
 authors:
 - Diderot
+- Alice Vitale
+- Lorenzo Feltoni Gurini
 date: "2020-03-31"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -14,9 +16,9 @@ tags:
 - Lucha y Siesta
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
   preview_only: false
 # Associated Projects (optional).
@@ -39,7 +41,7 @@ draft: false
 
 Questo mese Diderot intervista Michela Cicculli, membro del collettivo fondatore della Casa delle donne *Lucha y Siesta*, la quale ormai da anni offre sostegno e speranza a tutte quelle donne, e non solo, che cercano rifugio e alleanza. Il sostegno non si concretizza soltanto nell’ospitarle in un luogo sicuro e lontano da ogni violenza maschile, ma anche nella spinta alla loro rivalsa in una società ancora fin troppo cieca e sorda a questo tipo di problematiche, nonché irrispettosa della figura femminile sotto diversi aspetti.
 
-**Ciao Michela, grazie per averci regalato la possibilità di conoscere meglio questa realtà di cui fai parte. 
+**Ciao Michela, grazie per averci regalato la possibilità di conoscere meglio questa realtà di cui fai parte.
 Raccontaci come nasce Lucha y Siesta.
 C’è stato un evento o stimolo in particolare che ha portato alla sua realizzazione?**
 
@@ -62,9 +64,9 @@ L’idea di Lucha y Siesta si è sviluppata da queste intuizioni che 12 anni fa 
 
 **Chi sono le donne che la Casa accoglie?**
 
-“Sono donne, talvolta con minori, in situazioni di difficoltà. Le stanze disponibili di Lucha y Siesta sono 13, abbiamo sempre ritenuto importante che si accogliessero quante più donne possibili. Gli ospiti che vivono a Lucha y Siesta permangono per un tempo che non è stabilito in entrata, come invece succede in altre strutture. Lucha y Siesta è un esperimento che nasce dal basso, da un’occupazione che ha voluto in qualche modo ribaltare le procedure già conosciute provando a sperimentare un intervento diverso: è l’ospite che, dopo una serie di colloqui con le operatrici, decide se le “piace”, se vuole restare. 
+“Sono donne, talvolta con minori, in situazioni di difficoltà. Le stanze disponibili di Lucha y Siesta sono 13, abbiamo sempre ritenuto importante che si accogliessero quante più donne possibili. Gli ospiti che vivono a Lucha y Siesta permangono per un tempo che non è stabilito in entrata, come invece succede in altre strutture. Lucha y Siesta è un esperimento che nasce dal basso, da un’occupazione che ha voluto in qualche modo ribaltare le procedure già conosciute provando a sperimentare un intervento diverso: è l’ospite che, dopo una serie di colloqui con le operatrici, decide se le “piace”, se vuole restare.
 
-Dal momento in cui si accetta di entrare, ha inizio un percorso che richiede una serie di passaggi e che viene man mano definito nei tempi; è chiaro che ci sono dei limiti attraverso colloqui mensili per evitare che si vada avanti all’infinito. In questo modo si è pensato di dare alla donna la possibilità di lavorare sui propri tempi e di essere più dinamica. 
+Dal momento in cui si accetta di entrare, ha inizio un percorso che richiede una serie di passaggi e che viene man mano definito nei tempi; è chiaro che ci sono dei limiti attraverso colloqui mensili per evitare che si vada avanti all’infinito. In questo modo si è pensato di dare alla donna la possibilità di lavorare sui propri tempi e di essere più dinamica.
 Fino ad oggi, le donne passate da Lucha y Siesta sono centinaia, quelle che vi hanno vissuto circa 160, quelle che invece si sono rivolte allo sportello di orientamento e ascolto sono più di 1000”.
 
 {{< figure library="true" src="Lucha alla città (3).jpg" title="" lightbox="true" >}}
@@ -75,16 +77,16 @@ Fino ad oggi, le donne passate da Lucha y Siesta sono centinaia, quelle che vi h
 
 {{< figure library="true" src="aria.jpg" title="" lightbox="true" >}}
 
-Poi c’è da gestire la parte legale nel caso in cui fosse un procedimento in corso, una parte di sostegno psicologico se la donna lo richiede e un accompagnamento alla genitorialità se ci sono dei minori. Per molte lo step successivo è affrontare la questione del lavoro, perché spesso vivendo in una simile condizione non lavorano, magari da molto tempo, oppure perdono il loro lavoro proprio nel momento in cui si allontanano da casa, non potendo presentarsi per lunghi periodi o essendo troppo lontane per raggiungerlo. Di conseguenza non hanno un'autonomia economica neanche per la minima sussistenza e bisogna mettere in campo una serie di azioni per la ricerca del lavoro a partire dalla creazione di un curriculum, la frequentazione di corsi di formazione o una preparazione universitaria, se è quello che vogliono fare. È importante che la donna punti a fare un lavoro che ha il piacere di fare, ottenerlo proprio perché lo ha cercato molto, in modo che abbia un po’ di sicurezza in più che la renda più forte. Ci siamo trovate a parlare con donne venute da un altro paese che facevano le badanti, ma che in realtà avevano una formazione professionale diversa, come farmaciste o agronome, ma erano ormai talmente demotivate e sminuite che non potevano neanche pensare di fare un altro lavoro. Noi cerchiamo di aiutarle anche sotto questo aspetto, chiaramente non è facile perché c'è un mercato del lavoro a cui noi dobbiamo rispondere, ma con uno sforzo e una vasta rete di relazioni un lavoro migliore si può trovare”. 
+Poi c’è da gestire la parte legale nel caso in cui fosse un procedimento in corso, una parte di sostegno psicologico se la donna lo richiede e un accompagnamento alla genitorialità se ci sono dei minori. Per molte lo step successivo è affrontare la questione del lavoro, perché spesso vivendo in una simile condizione non lavorano, magari da molto tempo, oppure perdono il loro lavoro proprio nel momento in cui si allontanano da casa, non potendo presentarsi per lunghi periodi o essendo troppo lontane per raggiungerlo. Di conseguenza non hanno un'autonomia economica neanche per la minima sussistenza e bisogna mettere in campo una serie di azioni per la ricerca del lavoro a partire dalla creazione di un curriculum, la frequentazione di corsi di formazione o una preparazione universitaria, se è quello che vogliono fare. È importante che la donna punti a fare un lavoro che ha il piacere di fare, ottenerlo proprio perché lo ha cercato molto, in modo che abbia un po’ di sicurezza in più che la renda più forte. Ci siamo trovate a parlare con donne venute da un altro paese che facevano le badanti, ma che in realtà avevano una formazione professionale diversa, come farmaciste o agronome, ma erano ormai talmente demotivate e sminuite che non potevano neanche pensare di fare un altro lavoro. Noi cerchiamo di aiutarle anche sotto questo aspetto, chiaramente non è facile perché c'è un mercato del lavoro a cui noi dobbiamo rispondere, ma con uno sforzo e una vasta rete di relazioni un lavoro migliore si può trovare”.
 
 **Come definireste i vostri rapporti con il Comune? Ci puoi parlare dello sgombero?**
 
- “L’edificio in cui è nata la Casa è uno dei tanti immobili di Atac sparsi per la capitale ed è risaputo che l’azienda è in dissesto economico da anni, perciò preferisce quasi sempre la soluzione della vendita all’asta dei propri beni e anche dello spazio in cui si è sviluppata Lucha y Siesta. Ormai sono molti anni che il collettivo tenta di aprire un dialogo con l’amministrazione comunale e con Atac, ma non c’è stata mai dall’altra parte la capacità politica, oltre che umana, di capire che il valore di questa esperienza è talmente alto che è necessario trovare una soluzione politica alla vicenda. L’Atac è una società al 100% partecipata dal Comune, perciò l’amministrazione pubblica, alla luce della funzione sociale, culturale e pubblica della Casa, dovrebbe trovare delle strade per salvaguardarla e non dire, come ha fatto fino ad adesso, che purtroppo non c’è nulla che possano fare per impedire la decisione dei proprietari di vendere. 
+ “L’edificio in cui è nata la Casa è uno dei tanti immobili di Atac sparsi per la capitale ed è risaputo che l’azienda è in dissesto economico da anni, perciò preferisce quasi sempre la soluzione della vendita all’asta dei propri beni e anche dello spazio in cui si è sviluppata Lucha y Siesta. Ormai sono molti anni che il collettivo tenta di aprire un dialogo con l’amministrazione comunale e con Atac, ma non c’è stata mai dall’altra parte la capacità politica, oltre che umana, di capire che il valore di questa esperienza è talmente alto che è necessario trovare una soluzione politica alla vicenda. L’Atac è una società al 100% partecipata dal Comune, perciò l’amministrazione pubblica, alla luce della funzione sociale, culturale e pubblica della Casa, dovrebbe trovare delle strade per salvaguardarla e non dire, come ha fatto fino ad adesso, che purtroppo non c’è nulla che possano fare per impedire la decisione dei proprietari di vendere.
 Noi pensiamo quindi che qualcosa si sarebbe potuto fare, chiaramente però intervenendo prima, prima che arrivassimo alla situazione in cui ci troviamo ora”.
 
 **Sul vostro sito abbiamo letto alcuni nomi coinvolti nella vicena dello sgombero. Come vivete il fatto che siano anche donne, a partire dalla sindaca, a favorirlo?**
 
-“Ti dirò di più, sono solo donne. La sindaca è donna, tutte le persone con cui ci siamo relazionate degli uffici sono donne; per fortuna in Regione Lazio abbiamo trovato una collaborazione positiva con l’assessorato alle Pari Opportunità della dottoressa Pugliese, quindi da una parte c’è anche una solidarietà femminile che sta funzionando nella vicenda. 
+“Ti dirò di più, sono solo donne. La sindaca è donna, tutte le persone con cui ci siamo relazionate degli uffici sono donne; per fortuna in Regione Lazio abbiamo trovato una collaborazione positiva con l’assessorato alle Pari Opportunità della dottoressa Pugliese, quindi da una parte c’è anche una solidarietà femminile che sta funzionando nella vicenda.
 Riguardo al fatto che la sindaca donna stia facendo tutto questo, noi abbiamo sempre detto che per occuparti di questioni di genere con un atteggiamento femminile non è sufficiente essere donna, altrimenti non si porrebbe il problema. Anche la giudice fallimentare che ha in mano la vicenda è una donna, le curatrici fallimentari che sono state nominate dal Tribunale sono donne e tutto questo ci sembrava un dato positivo, ma, insomma, così non è stato”.
 
 **Come immagini una sensibilizzazione della sindaca in merito alla vostra causa?**
@@ -93,7 +95,7 @@ Riguardo al fatto che la sindaca donna stia facendo tutto questo, noi abbiamo se
 
 **Il consiglio regionale del Lazio ha stanziato 2,4 milioni di euro per salvare la Casa. Avete, quindi, sentito il sostegno della regione?**
 
-“Sì, la Regione Lazio ha approvato, appunto, lo stanziamento di 2,4 milioni per il contrasto alla violenza di genere. Successivamente la stessa Regione ha specificato che intende partecipare all’asta pubblica per la vendita dell’immobile, alla quale chiunque lo desideri può partecipare. 
+“Sì, la Regione Lazio ha approvato, appunto, lo stanziamento di 2,4 milioni per il contrasto alla violenza di genere. Successivamente la stessa Regione ha specificato che intende partecipare all’asta pubblica per la vendita dell’immobile, alla quale chiunque lo desideri può partecipare.
 Ora è tutto fermo, data l’emergenza in corso, vediamo cosa accadrà”.
 
 **Cosa siete ancora disposte a fare per salvare la vostra Casa? Quali sono le prossime mosse?**

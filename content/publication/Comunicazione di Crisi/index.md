@@ -2,6 +2,7 @@
 title: "Comunicazione di crisi: gestione delle emergenze"
 authors:
 - Diderot
+- Flaminia Di Paolo
 date: "2020-04-20"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -71,4 +72,3 @@ A proposito di quanto appena detto è importante rispondere alla necessità di u
 
 
 È giusto proteggere il diritto di parola e la libertà di stampa ma bisogna anche e soprattutto usarli con cautela. Una parola sbagliata, una frase non chiara, può avere conseguenze molto serie. Dare informazioni e riportare notizie non vere può creare problemi alla popolazione e alla società, anche da un punto di vista di gestione e di opinione pubblica che, come sappiamo, ha un peso importante, specialmente con Internet dove ognuno ha la possibilità di parlare e dire la sua. Dopotutto, come disse Umberto Eco, "I social network sono un fenomeno positivo ma danno diritto di parola anche a legioni di imbecilli che prima parlavano solo al bar dopo un bicchiere di vino, senza danneggiare la collettività. Ora questi imbecilli hanno lo stesso diritto di parola dei Premi Nobel". Per questo in momenti di crisi è importante non solo una buona comunicazione ma anche che si comunichino **le cose giuste, nel modo giusto e nei tempi giusti**.
-
