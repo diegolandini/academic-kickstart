@@ -13,7 +13,6 @@ summary: 'Tante famiglie, povertà elevata, numerosi sacrifici, tanta sofferenza
 tags:
 - Favelas
 - Brasile
-- Viaggio
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
