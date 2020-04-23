@@ -75,7 +75,7 @@ La domanda che ci poniamo tutti sembra ovvia: quali danni può arrecare questo g
 “Una situazione del genere sta portando un grandissimo disagio a numerose persone. Dopotutto, la
 routine quotidiana di tutti è stata bruscamente interrotta da un momento all&#39;altro. Non ce lo aspettavamo.
 
-2
+
 Sottolineo quest’aspetto: è assolutamente fondamentale ricordare che ritrovarsi senza stimoli per chi è
 costretto a casa, senza magari poter passare allo *smart work* è fortemente alienante, *l’assenza di
 distrazioni e l’inattività è una condizione favorevole per l’insorgenza di condizioni come la depressione*.
@@ -87,6 +87,7 @@ padrona: se prima la routine quotidiana rappresentava una via di fuga da queste 
 per paura di ritorsioni durante nel corso della convivenza obbligatoria. A queste famiglie consiglio
 vivamente di affidarsi al numero verde istituito appositamente per l’emergenza da parte della Croce
 Rossa: 800065510.
+
 Un consiglio che do a tutti, è di evitare il rimuginare fatto di “se” e “ma”. Pensare a come sarebbe potuta
 essere la nostra vita e a quello che avremmo potuto fare se non ci fosse stata quest&#39;emergenza è
 estremamente tossico per la salute psicofisica dell’individuo. Evidenzia tutti i limiti dettati dalla
@@ -103,6 +104,7 @@ quotidianità prima dell’emergenza. Prepararci come se si dovesse uscire o div
 base alle nostre attività. Un&#39;altra cosa molto utile può essere quella di *condividere tutti insieme
 l’aspettativa della serata*, come trovare escamotage riguardo una cena, ma anche un aperitivo self-made
 può venirci in aiuto, per darci un’energia in più per vivere la giornata.
+
 Indubbiamente, un’altra modalità per investire il proprio tempo in maniera utile è quella di apprendere
 qualcosa in base ai propri interessi: riprendere in mano quel libro che abbandonammo dopo averlo
 acquistato con molto entusiasmo, dare sfogo alla nostra passione per i film, provare a scrivere, dedicarci a
@@ -120,13 +122,14 @@ Si tratta di un disturbo decisamente subdolo, in quanto insorge, come si evince 
 periodo di forte stress, condizione in cui non è poi tanto difficile ritrovarsi di questi giorni. A mio dire,
 quello che ci troveremo ad affrontare sarà totalmente inedito. La canonica psicologia dell’emergenza ha
 fatto fronte fino a questo momento a drammi derivanti da calamità naturali di vario genere o a conflitti
-armati, ora, per la prima volta, dovrà invece occuparsi di un post traumatico “invertito”. Nelle situazioni
+armati, ora, per la prima volta, dovrà invece occuparsi di un post traumatico “invertito”.
+Nelle situazioni
 “classiche&quot; sopracitate le persone *perdevano* la casa, mentre in questo caso dobbiamo stare *in casa*!
 Il modo più facile per riconoscere questo disturbo è partendo dai sintomi che, in questo caso specifico, si
 definiscono *intrusivi*. Il più comune è la possibilità ricorrente di avere *flash-back dell’evento
 traumatico*: pensate alle persone che usciranno dalla condizione di terapia intensiva dopo essere state
 
-3
+
 intubate, immaginate medici e infermieri ad assistere a una mortalità così estesa e atroce, in piena
 solitudine, pensate al mancato addio dei cari agli infetti con prognosi fatale che non potranno ricevere un
 funerale. Un altro sintomo tipico è legato alla *repulsione* e al *rigetto patologico di tutto ciò che ricorda
