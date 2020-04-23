@@ -11,8 +11,6 @@ publishDate: "2020-04-01"
 summary: 'Questo mese Diderot intervista Michela Cicculli, membro del collettivo fondatore della Casa delle donne Lucha y Siesta, la quale ormai da anni offre sostegno e speranza a tutte quelle donne, e non solo, che cercano rifugio e alleanza.'
 tags:
 - Intervista
-- Michela Ciculli
-- Casa delle donne
 - Lucha y Siesta
 featured: true
 # Featured image
