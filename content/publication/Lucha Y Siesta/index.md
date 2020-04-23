@@ -11,8 +11,6 @@ publishDate: "2020-03-31"
 summary: ''
 tags:
 - Intervista
-- Michela Ciculli
-- Casa delle donne
 - Lucha y Siesta
 featured: true
 # Featured image
