@@ -2,6 +2,7 @@
 title: "Big Data"
 authors:
 - Diderot
+- Tommaso Mancini
 date: "2020-03-25"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -14,9 +15,9 @@ tags:
 - Big Data
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
   preview_only: false
 # Associated Projects (optional).
@@ -55,10 +56,10 @@ Eppure a livello pratico è un qualcosa di così pervasivo, che sa così tanto d
 Per come si è evoluta la società nel tempo, oggi coesistono due parti diverse e complementari in ciascuno di noi: una è quella di homo societatis, che deve far fronte a tutte le complicazioni economico-sociali che nascono e crescono esponenzialmente giorno per giorno, l’altra è quella di homo biologicus, più coscienzioso, più critico nei confronti della società in cui vive. Per analizzare il mondo dei big data dobbiamo essere coscienti del nostro lato di homo societatis, e quindi renderci conto di far parte di un flusso enorme di dati che ogni ora, ogni minuto, ogni secondo viene generato da ciascuna delle nostre azioni, come mettere like o cercare qualcosa in rete.
 
 
-Facciamo un passo indietro. 
+Facciamo un passo indietro.
 
 
-**Che cosa vuol dire big data?** 
+**Che cosa vuol dire big data?**
 
 
 Traducendo letteralmente vuol dire “grandi dati”: stiamo parlando, di una vastissima raccolta di dati informativi che per essere estratti e analizzati hanno bisogno di tecnologie e metodi analitici specifici.
@@ -73,7 +74,7 @@ Non siamo capaci di pesare effettivamente il livello cui siamo di fatto inseriti
 Dal momento in cui siamo nati forniamo, cediamo ogni giorno inconsapevolmente una quantità di dati su noi stessi che ci permette di essere studiati sulla base delle nostre decisioni, delle nostre preferenze. Cliccare su quella famosa finestra “accetta cookie” non vuol dire soltanto levarsi di torno un fastidio per poter consultare più liberamente un sito, ad esempio, ma rappresenta un vero e proprio consenso all’utilizzo dei dati che possono essere raccolti nel corso dell’ultima ricerca sul browser, la stessa che ci ha portato proprio a quell’indirizzo web.   Questo si traduce spesso in pubblicità mirata a soddisfare le tue necessità, come nel caso di un viaggio, di un acquisto, non è niente di che, ci siamo abituati, eppure forse non tutti sanno che oggi, un semplice social network (già Facebook o Instagram) è in grado di raccogliere e sfruttare una quantità tale di dati circa un utente da poter indovinare il suo orientamento sessuale o le sue tendenze politiche, spesso prima ancora che lo stesso ne sia consapevole.
 
 
-Si fa quasi fatica a crederci, vero? 
+Si fa quasi fatica a crederci, vero?
 
 
 Eppure le tentate manipolazioni di massa della National Security Agency statunitense saltate fuori nel 2010 e lo scandalo dell’azienda Cambridge Analytica, sono esempi pratici di quanto siamo impotenti e facilmente influenzabili dinanzi all’universo invisibile dei big data.
@@ -95,25 +96,25 @@ Con l’ausilio di complessi algoritmi, le immense distese di dati che circolano
 
 
 La società che ha trovato un’ottima, seppur disumana, modalità di utilizzo dei dati è la Cambridge Analytica, che è riuscita a combinare la gestione e l’analisi dei dati con la comunicazione strategica durante la campagna elettorale statunitense, utilizzando queste informazioni per approfondire al meglio le attitudini di pensiero e le debolezze delle persone.
-L’attività di questa azienda è durata però ben poco. 
+L’attività di questa azienda è durata però ben poco.
 
 
 Fondata nel 2013, sostenne alle elezioni americane del 2016 Ted Cruz senatore federale per lo stato del Texas di indirizzo repubblicano, sconfitto in quegli anni da Trump. L’anno seguente CA era già pronta a operare con il neopresidente e investì molto sulle applicazioni degli studi inerenti alla psicometria, i quali risultarono eccezionali per gli obiettivi propagandistici, basandosi sullo studio delle informazioni del data perspective con l’obiettivo di creare profili virtuali tramite le informazioni psico-attitudinali di ogni utente, così da catalogare dei profili modello in base a caratteristiche psicologiche (paure, debolezze, preferenze).
 
 
-Lo scopo finale era di indurre ogni utente, con post o slogan generati da algoritmi nelle pagine social più frequentate (come Facebook) a sostenere la scalata del neopresidente e nel frattempo, nel Regno Unito, avvicinare gli elettori britannici alla concreta idea della Brexit. È sconcertante vedere come un referendum di grande importanza come quello della Brexit sia stato svolto al buio, principalmente su Facebook, con un giro di false informazioni che inducevano la popolazione britannica ad accanirsi contro i migranti e a simpatizzare per politiche di centro-destra. 
+Lo scopo finale era di indurre ogni utente, con post o slogan generati da algoritmi nelle pagine social più frequentate (come Facebook) a sostenere la scalata del neopresidente e nel frattempo, nel Regno Unito, avvicinare gli elettori britannici alla concreta idea della Brexit. È sconcertante vedere come un referendum di grande importanza come quello della Brexit sia stato svolto al buio, principalmente su Facebook, con un giro di false informazioni che inducevano la popolazione britannica ad accanirsi contro i migranti e a simpatizzare per politiche di centro-destra.
 
 
-Questo è raccontato dettagliatamente nell’intervista (vedi fine articolo) di una giornalista del Guardian, Carol Cadwalladr, che dopo il referendum del 2016 tornò nel suo paese in Galles per completare un reportage sui motivi che avevano indotto gli abitanti britannici a uscire dall’Unione Europea. 
+Questo è raccontato dettagliatamente nell’intervista (vedi fine articolo) di una giornalista del Guardian, Carol Cadwalladr, che dopo il referendum del 2016 tornò nel suo paese in Galles per completare un reportage sui motivi che avevano indotto gli abitanti britannici a uscire dall’Unione Europea.
 
-Notò con sorpresa che in media le persone giustificavano la volontà affermatasi di voler uscire dall’UE con una serie di false notizie riguardanti la presenza di troppi immigrati, alcuni parlavano addirittura di consistenti flussi migratori turchi. Dopo aver tentato inutilmente di accedere a un archivio degli annunci letti dagli utenti, scrisse un articolo di denuncia ,che indirizzò le ricerche della giornalista su Facebook. 
+Notò con sorpresa che in media le persone giustificavano la volontà affermatasi di voler uscire dall’UE con una serie di false notizie riguardanti la presenza di troppi immigrati, alcuni parlavano addirittura di consistenti flussi migratori turchi. Dopo aver tentato inutilmente di accedere a un archivio degli annunci letti dagli utenti, scrisse un articolo di denuncia ,che indirizzò le ricerche della giornalista su Facebook.
 -Infatti la verità- dice la Cadwalladr nella sua intervista su Ted - è che ciò che accade su Facebook resta su Facebook, solo tu vedi i tuoi contenuti che poi svaniscono, non c’è modo di alcuna possibile indagine e quindi non c’è modo di capire quali informazioni siano state inoltrate, soprattutto quale impatto ci sia stato sulle persone, come siano stati usati i dati contro le persone. Ma Facebook la risposta a tutto questo la ha, sebbene non voglia condividerla con noi-.
 
 
-Alla fine il caso fu risolto: “Vota Uscire”, fazione politica contro l’UE, aveva investito quantità di denaro superiori a quelle consentite dalle leggi britanniche del ventesimo secolo in merito alle campagne elettorali. 
+Alla fine il caso fu risolto: “Vota Uscire”, fazione politica contro l’UE, aveva investito quantità di denaro superiori a quelle consentite dalle leggi britanniche del ventesimo secolo in merito alle campagne elettorali.
 
 
-Come aveva fatto? 
+Come aveva fatto?
 
 
 Ovviamente avvalendosi di Facebook, Google e altri provider server tramite società operanti in settori illegali, come definiti dal governo britannico; lo scoop fu ben più grande dal momento che lo stato di allerta e terrore nei confronti dei migranti diffusosi nel Regno Unito era stato in qualche modo gestito dalle società americane in cooperazione con quelle inglesi. Come spiega bene la Cadwallader, la Brexit è stato un referendum al buio poiché è stato facilmente vinto online,  manipolando strategicamente le persone a scopo puramente elettorale. Lo scandalo ha avuto risonanza tale che Mark Zuckerberg si è dovuto presentare dinanzi alla riunione del Senato statunitense lo scorso 25 Ottobre, al fine di chiarire il presunto ruolo di Facebook nella vicenda, in un botta e risposta con la senatrice di New York Alexandria Ocasio-Cortez, divenuto celebre sui social.

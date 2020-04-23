@@ -2,6 +2,8 @@
 title: "Sesso: storia e attualità dell'arte più antica del mondo"
 authors:
 - Diderot
+- Gina Pugliese
+- Flaminia Di Paolo
 date: "2020-04-10"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -15,9 +17,9 @@ tags:
 - Sessualità
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
   preview_only: true
 # Associated Projects (optional).
@@ -51,7 +53,7 @@ Mentre nelle scuole il tema dell’educazione sessuale si esaurisce con un sempl
 {{< figure library="true" src="lupanareprimo.jpg" title="" lightbox="true" >}}
 
 **Il mondo del porno**
- 
+
 Nell’epoca del web 2.0 reperire materiali pornografici è sempre più facile e veloce; il sesso è *ovunque* e se ne parla *sempre*. Molte donne affermano di guardare siti porno non per provare piacere attraverso la masturbazione, bensì per “imparare” ad essere più seducenti, come se il porno fosse un “manuale di istruzioni” che prevede comportamenti e dinamiche schematiche.
 La verità è che il mondo del porno offre facilmente una visione distorta della sessualità, che prevede soprattutto l’oggettivizzazione del corpo femminile, deriva dall’influenza di una società sessista che incrementa ancora di più l’idea di una donna che non è padrona della propria sessualità.
 Specialmente nel panorama italiano, basti solo pensare alla programmazione serale di Rai e Mediaset dove spesso corpi longilinei, glabri e tonici fanno da cornice allo show televisivo, suggerendo un ideale di bellezza che ha molto poco a che fare con la realtà.
@@ -71,12 +73,12 @@ Una valida opzione esiste e si parla infatti di *Porno al femminile* per indicar
 
 Importanti anche gli interventi di Erika Lust, celebre regista di porno al femminile nonché scrittrice di libri erotici, nei quali afferma che c’è bisogno di più donne nel porno non solo come attrici, ma soprattutto come registe e produttrici. Lust sostiene che il ruolo della donna è ormai cambiato in tutti gli ambiti, restando immutato solamente nel porno ed è quindi il momento di esortare le donne ad entrare in questo mondo e rivoluzionarlo dall’interno.
 È consigliabile fruire di questa versione sana del porno in cui non c'è spazio per la morbosità, ma per la varietà dei corpi e dei gusti sessuali, per il sesso sicuro (infatti si vedono gli attori indossare i profilattici), per una visione di cinema hard dove tutti i protagonisti sono esseri umani e non oggetti sessuali. (Vedi nota 3 a fine articolo)
- 
- 
+
+
 {{< figure library="true" src="Klimt2.jpg" title="" lightbox="true" >}}
- 
+
 **Come conoscere il proprio corpo?**
- 
+
 L’autoerotismo ci permette di capire *cosa* vogliamo e *come* lo vogliamo.
 La parola masturbazione non è ancora pienamente integrata nei discorsi femminili e come già accennato molte donne provano vergogna ad ammettere di farlo, tanto in pubblico quanto tra amiche. È importante però imparare (e insegnare) che non è nulla di sbagliato e che il bisogno e la curiosità di scoprire, esplorare e conoscere il proprio corpo è in tutti noi, qualsiasi sia il nostro genere. L’autoerotismo porta con sé molti benefici: aumenta l’autostima, riduce lo stress, favorisce un rapporto positivo e piacevole con il corpo e soprattutto ci permette di capire come raggiungere l’orgasmo. Il piacere garantisce il rilascio di ormoni come le endorfine, che sono benefiche per l’equilibrio mentale e fisico, regolando inoltre gli effetti del cortisolo, l’ormone dello stress.
 Entrare in contatto con il proprio corpo è importante ed è giusto ricordare che la sessualità femminile non è solo etero e chi decide di ricercare autonomamente il proprio piacere non è “sporco”.
@@ -93,9 +95,9 @@ Alla luce di tutti gli esempi di erotismo che abbiamo avuto nella storia e nella
 
 {{< figure library="true" src="temple-figures-52012_960_720.jpg" title="" lightbox="true" >}}
 
- 
+
 **L’orgasmo**
- 
+
 La questione dell’orgasmo femminile è molto dibattuta. Gli studi scientifici sull’argomento hanno favorito la nascita di uno dei “falsi miti” più diffusi sul piacere femminile che distingue l’orgasmo vaginale da quello clitorideo e che, con il passare degli anni, ha provocato nelle donne sensazioni di inadeguatezza dovute alla presunta incapacità di raggiungere l’uno o l’altro orgasmo. Questo dibattito sembra superato dal momento in cui sia la vagina che il clitoride hanno un ruolo fondamentale nell'orgasmo femminile.
 Infatti il clitoride, che è ricco di terminazioni nervose, è il punto di partenza dell'orgasmo, che si produce poi nella vagina. Dunque un orgasmo clitorideo è sempre anche vaginale.
 Sfatato questo mito, il problema persiste: perché le donne hanno spesso difficoltà a raggiungere l’orgasmo? E’ opinione diffusa che sia dovuta prevalentemente alla scarsa conoscenza del proprio corpo e alla scarsa intimità instaurata con esso.
@@ -110,20 +112,20 @@ Tutti gli stereotipi radicati all’interno della società si riversano anche ne
 Gli studiosi della *Western University* hanno cercato di capire attraverso varie ricerche quali sono i motivi che spingono le donne a fingere l’orgasmo: è risultato che le donne attribuiscono maggior valore all’orgasmo maschile che al proprio e che nel caso di un mancato orgasmo si sentirebbero giudicate dall’uomo. È evidente il bisogno di una cultura del piacere femminile che possa essere pubblicamente divulgata, perché per molto tempo l’orgasmo femminile è stato considerato come un qualcosa di puramente ornamentale, non alla pari dell’orgasmo maschile considerato invece fondamentale.
 La paura e l’insicurezza, che indubbiamente derivano dalle aspettative e dalle pressioni della società nei confronti della donna, ora più che mai devono essere scardinate per far sì che anche noi donne possiamo finalmente prendere le redini del sesso e goderci a pieno questa esperienza, non più come spettatrici ma come protagoniste. Basta finzione, basta compiacimenti e basta insicurezze! Liberiamoci di tutto ciò che ci appesantisce, pensieri superflui che non fanno altro che tenerci strette nelle nostre convinzioni ed isolarci.
 Il fascino erotico, come diceva lo scrittore Milan Kundera, si esprime più nella deformazione che nella regolarità, più nell’espressività che nella proporzione, più nell’originalità che nella bellezza fatta in serie.
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 **Note:**
- 
+
 1. “Per molti anni non sono riuscita a raggiungere l’orgasmo. La prima volta che è successo mi sono sentita finalmente me stessa, completa, come se avessi riacquisito il mio potere e avessi incontrato quella parte di me che cercavo da tempo”. Queste sono le parole di una delle tante donne intervistate da Roberta Rossi, psicoterapeuta e sessuologa, nel libro Vengo prima io di cui consiglio vivamente la lettura. Roberta Rossi infatti dedica un vero e proprio manuale alle donne che desiderano iniziare a prendere maggior confidenza con se stesse e con la propria sessualità trattando temi come l’autoerotismo, l’orgasmo, i sex toys, la contraccezione e tanto altro.
 2. Altro spunto molto interessante per intraprendere un viaggio verso l’orgasmo è il podcast “VENGO ANCH’IO” della psicologa Leni che, con un tono molto ironico e professionale, parla dei tanti ostacoli che molto spesso ci bloccano nel raggiungimento del piacere:
- 
+
 (https://open.spotify.com/show/0qawUye1XSFPmIRY09LDpM?si=H2oBYp1xT0-urgVp2ejBWw).
- 
+
 
 3. L'ex pornostar Jersey Jaxin: "Ragazzi che ti prendono a pugni in faccia. I liquidi corporei di tutti gli uomini lì presenti sulla tua faccia e negli occhi. Sei tutta dolorante. Le interiora potrebbero uscirti fuori. Non finisce mai. Le persone fanno uso di droghe perché non riescono ad affrontare il modo in cui vengono trattate".
 https://www.collectiveshout.org/porn_stars_speak_out

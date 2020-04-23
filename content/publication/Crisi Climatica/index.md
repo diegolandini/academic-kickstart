@@ -2,6 +2,7 @@
 title: "Il WMO lancia l'allarme"
 authors:
 - Diderot
+- Valerio Garofalo
 date: "2020-03-27"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -18,9 +19,9 @@ tags:
 - WMO
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
   preview_only: false
 # Associated Projects (optional).
@@ -54,7 +55,7 @@ I primi dati del report riguardano l’andamento della temperatura media globale
 Le indagini del WMO denunciano un incremento della temperatura terrestre di circa 1.1°C.
 Per capire perché si parla di incremento, è necessario specificare che le stime vengono calcolate prendendo come punto di riferimento la temperatura dell’era preindustriale, che si aggirava attorno ai 14°C. Di conseguenza, tutto quello che sta accadendo da più di 100 anni è unica responsabilità dell’industrializzazione accanita, di un programma di salvaguardia ambientale giunto estremamente in ritardo e della totale assenza di una coscienza ecologica. Una coscienza ecologica della quale forse solo adesso si ha una leggera parvenza.
 Qual è il significato di un dato del genere?
-Indica che la Terra è su una graticola e sta cuocendo lentamente. 
+Indica che la Terra è su una graticola e sta cuocendo lentamente.
 Questo incremento inarrestabile è dovuto alle concentrazioni sempre maggiori di gas serra, tra i quali i protagonisti indiscussi sono il diossido di carbonio, il metano e l’ossido di diazoto, con concentrazioni che hanno abbattuto ogni record precedente. Lo scorso anno le emissioni hanno raggiunto nuovi massimi, superando quelle del 2018, a riprova del fatto che l’efficacia delle politiche ambientali è ancora troppo debole per contrastare il problema.
 
 Era, infatti, probabilmente già tardi quando nel 2015 le Nazioni Unite compresero l’urgente necessità di rallentare questo aumento fino ad arrestarlo; per questo è stato siglato il famoso Accordo di Parigi nell’Aprile del 2016, il cui punto principale era proprio quello di limitare la crescita ad un massimo di +2°C entro fine secolo.
@@ -64,14 +65,14 @@ Il 2019 è stato il secondo anno più caldo mai registrato, superato solo dal 20
 
 **Oceani**
 
-Il WMO comunica che nel 2019 gli oceani hanno vissuto quasi 2 mesi di temperature insolitamente calde, durante i quali almeno l’84% di essi è stato attraversato da un’ondata di calore. 
+Il WMO comunica che nel 2019 gli oceani hanno vissuto quasi 2 mesi di temperature insolitamente calde, durante i quali almeno l’84% di essi è stato attraversato da un’ondata di calore.
 Il picco è stato toccato lo scorso settembre nel Pacifico, le cui acque hanno risposto al surriscaldamento repentino con la proliferazione di alghe tossiche, causa della morte di circa 100 milioni di esemplari di merluzzo e con l’apertura innaturale di centinaia di migliaia di cozze sulle spiagge della California.
 “Si tratta di uno dei maggiori danni subito dall’ecosistema marino che io abbia mai visto in vita mia” commenta in un’intervista al TheGuardian Jackie Sones, coordinatore del programma di ricerca marina presso il centro Bodega Bay, in California.
 
 Questa catena di eventi è correlata alla capacità degli oceani di assorbire circa il 90% del calore immesso nell’atmosfera, di fatto contribuendo a limitare l’aumento sregolato della temperatura atmosferica, ma allo stesso tempo provocando ripercussioni devastanti sulla condizione della fauna marina mondiale.
 Il riscaldamento degli oceani ha impatto anche sul sistema climatico ed è il maggior responsabile dell’innalzamento del livello dei mari, dell’alterazione delle correnti oceaniche e dei percorsi delle tempeste, così come dello scioglimento di banchi di ghiaccio galleggianti.
 
-La questione non riguarda esclusivamente il calore: i nostri oceani sono il vero polmone della Terra, produttori di circa il 50% dell’ossigeno che respiriamo e sono anche in grado di assorbire le emissioni di CO2, attenuando così l’impatto sul cambiamento climatico che hanno le emissioni inquinanti. 
+La questione non riguarda esclusivamente il calore: i nostri oceani sono il vero polmone della Terra, produttori di circa il 50% dell’ossigeno che respiriamo e sono anche in grado di assorbire le emissioni di CO2, attenuando così l’impatto sul cambiamento climatico che hanno le emissioni inquinanti.
 Il pianeta non molla, non si dà per vinto, tenta di mettere in campo i propri meccanismi di arginamento e riparazione, ma vi sono anche importanti conseguenze negative, come l’aumento di acidità degli oceani e il cambiamento del pH dell’acqua, che danneggia la vita di numerosi organismi, fra i quali coralli, crostacei e molluschi, compromettendone la sopravvivenza. Si tratta del fenomeno che prende il nome di acidificazione ed è strettamente associato alla deossigenazione dei mari: dal 1950 ad oggi si è registrata una perdita di circa il 2% dell’ossigeno presente negli oceani. L’effetto combinato dei due processi chimici rappresenta di fatto la più grave minaccia per gli ecosistemi oceanici: è previsto che la copertura delle barriere coralline diminuirà fino al 70%-90% di quella attuale. Fenomeno di cui abbiamo avuto una prima dimostrazione nel 2018 con lo sbiancamento e poi la morte di ben un terzo della grande barriera corallina australiana (conseguenza degli effetti climatici del 2016).
 
 
@@ -98,7 +99,7 @@ Il WMO tiene in considerazione anche l’aumento della frequenza con cui si veri
 
 
 
-Catastrofi naturali tra cui cicloni tropicali e pesanti alluvioni stanno colpendo il nostro pianeta con una frequenza insolita. Esempi lampanti sono il ciclone Idai nell’Africa sud-orientale, il ciclone Fani nell’Asia meridionale, l’uragano Dorian nei Caraibi e le inondazioni che si contano a decine in Iran, Filippine ed Etiopia. 
+Catastrofi naturali tra cui cicloni tropicali e pesanti alluvioni stanno colpendo il nostro pianeta con una frequenza insolita. Esempi lampanti sono il ciclone Idai nell’Africa sud-orientale, il ciclone Fani nell’Asia meridionale, l’uragano Dorian nei Caraibi e le inondazioni che si contano a decine in Iran, Filippine ed Etiopia.
 Tutti questi eventi hanno avuto un impatto così forte sulla vita delle popolazioni dei luoghi colpiti da aumentare il numero di profughi in seguito alla distruzione di infrastrutture e centri abitati. I profughi del clima esistono per davvero e secondo quanto riportato tra gennaio e giugno 2019 altri 6,7 milioni di individui si sono sommati ai precedenti, per un totale di quasi 22 milioni, contro i 17,2 milioni nel 2018.
 
 
@@ -108,9 +109,9 @@ Nel 2010 si pensava di avere ancora 30 anni a disposizione per poter limitare ed
 L’idea dei punti di non ritorno è stata introdotta 20 anni fa dal Gruppo Intergovernativo sul Cambiamento Climatico (IPCC) e tengono conto di tutti quegli avvenimenti come la perdita della banchisa nell’Antartico occidentale e della foresta amazzonica, il disgelo estensivo del permafrost e altre componenti chiave del sistema. Sono in totale 30 e vengono considerati “di non ritorno” perché possono arrivare a limiti estremi e poi cambiare in modo irreversibile e improvviso.
 Proviamo a capire meglio. Immaginiamo la Terra come un enorme muro che resiste fino a 30 colpi di martello. Il 31° colpo potrebbe essere quello decisivo.
 In passato si pensava che questi punti critici sarebbero stati scatenati solo una volta che l’aumento della temperatura fosse arrivato al valore di +5°C, ma stando agli ultimi rapporti IPCC potrebbero aver già avuto inizio tra i +1° e i +2°C.
-Ogni piccolo aumento nella temperatura aumenta il rischio che si verifichi uno dei 30 punti di non ritorno. Con il +1°C del riscaldamento attuale, si pensa che 9 dei 30 siano già in corso. 
+Ogni piccolo aumento nella temperatura aumenta il rischio che si verifichi uno dei 30 punti di non ritorno. Con il +1°C del riscaldamento attuale, si pensa che 9 dei 30 siano già in corso.
 Tutti gli impegni presi in precedenza giunti a questo punto non sono più sufficienti.
-Le proposte nazionali attuate finora porteranno ad un ulteriore aumento delle emissioni, limitato e inferiore ai livelli precedenti certo, ma pur sempre insufficiente per l’obiettivo concordato. Si è deciso quindi di porre un nuovo limite di crescita a 1.5°C entro il 2030. Tuttavia, il raggiungimento di tale soglia richiede spese e investimenti di enorme portata a causa del mancato impegno mostrato negli anni precedenti. 
+Le proposte nazionali attuate finora porteranno ad un ulteriore aumento delle emissioni, limitato e inferiore ai livelli precedenti certo, ma pur sempre insufficiente per l’obiettivo concordato. Si è deciso quindi di porre un nuovo limite di crescita a 1.5°C entro il 2030. Tuttavia, il raggiungimento di tale soglia richiede spese e investimenti di enorme portata a causa del mancato impegno mostrato negli anni precedenti.
 
 **Coronavirus**
 
@@ -128,7 +129,7 @@ C’è una grande preoccupazione circa questa parentesi che avrà vita esigua: L
 
 **Come NON viene affrontata l’emergenza climatica durante la quarantena**
 
-Abbiamo fin qui riportato dati ufficiali e considerazioni di esperti di eventi già accaduti o che accadranno. È giunto il momento di fare una piccola riflessione sulla situazione attuale. 
+Abbiamo fin qui riportato dati ufficiali e considerazioni di esperti di eventi già accaduti o che accadranno. È giunto il momento di fare una piccola riflessione sulla situazione attuale.
 Abbiamo accennato ai collaterali effetti “positivi” di questa quarantena planetaria ma di come possano, nell’imminente futuro, ritorcersi contro di noi. Adesso proviamo però a dare uno sguardo a quello che sta accadendo ed è già accaduto a causa di questa pandemia.
 Tutti abbiamo sentito parlare, o abbiamo perfino sperimentato, la corsa all’accaparramento delle mascherine per proteggerci dal contagio del Covid-19. Sebbene gli esperti abbiano ripetuto più e più volte che indossarle se non si è affetti dal virus non previene il contagio, ben pochi sanno che le normali mascherine in tessuto, quelle che si vedono in volto ai medici nelle serie televisive, non servono a molto. Le uniche efficaci alla protezione e alla prevenzione sono solo quelle certificate con filtro FFP2 o FFP3, e anche per queste si è verificata una corsa a chi arriva primo.
 
@@ -159,7 +160,7 @@ La responsabilità non è unicamente degli alti funzionari, dei leader mondiali 
 
 Note:
 1. Archivio: https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate
-2. Programma delle Nazioni Unite per l’Ambiente. Opera dal 1972 contro i cambiamenti climatici 
+2. Programma delle Nazioni Unite per l’Ambiente. Opera dal 1972 contro i cambiamenti climatici
 3. Se vuoi saperne di più vedi: https://www.treccani.it/enciclopedia/organizzazione-meteorologica-mondiale
 4. Vedi: https://www.rainews.it/dl/rainews/articoli/Clima-rapporto-UNEP-2019-la-Terra-verso-un-aumento-di-temperatura-di-3-virgola-2-gradi-Onu-non-si-puo-piu-aspettare-c0766ee4-e2dc-4d07-8404-ffc64954fa83.html
 5. Vedi: https://www.nonsoloanimali.com/trovate-nel-mare-di-hong-kong-centinaia-di-mascherine-gettate-in-acqua-dopo-luso/ e https://www.yeslife.it/2020/03/25/covid-19-mascherine-spiagge-mare-rischio-ambiente/

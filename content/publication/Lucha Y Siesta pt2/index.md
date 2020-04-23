@@ -2,6 +2,8 @@
 title: "Intervista a Lucha y Siesta (Seconda parte)"
 authors:
 - Diderot
+- Alice Vitale
+- Lorenzo Feltoni Gurini
 date: "2020-04-01"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -14,9 +16,9 @@ tags:
 - Lucha y Siesta
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
   preview_only: false
 # Associated Projects (optional).
@@ -57,7 +59,7 @@ Le voci provenienti dai coordinamenti dei centri antiviolenza riferiscono di mol
 
 "È accaduto rarissime volte, forse un paio. Noi del collettivo siamo nella Casa tutti giorni o quasi, ma non 24 ore su 24, magari cose di questo genere succedono di notte e noi non possiamo controllarle. Per fortuna all'interno della casa c'è solidarietà, quindi un meccanismo di sicurezza e consapevolezza del pericolo. Gli episodi sono stati abbastanza gestibili, nulla di particolarmente preoccupante o violento. È anche vero che nella maggior parte dei casi le donne non rivelano dove si trovano, quindi pur volendole cercare è molto complicato, a volte vengono da posti lontani e per gli uomini è praticamente impossibile trovarle. Nel caso di donne migranti spesso l'evento traumatico è stato parte del viaggio, quindi sono arrivate da noi sole e non correvano nessun pericolo di questo tipo".
 
-**È mai capitato che venissero autonomamente a chiedere aiuto minori in difficoltà per violenze subite dalle loro madri o da loro stessi?** 
+**È mai capitato che venissero autonomamente a chiedere aiuto minori in difficoltà per violenze subite dalle loro madri o da loro stessi?**
 
 "Sì, abbiamo ricevuto chiamate al numero del centro antiviolenza, mai che si siano presentati fisicamente. In quel caso le operatrici devono attivare un percorso diverso rispetto al canonico che, paradossalmente, deve includere il genitore, almeno uno dei due, o un altro adulto che possa affiancare il minore in qualche modo. Questo meccanismo si attua in rete con i servizi sociali, quindi se ci sono situazioni che necessitano un intervento diverso si fa attivando chi di dovere e competenza".
 
@@ -74,10 +76,10 @@ Le voci provenienti dai coordinamenti dei centri antiviolenza riferiscono di mol
 
 “Una persona che si avvicina alle attività della Casa solitamente ha una certa consapevolezza del fenomeno. Nella Casa capita spesso che sia trasformato e integrato il concetto di violenza, ti rendi conto di quanto la tua concezione fosse parziale rendendola diversa e più ampia, arrivando anche a chiederti se in qualche occasione sia stato tu stesso agente della violenza. Venendo a contatto con diverse dinamiche riportate nella Casa e partecipando alle attività, metti un po’ in discussione quelle che sono le tue certezze in merito alla violenza di genere. Questo per Lucha y Siesta è il raggiungimento di un piccolo obiettivo”.
 
-**Quanto è lontana la vostra società utopica da quella in cui viviamo?  Secondo voi da cosa dovremmo partire per raggiungerla?** 
+**Quanto è lontana la vostra società utopica da quella in cui viviamo?  Secondo voi da cosa dovremmo partire per raggiungerla?**
 
-“Non saprei quantificarlo, credo che parte della società che vorremmo vivere sta proprio nel costruirla, quindi ci siamo già un po’ dentro, forse in chiave ottimistica. Diamo molto valore al piano relazionale all’interno del gruppo e al collettivo che partecipa alle attività, c’è un sistema orizzontale secondo cui siamo tutte uguali e nessuna comanda sull’altra nonostante sia inevitabile che ognuna abbia il proprio ruolo e obiettivo lì dentro. È un tipo di relazione che va costruito, non stabilito. 
-Lo scopo di tutte, ospiti e membri del collettivo, è interiorizzare questi valori, giacché per molte donne che arrivano non sono scontati, essendo spesso abituate ad essere svalorizzate fino all’osso. 
+“Non saprei quantificarlo, credo che parte della società che vorremmo vivere sta proprio nel costruirla, quindi ci siamo già un po’ dentro, forse in chiave ottimistica. Diamo molto valore al piano relazionale all’interno del gruppo e al collettivo che partecipa alle attività, c’è un sistema orizzontale secondo cui siamo tutte uguali e nessuna comanda sull’altra nonostante sia inevitabile che ognuna abbia il proprio ruolo e obiettivo lì dentro. È un tipo di relazione che va costruito, non stabilito.
+Lo scopo di tutte, ospiti e membri del collettivo, è interiorizzare questi valori, giacché per molte donne che arrivano non sono scontati, essendo spesso abituate ad essere svalorizzate fino all’osso.
 Costruendo l’uguaglianza fra loro saranno in grado di portarla anche fuori e rivendicarla all’interno della società, in cui ritengo che il valore della dignità umana sia essenziale”.
 
 **Esiste una rete di collegamento con altre organizzazioni di questo tipo presenti in altre province e città italiane ed europee?**
@@ -96,7 +98,7 @@ Costruendo l’uguaglianza fra loro saranno in grado di portarla anche fuori e r
 
 **Ci sono storie di donne accolte che, si potrebbe dire, hanno aggiunto mattoni alla vostra Casa, che vorreste raccontarci?**
 
-“Mi viene in mente la storia di una ragazza nigeriana che è arrivata in Italia attraverso mille vicissitudini, attraversamenti e violenze di ogni tipo. E’ stata accolta a Lucha y Siesta, dove è rimasta per tanto tempo perché quando è arrivata era talmente piccola, stava studiando per fare la maturità con grande fatica. È stato proprio un percorso di crescita, iniziato ottenendo i documenti ed imparando l’italiano e proseguito con un corso per diventare operatrice sociosanitaria; ora lavora in una clinica. Queste sono storie che ci rimangono nel cuore, penso ci consideri la sua famiglia e non si libererà facilmente di noi! 
+“Mi viene in mente la storia di una ragazza nigeriana che è arrivata in Italia attraverso mille vicissitudini, attraversamenti e violenze di ogni tipo. E’ stata accolta a Lucha y Siesta, dove è rimasta per tanto tempo perché quando è arrivata era talmente piccola, stava studiando per fare la maturità con grande fatica. È stato proprio un percorso di crescita, iniziato ottenendo i documenti ed imparando l’italiano e proseguito con un corso per diventare operatrice sociosanitaria; ora lavora in una clinica. Queste sono storie che ci rimangono nel cuore, penso ci consideri la sua famiglia e non si libererà facilmente di noi!
 
 
 Un'altra storia cui sono legata è quella di una ragazza del Bangladesh arrivata a Roma dal Nord Italia, da un matrimonio forzato che si era rivelato un incubo. Lui aveva già una donna e con il tempo era diventato violento, finché questa ragazza non ha deciso di andar via, denunciandolo. Tramite altre associazioni ha scoperto Lucha y Siesta, dove ha avuto inizio il suo percorso; anche lei non parlava una parola di italiano, perciò ha dovuto impararlo con fatica. Ha fatto poi un corso di cucina interculturale grazie ad una ONG e adesso lavora in un ristorante. Queste storie sarebbero potute andare molto diversamente, ma con uno sforzo comune e semplici possibilità come quella di imparare una lingua o fare un corso sono diventate per noi piccole storie di successo”.
