@@ -1,5 +1,5 @@
 ---
-title: "Psicologa"
+title: "Solitudine da quarantena"
 authors:
 - Diderot
 - Leonardo Zolovkins
