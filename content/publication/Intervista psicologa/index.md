@@ -34,7 +34,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 **Intervista a Paola Contardi, Dottoressa in Psicologia sui rischi psicologici legati alla
