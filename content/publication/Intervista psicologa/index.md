@@ -9,7 +9,7 @@ doi: ""
 publishDate: "2020-04-23"
 
 # Summary. An optional shortened abstract.
-summary: 'Lo scorso 1 Aprile, Diderot ha partecipato ad una conferenza indetta da **Green Atlas** con la psicoterapeuta e psicologa del lavoro Paola Contardi. La dottoressa ha esaminato a fondo il signifcato del termine “quarantena” per poi illustrare i rischi psicologici derivati da essa, fornendo preziosi consigli su come comportarsi per affrontare al meglio un periodo così delicato.'
+summary: 'Lo scorso 1 Aprile, Diderot ha partecipato ad una conferenza indetta da **Green Atlas** con la psicoterapeuta e psicologa del lavoro Paola Contardi. La dottoressa ha esaminato a fondo il significato del termine “quarantena” per poi illustrare i rischi psicologici derivati da essa, fornendo preziosi consigli su come comportarsi per affrontare al meglio un periodo così delicato.'
 tags:
 - Intervista
 - Covid19
