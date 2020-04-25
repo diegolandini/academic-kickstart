@@ -8,17 +8,17 @@ doi: ""
 publishDate: "2020-04-25"
 
 # Summary. An optional shortened abstract.
-summary: 'Abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona, i bambini e i ragazzi di 75 anni fa: i nostri nonni.'
+summary: 'Abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona'
 tags:
-- Liberazione
 - Intervista
+- Liberazione
 featured: true
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 
+  caption:
   focal_point: ""
-  preview_only: false
+  preview_only: true
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
