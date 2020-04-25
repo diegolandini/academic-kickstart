@@ -8,7 +8,7 @@ doi: ""
 publishDate: "2020-04-25"
 
 # Summary. An optional shortened abstract.
-summary: 'Abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona, i bambini e i ragazzi di 75 anni fa: i nostri nonni.'
+summary: 'Abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona, i bambini e i ragazzi di 75 anni fa i nostri nonni.'
 tags:
 - Liberazione
 - Intervista
