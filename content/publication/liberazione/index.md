@@ -36,10 +36,10 @@ draft: false
 
 ---
 
-**Scrivere e parlare di libert‡ Ë sempre difficile. Oggi siamo abituati a darla per scontata, Ë uno dei diritti fondamentali dell'uomo, e i nostri genitori ci insegnano che nasciamo e cresciamo liberi. Eppure, fino a poche decine di anni fa la libert‡ era qualcosa di diverso: una conquista.
-Spesso durante le ricorrenze non ci capita di fermarci davvero a riflettere sul loro significato. Ogni anno Ë difficile che qualcuno ci aiuti a riflettere sul fatto che la Liberazione ha rappresentato molto pi˘ di un cambiamento storico o politico. » qualcosa che va oltre líoggettivit‡: tante vite sono cambiate, migliorate e peggiorate, in quel lontanissimo 25 Aprile.
+**Scrivere e parlare di libert√† √® sempre difficile. Oggi siamo abituati a darla per scontata, √® uno dei diritti fondamentali dell'uomo, e i nostri genitori ci insegnano che nasciamo e cresciamo liberi. Eppure, fino a poche decine di anni fa la libert√† era qualcosa di diverso: una conquista.
+Spesso durante le ricorrenze non ci capita di fermarci davvero a riflettere sul loro significato. Ogni anno √® difficile che qualcuno ci aiuti a riflettere sul fatto che la Liberazione ha rappresentato molto pi√π di un cambiamento storico o politico. √à qualcosa che va oltre l‚Äôoggettivit√†: tante vite sono cambiate, migliorate e peggiorate, in quel lontanissimo 25 Aprile.
 Oggi ne conserviamo la memoria ma forse ci sfugge ancora il significato umano ed emotivo, per questo abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona, i bambini e i ragazzi di 75 anni fa: i nostri nonni.
-Non cíera niente di pi˘ giusto se non alzare la cornetta e chiamarli, ripetendo a tutti le stesse tre domande:
+Non c‚Äôera niente di pi√π giusto se non alzare la cornetta e chiamarli, ripetendo a tutti le stesse tre domande:
 Come hai vissuto la liberazione? 
 Ricordi un evento, delle parole specifiche che in quel periodo ti colpirono?
 Da cosa non siamo ancora liberi oggi?
@@ -47,58 +47,58 @@ Queste sono le loro risposte, le loro testimonianze: pezzi di vita con cui vale 
 
 *Nonna Mariuccia *
 
-ìIo vivevo a Bagnasco, un paesino tra Liguria e Piemonte diviso in 2 borghi; abbiamo convissuto tanto tempo con i tedeschi. 
-Noi avevamo dovuto ospitarli, non per ricevere chiss‡ quale trattamento, ma perchÈ erano arrivati e avevano deciso di sistemarsi in casa nostra. 
+‚ÄúIo vivevo a Bagnasco, un paesino tra Liguria e Piemonte diviso in 2 borghi; abbiamo convissuto tanto tempo con i tedeschi. 
+Noi avevamo dovuto ospitarli, non per ricevere chiss√† quale trattamento, ma perch√© erano arrivati e avevano deciso di sistemarsi in casa nostra. 
 Mamma li teneva tutti in riga. 
 Non erano cattivi, alcuni aiutavano le persone in paese e ricordo che questo loro atteggiamento ci aveva colpito sin da subito. 
-Non tutti stavano agli ordini dei superiori: nonostante avessero razziato tutta la regione e si nascondessero nella zona di mezzo tra i 2 nuclei del paese, noi abbiamo un ricordo diverso dei tedeschi, pi˘ umano, perchÈ ci aiutavano e alcuni collaboravano persino con i partigiani. 
+Non tutti stavano agli ordini dei superiori: nonostante avessero razziato tutta la regione e si nascondessero nella zona di mezzo tra i 2 nuclei del paese, noi abbiamo un ricordo diverso dei tedeschi, pi√π umano, perch√© ci aiutavano e alcuni collaboravano persino con i partigiani. 
 La notte del 25 non andammo a dormire per via del trambusto: i tedeschi non stettero agli ordini di causare maggiori danni possibili nella loro ritirata e noi siamo rimasti a sentire i rumori della loro fuga scatenata.
-Se penso a oggi dico che tutti ragionano da soli ed Ë una cosa nociva, tengono la testa bassa come i cavalli. Sono tutti testardi nelle proprie convinzioni, manca collaborazione. 
-Non cíË pi˘ traccia dei tedeschi, ma rischiamo molto pi˘ la vita di prima, per via del disprezzo, della lontananza e dellíabitudine a demolire anzichÈ fare qualcosa di costruttivoî.
+Se penso a oggi dico che tutti ragionano da soli ed √® una cosa nociva, tengono la testa bassa come i cavalli. Sono tutti testardi nelle proprie convinzioni, manca collaborazione. 
+Non c‚Äô√® pi√π traccia dei tedeschi, ma rischiamo molto pi√π la vita di prima, per via del disprezzo, della lontananza e dell‚Äôabitudine a demolire anzich√© fare qualcosa di costruttivo‚Äù.
 
 *Nonna Vincenzina*
 
-ì» stato un periodo terribile e la faccenda mi ha riguardato da vicino. 
-Io avevo 6 anni: quando se ne sono andati siamo scesi dalla montagna gi˘ a Pico e líunica cosa che ci era rimasta erano le mura di casa, il resto completamente saccheggiato. 
-Abbiamo dovuto ricominciare da zero, pap‡ recuperava qualcosa nei posti in cui erano stati i soldati. 
-Non cíerano partigiani a Pico, soltanto tedeschi che commettevano crimini e poi americani. Una volta una contadina ci ha offerto di fermarci a riposare da lei, noi cambiavano posto di continuo, ma siamo andati avanti e poi abbiamo saputo che i soldati erano passati di lÏ e avevano violentato la figlia. 
-Tra i tedeschi cíerano anche soldati buoni e ci dicevano di lasciare la porta aperta ad uníora precisa per lasciarci il pane, qualcosa da mangiare. Ricordo che la fame ci faceva impazzire. Avevamo sotterrato le galline perchÈ erano morte di fame e quando siamo tornati gi˘ le abbiamo mangiate, le abbiamo dissotterrate e le abbiamo mangiate lo stesso.
-Oggi ci sono tante libert‡ rispetto a quando ero piccole, pure troppe se vogliamoî.
+‚Äú√à stato un periodo terribile e la faccenda mi ha riguardato da vicino. 
+Io avevo 6 anni: quando se ne sono andati siamo scesi dalla montagna gi√π a Pico e l‚Äôunica cosa che ci era rimasta erano le mura di casa, il resto completamente saccheggiato. 
+Abbiamo dovuto ricominciare da zero, pap√† recuperava qualcosa nei posti in cui erano stati i soldati. 
+Non c‚Äôerano partigiani a Pico, soltanto tedeschi che commettevano crimini e poi americani. Una volta una contadina ci ha offerto di fermarci a riposare da lei, noi cambiavano posto di continuo, ma siamo andati avanti e poi abbiamo saputo che i soldati erano passati di l√¨ e avevano violentato la figlia. 
+Tra i tedeschi c‚Äôerano anche soldati buoni e ci dicevano di lasciare la porta aperta ad un‚Äôora precisa per lasciarci il pane, qualcosa da mangiare. Ricordo che la fame ci faceva impazzire. Avevano sotterrato delle galline che erano inevitabilmente morte e quando siamo tornati gi√π le dissotterrate e le abbiamo mangiate lo stesso.
+Oggi ci sono tante libert√† rispetto a quando ero piccola, pure troppe se vogliamo‚Äù.
 
 *Nonno Pietro*
 
-ìAspettavamo tutti quella notizia con ansia, ci stava la guerra e quando Ë finita abbiamo tirato un sospiro di sollievo. 
-Ai tempi della Liberazione abitavo a Roma, a Tomba di Nerone, sulla Cassia e cíera molta pi˘ campagna, con una casa ogni chilometro o ogni 500 metri, eravamo lontani insomma. I nostri genitori erano contenti perchÈ non cíerano pi˘ i tedeschi e invece erano arrivate le truppe alleate a liberare.  In giro cíerano gli americani e regalavano sempre a me e ai miei fratelli la cioccolata e anche il *ciungam*.
+‚ÄúAspettavamo tutti quella notizia con ansia, ci stava la guerra e quando √® finita abbiamo tirato un sospiro di sollievo. 
+Ai tempi della Liberazione abitavo a Roma, a Tomba di Nerone, sulla Cassia e c‚Äôera molta pi√π campagna, con una casa ogni chilometro o ogni 500 metri, eravamo lontani insomma. I nostri genitori erano contenti perch√© non c‚Äôerano pi√π i tedeschi e invece erano arrivate le truppe alleate a liberare.  In giro c‚Äôerano gli americani e regalavano sempre a me e ai miei fratelli la cioccolata e anche il *ciungam*.
 Vicino casa nostra, a 500 metri, una cosa del genere, si erano stabilite le truppe neozelandesi e allora andavo ad elemosinare del cibo. Loro mi preparavano un barattolo dei pomodori svuotato, quello da 5 chili, lo riempivano di minestra e poi tornavo a casa e ce lo spartivamo. 
-La fame che avevamo: mangiavo la semola quando non cíera niente. La farina non era venduta gi‡ setacciata e allora si passava col setaccio e si preparavano pane e pizza. La crusca si dava a galline e maiali, perchÈ avevamo un poí di terreno. Quando non ci stava nulla mamma impastava la crusca con un poí di farina e ci mangiavamo le pizzette.
-Poi andavamo nei boschi, prima non si poteva andare, non ci lasciavano uscire nemmeno i nostri genitori. Prendevamo la frutta e i contadini ci cacciavano: il contadino dei cocomeri appena ci vedeva ci cacciava e appena trovavamo un albero da frutta prendevamo tutto quanto. Cíera un ruscello e facevamo i bagni, facevamo un poí i selvaggi, ecco.
-Oggi sei libero di fare tutto, si puÚ parlare, qualsiasi attivit‡ Ë permessa; si puÚ giudicare, criticare, ma prima cíera solamente il fascismo, dovevi sottostare alle regole. 
-Quando sono arrivati gli americani e gli alleati ci regalavano le caramelle e i fichi secchi avvolti nel celofan e io non sapevo cosa fosse, per noi la spesa era prendere i sacchi di farina o piselli o fagioli e il gestore preparava un cartoccio. Con loro si poteva parlare e ci si poteva esprimere come pi˘ volevi; oggi puoi giudicare la politica, líItalia, invece prima ti davano il ricino, ti sistemavano insomma. 
-Ero piccolo quando siamo scappati da Aprilia perchÈ bombardavano, avevo 3 anni. Quando stavamo a Tomba di Nerone andavamo nei rifugi, che era una grotta naturale e ci mettevamo ad aspettare i bombardieri. Erano pesanti e facevano un rumore pazzesco e allora scappavamo tutti nei rifugi; ci mettevamo a guardare, i miei fratelli stavano a guardare e poi avvisavano mamma o pap‡ e correvamo via nelle grotte. Una volta un caccia Ë arrivato allíimprovviso, i tedeschi gi‡ non ci stavano pi˘, ha cominciato a sparare e mamma ci ha preso e ci ha messo a terra. Un gallo per il trambusto Ë saltato sul davanzale e gli spari gli hanno bucato la testa. I tedeschi erano scappati a Viterbo, la Cassia era líunica strada che portava al nordì.
+La fame che avevamo: mangiavo la semola quando non c‚Äôera niente. La farina non era venduta gi√† setacciata e allora si passava col setaccio e si preparavano pane e pizza. La crusca si dava a galline e maiali, perch√© avevamo un po‚Äô di terreno. Quando non ci stava nulla mamma impastava la crusca con un po‚Äô di farina e ci mangiavamo le pizzette.
+Poi andavamo nei boschi, prima non si poteva andare, non ci lasciavano uscire nemmeno i nostri genitori. Prendevamo la frutta e i contadini ci cacciavano: il contadino dei cocomeri appena ci vedeva ci cacciava e appena trovavamo un albero da frutta prendevamo tutto quanto. C‚Äôera un ruscello e facevamo i bagni, facevamo un po‚Äô i selvaggi, ecco.
+Oggi sei libero di fare tutto, si pu√≤ parlare, qualsiasi attivit√† √® permessa; si pu√≤ giudicare, criticare, ma prima c‚Äôera solamente il fascismo, dovevi sottostare alle regole. 
+Quando sono arrivati gli americani e gli alleati ci regalavano le caramelle e i fichi secchi avvolti nel celofan e io non sapevo cosa fosse, per noi la spesa era prendere i sacchi di farina o piselli o fagioli e il gestore preparava un cartoccio. Con loro si poteva parlare e ci si poteva esprimere come pi√π volevi; oggi puoi giudicare la politica, l‚ÄôItalia, invece prima ti davano il ricino, ti sistemavano insomma. 
+Ero piccolo quando siamo scappati da Aprilia perch√© bombardavano, avevo 3 anni. Quando stavamo a Tomba di Nerone andavamo nei rifugi, che era una grotta naturale e ci mettevamo ad aspettare i bombardieri. Erano pesanti e facevano un rumore pazzesco e allora scappavamo tutti nei rifugi; ci mettevamo a guardare, i miei fratelli stavano a guardare e poi avvisavano mamma o pap√† e correvamo via nelle grotte. Una volta un caccia √® arrivato all‚Äôimprovviso, i tedeschi gi√† non ci stavano pi√π, ha cominciato a sparare e mamma ci ha preso e ci ha messo a terra. Un gallo per il trambusto √® saltato sul davanzale e gli spari gli hanno bucato la testa. I tedeschi erano scappati a Viterbo, la Cassia era l‚Äôunica strada che portava al nord‚Äú.
 
 *Nonna Carla*
 
-ìVivevo a Roma e fortunatamente non pativamo la fame: pap‡ lavorava alla centrale del latte e rimediava sempre un poí di cibo, poi noi facevamo il burro e riuscivamo a cavarcela. 
-Una volta i tedeschi hanno provato a portar via pap‡ e mia mamma li ha supplicati di lasciarlo, mio fratello aveva ancora solo 1 anno. Alla fine lo hanno lasciato con noi; quando sono andati via e sono arrivati gli americani cíË stata una grande festa e i soldati giravano con il cibo e lo distribuivanoî.
+‚ÄúVivevo a Roma e fortunatamente non pativamo la fame: pap√† lavorava alla centrale del latte e rimediava sempre un po‚Äô di cibo, poi noi facevamo il burro e riuscivamo a cavarcela. 
+Una volta i tedeschi hanno provato a portar via pap√† e mia mamma li ha supplicati di lasciarlo, mio fratello aveva ancora solo 1 anno. Alla fine lo hanno lasciato con noi; quando sono andati via e sono arrivati gli americani c‚Äô√® stata una grande festa e i soldati giravano con il cibo e lo distribuivano‚Äù.
 
 *Nonna Gemma*
 
-ìEro solo una bambina quando stava finendo. 
+‚ÄúEro solo una bambina quando stava finendo. 
 Vivevo a Caltanissetta, in Sicilia; la mia casa era stata distrutta durante un bombardamento e la mia famiglia era ospitata in un palazzo messo a disposizione per tutti gli sfollati. Non avevamo vestiti e soffrivamo il freddo e la fame: le mie mani e i miei piedi erano pieni di ferite aperte dai geloni.
-Un giorno ero in strada a giocare e un soldato americano mi ha visto e mi Ë venuto incontro; mi sono spaventata e sono scappata, ma mi ha raggiunto e mi ha passato una lozione sulle ferite, che dopo pochi giorni sono guarite.
-Non Ë stato l'unico gesto di gentilezza riservatomi degli americani.
-Un altro giorno, sempre mentre giocavo in strada, io e altri bambini abbiamo visto passare una camionetta e siamo rimasti sbalorditi. Un soldato ha notato questa mandria di scalmanati e ha lanciato dalla jeep una cassa, quella delle razioni militari, che si Ë rotta e ha riversato il contenuto di caramelle e dolci per terra. Tutti ci siamo buttati per arraffarne il pi˘ possibile, ma la camionetta si Ë arrestata di colpo e il ragazzo americano Ë venuto verso di noi con fare minaccioso, intimando a tutti di riporre quanto preso nella cassa e una volta richiusa me la ha messa in braccio e ha detto ìvattene via, oraî ì.
-Ovviamente io lího divisa con i miei amici, ma quel gesto rimane il ricordo pi˘ felice di quel periodo di miseriaî.
+Un giorno ero in strada a giocare e un soldato americano mi ha visto e mi √® venuto incontro; mi sono spaventata e sono scappata, ma mi ha raggiunto e mi ha passato una lozione sulle ferite, che dopo pochi giorni sono guarite.
+Non √® stato l'unico gesto di gentilezza riservatomi degli americani.
+Un altro giorno, sempre mentre giocavo in strada, io e altri bambini abbiamo visto passare una camionetta e siamo rimasti sbalorditi. Un soldato ha notato questa mandria di scalmanati e ha lanciato dalla jeep una cassa, quella delle razioni militari, che si √® rotta e ha riversato il contenuto di caramelle e dolci per terra. Tutti ci siamo buttati per arraffarne il pi√π possibile, ma la camionetta si √® arrestata di colpo e il ragazzo americano √® venuto verso di noi con fare minaccioso, intimando a tutti di riporre quanto preso nella cassa e una volta richiusa me la ha messa in braccio e ha detto ‚Äúvattene via, ora‚Äù ‚Äú.
+Ovviamente io l‚Äôho divisa con i miei amici, ma quel gesto rimane il ricordo pi√π felice di quel periodo di miseria‚Äù.
 
 *Nonno Carlo*
 
-ìAvevo meno di 7 anni, ricordo solo cose brutte, tristi. 
-Cíera uníatmosfera pesante e ho vissuto male la Liberazione perchÈ dopo la guerra io e la mia famiglia siamo stati sfollati per diversi anni, i tedeschi che se ne andavano portavano via tutto quantoî.
+‚ÄúAvevo meno di 7 anni, ricordo solo cose brutte, tristi. 
+C‚Äôera un‚Äôatmosfera pesante e ho vissuto male la Liberazione perch√© dopo la guerra io e la mia famiglia siamo stati sfollati per diversi anni, i tedeschi che se ne andavano portavano via tutto quanto‚Äù.
 
 *Nonna Leda*
 
-ìNon ricordo proprio tutto, anche se avevo 15 anni ed eravamo ragazzini non ci arrivava quasi nessuna notizia. Ad Ortucchio i tedeschi arrivavano continuamente perchÈ scappavano da Montecassino diretti ad Avezzano, dove cíera la ferrovia, passando prima per la Marsica. Ortucchio stava nella zona di appoggio al fronte e infatti ricordo i carri armati nascosti per le vie del paese, tutti ricoperti di fronde e ramoscelli. Noi non ce li avevamo in casa, ma mamma e pap‡ avevano un alimentari e i soldati venivano a comprare il vino. 
-Ricordo pure che pap‡ nascondeva mio fratello Ennio in soffitta, perchÈ altrimenti venivano i soldati a bussare per reclutare i ragazzi per spalare la neve. E poi Ennio ogni tanto andava su al cimitero a dar da mangiare ai prigionieri inglesi, perchÈ lui sapeva parlare la loro lingua. La notte che se ne andarono rimanemmo in casa per paura che venissero a cercarci e ricordo che temevo per le galline, che poi ci rubarono. La mattina dopo mi sembrava di non essere mai stata cosÏ libera, eravamo felici e i paesani sono andati a liberare i prigionieri su alla Grotta del Porco, quella del cimitero e secondo me anche loro hanno fatto festa.
-Se penso ad oggi, non mi sento libera dalle chiacchiere di tutti questi politici e cíË troppa gente che non apprezza nullaî.
+‚ÄúNon ricordo proprio tutto, anche se avevo 15 anni ed eravamo ragazzini non ci arrivava quasi nessuna notizia. Ad Ortucchio i tedeschi arrivavano continuamente perch√© scappavano da Montecassino diretti ad Avezzano, dove c‚Äôera la ferrovia, passando prima per la Marsica. Ortucchio stava nella zona di appoggio al fronte e infatti ricordo i carri armati nascosti per le vie del paese, tutti ricoperti di fronde e ramoscelli. Noi non ce li avevamo in casa, ma mamma e pap√† avevano un alimentari e i soldati venivano a comprare il vino. 
+Ricordo pure che pap√† nascondeva mio fratello Ennio in soffitta, perch√© altrimenti venivano i soldati a bussare per reclutare i ragazzi per spalare la neve. E poi Ennio ogni tanto andava su al cimitero a dar da mangiare ai prigionieri inglesi, perch√© lui sapeva parlare la loro lingua. La notte che se ne andarono rimanemmo in casa per paura che venissero a cercarci e ricordo che temevo per le galline, che poi ci rubarono. La mattina dopo mi sembrava di non essere mai stata cos√¨ libera, eravamo felici e i paesani sono andati a liberare i prigionieri su alla Grotta del Porco, quella del cimitero e secondo me anche loro hanno fatto festa.
+Se penso ad oggi, non mi sento libera dalle chiacchiere di tutti questi politici e c‚Äô√® troppa gente che non apprezza nulla‚Äù.
 
 ---
