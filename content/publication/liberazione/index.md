@@ -8,7 +8,7 @@ doi: ""
 publishDate: "2020-04-25"
 
 # Summary. An optional shortened abstract.
-summary: 'questo articolo parla di : nonni'
+summary: ''
 tags:
 - Liberazione
 featured: true
