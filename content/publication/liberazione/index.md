@@ -8,7 +8,14 @@ doi: ""
 publishDate: "2020-04-25"
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Scrivere e parlare di libertà è sempre difficile. Oggi siamo abituati a darla per scontata, è uno dei diritti fondamentali dell'uomo, e i nostri genitori ci insegnano che nasciamo e cresciamo liberi. Eppure, fino a poche decine di anni fa la libertà era qualcosa di diverso: una conquista.
+Spesso durante le ricorrenze non ci capita di fermarci davvero a riflettere sul loro significato. Ogni anno è difficile che qualcuno ci aiuti a riflettere sul fatto che la Liberazione ha rappresentato molto più di un cambiamento storico o politico. È qualcosa che va oltre l’oggettività: tante vite sono cambiate, migliorate e peggiorate, in quel lontanissimo 25 Aprile.
+Oggi ne conserviamo la memoria ma forse ci sfugge ancora il significato umano ed emotivo, per questo abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona, i bambini e i ragazzi di 75 anni fa: i nostri nonni.
+Non c’era niente di più giusto se non alzare la cornetta e chiamarli, ripetendo a tutti le stesse tre domande:
+Come hai vissuto la liberazione? 
+Ricordi un evento, delle parole specifiche che in quel periodo ti colpirono?
+Da cosa non siamo ancora liberi oggi?
+Queste sono le loro risposte, le loro testimonianze: pezzi di vita con cui vale la pena rendere omaggio al 25 Aprile'
 tags:
 - Liberazione
 featured: true
@@ -62,7 +69,7 @@ Non c’è più traccia dei tedeschi, ma rischiamo molto più la vita di prima, 
 Io avevo 6 anni: quando se ne sono andati siamo scesi dalla montagna giù a Pico e l’unica cosa che ci era rimasta erano le mura di casa, il resto completamente saccheggiato. 
 Abbiamo dovuto ricominciare da zero, papà recuperava qualcosa nei posti in cui erano stati i soldati. 
 Non c’erano partigiani a Pico, soltanto tedeschi che commettevano crimini e poi americani. Una volta una contadina ci ha offerto di fermarci a riposare da lei, noi cambiavano posto di continuo, ma siamo andati avanti e poi abbiamo saputo che i soldati erano passati di lì e avevano violentato la figlia. 
-Tra i tedeschi c’erano anche soldati buoni e ci dicevano di lasciare la porta aperta ad un’ora precisa per lasciarci il pane, qualcosa da mangiare. Ricordo che la fame ci faceva impazzire. Avevano sotterrato delle galline che erano inevitabilmente morte e quando siamo tornati giù le dissotterrate e le abbiamo mangiate lo stesso.
+Tra i tedeschi c’erano anche soldati buoni e ci dicevano di lasciare la porta aperta ad un’ora precisa per lasciarci il pane, qualcosa da mangiare. Ricordo che la fame ci faceva impazzire. Avevano sotterrato delle galline che erano inevitabilmente morte e quando siamo tornati giù le abbiamo dissotterrate, messe a bagno e le abbiamo mangiate lo stesso.
 Oggi ci sono tante libertà rispetto a quando ero piccola, pure troppe se vogliamo”.
 
 *Nonno Pietro*
