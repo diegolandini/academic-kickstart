@@ -37,7 +37,7 @@ draft: false
 
 ---
 
-**Scrivere e parlare di libertà è sempre difficile. Oggi siamo abituati a darla per scontata, è uno dei diritti fondamentali dell'uomo, e i nostri genitori ci insegnano che nasciamo e cresciamo liberi. Eppure, fino a poche decine di anni fa la libertà era qualcosa di diverso: una conquista.
+**Scrivere e parlare di libertà è sempre difficile. Oggi siamo abituati a darla per scontata, è uno dei diritti fondamentali dell'uomo, e i nostri genitori ci insegnano che nasciamo e cresciamo liberi. Eppure ancora oggi in alcune parti del mondo essere liberi resta un'utopia ed anche in Italia, fino a poche decine di anni fa, la libertà era qualcosa di diverso: una conquista.
 Spesso durante le ricorrenze non ci capita di fermarci davvero a riflettere sul loro significato. Ogni anno è difficile che qualcuno ci aiuti a riflettere sul fatto che la Liberazione ha rappresentato molto più di un cambiamento storico o politico. È qualcosa che va oltre l’oggettività: tante vite sono cambiate, migliorate e peggiorate, in quel lontanissimo 25 Aprile.
 Oggi ne conserviamo la memoria ma forse ci sfugge ancora il significato umano ed emotivo, per questo abbiamo deciso di celebrare la ricorrenza della Liberazione facendo parlare chi l'ha vissuta in prima persona, i bambini e i ragazzi di 75 anni fa: i nostri nonni.
 Non c’era niente di più giusto se non alzare la cornetta e chiamarli, ripetendo a tutti le stesse tre domande:
