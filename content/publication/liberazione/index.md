@@ -65,6 +65,10 @@ Non c’erano partigiani a Pico, soltanto tedeschi che commettevano crimini e po
 Tra i tedeschi c’erano anche soldati buoni e ci dicevano di lasciare la porta aperta ad un’ora precisa per lasciarci il pane, qualcosa da mangiare. Ricordo che la fame ci faceva impazzire. Avevano sotterrato delle galline che erano inevitabilmente morte e quando siamo tornati giù le abbiamo dissotterrate, messe a bagno e le abbiamo mangiate lo stesso.
 Oggi ci sono tante libertà rispetto a quando ero piccola, pure troppe se vogliamo”.
 
+
+{{< figure library="true" src="libera2.jpeg" title="" lightbox="false" >}}
+
+
 *Nonno Pietro*
 
 “Aspettavamo tutti quella notizia con ansia, ci stava la guerra e quando è finita abbiamo tirato un sospiro di sollievo. 
@@ -80,6 +84,10 @@ Ero piccolo quando siamo scappati da Aprilia perché bombardavano, avevo 3 anni.
 
 “Vivevo a Roma e fortunatamente non pativamo la fame: papà lavorava alla centrale del latte e rimediava sempre un po’ di cibo, poi noi facevamo il burro e riuscivamo a cavarcela. 
 Una volta i tedeschi hanno provato a portar via papà e mia mamma li ha supplicati di lasciarlo, mio fratello aveva ancora solo 1 anno. Alla fine lo hanno lasciato con noi; quando sono andati via e sono arrivati gli americani c’è stata una grande festa e i soldati giravano con il cibo e lo distribuivano”.
+
+
+{{< figure library="true" src="libera4.jpeg" title="" lightbox="false" >}}
+
 
 *Nonna Gemma*
 
@@ -100,5 +108,8 @@ C’era un’atmosfera pesante e ho vissuto male la Liberazione perché dopo la 
 “Non ricordo proprio tutto, anche se avevo 15 anni ed eravamo ragazzini non ci arrivava quasi nessuna notizia. Ad Ortucchio i tedeschi arrivavano continuamente perché scappavano da Montecassino diretti ad Avezzano, dove c’era la ferrovia, passando prima per la Marsica. Ortucchio stava nella zona di appoggio al fronte e infatti ricordo i carri armati nascosti per le vie del paese, tutti ricoperti di fronde e ramoscelli. Noi non ce li avevamo in casa, ma mamma e papà avevano un alimentari e i soldati venivano a comprare il vino. 
 Ricordo pure che papà nascondeva mio fratello Ennio in soffitta, perché altrimenti venivano i soldati a bussare per reclutare i ragazzi per spalare la neve. E poi Ennio ogni tanto andava su al cimitero a dar da mangiare ai prigionieri inglesi, perché lui sapeva parlare la loro lingua. La notte che se ne andarono rimanemmo in casa per paura che venissero a cercarci e ricordo che temevo per le galline, che poi ci rubarono. La mattina dopo mi sembrava di non essere mai stata così libera, eravamo felici e i paesani sono andati a liberare i prigionieri su alla Grotta del Porco, quella del cimitero e secondo me anche loro hanno fatto festa.
 Se penso ad oggi, non mi sento libera dalle chiacchiere di tutti questi politici e c’è troppa gente che non apprezza nulla”.
+
+
+{{< figure library="true" src="libera1.jpeg" title="" lightbox="false" >}}
 
 ---
