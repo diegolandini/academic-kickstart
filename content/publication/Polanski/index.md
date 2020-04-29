@@ -9,7 +9,7 @@ doi: ""
 publishDate: "2020-04-29"
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Si premia un film in base all’autore o all’opera? I più grandi mostri sacri della Settima Arte sono divenuti tali perché davvero  geniali o perché sono stati girati da registi celebri? Nel perenne diverbio tra uomo ed opera, Diderot inaugura la rubrica di cinema analizzando il caso Roman Polanski, le ragioni del suo successo, ma anche i dubbi circa la figura di un grande regista che ancora una volta nella sua carriera è al centro di discussioni e proteste.'
 tags:
 - Cinema
 featured: true
@@ -33,7 +33,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 È venerdì 28 Febbraio, una serata molto importante per il cinema europeo.
