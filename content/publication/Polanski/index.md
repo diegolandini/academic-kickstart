@@ -1,5 +1,5 @@
 ---
-title: "Il caso Roman Polanski"
+title: "Il caso Roman Polański"
 authors:
 - Diderot
 - Francesca Di Pasquo
