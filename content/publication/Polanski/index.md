@@ -33,7 +33,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: false
+draft: true
 
 ---
 È venerdì 28 Febbraio, una serata molto importante per il cinema europeo.
