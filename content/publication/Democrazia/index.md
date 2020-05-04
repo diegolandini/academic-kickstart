@@ -93,4 +93,9 @@ Non votiamo le leggi o gli emendamenti, ma votiamo determinate persone affinché
 
 {{< figure library="true" src="democrazia3.jpeg" title="" lightbox="false" >}}
 
+Note:
+1. "La democrazia e i suoi limiti", Cassese Sabino.
+
+
+
 ---
