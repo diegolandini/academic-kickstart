@@ -1,5 +1,5 @@
 ---
-title: "Democrazia ed alcuni suoi limiti"
+title: "Democrazia: potere al popolo?"
 authors:
 - Diderot
 - Diego Landini
