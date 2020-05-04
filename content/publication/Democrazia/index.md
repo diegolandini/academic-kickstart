@@ -1,5 +1,5 @@
 ---
-title: "La Democrazia ed alcuni suoi limiti"
+title: "Democrazia ed alcuni suoi limiti"
 authors:
 - Diderot
 - Diego Landini
@@ -64,7 +64,7 @@ Al giorno d’oggi il 59% della popolazione mondiale ha accesso ad Internet e ne
 
 Questa situazione si riflette inevitabilmente sui social network, in questo momento tra i pochi se non gli unici mezzi di comunicazione/discussione a nostra disposizione: centinaia e centinaia di persone si riversano nelle piazze virtuali di Facebook additando i loro pareri personali come verità assolute ed inconfutabili dando vita ad uno scenario alquanto buffo. Questo comportamento permette alle persone di instaurare delle social relations e dà loro la possibilità di condividere notizie in tempo reale creando una fitta rete di informazioni spesso confusionarie ed imprecise, tanto che molti movimenti politici hanno iniziato ad includersi sempre di più in questo processo per sfruttarlo a loro favore, non assumendosi più la responsabilita di fare delle proposte politiche, ma promettendo di fare la volontà del popolo in caso di elezione.
 
-Oggi internet ci fornisce gli strumenti per rendere la democrazia in un certo senso “più” diretta: basta pensare a cosa è avvenuto in Colombia con il referendum popolare del 2016 per porre fine ad anni di morti e guerra civile, al quale più della metà della popolazione si è astenuta, o ancora quanto si e visto in Inghilterra con i risultati della Brexit.
+Oggi internet ci fornisce gli strumenti per rendere la democrazia in un certo senso “più” diretta: basta pensare a cosa è avvenuto in Colombia con il referendum popolare del 2016 per porre fine ad anni di morti e guerra civile, al quale più della metà della popolazione si è astenuta, o ancora quanto si e visto in Inghilterra con la Brexit.
 
  Esistono allora dei limiti quantitativi e qualitativi della democrazia diretta che Sabino Cassese mette alla luce nel libro *I limiti della democrazia*: *“immaginate se, come prevede la Costituzione, chiedessimo di prendere le stesse decisioni che prende il Parlamento a 40 mln di italiani: Ognuno di noi dovrebbe votare per prendere 8 decisioni al giorno, compreso fissare il da farsi per l’ammontare del debito pubblico, decretare i diritti degli omossessuali, tutto. Ci sono quindi anche e soprattutto limiti di qualità: una decisione richiede informazione, discussione, tentativo di convincere gli altri, ma allo stesso modo essere aperti a farsi convincere, è un processo molto complesso che quasi si annulla su Internet. Uno degli aspetti negativi di questo potentissimo mezzo moderno è il fatto che abbia abbassato drasticamente l’interesse del popolo nei confronti della “cosa pubblica”.*
  
