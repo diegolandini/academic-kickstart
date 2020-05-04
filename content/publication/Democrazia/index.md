@@ -73,7 +73,7 @@ Oggi internet ci fornisce gli strumenti per rendere la democrazia in un certo se
 Ora più che mai ci rendiamo conto che i nostri politici tendono a proporre una continua campagna elettorale online, non allo scopo di informare correttamente i propri elettori e di offrire soluzioni reali ai problemi, bensì con l’unico obiettivo di essere rieletti. 
  Dobbiamo assolutamente invertire la rotta cominciando dal basso, da un’istruzione al momento inefficiente e da una rivalutazione e ricostruzione di quei partiti politici che si sono “liquefatti” negli anni, i quali invece dovrebbero essere i luoghi all’interno dei quali si svolge il processo di discussione e approfondimento di cui abbiamo parlato prima. La maggior parte dei giovani del nuovo millennio è completamente disinteressata, ha sostituito la fatica di informarsi e sviluppare un pensiero guardandolo da ogni lato con l’immediatezza e la brevità di Internet.
  
-Secondo I dati dell’Istat solo l’8% delle persone con età superiore ai 14 anni partecipa alla politica attiva, contro l’80% di coloro che si interessano passivamente; ci rendiamo conto che tutto questo ha inevitabilmente degli effetti sulle capacità di decisione nella nostra democrazia.
+Secondo i dati dell’Istat solo il 10,8% delle persone con età superiore ai 14 anni partecipa alla politica attiva, contro l’80% di coloro che si interessano passivamente; ci rendiamo conto che tutto questo ha inevitabilmente degli effetti sulle capacità di decisione nella nostra democrazia.
 Al fine di trarne una breve stima che completi il ragionamento precedente abbiamo deciso di fare alcune domande ai nostri coetanei.
 
 **Credi di avere più opportunità per il tuo futuro qui in Italia o fuori all’estero?**
@@ -95,6 +95,7 @@ Non votiamo le leggi o gli emendamenti, ma votiamo determinate persone affinché
 
 Note:
 1. "La democrazia e i suoi limiti", Cassese Sabino.
+2. https://www.istat.it/it/archivio/136808
 
 
 
