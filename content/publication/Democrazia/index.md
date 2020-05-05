@@ -47,11 +47,11 @@ Etimologicamente, *democrazia* significa “governo del popolo”, ovvero sistem
 
 
  La democrazia ateniese, riconosciuta come *prima* forma di governo democratico, non permetteva a tutti di proporre disegni di legge e votare, concedendo tale opportunità soltanto ad un numero limitato di cittadini (uomini liberi, adulti e di sesso maschile). 
-Per quanto riguarda l’Italia, suffragio universale è stato introdotto solamente nel 1946 e già a partire dalla Costituzione la democrazia è un tema controverso, come afferma Sabino Cassese, giurista accademico italiano e giudice emerito della Corte costituzionale. 
+Per quanto riguarda l’Italia, il suffragio universale è stato introdotto solamente nel 1946 e già nella Costituzione la democrazia è un tema controverso, come afferma Sabino Cassese, giurista accademico italiano e giudice emerito della Corte costituzionale. 
 Secondo Cassese «L’Italia è una Repubblica, sia pur non del tutto democratica».
 Perché non del tutto? 
 
-Per *repubblica* si intende l’intero ordinamento italiano, gli ordinamenti pubblici e le basi sociali e la Costituzione stabilisce dunque che l’Italia mantenga l’assetto di una repubblica in ogni suo angolo democratica. Andando avanti, però, la stessa Costituzione introduce dei limiti alla democrazia: i magistrati accedono agli uffici pubblici mediante concorso. 
+Innanzitutto per *repubblica* si intende l’intero ordinamento italiano, gli ordinamenti pubblici e le basi sociali e la Costituzione stabilisce dunque che l’Italia mantenga l’assetto di una repubblica in ogni suo angolo democratica. Andando avanti, però, la stessa Costituzione introduce dei limiti alla democrazia: i magistrati accedono agli uffici pubblici mediante concorso. 
 È previsto che ci siano dei titolari di cariche pubbliche nominati non in base alla volontà popolare, ma secondo criteri (concorsi) e il vincitore di questi concorsi deve essere scelto da un’aristocrazia costituita dai cultori della stessa materia. 
 Affermato ciò possiamo distinguere due concetti che, a volte, possono essere confusi: democrazia diretta e democrazia rappresentativa. Nella prima i cittadini possono esercitare il potere legislativo senza alcun intermediario e senza l’intervento dei loro rappresentanti politici; la seconda è la forma di governo che permette ai cittadini aventi diritto al voto di eleggere i propri rappresentanti in Parlamento o negli enti locali o territoriali (Comuni e Regioni).
 
