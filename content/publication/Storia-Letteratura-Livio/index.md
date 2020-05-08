@@ -40,13 +40,17 @@ draft: false
 
 ---
 
-*La storia non si snoda/come una caten/di anelli ininterrotta./In ogni caso/molti anelli non tengono./La storia non contiene/il prima e il dopo,/nulla che borbotti/a lento fuoco./La storia non è prodotta/da chi la pensa e neppure/da chi/l’ignora./La storia/non si fa strada, si ostina,/detesta il poco a poco, non procede/né recede, si sposta di binario/e la sua direzione/non è nell’orario./La storia non giustifica/e non deplora,/la storia non è intrinseca/perché e fuori./La storia non somministra/carezze o colpi di frusta./La storia non è magistra/di niente che ci riguardi./Accorgersene non serve/a farla più vera e più giusta.*
+*La storia non si snoda/come una caten/di anelli ininterrotta./In ogni caso/molti anelli non tengono./La storia non contiene/il prima e il dopo,/nulla che borbotti/a lento fuoco./La storia non è prodotta/da chi la pensa e neppure/da chi/l’ignora./La storia/non si fa strada, si ostina,/detesta il poco a poco, non procede/né recede, si sposta di binario/e la sua direzione/non è nell’orario./La storia non giustifica/e non deplora,/la storia non è intrinseca/perché e fuori./La storia non somministra/carezze o colpi di frusta./La storia non è magistra/di niente che ci riguardi./Accorgersene non serve/a farla più vera e più giusta. 
+(Montale La Storia, Satura, Mondadori 1971)*
 
 Al liceo ci fanno studiare la storia affinché possiamo imparare da essa. Sapere ciò che è successo nel passato può aiutarci a capire quello che accade nel presente e forse ciò che potrebbe accadere in futuro. Dopotutto, è fin dalla fine del XVII secolo con Giambattista Vico che si parla di **corsi e ricorsi storici**. Eppure, ciò non significa, come comunemente si interpreta, che la storia si ripeta, ma piuttosto che **l'uomo è sempre uguale a sé stesso, pur nel cambiamento delle situazioni e dei comportamenti storici**.
 Quest’idea che la storia sia, come dicevano i latini, *magistra vitae* ha perso di valore nel momento in cui si è scoperto che il mondo era molto più grande di quello che si pensava e che la sua storia non è unica (solo occidentale) ma varia. Un grande contributo viene anche dallo sviluppo delle tecnologie che hanno provocato nell’uomo cambiamenti repentini ed epocali dai quali non si potrà mai tornare indietro.
 Con questo non si vuole certo dire che la memoria del passato non sia importante, anzi, il ricordo di eventi importanti e tragici, soprattutto dell’età moderna, può aiutarci a tenere a mente i valori del nostro tempo.
 Quello che vogliamo fare in questo articolo è provare a *usare la storia*, non cercando di paragonare singoli momenti del passato a singoli momenti del presente, ma cercando collegamenti che possano aiutarci a delineare un quadro generale. Dopotutto, come afferma lo storico francese del 1900 Fernand Braudel nel suo libro Storia, misura del mondo (1977) “Quando vogliamo spiegare una cosa, dobbiamo diffidare ad ogni istante dell’eccessiva semplicità delle nostre suddivisioni. Non dimentichiamo che la vita è un tutto unico, che anche la storia deve esserlo e che non bisogna perdere di vista in nessuna occasione, neppure per un attimo, l’intrecciarsi infinito delle cause e delle conseguenze”.
-Non dobbiamo quindi usarla per spiegare ciò che noi vogliamo e neanche riempirla di domande, ma più che altro dobbiamo cercare di fare le domande giuste al presente che possano aiutarci a capire se nel passato c’è stato qualcosa di simile o meno.
+Non dobbiamo quindi usarla per spiegare ciò che noi vogliamo e neanche riempirla di domande, ma più che altro dobbiamo cercare di fare le domande giuste al presente che possano aiutarci a capire se nel passato c’èstato qualcosa di simile o meno.
+
+
+{{< figure library="true" src="livio1.jpeg" title="" lightbox="true" >}}
 
 
 *A peste, fame et bello, libera nos Domine
@@ -74,7 +78,7 @@ Il contagio esplose nel giro di 2 anni: da Astrakhan a Caffa nel 1346, per andar
 
 
 *“Quasi nel principio della primavera dell’anno predetto orribilmente cominciò i suoi dolorosi effetti, e in miracolosa maniera, a dimostrare. E non come in Oriente aveva fatto, dove a chiunque usciva il sangue del naso era manifesto segno di inevitabile morte: ma nascevano nel cominciamento d’essa a’ maschi e alle femine parimente o nella anguinaia o sotto le ditella certe enfiature, delle quali alcune crescevano come una comunal mela, altre come uno uovo, e alcune più e alcun’altre meno, le quali i volgari nominavan gavoccioli”
-(Manzoni, “I promessi sposi”, cap. XXXI, 1827)*
+(Boccaccio, “Decameron”, Introduzione, 1353)*
 
 
 L’enorme potenziale infettivo fu conferito dall’effetto combinato di abitudini sanitarie errate, assembramenti, processioni, denutrizione e assenza di un piano di contrasto efficace. 
@@ -100,6 +104,9 @@ pubblico spavento”.
 (Manzoni, “I promessi sposi”, cap. XXXI, 1827)*
 
 
+{{< figure library="true" src="livio3.jpeg" title="" lightbox="true" >}}
+
+
 Un impulso notevole al dilagare epidemico fu certamente la presenza di agglomerati urbani relativamente grandi, per lo meno sicuramente più popolati delle campagne ad essi circostanti. 
 Sia nel Medioevo che nel XVII secolo, le città furono i focolai delle ondate epidemiche, con tassi di mortalità elevatissima, a causa non soltanto del gran numero di persone che vi risiedeva, ma soprattutto per via delle condizioni igieniche insufficienti a contrastare l’avanzata dell’epidemia. Basti pensare che fino al 1800 non si diede mai importanza all’igiene personale.
 Già alla fine del 1200 si era potuto assistere ad una migrazione dalla ruralità all’ambiente urbano, nel quale si concentravano classi cittadine ricche come la nascente borghesia e anche molto limitate come quelle dei lavoratori, immobilizzati nel sistema delle Arti e corporazioni. 
@@ -123,6 +130,9 @@ Notizie false non mancavano, proprio come accade oggi.
 (Boccaccio, “Decameron”, Introduzione, 1353)*
 
 
+{{< figure library="true" src="livio2.jpeg" title="" lightbox="true" >}}
+
+
 Una figura che vale la pena sottolineare, comparsa nella peste di Milano, è quella del monatto, di cui la storia fornisce un ritratto a metà tra il farabutto e uno pseudo-infermiere. A trasportare i malati e i cadaveri, purtroppo, ai lazzaretti e ai cimiteri erano proprio i monatti, individui sopravvissuti alla peste, pertanto immuni, che circolavano per le città a bordo dei loro carri. L’arrivo dei monatti era, come si può ben pensare, un triste evento per una famiglia, non soltanto perché preannunciavano la presenza della malattia nella casa, ma perché spesso compivano violenze e furti ai danni degli sventurati, derubandoli dei loro averi e facendosi forti della loro immunità dal patogeno. Addirittura, essi stessi minacciavano di contagiare le loro vittime nel caso in cui queste avessero opposto resistenza.
 
 
@@ -142,7 +152,7 @@ Descartes e Spinoza ma anche i filosofi del Positivismo furono tra i primi a con
 
 Fonti: 
 
-1. “POTERE E GOVERNO DELLA PAURA NELLA FILOSOFIA DI SPINOZA”, Francesco Cerrato, Università di Bologna, Dipartimento di Filosofia, francesco.cerrato@unibo.it  
+1.“POTERE E GOVERNO DELLA PAURA NELLA FILOSOFIA DI SPINOZA”, Francesco Cerrato, Università di Bologna, Dipartimento di Filosofia, francesco.cerrato@unibo.it  
 
 2.“Storia e identità: dal Medioevo all’Età Moderna” (P. Viola, A. Prosperi, G. Zagrebelsky, M. Battini)
 
