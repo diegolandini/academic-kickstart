@@ -40,7 +40,7 @@ draft: false
 
 ---
 
-
+*La storia non si snoda/come una caten/di anelli ininterrotta./In ogni caso/molti anelli non tengono./La storia non contiene/il prima e il dopo,/nulla che borbotti/a lento fuoco./La storia non è prodotta/da chi la pensa e neppure/da chi/l’ignora./La storia/non si fa strada, si ostina,/detesta il poco a poco, non procede/né recede, si sposta di binario/e la sua direzione/non è nell’orario./La storia non giustifica/e non deplora,/la storia non è intrinseca/perché e fuori./La storia non somministra/carezze o colpi di frusta./La storia non è magistra/di niente che ci riguardi./Accorgersene non serve/a farla più vera e più giusta.*
 
 Al liceo ci fanno studiare la storia affinché possiamo imparare da essa. Sapere ciò che è successo nel passato può aiutarci a capire quello che accade nel presente e forse ciò che potrebbe accadere in futuro. Dopotutto, è fin dalla fine del XVII secolo con Giambattista Vico che si parla di **corsi e ricorsi storici**. Eppure, ciò non significa, come comunemente si interpreta, che la storia si ripeta, ma piuttosto che **l'uomo è sempre uguale a sé stesso, pur nel cambiamento delle situazioni e dei comportamenti storici**.
 Quest’idea che la storia sia, come dicevano i latini, *magistra vitae* ha perso di valore nel momento in cui si è scoperto che il mondo era molto più grande di quello che si pensava e che la sua storia non è unica (solo occidentale) ma varia. Un grande contributo viene anche dallo sviluppo delle tecnologie che hanno provocato nell’uomo cambiamenti repentini ed epocali dai quali non si potrà mai tornare indietro.
@@ -61,10 +61,7 @@ Quella del male silenzioso che arriva e distrugge tutto ciò che incontra è un 
 Analizziamo come la peste e più in generale il concetto di epidemia ha segnato l’uomo del passato nella salute, nella mentalità e nei costumi.
 
 
-*Tre sole parole la peste mandano via:
-Presto, lontano, tardi, ovunque tu sia
-Presto partire, lontano andare;
-Fino a tardi non tornare
+*Tre sole parole la peste mandano via:/Presto, lontano, tardi, ovunque tu sia/Presto partire, lontano andare;/Fino a tardi non tornare
 (medico persiano Rhazes, 854-925 dopo Cristo)*
 
 
@@ -149,8 +146,8 @@ Fonti:
 
 2.“Storia e identità: dal Medioevo all’Età Moderna” (P. Viola, A. Prosperi, G. Zagrebelsky, M. Battini)
 
-3. “I promessi sposi”, A. Manzoni
+3.“I promessi sposi”, A. Manzoni
 
-4. “Decamerone”, Boccaccio
+4.“Decamerone”, Boccaccio
 
 ---
