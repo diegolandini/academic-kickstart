@@ -42,33 +42,61 @@ draft: false
 
 
 *La storia non si snoda
+
 come una catena
+
 di anelli ininterrotta.
+
 In ogni caso
+
 molti anelli non tengono.
+
 La storia non contiene
+
 il prima e il dopo,
+
 nulla che borbotti
+
 a lento fuoco.
+
 La storia non è prodotta
+
 da chi la pensa e neppure
+
 da chi l’ignora.
+
 La storia
+
 non si fa strada, si ostina,
+
 detesta il poco a poco, non procede
+
 né recede, si sposta di binario
+
 e la sua direzione
+
 non è nell’orario.
+
 La storia non giustifica
+
 e non deplora,
+
 la storia non è intrinseca
+
 perché e fuori.
+
 La storia non somministra
+
 carezze o colpi di frusta.
+
 La storia non è magistra
+
 di niente che ci riguardi.
+
 Accorgersene non serve
+
 a farla più vera e più giusta.
+
 (Montale La Storia, Satura, Mondadori 1971)*
 
 
