@@ -14,6 +14,8 @@ publishDate: "2020-05-04"
 summary: "Etimologicamente, democrazia significa “governo del popolo”, ovvero sistema di governo in cui la sovranità è esercitata, direttamente o indirettamente, dal popolo. Questo concetto non è rimasto inalterato durante i secoli, ma ha assunto diverse evoluzioni, che spesso si sono rilevate distanti dall’idea di base e persino contraddittorie."
 tags:
 - Democrazia
+- Governo
+- Democrazia diretta
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
