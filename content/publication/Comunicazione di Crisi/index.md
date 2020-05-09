@@ -13,7 +13,9 @@ summary: 'Come si può far rispettare le regole nel corso di un’emergenza? Qua
 '
 tags:
 - Crisi di comunicazione
+- Coronavirus
 - Covid19
+- Comunicazione
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
