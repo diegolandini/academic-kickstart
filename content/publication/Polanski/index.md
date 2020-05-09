@@ -12,6 +12,9 @@ publishDate: "2020-04-29"
 summary: 'Si premia un film in base all’autore o all’opera? I più grandi mostri sacri della Settima Arte sono divenuti tali perché davvero  geniali o perché sono stati girati da registi celebri? Nel perenne diverbio tra uomo ed opera, Diderot inaugura la rubrica di cinema analizzando il caso Roman Polanski, le ragioni del suo successo, ma anche i dubbi circa la figura di un grande regista che ancora una volta nella sua carriera è al centro di discussioni e proteste.'
 tags:
 - Cinema
+- Polanski
+- Arte
+- MeToo
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
