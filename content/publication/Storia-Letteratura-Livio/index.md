@@ -15,6 +15,10 @@ summary: "Quella del male silenzioso che arriva e distrugge tutto ciò che incon
 tags:
 - Letteratura
 - Storia
+- Manzoni
+- Peste
+- Coronavirus
+- Covid19
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
