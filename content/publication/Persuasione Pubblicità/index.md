@@ -176,7 +176,7 @@ Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
                                                  parole creare nella mente del soggetto designato un’idea positiva
                                                  riguardo la relazione con l’oggetto voluto.
 
-- *Condizionamento e Associazione * Per le associazioni positive ci dobbiamo rivolgere ai
+- *Condizionamento e Associazione* Per le associazioni positive ci dobbiamo rivolgere ai
                                                            professionisti della persuasione che cercano di collegare se
                                                            stessi o i loro prodotti alle cose che ci piacciono. Così le belle
                                                            ragazze sono affiancate al prodotto per prestargli i propri tratti
