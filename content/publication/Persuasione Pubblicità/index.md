@@ -128,7 +128,7 @@ Tale condizione è stata dimostrata da un esperimento condotto da un gruppo di p
 Il biglietto era stato scritto dalla prima persona che l’aveva trovato e indicava la sua voglia di spedirlo al proprietario e la sua gioia nell’essersi reso utile. Vi erano però 2 varianti; in un caso la lettera era scritta in inglese perfetto, nell’altro in un inglese approssimativo, tipico degli immigrati recenti. Il risultato fu che quando il biglietto era di uno straniero solo il 33% dei portafogli veniva restituito, contro il 70% nell’altra situazione!
 
 
-{{< figure library="true" src="persuasionepubblictià2.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="persuasionepubblicità2.jpg" title="" lightbox="true" >}}
 
 
 *SIMPATIA*
@@ -200,7 +200,7 @@ Ovviamente non erano persone squilibrate. Nonostante continuassero, in molti arr
 Il loro comportamento non può essere spiegato con teorie sulla loro follia o sadicità; esso dimostra unicamente la cieca fiducia che si tende a dare all’autorità del campo in cui ci troviamo.
 
 
-{{< figure library="true" src="persuasionepubblictià5.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="persuasionepubblicita5.jpg" title="" lightbox="true" >}}
 
 
 *SCARSITÀ*
@@ -212,7 +212,7 @@ Gli esperti della persuasione conoscono perfettamente questo principio e lo adop
 Allo stesso modo agiscono i venditori che presentano i loro prodotti come rari o esclusivi e i siti web che inseriscono avvisi dinamici come “solo 2 prodotti rimasti”, “solo 1 camera rimasta”, “solo 3 posti liberi in economy”, in base ad informazioni in tempo reale.
 
 
-{{< figure library="true" src="persuasionepubblictià1.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="persuasionepubblicità1.jpg" title="" lightbox="true" >}}
 
 
 Dato che nel sovraccarico informativo in cui tipicamente ci troviamo a vivere, diventiamo ancora più vulnerabili a queste tecniche di persuasione, la loro conoscenza serve anche a scopo difensivo: diventare consapevoli che una persona o una tecnologia sta cercando di indurci a compiere un'azione che non desideriamo veramente, ci consente di fermarci e riflettere su quali sono i nostri reali desideri ed obbiettivi.
@@ -220,6 +220,5 @@ Dato che nel sovraccarico informativo in cui tipicamente ci troviamo a vivere, d
 Bisogna sempre tenere a mente che nonostante nessuno di noi si senta tanto influenzabile quanto possa risultare da questo libro, viviamo in un’era in cui le nostre capacità di gestire le informazioni diventano mano a mano sempre più insufficienti, portandoci ad adottare sempre più spesso alcune delle scorciatoie descritte dai 6 principi in maniera totalmente inconscia. Molti di voi crederanno di essere ineluttabili, di non essere mai stati influenzati poiché in grado di ragionare con la propria testa. Ebbene è proprio per questa nostra capacità di ragionare che tutti, almeno una volta, siamo stati influenzati in qualche nostra scelta da uno o più principi, in quanto il nostro cervello li adopera in maniera inconscia per potersi destreggiare fra le mille scelte che ognuno deve compiere ogni giorno.
 
 Non ce ne siamo accorti allora, non avremmo potuto; ma la più grande arma contro la persuasione è la conoscenza di tutte queste dinamiche che, con un po’ di sangue freddo e a mente lucida, può permetterci di evitare di cadere vittime di coloro che tentano di persuaderci e ottenere qualcosa da noi.
-
 
 ---
