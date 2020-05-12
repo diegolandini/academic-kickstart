@@ -143,7 +143,7 @@ Così facendo l’azienda fa sì che le potenziali clienti si trovino a comprare
 Chiarito come la simpatia del persuasore giochi un ruolo fondamentale agli occhi della “vittima”, bisogna comprende quali sono i fattori che la determinano.
 Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
 
-- *Bellezza*: A quanto pare c’è una risposta automatica e non ragionata alla bellezza fisica. È una
+- **Bellezza**: A quanto pare c’è una risposta automatica e non ragionata alla bellezza fisica. È una
                    risposta che rientra in quel fenomeno chiamato “*effetto alone*”; esso si mostra quando
                    una singola caratteristica di una persona domina la percezione che gli altri hanno di lei
                    anche in altri aspetti. Numerosi esperimenti dimostrano come si tenda ad attribuire
@@ -152,7 +152,7 @@ Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
                    assunzioni e nei processi dove i soggetti più attraenti riscuotono maggior successo e
                    favore.
 
-- *Somiglianza*: Ci piacciono le persone che sono simili a noi! Niente di sconvolgente è vero, ma a
+- **Somiglianza**: Ci piacciono le persone che sono simili a noi! Niente di sconvolgente è vero, ma a
                           quanto pare questo vale sia che la somiglianza riguardi le opinioni, i tratti di
                           personalità, l’ambiente di provenienza o il modo di vita. Di conseguenza chi
                           desidera ottenere la nostra simpatia può cercare di apparire simile a noi in tanti   
@@ -160,14 +160,14 @@ Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
                           istruiti a fingere di avere interessi in comune con i clienti. I dati dimostrano che  
                           quando viene inscenata questa somiglianza le vendite salgono più del 30%.
 
-- *Complimenti*: Sapere che una persona prova per noi ammirazione o attrazione può essere un
+- **Complimenti**: Sapere che una persona prova per noi ammirazione o attrazione può essere un
                             dispositivo micidiale per indurre da parte nostra simpatia e acquiescenza come
                             contraccambio. E così, spesso sotto forma di adulazione o sotto forma di semplici
                             dichiarazioni di affinità, ci capita di sentire giudizi positivi da gente che vuole
                             qualcosa da noi.
                             
 
-- *Contatto e Cooperazione*: Per lo più ci piacciono le cose che ci sono familiari ed il fattore
+- **Contatto e Cooperazione**: Per lo più ci piacciono le cose che ci sono familiari ed il fattore
                                                  Contatto e Cooperazione fa leva proprio su tale principio. Contatto
                                                  perché con esso si vuole far acquisire familiarità con una persona, un
                                                  oggetto o un tema alla “vittima”, facendoli entrare in contatto, per
@@ -176,7 +176,7 @@ Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
                                                  parole creare nella mente del soggetto designato un’idea positiva
                                                  riguardo la relazione con l’oggetto voluto.
 
-- *Condizionamento e Associazione* Per le associazioni positive ci dobbiamo rivolgere ai
+- **Condizionamento e Associazione** Per le associazioni positive ci dobbiamo rivolgere ai
                                                            professionisti della persuasione che cercano di collegare se
                                                            stessi o i loro prodotti alle cose che ci piacciono. Così le belle
                                                            ragazze sono affiancate al prodotto per prestargli i propri tratti
