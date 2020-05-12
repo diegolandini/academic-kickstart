@@ -221,4 +221,7 @@ Bisogna sempre tenere a mente che nonostante nessuno di noi si senta tanto influ
 
 Non ce ne siamo accorti allora, non avremmo potuto; ma la più grande arma contro la persuasione è la conoscenza di tutte queste dinamiche che, con un po’ di sangue freddo e a mente lucida, può permetterci di evitare di cadere vittime di coloro che tentano di persuaderci e ottenere qualcosa da noi.
 
+Fonti:
+- "Le armi della persuasione", Robert B. Cialdini
+
 ---
