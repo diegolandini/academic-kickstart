@@ -1,5 +1,5 @@
 ---
-title: "Le armi della persuasione  Quanto sei realmente influenzabile"
+title: "Le armi della persuasione: quanto sei realmente influenzabile"
 authors:
 - Diderot
 - Valerio Garofalo
@@ -77,6 +77,7 @@ Per capire come può essere sfruttata la regola del contraccambio da uno che ne 
 Radunò un gruppo di soggetti presentandogli la prova come uno studio sulle attitudini estetiche e chiedendogli di giudicare la qualità artistica di certi quadri insieme ad un compagno (chiamiamolo Nick) che in realtà era un assistente del laboratorio.
 Le condizioni sperimentali erano 2: in alcuni casi Nick faceva spontaneamente un piccolo regalo al compagno; durante una breve pausa usciva dalla stanza e si ripresentava con 2 bottigliette di Coca-Cola dicendo: “Ho chiesto all’assistente se potevo prendermi una Coca e lui ha detto di sì, così ne ho presa una anche per te”.
 Negli altri casi Nick si limitava ad uscire per un paio di minuti tornando poi a mani vuote, ma per tutto il resto si comportava in maniera identica.
+
 Alla fine, terminato l’esame ed uscito lo sperimentatore, Nick chiedeva al compagno di fargli un favore: gli diceva che stava vendendo dei biglietti per una lotteria con in palio un automobile e che, se fosse riuscito a venderli quasi tutti, avrebbe ottenuto un premio di 50$. La richiesta era quindi quella di comprargli qualche biglietto a 25 centesimi l’uno e il risultato principale della ricerca riguardava il numero di ticket piazzati nelle 2 rispettive condizioni sperimentali.
 Ovviamente il successo fu molto maggiore con i soggetti che prima avevano ricevuto un favore, che ne comprarono più del doppio degli altri!
 
@@ -97,10 +98,12 @@ Una ricerca di due psicologi canadesi ha dimostrato un interessante comportament
 
 Si tratta del nostro bisogno (conscio e inconscio) di essere coerenti con ciò che abbiamo già fatto.
 Gli psicologi hanno capito da tempo l’importanza del *principio di coerenza* nel dirigere le azioni umane. È una forma di risposta automatica che aiuta ad affrontare la maggior parte delle scelte quotidiane. Una volta fatta una scelta, attenersi alla decisione presa ci risparmia la fatica di doverci pensare ancora: quando ci troveremo davanti allo stesso argomento/tema non dovremo più valutare tutte le informazioni né considerare i pro e i contro, ci basterà inserire il nostro programma automatico di coerenza e non dovremo far altro che credere, dire o fare quello che corrisponde alla decisione già presa.
+
 Il meccanismo ha però anche un’altra perversa attrattiva: a volte non è la fatica di scegliere come agire a farci evitare tale impegno, bensì le conseguenze spiacevoli che questo comporterebbe.
 Spesso per trovare delle soluzioni ai nostri problemi ci affidiamo ciecamente a determinate scelte che, se esaminate con logica, risulterebbero inconcludenti. Questo perché se riflettessimo attentamente su tale decisione ne capiremmo l’infondatezza ritrovandoci così di nuovo soli con il nostro problema; ne sono un esempio tutte quelle persone che si lasciano truffare dai santoni che promettono soluzioni magiche attraverso processi senza alcun fondamento.
 
 Se l’*automatismo della coerenza* funge da difesa contro le insidie del pensiero, non dobbiamo meravigliarci che possa essere sfruttato da certi approfittatori. Queste persone sono così brave a predisporre le cose in maniera da far scattare in noi tale principio che raramente ci accorgiamo di essere caduti in trappola. Ne sono un esempio i grossi produttori di giocattoli.
+
 Ogni anno dopo il boom di vendite natalizio essi si ritrovano con due mesi di forte magra; i genitori, che hanno già speso molto per i regali a Dicembre, molto difficilmente spenderanno ancora a Gennaio e Febbraio. Queste aziende hanno allora adottato una tecnica molto ingegnosa: cominciano prima di Natale a pubblicizzare in TV certi articoli abbastanza particolari che i ragazzini tendono a farsi promettere per regalo. Dopodiché distribuiscono nei punti di vendita scorte insufficienti di quel giocattolo, in modo tale che la maggior parte dei clienti lo trovi esaurito e debba così comprarne un altro di pari valore. Infine, passate le feste, ricompare in TV la pubblicità di quel balocco speciale; i bambini vedendolo lo desiderano ancora più di prima e assillano i genitori con i tipici “Me l’avevi promesso!” portandoli così ad andare al negozio per mantenere fede alla parola data.
 
 L’efficacia della tecnica consiste quindi nel far compiere al soggetto designato un azione che abbia una qualche connessione con il nostro reale obbiettivo.
@@ -134,6 +137,7 @@ Nessuno si meraviglia che normalmente preferiamo acconsentire alle richieste del
 
 L’esempio più chiaro dello sfruttamento commerciale di tale principio è il **Tupperware party**:
 La Tupperware (una multinazionale americana che si occupa della vendita di utensili per la cucina) recluta una padrona di casa che, in vista di una percentuale sugli acquisti, invita un grande numero di amiche per una festa nella sua abitazione, dove una dimostratrice cercherà di piazzare i suoi prodotti.
+
 Così facendo l’azienda fa sì che le potenziali clienti si trovino a comprare i suoi prodotti non da una venditrice anonima, ma da un’amica e soprattutto per il suo interesse (la percentuale); tutti gli obblighi ed i legami inerenti al rapporto di amicizia sono reclutati in funzione delle vendite con risultati assurdi: secondo stime recenti le vendite con questo sistema superano i 2 milioni e mezzo al giorno!
 
 Chiarito come la simpatia del persuasore giochi un ruolo fondamentale agli occhi della “vittima”, bisogna comprende quali sono i fattori che la determinano.
@@ -189,7 +193,9 @@ Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
 
 Per dimostrare quanto l’autorità o l’importanza sociale di una determinata persona influiscano sulla sua capacità di persuadere gli altri a fare ciò che vuole, lo psicologo Stanley Milgram organizzò un curioso esperimento.
 Raccolse un certo numero di soggetti invitandoli ad uno “studio sulla memoria” e li divise in due gruppi: uno di Allievi ed uno di Istruttori. I primi dovevano memorizzare delle coppie di parole in un determinato intervallo di tempo, per poi sedersi su una sedia elettrica e ripetere le coppie nell’ordine corretto. Qui intervenivano gli istruttori, i quali sotto gli ordini di Milgram, dovevano somministrare una scarica elettrica all’allievo ogni volta che commetteva un errore, aumentando gradualmente l’intensità della corrente.
+
 In realtà l’allievo non era altro che un attore incaricato di soffrire e chiedere disperatamente di smettere una volta arrivati alle scariche più forti; a questo punto Milgram ordinava agli istruttori di proseguire e di non badare alle urla forsennate delle povere vittime. Ebbene, su 40 soggetti, in 39 arrivarono a somministrare la scossa più intensa, che nella realtà sarebbe stata mortale!
+
 Ovviamente non erano persone squilibrate. Nonostante continuassero, in molti arrivarono a piangere e a mordersi le labbra facendole sanguinare nel sentire lo psicologo ordinare di continuare.
 Il loro comportamento non può essere spiegato con teorie sulla loro follia o sadicità; esso dimostra unicamente la cieca fiducia che si tende a dare all’autorità del campo in cui ci troviamo.
 
@@ -202,16 +208,18 @@ Il loro comportamento non può essere spiegato con teorie sulla loro follia o sa
 Il principio di scarsità si basa sulla concezione che tendiamo ad attribuire un maggior valore ad un oggetto o ad un’opportunità se essi sono scarsamente disponibili.
 Ragionate un attimo; quante volte vi è capitato di fiondarvi su qualcosa solamente perché era l’ultima rimasta della sua tipologia? Di fatto l’idea di una perdita potenziale gioca un ruolo molto importante nei processi della decisione umana, così le persone sono più motivate ad agire dal timore di una perdita che dalla speranza di un guadagno di pari entità.
 Gli esperti della persuasione conoscono perfettamente questo principio e lo adoperano nei modi più disparati. Un esempio sono i proprietari di case che vengono avvisati degli sprechi derivanti da un isolamento termico inadeguato; i lavoratori del settore riescono a convincerli a prendere impegni in merito molto più facilmente rispetto a quelli che vengono avvisati dei potenziali risparmi dovuti ad un isolamento adeguato.
+
 Allo stesso modo agiscono i venditori che presentano i loro prodotti come rari o esclusivi e i siti web che inseriscono avvisi dinamici come “solo 2 prodotti rimasti”, “solo 1 camera rimasta”, “solo 3 posti liberi in economy”, in base ad informazioni in tempo reale.
 
 
 {{< figure library="true" src="persuasionepubblictià1.jpg" title="" lightbox="true" >}}
 
 
-*CONCLUSIONE*
-
 Dato che nel sovraccarico informativo in cui tipicamente ci troviamo a vivere, diventiamo ancora più vulnerabili a queste tecniche di persuasione, la loro conoscenza serve anche a scopo difensivo: diventare consapevoli che una persona o una tecnologia sta cercando di indurci a compiere un'azione che non desideriamo veramente, ci consente di fermarci e riflettere su quali sono i nostri reali desideri ed obbiettivi.
-Bisogna sempre tenere a mente che nonostante nessuno di noi si senta tanto influenzabile quanto possa risultare da questo libro, viviamo in un’era in cui le nostre capacità di gestire le informazioni diventano mano a mano sempre più insufficienti, portandoci ad adottare sempre più spesso alcune delle scorciatoie descritte dai 6 principi in maniera totalmente inconscia. Molti di voi crederanno di essere ineluttabili, di non essere mai stati influenzati poiché in grado di ragionare con la propria testa. Ebbene è proprio per questa nostra capacità di ragionare che tutti, almeno una volta, siamo stati influenzati in qualche nostra scelta da uno o più principi, in quanto il nostro cervello li adopera in maniera inconscia per potersi destreggiare fra le mille scelte che ognuno deve compiere ogni giorno. Non ce ne siamo accorti allora, non avremmo potuto; ma la più grande arma contro la persuasione è la conoscenza di tutte queste dinamiche che, con un po’ di sangue freddo e a mente lucida, può permetterci di evitare di cadere vittime di coloro che tentano di persuaderci e ottenere qualcosa da noi.
+
+Bisogna sempre tenere a mente che nonostante nessuno di noi si senta tanto influenzabile quanto possa risultare da questo libro, viviamo in un’era in cui le nostre capacità di gestire le informazioni diventano mano a mano sempre più insufficienti, portandoci ad adottare sempre più spesso alcune delle scorciatoie descritte dai 6 principi in maniera totalmente inconscia. Molti di voi crederanno di essere ineluttabili, di non essere mai stati influenzati poiché in grado di ragionare con la propria testa. Ebbene è proprio per questa nostra capacità di ragionare che tutti, almeno una volta, siamo stati influenzati in qualche nostra scelta da uno o più principi, in quanto il nostro cervello li adopera in maniera inconscia per potersi destreggiare fra le mille scelte che ognuno deve compiere ogni giorno.
+
+Non ce ne siamo accorti allora, non avremmo potuto; ma la più grande arma contro la persuasione è la conoscenza di tutte queste dinamiche che, con un po’ di sangue freddo e a mente lucida, può permetterci di evitare di cadere vittime di coloro che tentano di persuaderci e ottenere qualcosa da noi.
 
 
 ---
