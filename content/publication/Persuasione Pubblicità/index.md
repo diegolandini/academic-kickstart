@@ -92,7 +92,7 @@ In ambito commerciale tale principio viene sfruttato da molte aziende attraverso
 {{< figure library="true" src="persuasionepubblicità3.jpg" title="" lightbox="true" >}}
 
 
-*IMPEGNO E COERENZA*   
+**IMPEGNO E COERENZA**   
 
 Una ricerca di due psicologi canadesi ha dimostrato un interessante comportamento degli scommettitori all’ippodromo: appena puntati dei soldi, sono molto più fiduciosi nelle possibilità di vittoria del loro cavallo. Questo cambiamento ha a che fare con un’arma di persuasione molto diffusa e radicata in noi allo scopo di dirigere inconsciamente le nostre azioni.
 
@@ -113,7 +113,7 @@ Un esempio può essere fare una piccola richiesta con elevata probabilità di es
 {{< figure library="true" src="persuasionepubblictià4.jpg" title="" lightbox="true" >}}
 
 
-*RIPROVA SOCIALE*
+**RIPROVA SOCIALE**
 
 Secondo tale principio uno dei mezzi che usiamo per decidere cosa è giusto è cercare di scoprire cosa gli altri considerano giusto.
 In poche parole tendiamo a considerare più adeguata un’azione quando la fanno anche gli altri.
@@ -131,7 +131,7 @@ Il biglietto era stato scritto dalla prima persona che l’aveva trovato e indic
 {{< figure library="true" src="persuasionepubblicità2.jpg" title="" lightbox="true" >}}
 
 
-*SIMPATIA*
+**SIMPATIA**
 
 Nessuno si meraviglia che normalmente preferiamo acconsentire alle richieste delle persone che conosciamo e che ci piacciono. La cosa notevole invece è che questa semplice regola viene spesso usata in centinaia di modi da perfetti sconosciuti per indurci ad accettare le loro richieste.
 
@@ -189,7 +189,7 @@ Essi sono stati definiti dalla ricerca nel campo delle scienze sociali e sono :
 
 
 
-*AUTORITÀ*
+**AUTORITÀ**
 
 Per dimostrare quanto l’autorità o l’importanza sociale di una determinata persona influiscano sulla sua capacità di persuadere gli altri a fare ciò che vuole, lo psicologo Stanley Milgram organizzò un curioso esperimento.
 Raccolse un certo numero di soggetti invitandoli ad uno “studio sulla memoria” e li divise in due gruppi: uno di Allievi ed uno di Istruttori. I primi dovevano memorizzare delle coppie di parole in un determinato intervallo di tempo, per poi sedersi su una sedia elettrica e ripetere le coppie nell’ordine corretto. Qui intervenivano gli istruttori, i quali sotto gli ordini di Milgram, dovevano somministrare una scarica elettrica all’allievo ogni volta che commetteva un errore, aumentando gradualmente l’intensità della corrente.
@@ -203,7 +203,7 @@ Il loro comportamento non può essere spiegato con teorie sulla loro follia o sa
 {{< figure library="true" src="persuasionepubblicita5.jpg" title="" lightbox="true" >}}
 
 
-*SCARSITÀ*
+**SCARSITÀ**
 
 Il principio di scarsità si basa sulla concezione che tendiamo ad attribuire un maggior valore ad un oggetto o ad un’opportunità se essi sono scarsamente disponibili.
 Ragionate un attimo; quante volte vi è capitato di fiondarvi su qualcosa solamente perché era l’ultima rimasta della sua tipologia? Di fatto l’idea di una perdita potenziale gioca un ruolo molto importante nei processi della decisione umana, così le persone sono più motivate ad agire dal timore di una perdita che dalla speranza di un guadagno di pari entità.
