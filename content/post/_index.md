@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Il Salotto Di Diderot
 
 # View.
 #   1 = List
