@@ -12,7 +12,7 @@ categories:
 date: "2020-05-15"
 lastmod: "2020-05-15"
 featured: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
