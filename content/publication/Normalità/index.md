@@ -10,7 +10,10 @@ doi: ""
 publishDate: "2020-05-16"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "A pochi giorni dall’inizio dell’emergenza lo slogan era “Tutto questo ci renderà migliori”, ma è stato veramente così?
+**Normalità** è spesso utilizzata come sinonimo di “giusto” e come metro di paragone per giudicare gli altri ed è forse una delle parole che, se usata con cattiveria, può fare più male. 
+Ma cos’è? Esiste, o l’abbiamo inventata noi per stare più sereni, per sentirci protetti e in qualche modo giustificati? 
+"
 tags:
 - Quarantena
 - Normalità
