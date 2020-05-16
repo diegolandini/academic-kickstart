@@ -1,5 +1,4 @@
 ---
-
 title: "La normalità che ci manca"
 authors:
 - Diderot
