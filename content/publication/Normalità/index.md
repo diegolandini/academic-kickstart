@@ -42,7 +42,8 @@ draft: false
 
 ---
 
-*La normalità è una strada asfaltata: è comoda per camminare, ma non vi crescono fiori.
+"*La normalità è una strada asfaltata: è comoda per camminare, ma non vi crescono fiori."
+
 Vincent van Gogh*
 
 A pochi giorni dall’inizio dell’emergenza lo slogan era “Tutto questo ci renderà migliori”, ma è stato veramente così?
