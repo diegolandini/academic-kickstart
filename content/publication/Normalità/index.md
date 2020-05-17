@@ -42,7 +42,7 @@ draft: false
 
 ---
 
-"*La normalità è una strada asfaltata: è comoda per camminare, ma non vi crescono fiori."
+**"La normalità è una strada asfaltata: è comoda per camminare, ma non vi crescono fiori."**
 
 Vincent van Gogh*
 
