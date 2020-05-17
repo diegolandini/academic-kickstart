@@ -1,6 +1,6 @@
 ---
 title: "Ruggine"
-summary:
+summary: "È notte, e c'è questo rumore, è fastidioso, io poi non dormo, anzi dormo troppo questi giorni, e quindi la notte non dormo, ci provo eh, non è che non mi impegni e solo che boh"
 tags:
 - Racconto
 authors:

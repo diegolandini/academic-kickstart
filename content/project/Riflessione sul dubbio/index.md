@@ -1,7 +1,7 @@
 ---
 title: "Riflessone sul dubbio"
-subtitle: ''
-summary: 
+subtitle: 
+summary: "In questo stato apocalittico si sviluppano eterne e logoranti incertezze."
 authors:
 - Silvia Cherillo
 tags:
