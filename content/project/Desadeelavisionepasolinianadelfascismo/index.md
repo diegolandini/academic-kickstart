@@ -1,6 +1,6 @@
 ---
 title: "Il Marchese De Sade e la visione pasoliniana del fascismo"
-summary:
+summary: "**«Il mio modo di pensare, si dice, non può essere approvato. Ebbene, cosa me ne importa? Sarebbe un pazzo colui che adotti un modo di pensare solo per piacere agli altri.»**  (De Sade)"
 tags:
 - Riflessioni
 authors:
