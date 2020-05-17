@@ -12,7 +12,11 @@
   url = "#hero"
   weight = 10
   
-  
+ [[main]]
+  name = "Il Salotto Di Diderot"
+  url = "#projects"
+  weight = 30
+
   [[main]]
   name = "Galleria Foto"
   url = "#gallery"
