@@ -9,7 +9,7 @@ date: "2020-05-17"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -28,6 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
 ---
 
 È notte, e c'è questo rumore, è fastidioso, io poi non dormo, anzi dormo troppo questi giorni, e quindi la notte non dormo, ci provo eh, non è che non mi impegni e solo che boh, stai li col cuscino, la coperta, alcune volte il cuore accelera ed allora inizi pure ad avere caldo e a sudare, se va bene, quando invece va male gira la testa ho le vertigini, onestamente non so se questo dettaglio sia interessante. Veramente non so nemmeno se scrivere in terza persona o in prima.  In prima da un senso di diario, in terza hai quella cosa là dell'osservatore onnisciente che ti hanno insegnato alle superiori, o alle medie? sempre ammesso che tu fossi attento. E poi, di chi vorresti parlare ora, di quale personaggio pensi sia interessante la vita in questa situazione? magari un macellaio, un professore, un politico? e poi però un politico, quale? sono tutti uguali, ecco io parlo in prima persona, ma sono il narratore onnisciente, perché conosco la mia storia, so tutto, e forse vi sarete pure rotti le scatole di stare li ad aspettare per capire cosa voglio raccontarvi io che so anche da dove viene tutto questo casino.
