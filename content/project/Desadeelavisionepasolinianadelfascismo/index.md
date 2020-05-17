@@ -2,7 +2,7 @@
 title: "Il Marchese De Sade e la visione pasoliniana del fascismo"
 summary:
 tags:
-- Riflessione
+- Riflessioni
 authors:
 - Giacomo Cellupica
 date: "2020-05-17"
