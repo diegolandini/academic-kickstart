@@ -1,7 +1,8 @@
 ---
 title: "Ayudame"
 subtitle: ''
-summary: 
+summary: "Arriviamo in stazione la sera tardi chiedendo un passaggio ad altri
+ragazzi che erano alla festa con noi."
 authors:
 - Matteo Croce
 tags:
