@@ -52,6 +52,8 @@ Due secoli fa il termine razza iniziò ad assumere il significato attuale e si d
 
 Un ruolo in prima linea tra i sostenitori di queste teorie fu quello assunto da Joseph Arthur De Gobineau, autore del *Saggio sulla  disuguaglianza delle razze umane* , che con i suoi studi non soltanto si impegnò a dimostrare la classificazione delle razze, ma fornì anche un punto di vista inedito riguardo la storia stessa dell’uomo, proponendola come un lungo processo di degenerazione di un archetipo perfetto.
 
+{{< figure library="true" src="razzismo1.jpg" title="" lightbox="true" >}}
+
 In parole povere, De Gobineau era convinto che la storia implicasse necessariamente mescolamenti e che questi minacciassero l’autenticità della razza. I bianchi, unici esemplari umani capaci di creare una civiltà superiore, erano i più vulnerabili davanti al pericolo degli incroci con altre razze, perché il patrimonio genetico ne sarebbe risultato in ogni caso impoverito. Si tratta di una visione impregnata di rassegnazione, che non pretende di trovare soluzioni,  lucidamente consapevole che con l’avanzare dei tempo non si potesse in alcun modo evitare i mescolamenti e riteneva, anzi, che la sua stessa società fosse già pienamente parte di questo processo di decadimento. A differenza delle civiltà degli antichi greci e romani, considerate ancora pure, quella del suo secolo era composta di soli ibridi, già vittime degli incroci.   
 Oggi questa è una visione superata, lo stesso termine razza è considerato non solo obsoleto, ma errato sotto ogni punto di vista, tanto quello scientifico quanto quello etico.
 
@@ -75,6 +77,8 @@ Purtroppo la nostra società è ricca di connotazioni estetiche e morali legate 
 Il pericolo è di non riuscire più a distinguere i differenti livelli di pregiudizio.
 Gli studiosi della materia hanno ritenuto dunque necessario cercare dei punti comuni tra la discriminazione razziale di ieri, nelle sue manifestazioni più evidenti dal nazismo al Ku Klux Klan, e quella di oggi.
 Il sociologo Pierre-André Taguieff ha individuato come denominatori comuni tre atteggiamenti mentali, che vengono associati a altrettante azioni pratiche correlate.
+
+{{< figure library="true" src="razzismo2.jpg" title="" lightbox="true" >}}
 
 La prima di queste trappole mentali è la *tendenza*, anche inconscia, *a ridurre un individuo al suo gruppo di appartenenza*. Che cosa vuol dire? Significa che l’individuo viene visto esclusivamente come parte di un gruppo ed immobilizzato in tutte le caratteristiche ad esso associate.  Questo certamente produce un pregiudizio, ma perché assuma carattere razzista è necessario sia affiancato da un’asimmetria di potere, cioè sia operato da parte di un gruppo più forte verso uno più debole.
 
@@ -107,5 +111,9 @@ Esiste quindi  una continuità tra quella che è la nostra normalità ed il geno
  Ciò che caratterizza queste forme di violenza è il legame con istituzioni di cui si denuncia la complicità nel trasmettere determinati  sentimenti sociali. D’altro canto sono proprio le stesse istituzioni che contengono anche le potenzialità per risolvere il problema, muovendosi verso la pace e la giustizia sociale.
 In conclusione dobbiamo prendere coscienza del fatto che in quale direzione vengano spinte è un problema che riguarda noi,  le nostre scelte politiche ed etiche, e che, ancora una volta, l’aspetto del mondo in cui vogliamo vivere si conferma essere una nostra responsabilità.      
 
+{{< figure library="true" src="razzismo3.jpg" title="" lightbox="true" >}}
+
+Note:
+1. https://www.nytimes.com/2013/04/29/arts/music/donald-shirley-pianist-and-composer-dies-at-86.html (fonte ultima foto)
 
 ---
