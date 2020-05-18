@@ -34,7 +34,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 In un mondo globalizzato, in cui i confini fisici e culturali tra i popoli si fanno più sfumati e le società sono sempre più multietniche ed aperte all’integrazione, si potrebbe pensare che fenomeni di discriminazione razziale siano lontani e superati, eppure la cronaca ci presenta un problema più attuale di quanto ci piacerebbe ammettere, con episodi di razzismo ancora troppo frequenti.
