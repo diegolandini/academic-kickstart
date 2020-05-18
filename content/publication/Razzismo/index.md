@@ -1,9 +1,8 @@
 ---
-title: "Razzismo"
+title: "Il fondamentalismo culturale ed i meccanismi della discriminazione"
 authors:
 - Diderot
--
-- Lorenzo Feltoni Gurini
+- Giulia Metalli
 date: "2020-05-18"
 doi: ""
 # Schedule page publish date (NOT publication's date).
