@@ -35,6 +35,7 @@ Arriviamo in stazione la sera tardi chiedendo un passaggio ad altri
 ragazzi che erano alla festa con noi. Ci precipitiamo alla bigliettatrice di
 corsa cercando di prendere un treno per casa, nel caso ci fosse, ma
 l’ultimo treno utile era alle 5 di mattina.
+
 Stranamente, in un barlume di lucidità, Pippo decide di fare da subito i
 biglietti per la mattina dopo. Dopo tre giorni di digiuno i crampi della
 fame sono diventati udibili, del resto alle feste non si va per mangiare.
@@ -42,30 +43,35 @@ Poco fuori la stazione c’era un McDonald’s aperto. L’insegna fuori recita
 “martedi’ cheeseburger a 50 centesimi”. Un rapido conteggio del resto
 della bigliettatrice ci informa che ci possiamo permettere 8
 cheeseburger a testa. Ogni tanto una buona notizia.
+
 Torniamo in stazione per ripararci dal freddo, ma ancora prima di
 arrivare al binario ci viengono incontro due poliziotti.
 “Signori la stazione fra mezz’ora chiude, dovete uscire.”
 “Ma abbiamo il treno domani mattina, non possiamo restare dentro?”
 “Se avete il treno domani mattina potete dormire in sala d’attesa, ma
 solo se mostrate un biglietto valido per domani mattina.”
+
 Pippo è un punkabbestia wannabe stupido e anche un pò tossico, ma a
 volte ha delle idee intelligenti. Tipo fare i biglietti del treno già dalla
 sera prima. Mostriamo i biglietti, e i poliziotti ci indicano la sala
 d’attesa. Dentro c’erano una ventina di arabi e africani che
 dormicchiavano buttati a terra o su delle comodissime panchine di
 legno. Tutti rigorosamente senza scarpe.
+
 Ci facciamo spazio fra i nostri camerati e cominciamo a dormicchiare
 usando lo zaino come cuscino. Stavo gia sognando scene di rave e
 cheeseburger, ma vengo svegliato da qualcosa di grosso e puzzolente.
 Un cane antidroga della polizia mi stava annusando, sotto lo sguardo
 vigile e severo del padrone. Finita la scansione, il cane si fionda sul mio
 amico, e comincia ad abbaiare indicandogli l’inguine.
+
 Lo aveva il fumo Pippo, me lo ricordo, “Questo me lo fumo a casa per
 riprendermi” disse poco prima di lasciare la festa, mentre lo comprava.
 Pippo si sveglia e sgrana gli occhi, stordito. Del resto non deve essere
 bello svegliarsi con un cane che ti abbaia in faccia. Specialmente
 quando fai mente locale, e ti ricordi che hai 5 grammi di fumo in tasca,
 e che il cane è il migliore amico dell’uomo, ma dell’uomo sbagliato.
+
 “Giovanotto in piedi, dobbiamo perquisirla, il cane l’ha segnalata.”
 Pippo si alza con la faccia basita da Stanis La Rochelle e si lascia
 perquisire dai poliziotti, inerme. Io guardo passivamente la scena.
@@ -80,6 +86,7 @@ comincia a sbuffare, altri due si svegliano e si tolgono le scarpe.
 “Vado a comprare una bottiglia d’acqua al distribuitore, non ho più
 sonno.” dice Pippo.
 “Ti aspetto qui, dove cazzo potrei andare?”
+
 Si avvia e io mi rimetto comodo, ma alla fine era passato il sonno anche
 a me. Aspetto seduto qui, che altro dovrei fare tra l’altro.
 Aspetto, qualche minuto, forse una mezz’ora, quasi un’ora non so. Mi
@@ -101,6 +108,7 @@ Mi guarda con gli occhi spalancati e mi fa: “Mi sono chiavato una”
 Avevo il cervello ancora annebbiato da sonno, stress, stanchezza e
 qualche residuo di droga ancora in circolo. C’ho messo qualche secondo
 ad elaborare l’informazione, ma alla fine l’ho fatto.
+
 “Scusa, ma chi ti saresti chiavato?”
 “Una”
 “Una chi?”
@@ -110,6 +118,7 @@ ad elaborare l’informazione, ma alla fine l’ho fatto.
 Devo andare a vedere, assolutamente. Pippo scopa tanto, ma perché
 predilige la quantita alla qualità. E in stazione non ci dorme di certo
 Miss Italia.
+
 Trovo la panchina, intravedo una signora che vi dormiva su. Abbastanza
 in là con gli anni. Sicuro più di 60 se non 70 del tutto.
 Torno da Pippo, adesso le facce basite sono due.
