@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Il Salotto di Diderot"
-subtitle = ""
+subtitle = "Lo spazio creativo inaugurato per raccogliere poesie , racconti , riflessioni e documentazioni. Un luogo dove si abbandona a volte la professionalità e ci si avvicina alla semplice creatività, più piacevole di questi tempi."
 
 [content]
   # Page type to display. E.g. project.
