@@ -4,17 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 [[main]]
   name = "Posts"
-  url = "#featured"
+  url = "#posts"
   weight = 20
 
 [[main]]
   name = "Home"
-  url = "#hero"
+  url = "#home"
   weight = 10
 
  [[main]]
   name = "Il Salotto Di Diderot"
-  url = "#projects"
+  url = "#salottodididerot"
   weight = 30
 
   [[main]]
