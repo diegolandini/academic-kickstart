@@ -39,14 +39,23 @@ draft: false
 ---
 
 Dietro le quinte, a ritmi frenetici nei laboratori, gli scienziati e le migliori menti scientifiche di tutto il mondo lavorano unite alla ricerca della miglior arma in grado di arrestare il diffondersi del contagio: un vaccino.
+
 L'*OMS* (Organizzazione Mondiale della Sanità) definisce i vaccini come *la più importante scoperta medica realizzata dall'uomo*, che ha contribuito in modo fondamentale ad incrementare la speranza di vita nelle popolazioni, non solo come effettivo metodo preventivo di malattie infettive, ma anche a livello di crescita economica e riduzione della povertà.
 
 Non siamo abituati a pensarlo, ma un accorgimento semplice come la vaccinazione di una collettività gioca un ruolo chiave in una lunga catena di eventi. Essa consente di monitorare lo stato di salute pubblica e di preservarne l’integrità, con una conseguente riduzione di pressione sui sistemi sanitari attraverso un impiego migliore delle risorse e perciò notevoli risparmi sui costi sanitari annui. Il vaccino, quindi, rappresenta un’ottima soluzione a numerosi problemi nell’ambito medico ed economico e questo lascia facilmente intuire perché, soprattutto negli ultimi mesi, rappresenti un pensiero fisso dei ricercatori.
 
 Facciamo un passo indietro.
+
 Dal punto di vista pratico cos’è un vaccino?
+
 Esistono 2 tipi di vaccini, uno preventivo (quello che tutti intendiamo con il semplice “vaccino”) ed uno terapeutico usato per curare coloro che sono già affetti da una patologia.
-La vaccinazione preventiva è una pratica di immunizzazione attiva artificiale rivolta alla popolazione sana allo scopo di indurre uno stato immunitario specifico. Che vuol dire? Significa che viene mimata l’azione del microrganismo in modo da insegnare al sistema immunitario a riconoscerlo ed essere pronto in caso di infezione. L’obiettivo del vaccino è quello di dotare un individuo della resistenza, la celebre *immunità* di cui ormai si sente parlare dappertutto, ad un microrganismo patogeno, impedendone la diffusione su larga scala.
+La vaccinazione preventiva è una pratica di immunizzazione attiva artificiale rivolta alla popolazione sana allo scopo di indurre uno stato immunitario specifico. 
+
+Che vuol dire? 
+
+Significa che viene mimata l’azione del microrganismo in modo da insegnare al sistema immunitario a riconoscerlo ed essere pronto in caso di infezione.
+
+L’obiettivo del vaccino è quello di dotare un individuo della resistenza, la celebre *immunità* di cui ormai si sente parlare dappertutto, ad un microrganismo patogeno, impedendone la diffusione su larga scala.
 
 La vaccinazione terapeutica è una pratica di immunizzazione che mira a modulare l’azione del sistema immunitario verso una risposta qualitativamente migliore verso un epitopo, il segmento che viene riconosciuto dai linfociti, le cellule adibite alla difesa del corpo. Questo non significa più forte, ma significa un migliore mantenimento dello stato di equilibrio dell’individuo e quindi dello stato di salute.
 
