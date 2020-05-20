@@ -19,7 +19,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: true
+  preview_only: false
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -59,7 +59,7 @@ L’obiettivo del vaccino è quello di dotare un individuo della resistenza, la 
 
 La vaccinazione terapeutica è una pratica di immunizzazione che mira a modulare l’azione del sistema immunitario verso una risposta qualitativamente migliore verso un epitopo, il segmento che viene riconosciuto dai linfociti, le cellule adibite alla difesa del corpo. Questo non significa più forte, ma significa un migliore mantenimento dello stato di equilibrio dell’individuo e quindi dello stato di salute.
 
-{{< figure library="true" src="vaccini2.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="vaccini4.jpg" title="" lightbox="true" >}}
 
 Seppure abbia origini recenti, alcune testimonianze storiche suggeriscono che anche in passato si erano osservati casi di immunizzazione all’epoca  inspiegabili, specie nel corso di epidemie. Lo storico Tucidide descrive come, nel 430 b.C. , nel pieno della peste ad Atene, alcune persone guarite potessero prestare aiuto ai malati senza contrarre di nuovo la malattia. Nel 900, i membri più giovani delle dinastie reali cinesi erano sottoposti a variolizzazione, ossia una pratica medica che consisteva nell’inalazione di piccole croste prelevate a malati lievi di vaiolo. Il vaccino, insomma, sfrutta un fenomeno che avviene (ed è sempre avvenuto) naturalmente, ma che nei secoli ha riguardato pochissimi individui, coloro che, per ragioni sconosciute, riuscivano a sopravvivere ad epidemie devastanti.
 
