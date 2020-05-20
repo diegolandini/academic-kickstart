@@ -1,5 +1,4 @@
 ---
-
 title: "Vaccini"
 authors:
 - Diderot
