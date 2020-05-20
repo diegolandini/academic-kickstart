@@ -69,6 +69,6 @@ Il primo è la difesa dei più fragili; nella popolazione ci sono infatti person
 Perciò vaccinatevi, vaccinate i vostri figli, non solo per il loro bene e per quello della vostra famiglia, ma per amore della vita e della vita della comunità.
 
 
-{{< figure library="true" src="vaccini3.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="vaccini3.jpeg" title="" lightbox="true" >}}
 
 ---
