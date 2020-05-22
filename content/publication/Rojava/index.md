@@ -10,7 +10,10 @@ doi: ""
 publishDate: "2020-05-22"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Il **Rojava** è una regione del Kurdistan, all'interno del territorio siriano.
+Le vicende degli ultimi anni di questa terra e del popolo che vi abita sono arrivate al centro del dibattito e della cronaca, toccando temi come la lotta allo stato Islamico, la rivoluzione delle donne e l'ecologismo.
+Da dove nasce la *Rivoluzione del Rojava* e del popolo Curdo? 
+Che cosa è avvenuto negli ultimi mesi? "
 tags:
 - Siria
 - Rojava
