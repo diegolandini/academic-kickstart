@@ -61,7 +61,7 @@ Quando vennero ristabiliti i confini del Kurdistan, il territorio, con le sue ri
 -la zona sud-orientale (il Bashur) fu assegnata all' Iraq colonia inglese;
 -il territorio sud-occidentale (il Rojava) rientrò nel territorio siriano, allora sotto il controllo francese. 
 
-{{< figure library="true" src="rojava3.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="rovaja3.jpg" title="" lightbox="true" >}}
 
 Le rivendicazioni e le spinte nazionalistiche dei curdi da quel momento in poi furono utilizzate per arrivare al potere, sia dalle forze europee, prima della Seconda Guerra Mondiale, sia dai protagonisti dei conflitti intestini, subito dopo la "decolonizzazione". 
 Gli agenti in campo nelle numerose guerre **richiesero o concessero l'appoggio alla causa curda** a più riprese, con la **promessa dell'autonomia e dell'unità, che vennero però sempre negate** e ostacolate in quanto una minaccia ai rispettivi interessi. 
