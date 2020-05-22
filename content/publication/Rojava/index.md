@@ -133,14 +133,14 @@ In tutto il mondo ci sono state manifestazioni di solidarietà per i Curdi invit
 
 
 NOTE:
-1.https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.rojavaresiste.org/wp-content/uploads/Libro_rojava_resiste_VERSIONE_PDF_Novembre_2019.pdf&ved=2ahUKEwi2sIKqk6TpAhVE26QKHVl4D5QQFjAEegQIBRAB&usg=AOvVaw38fMrAOqFw6FQTXG59OTir
+1. https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.rojavaresiste.org/wp-content/uploads/Libro_rojava_resiste_VERSIONE_PDF_Novembre_2019.pdf&ved=2ahUKEwi2sIKqk6TpAhVE26QKHVl4D5QQFjAEegQIBRAB&usg=AOvVaw38fMrAOqFw6FQTXG59OTir
 
-2.https://www.researchgate.net/publication/44235302_Il_Kurdistan_una_terra_e_il_suo_popolo
+2. https://www.researchgate.net/publication/44235302_Il_Kurdistan_una_terra_e_il_suo_popolo
 
-3.https://altreconomia.it/armi-italiane-in-turchia-record-ottobre-2019/
+3. https://altreconomia.it/armi-italiane-in-turchia-record-ottobre-2019/
 
-4.https://www.valigiablu.it/turchia-guerra-curdi/
+4. https://www.valigiablu.it/turchia-guerra-curdi/
 
-5.https://www.retekurdistan.it/2015/01/19/oltre-ai-baffi-cosa-avevano-in-comune-bookchin-e-ocalan-lo-spiega-janeth-biel/
+5. https://www.retekurdistan.it/2015/01/19/oltre-ai-baffi-cosa-avevano-in-comune-bookchin-e-ocalan-lo-spiega-janeth-biel/
 
 ---
