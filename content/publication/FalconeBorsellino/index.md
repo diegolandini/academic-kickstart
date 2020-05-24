@@ -77,6 +77,7 @@ Falcone è morto per difendere il suo Paese, non piegandosi davanti a nulla e pr
 “*Casetta No Mafia*” - Luogo dal quale Giovanni Brusca azionò la carica. Fonte: Legalità e Giustizia.
 
 Fonti: 
+
 [1] https://www.lastampa.it/cronaca/2020/05/12/news/maxiblitz-della-finanza-contro-la-mafia-a-palermo-91-arresti-1.38834014
 
 ---
