@@ -73,7 +73,7 @@ In foto, l’arresto di uno dei boss della famiglia Fontana. Fonte: ANSA
 Pensare che questa sia una notizia di appena pochi giorni fa dovrebbe farci riflettere: siamo ancora ben lontani dalla fine della lotta alla mafia e per ogni giorno che qualcuno chiude gli occhi o abbassa il capo davanti ad eventi di corruzione e violenza, quest'enorme piovra diventa più grande e più forte, più difficile da sradicare. Ci sono persone che non muoiono mai, vivono attraverso gli ideali, le parole, i fatti che si sono lasciati dietro e non bisogna dimenticare che hanno lottato per tutti noi rimettendoci. **La mafia non si combatte restando in silenzio**.
 Falcone è morto per difendere il suo Paese, non piegandosi davanti a nulla e proseguendo per la sua strada. L'hanno ucciso per farlo stare zitto, per far stare zitti tutti, ma non ci sono riusciti e non ci riusciranno mai. Per questo dobbiamo ricordare e lottare per la legalità, per loro e per tante altre persone che sono state uccise cercando di lasciarci un mondo migliore.
 
-{{< figure library="true" src="mafia3.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="mafia4.jpg" title="" lightbox="true" >}}
 “*Casetta No Mafia*” - Luogo dal quale Giovanni Brusca azionò la carica. Fonte: Legalità e Giustizia.
 
 Fonti: 
