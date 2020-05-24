@@ -1,5 +1,5 @@
 ---
-title: "LE loro idee camminano sulle nostre gambe"
+title: "Le loro idee camminano sulle nostre gambe"
 authors:
 - Diderot
 - Tommaso Mancini
