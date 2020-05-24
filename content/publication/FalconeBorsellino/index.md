@@ -2,7 +2,8 @@
 title: "Le loro idee camminano sulle nostre gambe"
 authors:
 - Diderot
-- Tommaso Mancini
+- Flaminia Di Paolo
+- Valerio Garofalo
 date: "2020-05-24"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -51,6 +52,7 @@ Giovanni Falcone è stato un magistrato italiano dedito alla lotta contro la maf
 Utilizzò indagini finanziarie per individuare movimenti di capitale sospetto e, grazie a questo metodo innovativo e rivoluzionario, si arrivò a un **maxiprocesso che incriminò ben 475 mafiosi**.
 
 Nella nostra vita abbiamo sentito tutti parlare di lui almeno una volta a scuola, a casa, di sfuggita in televisione. La storia, è vero, non è magistra vitae, non ci insegna come vivere la vita di tutti i giorni e sicuramente non è in grado di dirci ciò che ci aspetterà, ma la *memoria* è diversa. Dedicare un momento di riflessione in giornate come queste, raccontare o semplicemente parlare di certi avvenimenti e di certi personaggi, permette di mantenere vive le idee, i valori e le azioni ad essi associati. Ricordare il passato non serve semplicemente per *conoscere* ciò che è accaduto, ma per provare a *impedire che certe cose non accadano di nuovo*. 
+
 Il ruolo della memoria è essenziale all’interno della società umana e ne permette la stabilità sin dai tempi più antichi, in quanto strumento per la conservazione e il passaggio di ideologie e tematiche culturali e sociali. Ricordare, specialmente chi non c’è più, dà valore alla loro vita, a quello che hanno fatto e a ciò che ci hanno insegnato.
 Giornate come il 23 Maggio servono dunque a portare avanti le azioni e le convinzioni di uomini come Giovanni Falcone, disposti a dare la vita pur di combattere uno dei costrutti sociali più radicati e pericolosi nel Bel Paese, la Mafia.
 
@@ -61,9 +63,12 @@ Giovanni Falcone e sua moglie, Francesca Morvillo. Fonte: Wikipedia.
 
 
 Il magistrato la descriveva come un fenomeno umano che, come tale, è destinata a nascere e a morire. È difficile pensare che la mafia possa "morire", specialmente in un Paese come il nostro, conosciuto all’estero con il motto *“pizza, mafia e mandolino”*, come se fosse insita nella nostra cultura, una delle caratteristiche principali dell'uomo italiano, una tendenza innata. Dagli italiani stessi in certe zone del Paese ed in determinati contesti è vista perfino come un *do ut des*, necessario alla realizzazione dei propri scopi o qualcosa di normale nella quotidianità: "dove non mi aiuta lo Stato, mi aiuta la Mafia".
+
 Nelle vignette viene raffigurata come una piovra con lunghissimi tentacoli e forse è il modo migliore per rappresentarla: un essere che ha un enorme "testa" e si ramifica ovunque, i cui tentacoli possono stritolarti in un secondo senza lasciarti via di scampo. È quindi un organismo che agisce in modo capillare su tutto il territorio e vive spesso, purtroppo, in simbiosi con i nostri politici.
+
 Molte zone d’Italia non ne comprendono la vera natura e si credono immuni al fenomeno mafioso. I territori del Nord Italia, considerati patria di grandi imprenditori e menti geniali, così lontani dal Sud, luogo di nascita dei più grandi clan mafiosi, si sono sempre ritenuti liberi da questo gioco tra clan, ma recenti avvenimenti ci dimostrano il contrario. 
 Tra le convinzioni generali c’è quella che la mafia ormai non sia più attiva come un tempo quando operava per strada e faceva gli attentati. Ci sono stati arresti importanti e ne è uscita indebolita. In realtà, non c’è stato altro che un cambio di interessi. I *boss* hanno compreso che i veri affari sono in altri ambiti: politica, sanità, edilizia ecc…
+
 È recente la notizia di un **maxi blitz** delle forze dell’ordine: **il 12 Maggio sono stati effettuati 91 arresti tra Milano e Palermo**. Gli agenti hanno messo in luce gli intenti del clan dei Ferrante e quello dei Fontana, i quali erano pronti a sfruttare la crisi generata dal Covid-19 **truccando appalti e riciclando circa 15 milioni di euro in aziende sanitarie**. [1]
 I principali interessi mafiosi si sono spostati dalle aziende agricole, alimentari ed edilizie del Sud, alle industrie sanitarie e di bonifica e smaltimento e agli organi politici/burocratici del Nord.
 
