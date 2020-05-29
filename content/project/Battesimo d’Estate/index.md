@@ -1,5 +1,6 @@
 ---
-title: "Battesimo d’Estate"
+
+title: "Battesimo dâ€™Estate"
 subtitle: ''
 summary: ""
 authors:
@@ -30,23 +31,23 @@ projects: []
 
 ---
 
-Un’impronta sulla sabbia, fugace
+Unâ€™impronta sulla sabbia, fugace
 del vento, o del mare
 Si confonde con la mia, che sente la brace.
 
 Sotto di me, Il calore dai granelli traspare
-Sopra di me, il sole inventa l’estate.
+Sopra di me, il sole inventa lâ€™estate.
 E i corpi, quasi nudi, sembrano avanzare
 
 verso la salvezza, le acque ghiacciate.
 Abbandoniamo i costumi invernali,
 indossiamo i colori e le pelli abbronzate.
 
-Si riempie l’aria di suoni vitali,
+Si riempie lâ€™aria di suoni vitali,
 e, di colpo, il buio e la solitudine sono lontani.
 Si passeggia, ci si incontra nei viali,
 
-volano bianchi nell’azzurro i gabbiani.
+volano bianchi nellâ€™azzurro i gabbiani.
 si va in cammino verso il ristoro,
 liquido e fresco da toccar con le mani.
 
