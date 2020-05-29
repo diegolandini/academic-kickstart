@@ -1,6 +1,6 @@
 ---
 title: "Lettera alla nitidezza"
-subtitle: 
+subtitle: ''
 summary: "Ho l'impressione di vederci troppo bene. Mi sono fatto controllare e no, non ho nessuna patologia."
 authors:
 - Anonimo estinto
