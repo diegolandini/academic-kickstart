@@ -1,5 +1,6 @@
 ---
-title: "L'et‡"
+
+title: "L'et√†"
 subtitle: ''
 summary: ""
 authors:
@@ -30,46 +31,46 @@ projects: []
 
 ---
 
-Líaltro giorno pensavo al significato dellíespressione ìcompiere gli anniî. Cosa significa, esattamente,
-esprimere ìdomani faccio gli anniî?
-Poco dopo, la mia coscienza mi ha suggerito uníinteressante cambio di prospettiva: non siamo noi a compiere
-gli anni, ma Ë il mondo a torno a noi il vero protagonista dellíevento. Ognuno di noi non Ë altro che una goccia
-in questo mare di umanit‡ che abita il pianeta, e quando noi parliamo delle et‡, delle ere del passato, dei
-periodi storici, non lo facciamo mai in riferimento alla vita di qualcuno, ma alle vite che nellíinsieme ne hanno
-costituito líidentit‡.
-Dire di ìfareî tot anni il giorno del proprio compleanno, quindi, Ë uníinesattezza. Quale parte fisica di me,
-esattamente, Ë la stessa di quando sono nato, díaltronde? Se potessimo tornare nel passato in un momento
+L‚Äôaltro giorno pensavo al significato dell‚Äôespressione ‚Äúcompiere gli anni‚Äù. Cosa significa, esattamente,
+esprimere ‚Äúdomani faccio gli anni‚Äù?
+Poco dopo, la mia coscienza mi ha suggerito un‚Äôinteressante cambio di prospettiva: non siamo noi a compiere
+gli anni, ma √® il mondo a torno a noi il vero protagonista dell‚Äôevento. Ognuno di noi non √® altro che una goccia
+in questo mare di umanit√† che abita il pianeta, e quando noi parliamo delle et√†, delle ere del passato, dei
+periodi storici, non lo facciamo mai in riferimento alla vita di qualcuno, ma alle vite che nell‚Äôinsieme ne hanno
+costituito l‚Äôidentit√†.
+Dire di ‚Äúfare‚Äù tot anni il giorno del proprio compleanno, quindi, √® un‚Äôinesattezza. Quale parte fisica di me,
+esattamente, √® la stessa di quando sono nato, d‚Äôaltronde? Se potessimo tornare nel passato in un momento
 della nostra vita e ci incontrassimo per caso, riusciremmo a riconoscerci? La memoria, alimentata dalla
 nostalgia, crea nei nostri ricordi le immagini del passato deformate dalla persona che siamo oggi e, come per
-il mondo che vediamo, queste sono mutevoli e figlie della prospettiva del momento. Cosa sono io oggi Ë la
+il mondo che vediamo, queste sono mutevoli e figlie della prospettiva del momento. Cosa sono io oggi √® la
 somma delle scelte, delle esperienze e delle riflessioni compiute in tutti i minuti precedenti. Ogni giorno
-siamo una persona nuova: evoluta, involuta o rivoluzionata, ma ogni giorno Ë il nostro giorno zero. Il giorno
-del compleanno Ë solo il momento in cui il giorno zero della nostra coscienza coincide con quando il nostro
+siamo una persona nuova: evoluta, involuta o rivoluzionata, ma ogni giorno √® il nostro giorno zero. Il giorno
+del compleanno √® solo il momento in cui il giorno zero della nostra coscienza coincide con quando il nostro
 corpo e la nostra anima hanno raggiunto queste sponde.
-Quando compirÚ 30 anni, non sarÚ io a fare 30 anni, ma sar‡ il mondo esistente secondo la mia prospettiva
-a fare 30 anni. Quel giorno sar‡ il 30∞ anniversario della mia presenza in questo mondo; sar‡ líet‡ che ha il
+Quando compir√≤ 30 anni, non sar√≤ io a fare 30 anni, ma sar√† il mondo esistente secondo la mia prospettiva
+a fare 30 anni. Quel giorno sar√† il 30¬∞ anniversario della mia presenza in questo mondo; sar√† l‚Äôet√† che ha il
 mondo per me, il compleanno del mondo da quando i miei occhi, le mie orecchie e le mie mani ne hanno
-concepito líesistenza.
-Per me la Terra non ha mai visto il nazismo, la scoperta dellíAmerica, il primo assaggio della pizza. Mi Ë stato
-detto che queste cose sono avvenute, e per logica ci credo, ma per la mia esistenza, non potrÚ mai
-testimoniarne líeffettivo accadimento. Il mio mondo esiste dal 1990, e come il mio ne esistono altri 7 miliardi.
+concepito l‚Äôesistenza.
+Per me la Terra non ha mai visto il nazismo, la scoperta dell‚ÄôAmerica, il primo assaggio della pizza. Mi √® stato
+detto che queste cose sono avvenute, e per logica ci credo, ma per la mia esistenza, non potr√≤ mai
+testimoniarne l‚Äôeffettivo accadimento. Il mio mondo esiste dal 1990, e come il mio ne esistono altri 7 miliardi.
 Ognuno di noi ha scritto nel proprio diario di bordo interiore la vita del mondo a partire, per forza di cose,
-dalla propria nascita, ed Ë giusto cosÏ. Come esseri umani, perÚ, questo non deve essere uníistigazione
-allíindividualismo, ma alla condivisione totale: anche se non sapremmo dire cosa sia successo in ogni
-momento della storia, sappiamo che il mondo esiste e che continuer‡ ad esistere dopo di noi.
-» la nostra unica casa e líunica cosa di cui abbiamo sicuramente e necessario bisogno di mantenere in salute.
-Il mondo non Ë solo una quasi sfera prevalentemente blu: il mondo Ë líaria che respiriamo, gli alimenti che ci
-tengono in vita, le persone che amiamo. Anche se ognuno di noi vede e ricorda il ìmondoî a proprio modo,
+dalla propria nascita, ed √® giusto cos√¨. Come esseri umani, per√≤, questo non deve essere un‚Äôistigazione
+all‚Äôindividualismo, ma alla condivisione totale: anche se non sapremmo dire cosa sia successo in ogni
+momento della storia, sappiamo che il mondo esiste e che continuer√† ad esistere dopo di noi.
+√à la nostra unica casa e l‚Äôunica cosa di cui abbiamo sicuramente e necessario bisogno di mantenere in salute.
+Il mondo non √® solo una quasi sfera prevalentemente blu: il mondo √® l‚Äôaria che respiriamo, gli alimenti che ci
+tengono in vita, le persone che amiamo. Anche se ognuno di noi vede e ricorda il ‚Äúmondo‚Äù a proprio modo,
 ne facciamo tutti parte, e siamo parte di essi. Noi non siamo enti esterni, ma cellule del suo organismo, anche
-se sempre di pi˘ ci siamo trasformati in parassiti avidi e distruttivi. Questa forse Ë la vera specialit‡ dellíessere
+se sempre di pi√π ci siamo trasformati in parassiti avidi e distruttivi. Questa forse √® la vera specialit√† dell‚Äôessere
 umano, rispetto a tutti gli altri esseri indigeni di questo pianeta: non il raziocino, ma il suo utilizzo per
-cambiare la nostra natura da piccolo ingranaggio del sistema a cellula tumorale... e il paradosso pi˘ straziante
-Ë che ad ogni passo avanti che fa la medicina verso la progressiva eliminazione di queste ultime negli esseri
+cambiare la nostra natura da piccolo ingranaggio del sistema a cellula tumorale... e il paradosso pi√π straziante
+√® che ad ogni passo avanti che fa la medicina verso la progressiva eliminazione di queste ultime negli esseri
 umani e delle malattie, il nostro pianeta fa un passo verso la scomparsa della vita.
-Ora pi˘ che mai, con un virus che ci sta ricordando la nostra ìfinitezzaî rispetto alle ambizioni e illusioni di
-immortalit‡ e perseveranza nellíideale di essere al di sopra delle leggi della natura, dobbiamo ricordarci il
-nostro indissolubile legame con ciÚ che riteniamo esterno, separato, diverso e la nostra responsabilit‡ nel
+Ora pi√π che mai, con un virus che ci sta ricordando la nostra ‚Äúfinitezza‚Äù rispetto alle ambizioni e illusioni di
+immortalit√† e perseveranza nell‚Äôideale di essere al di sopra delle leggi della natura, dobbiamo ricordarci il
+nostro indissolubile legame con ci√≤ che riteniamo esterno, separato, diverso e la nostra responsabilit√† nel
 promuovere la vita tutta, e non solo la nostra.
-PerchÈ la verit‡ Ë che ognuno di noi non Ë solo una persona, ma il pianeta stesso.
+Perch√© la verit√† √® che ognuno di noi non √® solo una persona, ma il pianeta stesso.
 
 ---
