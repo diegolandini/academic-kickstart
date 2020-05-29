@@ -33,7 +33,7 @@ subtitle = "Lo spazio creativo inaugurato per raccogliere poesie, racconti, rifl
     name = "Riflessioni"
     tag = "Riflessioni"
 
-    [[content.filter_button]]
+   [[content.filter_button]]
       name = "Poesie"
       tag = "Poesie"
 
