@@ -1,4 +1,5 @@
 ---
+
 title: "Dietro lo Specchio"
 subtitle: ''
 summary: ""
@@ -30,24 +31,39 @@ projects: []
 
 ---
 
-Se può una foglia, 
+Se puÃ² una foglia, 
+
 illuminare un sentiero,
-come può deprimersi un uomo,
+
+come puÃ² deprimersi un uomo,
+
 di vita e tempo ancora pieno?
 
+
 Muove i piedi, ma non cammina.
+
 Non sa stringere i pugni, solo le dita.
+
 Non lotta, non colpisce,
+
 e prosegue, dunque, a sanguinare la ferita.
 
-È un giro in tondo, un cerchio
-di false conquiste, di verità nascoste.
-Si acceca, si annebbia, allontana l’orecchio.
+
+Ãˆ un giro in tondo, un cerchio
+
+di false conquiste, di veritÃ  nascoste.
+
+Si acceca, si annebbia, allontana lâ€™orecchio.
+
 Copre i sensi, con una coperta dorata.
 
-Egli non vede la foglia, né il sentiero.
+
+Egli non vede la foglia, nÃ© il sentiero.
+
 Paura di perdersi. Desiderio di farlo.
+
 Cadere per salire; chiudere gli occhi,
+
 per aprirli davvero.
 
 
