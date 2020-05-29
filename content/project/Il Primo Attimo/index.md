@@ -1,5 +1,4 @@
 ---
-
 title: "Il Primo Attimo"
 subtitle: ''
 summary: ""
@@ -31,9 +30,9 @@ projects: []
 
 ---
 
-Mi sveglio, tranquillo, perché so che ci sei.
-Esco di casa, tranquillo, perché so che c'eri.
-Torno a casa, tranquillo, perché so che ci sarai.
+Mi sveglio, tranquillo, perchÃ© so che ci sei.
+Esco di casa, tranquillo, perchÃ© so che c'eri.
+Torno a casa, tranquillo, perchÃ© so che ci sarai.
 
 Prima per accompagnarmi, poi per spronarmi.
 Ancora oggi, ti curi di stringere
@@ -42,23 +41,23 @@ dopo che il taglio che sanciva l'inizio,
 ci ha separato, solo nel corpo.
 
 Quel nodo, senza fili, ci lega
-e ogni anno, in silenzio, si stringe di più.
+e ogni anno, in silenzio, si stringe di piÃ¹.
 
 E ogni giorno, 
 sento la tua mano, che forgia
 gli strumenti per rendermi
 quello che sono.
-E così, oggi, vedo il mondo 
+E cosÃ¬, oggi, vedo il mondo 
 e non penso a come potevo essere,
-ma solo a cosa potrò essere.
+ma solo a cosa potrÃ² essere.
 
 Tutti noi viviamo la vita,
 un lungo susseguirsi di piccoli attimi, 
 che si tengono la mano.
 
 Ogni attimo riscalda quello prima, e quello dopo.
-Perché tu mi hai dato la vita,
+PerchÃ© tu mi hai dato la vita,
 e ogni attimo 
-è la tua mano.
+Ã¨ la tua mano.
 
 ---
