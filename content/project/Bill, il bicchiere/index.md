@@ -1,4 +1,5 @@
 ---
+
 title: "Bill, il bicchiere"
 subtitle: ''
 summary: ""
@@ -30,86 +31,86 @@ projects: []
 
 ---
 
-Quella che sto per narrarvi, non Ë una storia come le altre. Di solito si racconta di principi e principesse, draghi
-e spade, ma non stavolta. Ci sono delle volte in cui bisogna farsi paladini dellíaltruismo, ed quello che sto per
-fare: vi parlerÚ di Bill, il bicchiere.
-Bill Ë sempre stato uno che rimuginava troppo sulle cose, ma se cíË una cosa che ha sempre trovato
-particolarmente irritante Ë vedere quanta attenzione abbiano sempre avuto gli oggetti ìinanimatiî con forma
-antropomorfa. Avete presente i vari Toy Story, ad esempio? PerchÈ dei giocattoli dovrebbero avere uníanima
-e i bicchieri no? PerchÈ su di loro sono stati fatti i film e n.... ehm i bicchieri al massimo possono ambire ad
+Quella che sto per narrarvi, non √® una storia come le altre. Di solito si racconta di principi e principesse, draghi
+e spade, ma non stavolta. Ci sono delle volte in cui bisogna farsi paladini dell‚Äôaltruismo, ed quello che sto per
+fare: vi parler√≤ di Bill, il bicchiere.
+Bill √® sempre stato uno che rimuginava troppo sulle cose, ma se c‚Äô√® una cosa che ha sempre trovato
+particolarmente irritante √® vedere quanta attenzione abbiano sempre avuto gli oggetti ‚Äúinanimati‚Äù con forma
+antropomorfa. Avete presente i vari Toy Story, ad esempio? Perch√© dei giocattoli dovrebbero avere un‚Äôanima
+e i bicchieri no? Perch√© su di loro sono stati fatti i film e n.... ehm i bicchieri al massimo possono ambire ad
 apparire come oggetto di scena?
-Cosa hanno i giocattoli pi˘ dei bicchieri? Di sicuro sono meno utili... e poi dove sta scritto che siano le
-appendici legate ai cinque sensi il modo corretto per immaginare chi e cosa potrebbe avere uníanima?
-Neanche alcune persone umane ce líhanno, líanima, quindi mi sembra effettivamente un ottimo punto. E
+Cosa hanno i giocattoli pi√π dei bicchieri? Di sicuro sono meno utili... e poi dove sta scritto che siano le
+appendici legate ai cinque sensi il modo corretto per immaginare chi e cosa potrebbe avere un‚Äôanima?
+Neanche alcune persone umane ce l‚Äôhanno, l‚Äôanima, quindi mi sembra effettivamente un ottimo punto. E
 poi, riflette spesso Bill, il test di Turing per definire se un robot abbia una coscienza non include in alcuno
 modo i cinque sensi, per cui anche i bicchieri, in effetti, potrebbero benissimo avere una coscienza; il
-problema, al massimo, Ë che líessere umano ha solo i cinque sensi per percepire le risposte alle domande
+problema, al massimo, √® che l‚Äôessere umano ha solo i cinque sensi per percepire le risposte alle domande
 che farebbe durante il test, per cui sono gli umani ad essere limitati, conclude sempre Bill, frustrato.
-Ma fosse solo questo il problema di Bill! Alla fine, si tratta solo di una digressione filosofica, perchÈ, a meno
-che líuomo sia ancora vivo tra milioni di anni e sviluppi nuovi sensi, la situazione non cambier‡... mentre ciÚ
-che si potrebbe fare in pochi minuti Ë eliminare il fastidioso baccano degli altri bicchieri nella credenza!
-Non credevate mica che Bill fosse líunico ad avere una vita propria! Tutti i bicchieri ce líhanno! Tuttavia, la
-maggior parte sono ìvetragliaî della peggior specie... dovete sapere che ogni bicchiere, quando esce dalla
-fabbrica, Ë un esempio di rettitudine e dominio di sÈ. Le ore di lavorazione sono come i corsi accademici degli
+Ma fosse solo questo il problema di Bill! Alla fine, si tratta solo di una digressione filosofica, perch√©, a meno
+che l‚Äôuomo sia ancora vivo tra milioni di anni e sviluppi nuovi sensi, la situazione non cambier√†... mentre ci√≤
+che si potrebbe fare in pochi minuti √® eliminare il fastidioso baccano degli altri bicchieri nella credenza!
+Non credevate mica che Bill fosse l‚Äôunico ad avere una vita propria! Tutti i bicchieri ce l‚Äôhanno! Tuttavia, la
+maggior parte sono ‚Äúvetraglia‚Äù della peggior specie... dovete sapere che ogni bicchiere, quando esce dalla
+fabbrica, √® un esempio di rettitudine e dominio di s√©. Le ore di lavorazione sono come i corsi accademici degli
 umani, per cui una volta entrati nel mondo del lavoro, si presentano sempre al meglio e curati di tutto punto.
-Il problema si presenta una volta allíinterno, del mondo del lavoro.
-Purtroppo per Bill, infatti, la credenza dove vive Ë piuttosto piccola e si trova nella casa di una coppia che,
+Il problema si presenta una volta all‚Äôinterno, del mondo del lavoro.
+Purtroppo per Bill, infatti, la credenza dove vive √® piuttosto piccola e si trova nella casa di una coppia che,
 potremmo dire, non vive di sola acqua. Vi lascio immaginare quindi lo scenario: i bicchieri non hanno il fegato,
-non devo certo venirvelo a dire io, di conseguenza non Ë esattamente possibile smaltire líalcool... e, con tutta
-la buona volont‡, dopo anni ad essere riempiti di vino e birra, le capacit‡ razionali... beh vanno in
+non devo certo venirvelo a dire io, di conseguenza non √® esattamente possibile smaltire l‚Äôalcool... e, con tutta
+la buona volont√†, dopo anni ad essere riempiti di vino e birra, le capacit√† razionali... beh vanno in
 diminuzione, per usare un eufemismo.
-Bill, dal canto suo, Ë un bicchiere molto semplice, piuttosto logorato e ne ha viste tante nella sua vita, quindi
-prosegue nel suo storico utilizzo per sole bevande analcoliche. E immaginatevi cosa puÚ voler dire, per un
+Bill, dal canto suo, √® un bicchiere molto semplice, piuttosto logorato e ne ha viste tante nella sua vita, quindi
+prosegue nel suo storico utilizzo per sole bevande analcoliche. E immaginatevi cosa pu√≤ voler dire, per un
 borghese come lui, trovarsi ogni giorno e ogni notte in mezzo a continue discussioni e rischi di rissa (per
 fortuna mai avvenute, non avendo loro, appunto, le mani).
-Va detto che, anche se in maniera leggera, la lavastoviglie fa un poí da lavaggio gastrico, e aiuta a riabilitare
-gli altri poveri bicchieri, ma quando la frequenza di utilizzo Ë tanto elevata, Ë difficile che quellíindole cosÏ
+Va detto che, anche se in maniera leggera, la lavastoviglie fa un po‚Äô da lavaggio gastrico, e aiuta a riabilitare
+gli altri poveri bicchieri, ma quando la frequenza di utilizzo √® tanto elevata, √® difficile che quell‚Äôindole cos√¨
 maturata possa sparire.
-In aggiunto a tutto ciÚ, Bill proprio recentemente ha perso un grande amico, forse líunico che abbia mai
-avuto; tra líaltro, si vergogna ad ammettere che forse, sotto sotto, cíera anche qualcosa di pi˘ tra loro (mi
-raccomando, niente facce scandalizzate... per i bicchieri non Ë che esistono ìle bicchiereî).
-La sua scomparsa, come potete immaginare, Ë avvenuta per caso, ma il destino dei bicchieri Ë molto ironico.
+In aggiunto a tutto ci√≤, Bill proprio recentemente ha perso un grande amico, forse l‚Äôunico che abbia mai
+avuto; tra l‚Äôaltro, si vergogna ad ammettere che forse, sotto sotto, c‚Äôera anche qualcosa di pi√π tra loro (mi
+raccomando, niente facce scandalizzate... per i bicchieri non √® che esistono ‚Äúle bicchiere‚Äù).
+La sua scomparsa, come potete immaginare, √® avvenuta per caso, ma il destino dei bicchieri √® molto ironico.
 Raramente un bicchiere si rompe per salvarne un altro o per impedire che il suo fruente del momento si
-ferisca, anzi... al massimo Ë il contrario. Líodio per líalcool da parte di Bill, nasce anche da questo, infatti:
+ferisca, anzi... al massimo √® il contrario. L‚Äôodio per l‚Äôalcool da parte di Bill, nasce anche da questo, infatti:
 
 Vladimir si ruppe esattamente un anno fa, caduto dal mobile della cucina a causa di una maldestra ed inutile
-manovra dellíubriaco padrone di casa. Durante la seppur breve caduta, egli riuscÏ a dare un ultimo saluto a
-Bill, in quel momento sul tavolo della cucina, ma a causa dellíacqua al suo interno che attutÏ la chiarezza della
+manovra dell‚Äôubriaco padrone di casa. Durante la seppur breve caduta, egli riusc√¨ a dare un ultimo saluto a
+Bill, in quel momento sul tavolo della cucina, ma a causa dell‚Äôacqua al suo interno che attut√¨ la chiarezza della
 ricezione delle parole di Vladimir, di quel momento non gli restano che alcune brevi ed incomprensibili lampi.
-Soffrire, per un bicchiere, Ë complesso. Come umani, vi aspettate sempre che i bicchieri siano perfettamente
-asciutti, quando li prendete dalla credenza o dalla lavastoviglie, e spesso Ë cosÏ. Ma ci sono delle volte, che
-spiegate in modo superficiale dicendo che ìdevono essersi asciugati maleî, in cui non sapete la verit‡.
-Beh, ecco la verit‡: quelle sono lacrime di bicchiere. Capita, non per caso, che i bicchieri si lascino andare pi˘
-facilmente allo sconforto allíinterno della lavastoviglie grazie alla sua intimit‡. Al buio, lÏ dentro, si ha la
-certezza che nessun umano potr‡ mai guardare e i vari bicchieri allíinterno, allo stesso modo, fanno molta
+Soffrire, per un bicchiere, √® complesso. Come umani, vi aspettate sempre che i bicchieri siano perfettamente
+asciutti, quando li prendete dalla credenza o dalla lavastoviglie, e spesso √® cos√¨. Ma ci sono delle volte, che
+spiegate in modo superficiale dicendo che ‚Äúdevono essersi asciugati male‚Äù, in cui non sapete la verit√†.
+Beh, ecco la verit√†: quelle sono lacrime di bicchiere. Capita, non per caso, che i bicchieri si lascino andare pi√π
+facilmente allo sconforto all‚Äôinterno della lavastoviglie grazie alla sua intimit√†. Al buio, l√¨ dentro, si ha la
+certezza che nessun umano potr√† mai guardare e i vari bicchieri all‚Äôinterno, allo stesso modo, fanno molta
 fatica a vedere ad un palmo da loro bordo; inoltre il suo rumore copre qualsiasi suono diverso da quanto gli
 umani si aspettano. Quando, poi, bevete qualcosa in un bicchiere rimasto bagnato in questo modo, non
-notate che, anche se lieve, cíË un retrogusto salato? Beh, ora ci farete caso!
-Per quanto detto finora, comunque, la vita di Bill sembra essere ed esser stata un inferno, ma non Ë cosÏ.
-FinchÈ cíË stato Vladimir, accanto a lui, i due se la sono spassata alla grande. Tra loro cíË stato subito qualcosa:
-Bill viene da una fabbrica svedese ed Ë pulito, semplice e molto intelligente. ArrivÚ nella casa della Coppia (la
-chiamerÚ cosÏ per evitare beghe legali) praticamente appena si trasferirono, quindi, come vecchia guardia ed
+notate che, anche se lieve, c‚Äô√® un retrogusto salato? Beh, ora ci farete caso!
+Per quanto detto finora, comunque, la vita di Bill sembra essere ed esser stata un inferno, ma non √® cos√¨.
+Finch√© c‚Äô√® stato Vladimir, accanto a lui, i due se la sono spassata alla grande. Tra loro c‚Äô√® stato subito qualcosa:
+Bill viene da una fabbrica svedese ed √® pulito, semplice e molto intelligente. Arriv√≤ nella casa della Coppia (la
+chiamer√≤ cos√¨ per evitare beghe legali) praticamente appena si trasferirono, quindi, come vecchia guardia ed
 essendo uno dei pochi senza alcool incrostato nel suo animo, era colui che dava il benvenuto ai nuovi arrivati.
 Vladimir, invece, prese parte alla squadra circa 5 anni fa, e le sue origini sono alquanto misteriose. Il suo
-colore era blu come líoceano, che andava schiarendosi verso líalto, diventando azzurro come il cielo nelle
-prime mattine díestate. La sua forma era slanciata, curva e insolente come la facciata di casa Mil‡ di GaudÏ:
-chiamava gli sguardi di tutti e tutto ciÚ che gli stava intorno e presumo che bere dai suoi bordi e stringerlo
-tra le mani fosse la cosa pi˘ vicina ad immaginarsi compagni di bevute di Bacco. CiÚ che Ë noto Ë che entrÚ
+colore era blu come l‚Äôoceano, che andava schiarendosi verso l‚Äôalto, diventando azzurro come il cielo nelle
+prime mattine d‚Äôestate. La sua forma era slanciata, curva e insolente come la facciata di casa Mil√† di Gaud√¨:
+chiamava gli sguardi di tutti e tutto ci√≤ che gli stava intorno e presumo che bere dai suoi bordi e stringerlo
+tra le mani fosse la cosa pi√π vicina ad immaginarsi compagni di bevute di Bacco. Ci√≤ che √® noto √® che entr√≤
 in credenza dopo un viaggio in Russia della Coppia, che, si presume, abbia scelto lui come souvenir di maggior
-utilit‡, con lo scopo, si Ë capito poi, di aggiudicarsi il ruolo di bicchiere ufficiale per la vodka. Nonostante ciÚ,
-Vladimir non Ë mai finito nella spirale irrecuperabile degli altri bicchieri alcolizzati, probabilmente perchÈ
+utilit√†, con lo scopo, si √® capito poi, di aggiudicarsi il ruolo di bicchiere ufficiale per la vodka. Nonostante ci√≤,
+Vladimir non √® mai finito nella spirale irrecuperabile degli altri bicchieri alcolizzati, probabilmente perch√©
 proveniente da un paese dove hanno avuto cura di progettarlo e costruirlo per non distinguere la vodka
-dallíacqua fresca.
-Vladimir, col passare del tempo, prese in simpatia il pi˘ giovane Bill, che lo aveva introdotto cosÏ
+dall‚Äôacqua fresca.
+Vladimir, col passare del tempo, prese in simpatia il pi√π giovane Bill, che lo aveva introdotto cos√¨
 calorosamente alla famiglia, e tra i due le conversazioni non finivano mai: se Bill iniziava raccontando
 aneddoti della Coppia o degli altri bicchieri in credenza, Vladimir rispondeva con storie di malfattori russi e
-che brindavano allíinsegna di scambi di denaro di dubbia provenienza. Bill, che si divertiva ad ipotizzare come
+che brindavano all‚Äôinsegna di scambi di denaro di dubbia provenienza. Bill, che si divertiva ad ipotizzare come
 egli fosse finito da quei contesti al proprio, ha tuttora la sua opzione preferita nel credere che qualcuno abbia
-beccato i suddetti malfattori (si lo so cosa pensate, ìquanto sei ingenuoî Bill), Vladimir sia stato sequestrato
+beccato i suddetti malfattori (si lo so cosa pensate, ‚Äúquanto sei ingenuo‚Äù Bill), Vladimir sia stato sequestrato
 e qualcuno della polizia lo abbia venduto a qualche mercatino per tirare su qualche rublo.
 [Al narratore spunta una quasi impercettibile lacrima].
-Díaltra parte, Vladimir non raccontÚ mai la verit‡: perchÈ, infatti, rimuovere un argomento di conversazione
-dalle chiacchierate con il suo amico? Alla fine, la verit‡ sul passato non conta cosÏ tanto, se poi a perderne
-sarebbe il presente e il futuro di un rapporto cosÏ speciale.
+D‚Äôaltra parte, Vladimir non raccont√≤ mai la verit√†: perch√©, infatti, rimuovere un argomento di conversazione
+dalle chiacchierate con il suo amico? Alla fine, la verit√† sul passato non conta cos√¨ tanto, se poi a perderne
+sarebbe il presente e il futuro di un rapporto cos√¨ speciale.
 
 ---
