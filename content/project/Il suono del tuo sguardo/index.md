@@ -1,4 +1,5 @@
 ---
+
 title: "Il suono del tuo sguardo"
 subtitle: ''
 summary: ""
@@ -41,7 +42,7 @@ Generata dal loro incontro.
 
 Ogni volta, cado, al loro interno, rapito.
 
-I miei sensi diventano uno, e non so più
+I miei sensi diventano uno, e non so piÃ¹
 
 Distinguere cosa esiste lontano da loro.
 
@@ -51,7 +52,7 @@ Su di me.
 
 Tutto il resto, si spegne e giace inerme,
 
-consapevole che non è più l’occhio
+consapevole che non Ã¨ piÃ¹ lâ€™occhio
 
 il vero mezzo con cui ti guardo.
 
