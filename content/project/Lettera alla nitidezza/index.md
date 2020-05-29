@@ -1,5 +1,4 @@
 ---
-
 title: "Lettera alla nitidezza"
 subtitle: "Ho l'impressione di vederci troppo bene. Mi sono fatto controllare e no, non ho nessuna patologia."
 summary: 
