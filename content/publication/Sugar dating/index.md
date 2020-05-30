@@ -1,4 +1,5 @@
 ---
+
 title: "SUGARING. E non si parla di dolci"
 
 authors:
@@ -20,7 +21,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: false
+  preview_only: true
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -43,58 +44,58 @@ draft: false
 
 **Mattina.**
 
-**Notifica ìPosta in arrivoî.
+**Notifica ‚ÄúPosta in arrivo‚Äù.
 Apro Gmail.
 Non sono auguri.**
 
 {{< figure library="true" src="sugardating1.jpg" title="" lightbox="true" >}}
 
-**Lo scenario a primo impatto Ë abbastanza inquietante, ma decido di sfruttare líambigua circostanza per soddisfare la curiosit‡ e capire pi˘ da vicino cosa sia lo sugar dating. Sto al gioco, facendo finta di essere interessata alla proposta.**
+**Lo scenario a primo impatto √® abbastanza inquietante, ma decido di sfruttare l‚Äôambigua circostanza per soddisfare la curiosit√† e capire pi√π da vicino cosa sia lo sugar dating. Sto al gioco, facendo finta di essere interessata alla proposta.**
 
 {{< figure library="true" src="sugardating2.jpg" title="" lightbox="true" >}}
 
-**Líatmosfera discreta e formale si trasforma subito appena mostro il mio interesse, e cuori e ì bunnyî compaiono in chat.**
+**L‚Äôatmosfera discreta e formale si trasforma subito appena mostro il mio interesse, e cuori e ‚Äú bunny‚Äù compaiono in chat.**
 
 {{< figure library="true" src="sugardating3.jpg" title="" lightbox="true" >}}
 
 
 {{< figure library="true" src="sugardating4.jpg" title="" lightbox="true" >}}
 
-**Dopo la proposta di $1500 settimanali capisco che Ë giunto il momento di svelare il mio reale intento allíinterlocutore e iniziare la ricerca.**
+**Dopo la proposta di $1500 settimanali capisco che √® giunto il momento di svelare il mio reale intento all‚Äôinterlocutore e iniziare la ricerca.**
 
 {{< figure library="true" src="sugardating5.jpg" title="" lightbox="true" >}}
 
-Lo sugar dating spopola dal 2015 in diversi Paesi, tra cui America, Canada, Inghilterra, Australia e Colombia , e sta prendendo ora piede anche in Italia. La sugar baby forse pi˘ amata del grande
-schermo Ë stata Holly, la protagonista di Colazione da Tiffany.
+Lo sugar dating spopola dal 2015 in diversi Paesi, tra cui America, Canada, Inghilterra, Australia e Colombia , e sta prendendo ora piede anche in Italia. La sugar baby forse pi√π amata del grande
+schermo √® stata Holly, la protagonista di Colazione da Tiffany.
 
 **Di cosa si tratta? 
 
-Per i non esperti, ìsugaringî significa avere appuntamenti in cui un partner sostiene finanziariamente líaltro.** Affetto, compagnia e attenzioni sono ricambiati da lusso, assegni pieni di zero, viaggi in mete esotiche, cene di gala ed altri sfizi che solo uno stile di vita
-privilegiato puÚ accontentare: il tutto totalmente gratuito. Sono pi˘ che giustificate le facce perplesse: la risposta Ë no, non si tratta di prostituzione perchÈ include almeno formalmente solo ìcompagniaî , senza alcuna attivit‡ sessuale, nÈ di escorting, pratica nella quale líincontro Ë solamente occasionale.
+**Per i non esperti, ‚Äúsugaring‚Äù significa avere appuntamenti in cui un partner sostiene finanziariamente l‚Äôaltro.** Affetto, compagnia e attenzioni sono ricambiati da lusso, assegni pieni di zero, viaggi in mete esotiche, cene di gala ed altri sfizi che solo uno stile di vita
+privilegiato pu√≤ accontentare: il tutto totalmente gratuito. Sono pi√π che giustificate le facce perplesse: la risposta √® no, non si tratta di prostituzione perch√© include almeno formalmente solo ‚Äúcompagnia‚Äù , senza alcuna attivit√† sessuale, n√© di escorting, pratica nella quale l‚Äôincontro √® solamente occasionale.
 
-Se perÚ la signorina Golightly interpretata dalla Hepburn e tutte le babies degli anni ë60 si
-accontentavano di cene e pellicce, lo sugar dating 2.0 ha assunto un volto pi˘ imprenditoriale.
-Le Holly della nostra epoca utilizzano molto spesso  i compensi economici per accedere ad un liveo superiore di istruzione: ìSono per la maggior parte studentesse in college, che come tutti i coetanei faticano a pagare le tasse universitarie, e a volte questo stile di vita sembra líopzione pi˘ convenienteî dichiara V, studentessa di San Francisco, condividendo la sua personale esperienza da *bambina di zucchero*.
+Se per√≤ la signorina Golightly interpretata dalla Hepburn e tutte le babies degli anni ‚Äò60 si
+accontentavano di cene e pellicce, lo sugar dating 2.0 ha assunto un volto pi√π imprenditoriale.
+Le Holly della nostra epoca utilizzano molto spesso  i compensi economici per accedere ad un liveo superiore di istruzione: ‚ÄúSono per la maggior parte studentesse in college, che come tutti i coetanei faticano a pagare le tasse universitarie, e a volte questo stile di vita sembra l‚Äôopzione pi√π conveniente‚Äù dichiara V, studentessa di San Francisco, condividendo la sua personale esperienza da *bambina di zucchero*.
 
 
-**ìTrovare uno sugar daddy Ë un modo per fare denaro facile, per pagarsi la retta universitaria o concedersi cose extra come manicure e borse costoseî**.
-Il sito pi˘ popolare per aiutare ogni sugar baby a trovare il portafogli perfetto Ë *SeekingArrangement*, fondato nel 2006 da Brandon Lee. Secondo i dati, il 44% dei visitatori sono studenti e il 36% dei ìregaliî sono spesi in tasse scolastiche, il 23% in affitti.
-Molte ragazze dichiarano nel proprio profilo una ìno sex policyî (nessuna disponibilit‡ a rapporti
-sessuali) e trovano uomini interessati semplicemente a ricevere attenzioni e tempo. » questo il caso di J, 22enne del Sud dellw California: ìMi ha scritto dicendomi di volermi viziare. Mi ha mandato immediatamente $350 la prima volta, e da lÏ ha continuato, prima ancora che ci vedessimo mai dal vivo.î La maggior parte dei *daddies* si mostra sorprendentemente molto gentile e rispettosa, J definisce il suo addirittura ì ingenuo e facilmente manipolabileî: sicuramente sanno come essere dei veri gentleman, o perlomeno fingersi tali.
-ì Eí sempre stato molto dolce con me, senza forzarmi a fare nulla, anche se, ovviamente, sperava in altro. Non cíË stato mai alcun tipo di rapporto intimoî dichiara. **Spesso si sviluppa una vera e propria relazione affettiva tra daddy e baby**, spiega V, ìMolti vogliono qualcuno da portare a cena, con cui uscire, qualcuno che alzi la loro autostima o da mostrare in giro, come una bella macchinaî.
+**‚ÄúTrovare uno sugar daddy √® un modo per fare denaro facile, per pagarsi la retta universitaria o concedersi cose extra come manicure e borse costose‚Äù**.
+Il sito pi√π popolare per aiutare ogni sugar baby a trovare il portafogli perfetto √® *SeekingArrangement*, fondato nel 2006 da Brandon Lee. Secondo i dati, il 44% dei visitatori sono studenti e il 36% dei ‚Äúregali‚Äù sono spesi in tasse scolastiche, il 23% in affitti.
+Molte ragazze dichiarano nel proprio profilo una ‚Äúno sex policy‚Äù (nessuna disponibilit√† a rapporti
+sessuali) e trovano uomini interessati semplicemente a ricevere attenzioni e tempo. √à questo il caso di J, 22enne del Sud dellw California: ‚ÄúMi ha scritto dicendomi di volermi viziare. Mi ha mandato immediatamente $350 la prima volta, e da l√¨ ha continuato, prima ancora che ci vedessimo mai dal vivo.‚Äù La maggior parte dei *daddies* si mostra sorprendentemente molto gentile e rispettosa, J definisce il suo addirittura ‚Äú ingenuo e facilmente manipolabile‚Äù: sicuramente sanno come essere dei veri gentleman, o perlomeno fingersi tali.
+‚Äú E‚Äô sempre stato molto dolce con me, senza forzarmi a fare nulla, anche se, ovviamente, sperava in altro. Non c‚Äô√® stato mai alcun tipo di rapporto intimo‚Äù dichiara. **Spesso si sviluppa una vera e propria relazione affettiva tra daddy e baby**, spiega V, ‚ÄúMolti vogliono qualcuno da portare a cena, con cui uscire, qualcuno che alzi la loro autostima o da mostrare in giro, come una bella macchina‚Äù.
 
-Se per molte fortunate come J. gli incontri si rivelano tranquilli, tuttavia soggetti di vario genere si aggirano nel mondo virtuale, ed emergono vicende tuttíaltro che rasserenanti. ìDiverse mie amiche sono state abusate verbalmente e fisicamente dal loro sugar daddy. Bisogna cercare di capire con chi si ha a che fare, specialmente se non si viene contattate tramite un sito di incontri î ci confessa J.
+Se per molte fortunate come J. gli incontri si rivelano tranquilli, tuttavia soggetti di vario genere si aggirano nel mondo virtuale, ed emergono vicende tutt‚Äôaltro che rasserenanti. ‚ÄúDiverse mie amiche sono state abusate verbalmente e fisicamente dal loro sugar daddy. Bisogna cercare di capire con chi si ha a che fare, specialmente se non si viene contattate tramite un sito di incontri ‚Äù ci confessa J.
 
-ìPoichÈ ogni sugar baby specifica cosa cerca nel suo account, e gli sugar daddy dichiarano ciÚ che hanno da offrire e redditoî spiega V ìsiti come Seeking Arrangement o What's Your Price consentono di trovare compromessi vantaggiosi per entrambe le partiî. Nonostante ciÚ, perÚ, a volte il fenomeno rischia di diventare una **forma di prostituzione con una maschera di legalit‡**. ìMi sono iscritta al sito sotto la categoria sugar baby e un uomo mi ha subito contattato. Era un ragazzo di origini asiatiche, intorno alla quarantina, imprenditore benestante. Mi ha detto di essere molto impegnato con il lavoro e di non avere tempo per alcun tipo di svago o relazione affettiva: 8000 dollari al mese, per prestazioni sessuali due volte a settimana.î racconta V. ìNon era alla ricerca di alcun tipo di rapporto oltre a quello fisico. Ha fatto richieste molto specifiche su come mi sarei dovuta presentare,
-addirittura sul tipo di depilazione.î Nellíaprile 2018, lo Stop Enabling Sex Traffickers Act approvato dal governo americano, propose la chiusura di molti siti di incontri di questo genere, ma nonostante le controversie, Ë ancora un trend in espansione.
+‚ÄúPoich√© ogni sugar baby specifica cosa cerca nel suo account, e gli sugar daddy dichiarano ci√≤ che hanno da offrire e reddito‚Äù spiega V ‚Äúsiti come Seeking Arrangement o What's Your Price consentono di trovare compromessi vantaggiosi per entrambe le parti‚Äù. Nonostante ci√≤, per√≤, a volte il fenomeno rischia di diventare una **forma di prostituzione con una maschera di legalit√†**. ‚ÄúMi sono iscritta al sito sotto la categoria sugar baby e un uomo mi ha subito contattato. Era un ragazzo di origini asiatiche, intorno alla quarantina, imprenditore benestante. Mi ha detto di essere molto impegnato con il lavoro e di non avere tempo per alcun tipo di svago o relazione affettiva: 8000 dollari al mese, per prestazioni sessuali due volte a settimana.‚Äù racconta V. ‚ÄúNon era alla ricerca di alcun tipo di rapporto oltre a quello fisico. Ha fatto richieste molto specifiche su come mi sarei dovuta presentare,
+addirittura sul tipo di depilazione.‚Äù Nell‚Äôaprile 2018, lo Stop Enabling Sex Traffickers Act approvato dal governo americano, propose la chiusura di molti siti di incontri di questo genere, ma nonostante le controversie, √® ancora un trend in espansione.
 
-1948 - La Costituzione sancisce la parit‡ tra uomini e donne. 1958 - Abolita la regolamentazione della prostituzione.
-1977- Proclamata lí8 marzo Giornata Internazionale della Donna. 1993- Introdotte le "quote rosa".
-Oltre settantíanni di lotte femministe, di manifestazioni e battaglie.
+1948 - La Costituzione sancisce la parit√† tra uomini e donne. 1958 - Abolita la regolamentazione della prostituzione.
+1977- Proclamata l‚Äô8 marzo Giornata Internazionale della Donna. 1993- Introdotte le "quote rosa".
+Oltre settant‚Äôanni di lotte femministe, di manifestazioni e battaglie.
 
-Líinterpretazione di **ìparit‡ di dirittiî**, tuttavia, Ë molto personale e soggettiva, e se da un lato
-sfruttare bellezza e desiderio maschile a proprio vantaggio Ë visto come oggettificazione del corpo, **cíË chi lo ritiene una piena affermazione di libert‡ e indipendenza**, come le nostre cortigiane del 21esimo secolo, Madame De Pompadour 2.0, che vogliose di avventura e nuove esperienze si impegnano nella ricerca del loro Luigi XV.
-**Settantíanni mandati in fumo o una nuova forma di emancipazione?**
+L‚Äôinterpretazione di **‚Äúparit√† di diritti‚Äù**, tuttavia, √® molto personale e soggettiva, e se da un lato
+sfruttare bellezza e desiderio maschile a proprio vantaggio √® visto come oggettificazione del corpo, **c‚Äô√® chi lo ritiene una piena affermazione di libert√† e indipendenza**, come le nostre cortigiane del 21esimo secolo, Madame De Pompadour 2.0, che vogliose di avventura e nuove esperienze si impegnano nella ricerca del loro Luigi XV.
+**Settant‚Äôanni mandati in fumo o una nuova forma di emancipazione?**
 
 Ad ognuno la propria risposta.
 
@@ -107,6 +108,5 @@ Fonti:
 3. https://en.wikipedia.org/wiki/Sugar_baby
 
 4. https://www.vice.com/it/article/av5mag/come-e-essere-uno-sugar-baby-maschio-928 
-
 
 ---
