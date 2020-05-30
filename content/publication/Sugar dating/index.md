@@ -89,9 +89,13 @@ Se per molte fortunate come J. gli incontri si rivelano tranquilli, tuttavia sog
 addirittura sul tipo di depilazione.” Nell’aprile 2018, lo Stop Enabling Sex Traffickers Act approvato dal governo americano, propose la chiusura di molti siti di incontri di questo genere, ma nonostante le controversie, è ancora un trend in espansione.
 
 1948 - La Costituzione sancisce la parità tra uomini e donne. 
+
 1958 - Abolita la regolamentazione della prostituzione.
+
 1977- Proclamata l’8 marzo Giornata Internazionale della Donna. 
+
 1993- Introdotte le "quote rosa".
+
 Oltre settant’anni di lotte femministe, di manifestazioni e battaglie.
 
 L’interpretazione di **“parità di diritti”**, tuttavia, è molto personale e soggettiva, e se da un lato
