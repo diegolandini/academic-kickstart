@@ -1,5 +1,5 @@
 ---
-title: "SUGARING. E non si parla di dolci"
+title: "Sugaring: non si parla di dolci"
 
 authors:
 - Diderot
