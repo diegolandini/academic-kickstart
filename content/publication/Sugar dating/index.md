@@ -67,7 +67,7 @@ Non sono auguri.**
 Lo sugar dating spopola dal 2015 in diversi Paesi, tra cui America, Canada, Inghilterra, Australia e Colombia , e sta prendendo ora piede anche in Italia. La sugar baby forse più amata del grande
 schermo è stata Holly, la protagonista di Colazione da Tiffany.
 
-**Di cosa si tratta? 
+**Di cosa si tratta?** 
 
 **Per i non esperti, “sugaring” significa avere appuntamenti in cui un partner sostiene finanziariamente l’altro.** Affetto, compagnia e attenzioni sono ricambiati da lusso, assegni pieni di zero, viaggi in mete esotiche, cene di gala ed altri sfizi che solo uno stile di vita
 privilegiato può accontentare: il tutto totalmente gratuito. Sono più che giustificate le facce perplesse: la risposta è no, non si tratta di prostituzione perché include almeno formalmente solo “compagnia” , senza alcuna attività sessuale, né di escorting, pratica nella quale l’incontro è solamente occasionale.
@@ -88,8 +88,10 @@ Se per molte fortunate come J. gli incontri si rivelano tranquilli, tuttavia sog
 “Poiché ogni sugar baby specifica cosa cerca nel suo account, e gli sugar daddy dichiarano ciò che hanno da offrire e reddito” spiega V “siti come Seeking Arrangement o What's Your Price consentono di trovare compromessi vantaggiosi per entrambe le parti”. Nonostante ciò, però, a volte il fenomeno rischia di diventare una **forma di prostituzione con una maschera di legalità**. “Mi sono iscritta al sito sotto la categoria sugar baby e un uomo mi ha subito contattato. Era un ragazzo di origini asiatiche, intorno alla quarantina, imprenditore benestante. Mi ha detto di essere molto impegnato con il lavoro e di non avere tempo per alcun tipo di svago o relazione affettiva: 8000 dollari al mese, per prestazioni sessuali due volte a settimana.” racconta V. “Non era alla ricerca di alcun tipo di rapporto oltre a quello fisico. Ha fatto richieste molto specifiche su come mi sarei dovuta presentare,
 addirittura sul tipo di depilazione.” Nell’aprile 2018, lo Stop Enabling Sex Traffickers Act approvato dal governo americano, propose la chiusura di molti siti di incontri di questo genere, ma nonostante le controversie, è ancora un trend in espansione.
 
-1948 - La Costituzione sancisce la parità tra uomini e donne. 1958 - Abolita la regolamentazione della prostituzione.
-1977- Proclamata l’8 marzo Giornata Internazionale della Donna. 1993- Introdotte le "quote rosa".
+1948 - La Costituzione sancisce la parità tra uomini e donne. 
+1958 - Abolita la regolamentazione della prostituzione.
+1977- Proclamata l’8 marzo Giornata Internazionale della Donna. 
+1993- Introdotte le "quote rosa".
 Oltre settant’anni di lotte femministe, di manifestazioni e battaglie.
 
 L’interpretazione di **“parità di diritti”**, tuttavia, è molto personale e soggettiva, e se da un lato
@@ -99,7 +101,7 @@ sfruttare bellezza e desiderio maschile a proprio vantaggio è visto come oggett
 Ad ognuno la propria risposta.
 
 
-Fonti:
+**Fonti:**
 1. http://anpi-lissone.over-blog.com/pages/Le_donne_e_le_conquiste_del_dopoguerra-2708469.html
 
 2. https://www.letstalksugar.com/news/brief-history-sugar-dating/
