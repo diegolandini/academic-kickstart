@@ -11,7 +11,7 @@ doi: ""
 publishDate: "2020-05-30"
 
 # Summary. An optional shortened abstract.
-summary: " "
+summary: "Di cosa si tratta? Per i non esperti, “sugaring” significa avere appuntamenti in cui un partner sostiene finanziariamente l’altro. Affetto, compagnia e attenzioni sono ricambiati da lusso, assegni pieni di zero, viaggi in mete esotiche, cene di gala ed altri sfizi che solo uno stile di vita privilegiato può accontentare: il tutto totalmente gratuito."
 tags:
 - Sugar dating
 featured: true
