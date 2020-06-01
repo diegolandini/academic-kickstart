@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "titolo"
 authors:
 - Diderot
 - Gabriele Albertini
