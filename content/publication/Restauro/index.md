@@ -1,5 +1,5 @@
 ---
-title: "titolo"
+title: "Il grande inganno: la restaurazione che non rispetta l'arte"
 authors:
 - Diderot
 - Gabriele Albertini
