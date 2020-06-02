@@ -34,7 +34,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 **George Floyd** è stato assassinato, soffocato senza aver opposto alcun tipo di resistenza. L’artefice dell’omicidio è un poliziotto, che gli ha tolto il respiro schiacciandogli il collo con il proprio ginocchio, un’agonia durata più di 8 minuti, mentre tre colleghi osservavano indifferenti la scena.
