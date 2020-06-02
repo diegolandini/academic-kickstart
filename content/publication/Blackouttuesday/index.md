@@ -39,7 +39,7 @@ draft: false
 ---
 **George Floyd** è stato assassinato, soffocato senza aver opposto alcun tipo di resistenza. L’artefice dell’omicidio è un poliziotto, che gli ha tolto il respiro schiacciandogli il collo con il proprio ginocchio, un’agonia durata più di 8 minuti, mentre tre colleghi osservavano indifferenti la scena.
 I poliziotti richiedono l'autopsia per escludere il soffocamento, insabbiando il normale percorso che avrebbe dovuto svolgere la giustizia. All’inizio delle proteste non vengono neanche arrestati, semplicemente licenziati.
-L’’indifferenza uccide e per questo oggi nasce il #Blackouttuesday.
+L’indifferenza uccide e per questo oggi nasce il #Blackouttuesday.
 Non si tratta di mettere solamente una foto nera, ma di **diffondere informazioni**, per combattere l’indifferenza e mettere un fermo, per un giorno, a tutti i tipi di post personali che non riguardino la situazione negli Stati Uniti.
 È necessario fermarsi e riflettere.
 Sapendo che la comunità nera è la fascia socialmente più debole, questa tragedia, la frustrazione e l’impotenza, conseguenze delle poche speranze lavorative per la disoccupazione crescente (emblema della crisi post-Covid-19) e quindi anche per la sicura mancanza di un'adeguata assistenza medica, hanno alimentato il fuoco della rivolta.
@@ -52,7 +52,7 @@ Troppo frequentemente ci ritroviamo a pensare che la legge non sia effettivament
 Non si può fare di tutta l'erba un fascio.
 Le proteste che hanno avuto origine a **Minneapolis** per poi spargersi in tutto il resto degli Stati Uniti, fino ad arrivare oggi in Nuova Zelanda, covano certamente episodi di violenza di non poco conto, nonostante molte siano pacifiche.  
 Le pubbliche autorità hanno fatto di meglio?
-Video e testimonianze mostrano come **i poliziotti siano passati sulle persone con macchine**; abbianon spruzzato spray al peperoncino sui bambini,no malmenato donne e anziani e demolito le loro stesse auto per criminalizzare un momento di risposta.
+Video e testimonianze mostrano come **i poliziotti siano passati sulle persone con macchine**; abbiano spruzzato spray al peperoncino sui bambini,malmenato donne e anziani e demolito le loro stesse auto per criminalizzare un momento di risposta.
 Sono stati immortalati nel gesto di far “scivolare” accidentalmente mattoni dalle loro mani ai lati delle strade nella speranza che vengano presi dai rivoltosi e avere il pretesto per sparare.
 Dopotutto, cosa ci dobbiamo aspettare dalla gestione di un presidente che ha scritto: “Troverete a difendere la Casa Bianca dei cani feroci”, richiamando la barbara usanza schiavista di aizzare i cani contro i loro “oggetti” in fuga?
 Un presidente che ha chiesto al KKK i propri voti, che ha chiesto di sparare per disperdere la folla davanti la propria residenza, di non esser deboli e che ha tenuto un discorso dichiarando guerra ai propri cittadini per poi fare una foto con la Bibbia. Nel suo ultimo discorso ha minacciato di mandare l’esercito per fermare le rivolte, lo stesso esercito che ha giurato di proteggere i cittadini del suo paese.
@@ -77,7 +77,7 @@ Quello che è successo negli USA non può lasciarci indifferenti, noi non ne sia
 Non sentir parlare di queste tragedie o esserne distanti migliaia di chilometri non ci renderà immuni.
 **Non basta più dire "Io non sono razzista"**.
 I fatti di questi giorni rendono evidente che *bisogna essere contro* il razzismo.
-Questo è un argomento che deve toccare tutti, *Chi volta le spalle accetta, chi ignora difende i razzisti e gli abusi di potere*.
+Questo è un argomento che deve toccare tutti, *chi volta le spalle accetta, chi ignora difende i razzisti e gli abusi di potere*.
 
 
 Cosa possiamo fare?
