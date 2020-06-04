@@ -36,7 +36,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 Dire che l’arte è in continuo mutamento potrà sembrare un cliché, ma spesso non è così scontato.
