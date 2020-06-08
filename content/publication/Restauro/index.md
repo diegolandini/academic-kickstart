@@ -66,7 +66,7 @@ Questo, ad esempio, non accadde per gli scavi di Troia o Olimpia, dove gli arche
 L'obiettivo era quello di vincere il celebre *Prix de Rome*, premio che veniva conferito agli artisti artefici della migliore interpretazione delle scoperte archeologiche contemporanee e di conseguenza rendere il loro operato famoso in tutto il mondo. Tuttavia, Evans e Gillérons finirono col ricostruire un palazzo completamente decontestualizzato dal posto in cui si ergeva, creando un qualcosa più simile ad un set per le riprese. Il loro metodo venne duramente criticato dalla maggior parte degli artisti e degli studiosi dell’epoca, i quali li accusavano di aver distorto delle tracce storico-artistiche uniche nel loro genere.
 Nonostante ciò, il lavoro di Evans viene comunque apprezzato ancora oggi, ma è indubbio che diede una spinta finale al decadimento della pratica dell’*integrazione artistica*, da quel momento in poi considerata come un **affronto al patrimonio culturale dell’umanità**.
 
-{{< figure library="true" src="arte1.jpg" title="" lightbox="true" >}}
+{{< figure library="true" src="arte2.jpg" title="" lightbox="true" >}}
 
 Nel corso del 1900, il Palazzo di Cnosso e più recentemente la Cappella Sistina sono stati travolti rispettivamente dalla foga dell’integrazione e del restauro.
 
