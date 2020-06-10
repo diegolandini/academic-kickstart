@@ -78,4 +78,7 @@ Non è sfornando slogan come "*All lives matter*" che si risolve il problema, an
 Dunque, dietro alle proteste che questi giorni stanno infuocando l’opinione pubblica di tutto il mondo, si nasconde un’atroce verità che merita di essere ascoltata e affermata. Lo stesso Martin Luther King diceva dall’alto della sua indimenticabile e nobilissima lotta: "Lasciatemi dire come ho sempre detto che le rivolte sono socialmente distruttive e autolesioniste … Ma, in ultima conclusione, **una rivolta non è altro che la risposta dell’inascoltato**".
 Dentro a questa frase è celato tutto quello che, in primis, a noi bianchi è concesso capire e rispettare e, in secondo luogo, una delle verità più importanti delle lotte e dei conflitti sociali. Da tenere bene a mente per il futuro prossimo.
 
+
+{{< figure library="true" src="razzismo4.jpg" title="" lightbox="true" >}}
+
 ---
