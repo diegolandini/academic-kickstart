@@ -47,7 +47,7 @@ Tuttavia, ora che le cose stanno tornando cautamente alla normalità è il momen
 La community di consumatori e appassionati ha fatto molta pressione negli ultimi tempi, e lo stop dovuto alla pandemia ha portato il **CFDA** (*Council of Fashion Designers of America*) e il **BFC** (*British Fashion Council*) ad unirsi in un appello rivolto a tutta l’industria: rallentare e ridurre le stagioni a due l’anno.
 Se in Italia questo messaggio è stato subito accolto da molti brand, come *Gucci* e *Armani*, dall’altra parte c’è una realtà più piccola che si è mobilitata già da un po’ con un progetto locale.
 Ci troviamo nella Capitale, in particolare nel quadrante sud di Roma.
-È il quartiere storico di Garbatella a fare da culla al progetto **XNOVO** di Francesco Malitesta e Lorenzo Pizzo, scopo del quale è tornare a concepire il fare moda come qualcosa che debba essere sostenibile, etico e creativo contemporaneamente.
+È il quartiere storico di Garbatella a fare da culla al progetto **XNOVO** di Francesco Malitesta, Lorenzo Pizzo, Lorenzo Cannizzo ed Edoardo Croce, scopo del quale è tornare a concepire il fare moda come qualcosa che debba essere sostenibile, etico e creativo contemporaneamente.
 L’idea, insomma, è riuscire ad allungare la vita dei vestiti, solitamente troppo breve, tramite una riduzione e una rigenerazione di quelli che sono considerati scarti dei nostri guardaroba, al fine di promuovere un modello di economia circolare.
 Diderot ha intervistato i giovani fondatori romani di Xnovo per conoscere meglio il loro progetto e capire come immaginare la moda post Covid-19.
 Piccolo spoiler: spazio all’importanza del “locale” e alla creatività.
