@@ -1,7 +1,7 @@
 ---
 title: "Luce sulla collina"
-subtitle: "Il piccolo laboratorio sulla collina lavorava incessantemente e gli sfortunati ricercatori, dipendenti, curiosi che si erano ritrovati là dentro dovevano sottostare a ritmi di lavoro forsennati."
-summary: 
+subtitle: '' 
+summary: "Il piccolo laboratorio sulla collina lavorava incessantemente e gli sfortunati ricercatori, dipendenti, curiosi che si erano ritrovati là dentro dovevano sottostare a ritmi di lavoro forsennati."
 authors:
 - Lorenzo Feltoni Gurini
 tags:
@@ -21,7 +21,7 @@ image:
   placement: 2
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
