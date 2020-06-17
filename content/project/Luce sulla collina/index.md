@@ -32,7 +32,6 @@ projects: []
 
 ---
 
-
 Il piccolo laboratorio sulla collina lavorava incessantemente e gli sfortunati ricercatori, dipendenti, curiosi che si erano ritrovati là dentro dovevano sottostare a ritmi di lavoro forsennati. 
 Lì, dietro le pareti bianche e asettiche dell’edificio, le giornate erano allo stesso tempo lunghe e brevi, impegnative e noiose, spietatamente confinate tra due estremi, senza che prendessero mai una via di mezzo che si sarebbe potuta tradurre in riposo per chi stava dentro. Si cominciava presto, si procedeva velocemente e quindi gli errori si andavano sommando finché una di quelle menti brillanti non faceva caso a quel calcolo errato, a quella misurazione non corretta ed ecco che esclamava: “ Fermi tutti, abbiamo sbagliato! ”. 
 Bisognava ricominciare tutto da capo a nemmeno due ore dall’inizio. 
@@ -58,6 +57,5 @@ Il buon Edison aveva detto : “ Finché l’uomo non sarà in grado di riprodur
 Quanto ancora aveva senso parlare di ricerca di fronte a uno scenario tanto raccapricciante? Il pianto del mondo è triste, lo pensava quello scienziato lì, così mesto da aggrapparsi al cuore e trascinarlo a fondo come un macigno pesante che non fa prendere sonno. Che dire? Che fare? Dove poter riscoprire tutto quello che si era guastato in così poco tempo? L’unica soluzione era recuperare la vitalità di quanto era stato guastato in così poco tempo, per certi versi, credé di pensare lo scienziato, si doveva tornare a quando, sdraiandosi con l’orecchio poggiato, si poteva percepire il caldo battito provenire dal sottosuolo e sentirsene confortati perché qualcosa era animato, qualcosa laggiù era vivo. Eccola, eccola finalmente la nuova fonte energetica per cui tutti sembravano essere impazziti: il futuro avrebbe bussato alle porte del presente portando con sé l’idea di alimentare il mondo con la sua essenza, con l’anima ricca di gioia, amore, calore che traspirava durante l’estate e brezze di serenità e nostalgia che regalava nelle notti di inverno. Mai più quello strazio, mai più impietose visioni e grida strazianti di tanta bellezza ignorata da chi guardava soltanto “avanti”.
 *Reagire, bisogna reagire.*
 Una lampadina aveva rischiarato il buio di una mente del laboratorio e di lì a breve sarebbe stata seguita da centinaia di simili per trarre nuova energia, stavolta buona, che carezzasse la natura anziché distruggerla, che potesse cancellare il cupo ricordo di quella sofferenza sussurrata e chi lo sa magari strappare per davvero un sorriso a quella verde collina.
-
 
 ---
