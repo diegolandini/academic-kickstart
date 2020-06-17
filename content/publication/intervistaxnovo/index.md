@@ -54,7 +54,7 @@ Piccolo spoiler: spazio all’importanza del “locale” e alla creatività.
 
 **Com’è nato il progetto Xnovo e quanto è cresciuto dall’inizio ad oggi?**
 
-*Francesco*:
+**Francesco**:
 Xnovo nasce come un progetto di moda sostenibile, ma essendosi sviluppato nel municipio VIII ci siamo trovati a confronto con una realtà artistica molto ricca e collegata a noi.
 L’unione con quest’ultima ha portato poi all’evoluzione dell’idea, che è diventato quindi un progetto di moda sostenibile dalle sfaccettature più ampie. Da qui è nato ad esempio l’**artwear**, ovvero la personalizzazione da parte di artisti di quei capi inutilizzati o che le persone ci hanno portato. Sostanzialmente abbiamo un approvvigionamento di capi che si fonda sull’attività di scambio vestiti e dopo una valorizzazione dei capi attraverso l’apporto creativo degli artisti.
 
