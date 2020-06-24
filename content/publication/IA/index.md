@@ -1,6 +1,6 @@
 ---
 
-title: "Intelligenza Artificiale"
+title: "Intelligenza Artificiale: la nuova idea di Intelligenza Artificiale Emotiva"
 authors:
 - Diderot
 - Ivana Rinaldi
