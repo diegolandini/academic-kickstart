@@ -1,5 +1,4 @@
 ---
-
 title: "Pride: da Stonewall Inn al mondo intero"
 authors:
 - Diderot
