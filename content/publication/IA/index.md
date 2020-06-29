@@ -4,10 +4,10 @@ authors:
 - Diderot
 - Ivana Rinaldi
 
-date: "2020-06-26"
+date: "2020-06-29"
 doi: ""
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-26"
+publishDate: "2020-06-29"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,7 +35,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
+draft: false
 
 ---
 
