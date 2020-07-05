@@ -1,5 +1,4 @@
 ---
-
 title: "Cinema, Razzismo e #Blackrepresentation"
 authors:
 - Diderot
