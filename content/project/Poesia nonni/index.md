@@ -1,12 +1,10 @@
 ---
-title: "E sò Coscienza"
+title: "E sÃ² Coscienza"
 subtitle: ''
 summary: ""
 authors:
 - Francesco Salvatori
 tags:
-- Poesie
-categories:
 - Poesie
 date: "2020-07-11"
 lastmod: "2020-07-11"
@@ -34,35 +32,35 @@ projects: []
 
 Me svejo,
 
-si mai m’addormo,
+si mai mâ€™addormo,
 
-da npò d’anni,
+da npÃ² dâ€™anni,
 
 che quarcuno me conosce,
 
-sa chi so’, 
+sa chi soâ€™, 
 
 pure se poco!
 
 Me saluta, 
 
-me fa ncenno co’ la mano,
+me fa ncenno coâ€™ la mano,
 
 me scongiura de aiutallo
 
-e nun m’ascorta,
+e nun mâ€™ascorta,
 
 allora penso:
 
-“ma parlo piano?”
+â€œma parlo piano?â€
 
 Io te strillo,
 
-o un pò ce provo,
+o un pÃ² ce provo,
 
 du milioni,
 
-è er tempo che è passato
+Ã¨ er tempo che Ã¨ passato
 
 da quanno sto co te,
 
@@ -73,17 +71,17 @@ che sei diventato Homo.
 
 Me ricordo che parlavi
 
-de li Dèi, 
+de li DÃ¨i, 
 
-dell’entità,
+dellâ€™entitÃ ,
 
 de na sorta de paura
 
-de conosce la realtà!
+de conosce la realtÃ !
 
-“che sei matto! per piacere,
+â€œche sei matto! per piacere,
 
-stamo n’mano alla follia!”
+stamo nâ€™mano alla follia!â€
 
 si ce penso, 
 
@@ -95,7 +93,7 @@ Te dovevo fa der male,
 
 mica amatte come ho fatto,
 
-t’ho protetto da sto foco
+tâ€™ho protetto da sto foco
 
 che hai scoperto e nun lo temi,
 
@@ -105,29 +103,29 @@ che sia amore,
 
 che sia un mondo de problemi!
 
-Co’ le streghe,
+Coâ€™ le streghe,
 
 te lo giuro,
 
 hai superato er meglio comico,
 
-dai tempi dell’aoristo,
+dai tempi dellâ€™aoristo,
 
 der concetto de canonico,
 
-nun c’è stato meglio avviso
+nun câ€™Ã¨ stato meglio avviso
 
-de sputà in faccia a n’amico,
+de sputÃ  in faccia a nâ€™amico,
 
-e m’hai detto che ero un mostro,
+e mâ€™hai detto che ero un mostro,
 
 er diavolo,
 
 er male!
 
-E allora co’ quer foco,
+E allora coâ€™ quer foco,
 
-me c’hai acceso pure er mare.
+me câ€™hai acceso pure er mare.
 
 
 
@@ -138,86 +136,86 @@ attore, dicesi,
 
 chi prova a vedermi,
 
-riesce sempre nell’antitesi:
+riesce sempre nellâ€™antitesi:
 
 me trova, nun capisce,
 
-tu je dici che è na recita,
+tu je dici che Ã¨ na recita,
 
-te sembro così bravo
+te sembro cosÃ¬ bravo
 
-da puntà sulla dialettica?
+da puntÃ  sulla dialettica?
 
-So’ puro,
+Soâ€™ puro,
 
 solo, 
 
 nun ce penso se lo dico,
 
-io t’appaio dentro ar sogno,
+io tâ€™appaio dentro ar sogno,
 
 nella notte,
 
-t’accarezzo e te pio a pizze,
+tâ€™accarezzo e te pio a pizze,
 
 beh, dipende se sei forte!
 
 
 
 
-Poi n’signore,
+Poi nâ€™signore,
 
 Germanico, distinto,
 
-ha detto: “ao, c’è lui!”
+ha detto: â€œao, câ€™Ã¨ lui!â€
 
-e ha giurato che m’ha visto,
+e ha giurato che mâ€™ha visto,
 
-non è che c’ha capito
+non Ã¨ che câ€™ha capito
 
-poi troppo de chi so’,
+poi troppo de chi soâ€™,
 
-però ha distinto er mondo,
+perÃ² ha distinto er mondo,
 
-tra chi è cieco,
+tra chi Ã¨ cieco,
 
 e chi no!
 
-E allora so’ comparso, 
+E allora soâ€™ comparso, 
 
 hai sbirciato,
 
-impaurito dall’inizio,
+impaurito dallâ€™inizio,
 
-co’ li guanti,
+coâ€™ li guanti,
 
 e sempre co quer vizio, 
 
-de da la corpa all’artri!
+de da la corpa allâ€™artri!
 
-Però te sei rimesso,
+PerÃ² te sei rimesso,
 
 coi denti sur cortello,
 
-a dì che se n’conosci
+a dÃ¬ che se nâ€™conosci
 
-nun vordì che nun è quello,
+nun vordÃ¬ che nun Ã¨ quello,
 
-e che se da milioni d’anni,
+e che se da milioni dâ€™anni,
 
 se soffre e soride, 
 
-nun sarà pe’ le politiche,
+nun sarÃ  peâ€™ le politiche,
 
 i sordi, le classifiche,
 
-pe’ l’emergenza sociale
+peâ€™ lâ€™emergenza sociale
 
 o per la cattiveria
 
-de ‘na persona sleale:
+de â€˜na persona sleale:
 
-è perché nun hai pensato
+Ã¨ perchÃ© nun hai pensato
 
 da subito,
 
@@ -227,7 +225,7 @@ e che strillo,
 
 te comunico,
 
-quanno n’sei distratto,
+quanno nâ€™sei distratto,
 
 da li tempi,
 
@@ -239,13 +237,13 @@ accoccolato
 
 co li demoni e i supplizi.
 
-E’ li che me rivolgo,
+Eâ€™ li che me rivolgo,
 
 stronzo, me ne accorgo,
 
-però io so’ l’Inconscio,
+perÃ² io soâ€™ lâ€™Inconscio,
 
-er problema è…
+er problema Ã¨â€¦
 
 che te conosco!
 
