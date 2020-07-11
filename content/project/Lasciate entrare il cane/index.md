@@ -4,7 +4,6 @@ subtitle: ''
 summary:
 authors:
 - Matteo Croce
-- admin
 tags:
 - Racconto
 categories:
@@ -34,24 +33,24 @@ projects: []
 ---
 
 Finito il settimo e ultimo giorno di festa, smontiamo le tende e ci
-appropinquiamo a tornare a casa, non senza fare líultimo acquisto della
+appropinquiamo a tornare a casa, non senza fare l‚Äôultimo acquisto della
 stagione, una bustina piena di svariate droghe e che Pippo custodiva
 gelosamente nei coglioni. Uno dei problemi che hai quando esci da un
-rave di una settimana o pi˘, Ë che continui a sentire la tekno. Nelle onde
+rave di una settimana o pi√π, √® che continui a sentire la tekno. Nelle onde
 del mare, nel carrello della spesa che cigola, nelle macchine che
 passano. Qualunque rumore vagamente ripetitivo si trasforma in un
 tunz tunz ipnotizzante.
 Non eravamo ancora in grado di tornare a casa, ma dovevamo. Avevamo
-bisogno di riprenderci da qualche parte, in tranquillit‡, e magari
+bisogno di riprenderci da qualche parte, in tranquillit√†, e magari
 dormire, prima di farci questi maledettissimi 350 km verso casa.
-Allíimprovviso il genio. Quella ragazza conosciuta su internet che ti
-scrive sempre su MSN e che ti manda SMS la notte. Quella cosÏ brutta
+All‚Äôimprovviso il genio. Quella ragazza conosciuta su internet che ti
+scrive sempre su MSN e che ti manda SMS la notte. Quella cos√¨ brutta
 che non ti chiaveresti mai, e che infatti non ti sei chiavata nemmeno
-quando Ë passata casualmente dalle tue parti. E che abita proprio a 50
+quando √® passata casualmente dalle tue parti. E che abita proprio a 50
 km dalla festa, sulla via di casa per giunta. Quella. La chiami, e le dici
-che sei dalle sue parti, in campeggio. Che passi per un caffË. Con due
+che sei dalle sue parti, in campeggio. Che passi per un caff√®. Con due
 amici. Affare fatto.
-CosÏ líarmata brancaleone del disagio salta in carrozza, e punta verso il
+Cos√¨ l‚Äôarmata brancaleone del disagio salta in carrozza, e punta verso il
 prossimo porto sicuro, casa di Ramona.
 Non ci lasciamo demotivare dagli sguardi schifati dei paesani a cui
 chiediamo informazioni, troviamo la casa e parcheggiamo davanti.
@@ -61,162 +60,162 @@ ero dimenticato questi lussi della vita normale. Bevo il the, e sprofondo
 sulla poltrona, senza accorgermene chiudo gli occhi.
 Non ho dormito molto, mi sveglio sognando di inciampare ballando nel
 cavo delle casse e mi trovo su quella fantastica poltrona. Davanti a me
-uníSanto sgomento mi guarda con gli occhi sbarrati. Ascolto un pÚ,
+un‚ÄôSanto sgomento mi guarda con gli occhi sbarrati. Ascolto un p√≤,
 capisco.
 Due voci fuori campo ansimano e gemono con veemenza. Si dicono le
-peggio cose, il tutto accompagnato da un tunz tunz di sottofondo. »
+peggio cose, il tutto accompagnato da un tunz tunz di sottofondo. √à
 tutto bellissimo: una ragazza non bellissima mi invita a casa sua
-sperando di scopare, io accetto líinvito solo perchÈ ho bisogno di
+sperando di scopare, io accetto l‚Äôinvito solo perch√© ho bisogno di
 poggiare la testa su qualcosa che non sia un tronco di legno e il mio
 amico si sacrifica al posto mio.
 Guardo Santo negli occhi, faccio spallucce. Ritorno nel mondo dei sogni.
 Vengo svegliato da Pippo e Ramona che si accomodano in salotto e si
-fanno un caffË. Io molto discretamente faccio finta di ignorare ciÚ che Ë
-successo nelle ore precedenti. Sono pi˘ riposato, mi sento meglio. Sento
+fanno un caff√®. Io molto discretamente faccio finta di ignorare ci√≤ che √®
+successo nelle ore precedenti. Sono pi√π riposato, mi sento meglio. Sento
 di potermi rimettere alla guida e dirigermi verso casa.
-Manifesto questa mia volont‡, quando Ramona ci invita a dormire da lei.
-Santo si dice anchíesso desideroso di ripartire in viaggio mentre Pippo,
-stranamente, vuole dormire perchÈ stanco.
+Manifesto questa mia volont√†, quando Ramona ci invita a dormire da lei.
+Santo si dice anch‚Äôesso desideroso di ripartire in viaggio mentre Pippo,
+stranamente, vuole dormire perch√© stanco.
 Ci ritiriamo a deliberare, io e Santo vorremmo tornare, mentre Pippo
-vuole dormire lÏ perchÈ ìaltre due botte gliele dareiî. A nulla valse
+vuole dormire l√¨ perch√© ‚Äúaltre due botte gliele darei‚Äù. A nulla valse
 spiegargli che la bellezza della ragazza probabilmente fosse un effetto
-collaterale dellíLSD.
+collaterale dell‚ÄôLSD.
 Dopo una discussione civile come la riunione condominiale di Fantozzi,
 la maggioranza decide di tornare a casa.
-Pippo Ë imbufalito, fa una sfuriata dicendo che vuole portarci a casa al
-pi˘ presto possibile come abbiamo voluto, spara il volume dello stereo al
+Pippo √® imbufalito, fa una sfuriata dicendo che vuole portarci a casa al
+pi√π presto possibile come abbiamo voluto, spara il volume dello stereo al
 massimo e comincia a correre come un pazzo. Ogni sorpasso era
-uníesperienza di premorte, ogni curva una roulette russa.
+un‚Äôesperienza di premorte, ogni curva una roulette russa.
 In macchina regnava un disagio impressionante, nessuno dei tre aveva
 coraggio di proferire verbo.
-ìAdelante! Adelante! CíË un uomo al volante, ha due occhi che sembra
-un diavolo!î
+‚ÄúAdelante! Adelante! C‚Äô√® un uomo al volante, ha due occhi che sembra
+un diavolo!‚Äù
 Dopo 100 km di rally il cuore del povero Santo cede. Chiede di scendere
-in un paese a caso, e che da lÏ si sarebbe arrangiato da solo. Mi chiede
+in un paese a caso, e che da l√¨ si sarebbe arrangiato da solo. Mi chiede
 in prestito 20 euro per potere tornare. Me li avrebbe ridati, dice. Gli do i
-soldi e lo saluto. Non lo rividi mai pi˘.
+soldi e lo saluto. Non lo rividi mai pi√π.
 Riparto, sono in macchina da solo con la bestia. Adesso ha una guida
 meno nervosa. Oscilla pericolosamente verso i bordi della carreggiata,
-ma non accelera e frena pi˘ come come un allievo di scuola guida.
+ma non accelera e frena pi√π come come un allievo di scuola guida.
 Oscilla molto pericolosamente, avvicinandosi lentamente al guard rail.
 Che faccio? Mi incazzo? Grido? Tiro il freno a mano? Solo quando
 cozziamo contro il guard rail e Pippo sussulta, mi rendo conto che stava
 dormendo.
-Allíimprovviso il panico, la macchina Ë inguidabile, e fortuna volle che
+All‚Äôimprovviso il panico, la macchina √® inguidabile, e fortuna volle che
 riusciamo a fermarci in un piazzale.
 Facciamo rapidamente la conta dei danni, Pippo finalmente ritrova la
-parola: ìAbbiamo bucato una gommaî.
-Siamo ufficialmente in tregua. Fra mille imprecazioni, e sotto líaura
-protettiva di uníombra che ci controlla da dietro una finestra, cambiamo
+parola: ‚ÄúAbbiamo bucato una gomma‚Äù.
+Siamo ufficialmente in tregua. Fra mille imprecazioni, e sotto l‚Äôaura
+protettiva di un‚Äôombra che ci controlla da dietro una finestra, cambiamo
 la ruota alla luce fioca di un accendino.
-Ripartiamo. Pippo Ë disperato per il danno alla macchina. La fiancata
-destra Ë completamente distrutta. Anchíio sono molto dispiaciuto per il
-danno, vorrei dirgli qualcosa ma cíË ancora troppo disagio nellíaria.
+Ripartiamo. Pippo √® disperato per il danno alla macchina. La fiancata
+destra √® completamente distrutta. Anch‚Äôio sono molto dispiaciuto per il
+danno, vorrei dirgli qualcosa ma c‚Äô√® ancora troppo disagio nell‚Äôaria.
 Ad un certo punto si forma una fila di macchine e siamo costretti a
-rallentare. Poco pi˘ avanti cíË un posto di blocco e due finanzieri fanno
+rallentare. Poco pi√π avanti c‚Äô√® un posto di blocco e due finanzieri fanno
 passare le macchine una ad una.
 Il mio primo pensiero va a quella bustina nei coglioni di Pippo. Due
 cartoni di LSD, quasi un grammo di MDMA e 5 grammi di fumo
-ìburbukaî. Abbastanza sostanze da tenerci al gabbio per un annetto, ma
-Ë troppo tardi per buttarla. Gli dico di fare attenzione, e mentre lo
+‚Äúburbuka‚Äù. Abbastanza sostanze da tenerci al gabbio per un annetto, ma
+√® troppo tardi per buttarla. Gli dico di fare attenzione, e mentre lo
 faccio ho un flashback di quando ho messo delle pasticche nel cassetto
 della macchina.
-Non posso lasciare lÏ perchÈ le vedrebbero prendendo i documenti, e
+Non posso lasciare l√¨ perch√© le vedrebbero prendendo i documenti, e
 nemmeno mettermele nei coglioni ormai. Faccio una follia e le metto nel
-nascondiglio pi˘ stupido del mondo, sotto il tappetino della macchina.
+nascondiglio pi√π stupido del mondo, sotto il tappetino della macchina.
 Arriva il nostro turno al posto di blocco, abbassiamo i finestrini e il
-finanziere ci dice ìuscite fuori dalla macchina con le mani fuori dalle
-tascheî.
-Eseguo líordine controvoglia, e mentre esco dalla macchina con le mani
+finanziere ci dice ‚Äúuscite fuori dalla macchina con le mani fuori dalle
+tasche‚Äù.
+Eseguo l‚Äôordine controvoglia, e mentre esco dalla macchina con le mani
 in alto, il finanziere mi illumina con una torcia. Punta la torcia sulle mie
-mani urlando: ìChe hai fatto?î
+mani urlando: ‚ÄúChe hai fatto?‚Äù
 Mi guardo le mani, erano divenute completamente nere durante il
-nostro ultimo pit stop. La cosa migliore in questi casi Ë dire la verit‡,
-indico il ruotino e candidamente dico ìabbiamo bucato poco fa, ho
-cambiato la gommaî.
-Veniamo perquisiti entrambi, non ci trovano nulla e il finanziere pi˘
-anziano dice ìlasciate entrare il caneî.
+nostro ultimo pit stop. La cosa migliore in questi casi √® dire la verit√†,
+indico il ruotino e candidamente dico ‚Äúabbiamo bucato poco fa, ho
+cambiato la gomma‚Äù.
+Veniamo perquisiti entrambi, non ci trovano nulla e il finanziere pi√π
+anziano dice ‚Äúlasciate entrare il cane‚Äù.
 Arriva un terzo finanziere con un pastore tedesco. Mi annusa
 rapidamente i pantaloni e tira diritto verso Pippo, dove comincia ad
 abbiare.
-Il fumo, fra le tante droghe nel sottopalla di Pippo cíË il fumo.
+Il fumo, fra le tante droghe nel sottopalla di Pippo c‚Äô√® il fumo.
 Nonostante si vendesse ovunque, se ne era portato una stecca dal rave.
-ìIl cane ti ha segnalato, ti devo perquisireî, dice il finanziere mettendosi
+‚ÄúIl cane ti ha segnalato, ti devo perquisire‚Äù, dice il finanziere mettendosi
 un guanto in lattice.
 Il finanziere abbassa i pantaloni a Pippo, e quando ho capito che gli
 stava abbassando le mutande non ho avuto il coraggio di guardare.
-Immaginavo gi‡ quella bustona volare a terra, le manette, il gabbio. Ero
+Immaginavo gi√† quella bustona volare a terra, le manette, il gabbio. Ero
 preparato al peggio. Momenti di suspence e tensione. Silenzio. Quando
-il finanziere dice allíanziano ìNon cíË nienteî.
-Devo aver pensato a voce troppo alta, perchÈ il finanziere mi sente dire
-ìCome non cíË niente?î.
+il finanziere dice all‚Äôanziano ‚ÄúNon c‚Äô√® niente‚Äù.
+Devo aver pensato a voce troppo alta, perch√© il finanziere mi sente dire
+‚ÄúCome non c‚Äô√® niente?‚Äù.
 Il finanziere si irrita, viene da me, mi guarda e mi chiede nome e
 cognome.
 Rispondo, e subito dopo tocca a Pippo farsi identificare, che pronuncia
 nome e cognome con la bocca palesemente piena. Lo guardo scioccato
-dritto negli occhi e mi scappa un sonoro ìMa che cazzÖî.
+dritto negli occhi e mi scappa un sonoro ‚ÄúMa che cazz‚Ä¶‚Äù.
 Non finisco la frase che il finanziere si scaglia contro di me urlando
-ìZitto! Tu devi stare zitto! Parli solo quando te lo dico io!î.
+‚ÄúZitto! Tu devi stare zitto! Parli solo quando te lo dico io!‚Äù.
 Mentre mi urlava contro vedo Pippo fare un movimento lesto, seguito da
 un rumore. Non era una polpetta di Bavaria quella che stava
 masticando.
 In quel momento il cane impazzisce e comincia ad abbiare furiosamente
-contro Pippo. Il cane non demorde, cosÏ il finanziere anziano, che era
-stato finíora leggermente defilato, si avvicina e porge una torcia al
+contro Pippo. Il cane non demorde, cos√¨ il finanziere anziano, che era
+stato fin‚Äôora leggermente defilato, si avvicina e porge una torcia al
 collega giovane.
 Con solo uno sguardo e un cenno, il finanziere anziano aveva ristabilito
-le gerarchie della caserma. Era compito del pi˘ giovane fare il lavoro
+le gerarchie della caserma. Era compito del pi√π giovane fare il lavoro
 sporco. Sporco come il retto di un punkabbestia che caca nei campi e
 non si fa il bidet da una settimana.
-Líispezione dura una ventina di secondi, durante la quale non guardo.
+L‚Äôispezione dura una ventina di secondi, durante la quale non guardo.
 Stavolta non per paura.
-ì» pulitoî dice il giovane, mentre il cane ancora borbotta. Se solo
-quellíinfame a quattro zampe potesse parlare, sicuramente gli direbbe
+‚Äú√à pulito‚Äù dice il giovane, mentre il cane ancora borbotta. Se solo
+quell‚Äôinfame a quattro zampe potesse parlare, sicuramente gli direbbe
 di controllare le tonsille al posto della prostata.
-Il finanziere dice a Pippo: ìadesso controllo la macchina, se trovo solo
-una canna vi porto viaî.
+Il finanziere dice a Pippo: ‚Äúadesso controllo la macchina, se trovo solo
+una canna vi porto via‚Äù.
 Il finanziere libera il cane vicino alla macchina, ma il cane ci fa un giro
 intorno e se ne va. Il finanziere si siede sul lato passeggero poggiando
 un piede sul tappetino, proprio sopra la pasticche.
 Apre il cassetto e facendo luce con la torcia sfila lentamente ogni
 oggetto contenuto dentro. Controlla i documenti, apre i CD uno ad uno,
-e quando il cassettino Ë finalmente vuoto si ferma. Abbassa le alette
+e quando il cassettino √® finalmente vuoto si ferma. Abbassa le alette
 parasole, guarda nel portacenere. E quel piede sempre sul tappetino,
 sopra la pasticca.
 Si ferma, scorge dietro gli zaini e i sacchi a pelo. Sospira. Da lontano il
-finanziere anziano dice ìsmontiamo tuttoî.
+finanziere anziano dice ‚Äúsmontiamo tutto‚Äù.
 In 20 secondi erano tutti spariti. I finanzieri, il cane e il posto di blocco.
-Non mi sembrava vero, cíera sicuramente una fregatura. A quel punto
-mi ricordo di Pippo. Era lÏ tremolante con ancora la cinta sbottonata.
-Gli chiedo sottovoce: ìMa ti sei mangiato la busta?î
-ìSiÖî con un filino di voce.
-ìDai su, andiamoî
+Non mi sembrava vero, c‚Äôera sicuramente una fregatura. A quel punto
+mi ricordo di Pippo. Era l√¨ tremolante con ancora la cinta sbottonata.
+Gli chiedo sottovoce: ‚ÄúMa ti sei mangiato la busta?‚Äù
+‚ÄúSi‚Ä¶‚Äù con un filino di voce.
+‚ÄúDai su, andiamo‚Äù
 Rimontiamo in macchina e Pippo comincia a guidare, stavolta con
 prudenza ma in modo maldestro.
 Si ferma ad una piazzola, si abbassa i pantaloni e si accovaccia.
-ìPippo che stai facendo?î
-ìSto cacando il fumoî
-ìMa líhai mangiato mezzíora faî
-ìAh sÏ? Dici che Ë presto?î
+‚ÄúPippo che stai facendo?‚Äù
+‚ÄúSto cacando il fumo‚Äù
+‚ÄúMa l‚Äôhai mangiato mezz‚Äôora fa‚Äù
+‚ÄúAh s√¨? Dici che √® presto?‚Äù
 In quel momento nei suoi occhi vedo tutto lo sballo composito di quel
 mix che aveva ingurgitato voracemente.
-ìPippo, se vuoi guido io fino a casaî
-ìSe vuoiî
+‚ÄúPippo, se vuoi guido io fino a casa‚Äù
+‚ÄúSe vuoi‚Äù
 Era strafatto e non se ne rendeva conto. Cerco di non spaventarlo, mi
 dirigo verso casa, alacremente. Ero a quasi 20 km da casa, ma Pippo
 non era in condizioni di tornare. Si rigirava sul sedile assumendo delle
 pose da beota che Gigi Marzullo in confronto era Clint Eastwood.
-Mi fermo, faccio un giro di telefonate. Chiamo Walter, Ë líunico tossico
-sveglio alle 6 di mattina e che puÚ aiutarmi.
+Mi fermo, faccio un giro di telefonate. Chiamo Walter, √® l‚Äôunico tossico
+sveglio alle 6 di mattina e che pu√≤ aiutarmi.
 Cambio rotta e viro verso il mare, a casa di Walter, il mio Winston Wolf.
 Arrivo a casa di Walter, Pippo vaneggia come un malato di Alzheimer, lo
 portiamo su per le scale in braccio, e poi in un letto.
 Comincia a stare peggio, diventa pallidissimo. Io non credo che le
 droghe facciano male, ma forse ne ne predi tanta, e tutte insieme, ecco
-forse qualcosa puÚ succedere.
+forse qualcosa pu√≤ succedere.
 Passiamo la nottata sperando. Pippo il pomeriggio si sveglia e sta
 leggermente meglio. Decide di tornare a casa.
-» ancora leggermente stonato, sulla via del ritorno taglia la strada ad
+√à ancora leggermente stonato, sulla via del ritorno taglia la strada ad
 un pescivendolo col quale nasce un piccolo diverbio.
 Il pescivendolo gli apre lo sportello e lo pesta. Incidenti di percorso
 minori, un o-piccolo come si dice in matematica.
@@ -225,10 +224,10 @@ gonfio di botte, ma sano e salvo, io resto a bivaccare a casa di Walter un
 altro giorno. La mattina dopo ero in spiaggia quando Pippo mi telefona
 dicendo che dovevamo vederci assolutamente e che non poteva dirmi
 altro. Avevo paura al solo pensiero di cosa mi potesse dire.
-In un paio díore arriva al mare, mi faccio coraggio e gli chiedo cosa mi
-doveva dire di cosÏ tanto importante che non poteva dirmi al telefono.
+In un paio d‚Äôore arriva al mare, mi faccio coraggio e gli chiedo cosa mi
+doveva dire di cos√¨ tanto importante che non poteva dirmi al telefono.
 Mi guarda, e con lo stesso sorriso e la stessa voce da psicopatico di Jack
-Nicholson che ha sfondato la porta del bagno con uníascia dice:
-ìHo cacato il fumoÖî
+Nicholson che ha sfondato la porta del bagno con un‚Äôascia dice:
+‚ÄúHo cacato il fumo‚Ä¶‚Äù
 
 ---
