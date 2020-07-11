@@ -8,8 +8,8 @@ tags:
 - Racconto
 categories:
 - Racconto
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2020-07-11"
+lastmod: "2020-07-11"
 featured: false
 draft: false
 
@@ -21,7 +21,7 @@ image:
   placement: 2
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
