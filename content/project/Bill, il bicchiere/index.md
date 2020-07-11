@@ -6,6 +6,8 @@ authors:
 - Edony
 tags:
 - Racconto
+categories:
+- Racconto
 date: "2020-05-29"
 lastmod: "2020-05-29"
 featured: true
