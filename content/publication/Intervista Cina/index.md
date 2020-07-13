@@ -53,7 +53,7 @@ Fin da bambini, in Europa, veniamo educati con libri che riportano quasi esclusi
  Perfino con la pandemia da Sars-Cov-2 media e social network non hanno fatto altro che puntare il dito su abitudini particolari di paesi esteri. Quello che non fa parte della cultura "dominante" viene visto spesso con diffidenza e condito con stereotipi. 
 È necessario essere coscienti, invece, della varietà di sistemi di riferimento esistenti e concentrarsi ad imparare il più possibile dal prossimo.
 Ognuno di noi ha una storia da raccontare.
-Oggi abbiamo fatto qualche domanda a Paolo che vive in Cina da tredici anni.
+Oggi abbiamo fatto qualche domanda a Paolo Castagna che vive in Cina da dieci anni.
 
 
 **1. Raccontaci il tuo percorso di studi.**
@@ -89,7 +89,7 @@ Studiavamo in classi composte da ragazzi provenienti da ogni paese, eravamo tutt
 È complesso nella misura in cui trovi un datore di lavoro serio che ti instradi bene. 
 Esistono agenzie che ti aiutano ma dipende molto dal tipo di contratto.
 Ora, rispetto a qualche anno fa la Cina è molto più esigente sui documenti necessari per trasferirsi.
-Per ottenere un visto lavorativo, con l’invito in Cina da parte del datore di lavoro, bisogna recarsi all’ambasciata cinese in Italia, fornirsi dei documenti necessari e di un visto per entrare nel paese. Solo una volta arrivati e dopo aver effettuato delle visite mediche il visto ottenuto in Italia viene convertito in visto lavorativo vero e proprio. Ha una durata di 6 mesi. La situazione è diversa per quanto riguarda visti turistici e studenteschi, in particolare se si vuole studiare in un’università cinese bisogna svolgere l’HSK (Hanyu Shuiping Kaoshi), un test volto a certificare la conoscenza e la capacità di utilizzo della lingua cinese.
+Per ottenere un visto lavorativo, con l’invito in Cina da parte del datore di lavoro, bisogna recarsi all’ambasciata cinese in Italia, fornirsi dei documenti necessari e di un visto per entrare nel paese. Solo una volta arrivati e dopo aver effettuato delle visite mediche il visto ottenuto in Italia viene convertito in visto lavorativo vero e proprio. Ha una durata che può variare in base al tipo di contratto. La situazione è diversa per quanto riguarda visti turistici e studenteschi, in particolare se si vuole studiare in un’università cinese bisogna svolgere l’HSK (Hanyu Shuiping Kaoshi), un test volto a certificare la conoscenza e la capacità di utilizzo della lingua cinese.
 
 
 **5. In occidente ed in particolare in Italia, la religione Cattolica da secoli influenza il pensiero, l’etica e la morale delle persone, la religione ha questa influenza anche in Cina?**
@@ -137,7 +137,7 @@ Ci sono più di 80.000 caratteri cinesi , ma la maggior parte di essi sono raram
 Detta così sembra alquanto radicale!
 Semplicemente hanno un’urbanizzazione talmente rapida che periodicamente si decide quali aree sono da demolire per lasciare spazio a nuove palazzine più moderne ed alte (le nuove palazzine hanno praticamente trenta piani).
 Forse l’unico aspetto negativo di avere il patrimonio artistico, culturale e monumentale che ha l’Italia è proprio nell’impossibilità di adattare la città ed i suoi servizi alle necessità dell’uomo moderno. 
-In Cina ci sono dei luoghi più tradizionali ma non esiste un centro storico in particolare; le città sono funzionali: strade larghe, palazzi alti; addirittura in alcune è permesso circolare solo su motorini elettrici.
+In Cina ci sono dei luoghi più tradizionali, ma non esiste un centro storico in particolare; le città sono funzionali: strade larghe, palazzi alti; addirittura in alcune di esse è permesso circolare con autovetture ed esclusivamente con motorini elettrici.
 Pensa che tutti medici hanno gli uffici all’interno della struttura ospedaliera ed eseguono analisi anche per un semplice raffreddore; dopo mezz’ora hai i risultati e compri le medicine in seduta stante. Hanno preso modelli di sviluppo più moderni. Qui da noi si fa molto fatica a cambiare.
 
 
