@@ -1,5 +1,5 @@
 ---
-title: "Diderot in giro per il mondo : Cina"
+title: "Diderot in giro per il mondo: Cina"
 authors:
 - Diderot
 - Diego Landini
