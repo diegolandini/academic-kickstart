@@ -10,10 +10,15 @@ doi: ""
 publishDate: "2020-07-13"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: 'Oggi inauguriamo la rubrica “Diderot in giro per il mondo”.
+Quello che non fa parte della cultura "dominante" viene visto spesso con diffidenza e condito con stereotipi. 
+È necessario essere coscienti, invece, della varietà di sistemi di riferimento esistenti e concentrarsi ad imparare il più possibile dal prossimo.
+Dopo aver introdotto il concetto di #etnocentrismo abbiamo fatto qualche domanda a Paolo che vive in Cina da tredici anni.
+Ognuno di noi ha una storia da raccontare.'
 tags:
 - Intervista
 - Cina
+- In Giro Per Il Mondo
 
 featured: true
 # Featured image
