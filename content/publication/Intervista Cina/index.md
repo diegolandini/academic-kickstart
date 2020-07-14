@@ -116,8 +116,8 @@ Persino cantando nei locali la sera si riesce ad accedere uno stipendio decente:
 Da un punto di vista culturale c’è una differenza fondamentale: nella cultura cinese il pensiero è nel cuore, non nel cervello.
 È molto interessante il fatto che l’ideogramma che indica il Cuore, a differenza degli ideogrammi degli altri Organi Zang, non possieda il radicale che suggerisce il significato della “carne”. Questo indica come, nell’accezione cinese, il ruolo del Cuore sia più “psichico” che “fisico” (n.d.r.).
 La non-separazione fra uomo e natura ha mantenuto vive tante tradizioni.
-La medicina cinese si basa sull’equilibrio tra mente, corpo e spirito; tutti gli organi hanno, di fatto, una dimensione psichica ed emozionale. Il cibo e medicina. Ti dicono di non pensare troppo. 
-In tanti anni trascorsi qui mi è stata trasmessa una visione del mondo un po’ più unitaria: mentre in Occidente l‘individualismo sta sopraffacendo il resto, qui ci cura del prossimo, l’attenzione è rivolta alla collettività!
+La medicina cinese si basa sull’equilibrio tra mente, corpo e spirito; tutti gli organi hanno, di fatto, una dimensione psichica ed emozionale. Il cibo é medicina. Ti dicono di non pensare troppo. 
+In tanti anni trascorsi qui mi è stata trasmessa una visione del mondo un po’ più unitaria: mentre in Occidente l‘individualismo sta sopraffacendo il resto, qui ci si cura del prossimo, l’attenzione è rivolta alla collettività!
 
 
 
@@ -132,13 +132,13 @@ Ci sono più di 80.000 caratteri cinesi , ma la maggior parte di essi sono raram
 
 {{< figure library="true" src="cina (4).jpeg" title="" lightbox="true" >}}
 
-**9. In europa molti centri abitati sono frutto di secoli di evoluzione, come sono organizzate le città in Cina (leggiamo che molte città vengono edificate da zero oppure interi quartieri vengono rasi al suolo per creare nuovi edifici)**
+**9. In europa molti centri abitati sono frutto di secoli di evoluzione, come sono organizzate le città in Cina? (leggiamo che molte città vengono edificate da zero oppure interi quartieri vengono rasi al suolo per creare nuovi edifici)**
 
 Detta così sembra alquanto radicale!
 Semplicemente hanno un’urbanizzazione talmente rapida che periodicamente si decide quali aree sono da demolire per lasciare spazio a nuove palazzine più moderne ed alte (le nuove palazzine hanno praticamente trenta piani).
 Forse l’unico aspetto negativo di avere il patrimonio artistico, culturale e monumentale che ha l’Italia è proprio nell’impossibilità di adattare la città ed i suoi servizi alle necessità dell’uomo moderno. 
 In Cina ci sono dei luoghi più tradizionali, ma non esiste un centro storico in particolare; le città sono funzionali: strade larghe, palazzi alti; addirittura in alcune di esse è permesso circolare con autovetture ed esclusivamente con motorini elettrici.
-Pensa che tutti medici hanno gli uffici all’interno della struttura ospedaliera ed eseguono analisi anche per un semplice raffreddore; dopo mezz’ora hai i risultati e compri le medicine in seduta stante. Hanno preso modelli di sviluppo più moderni. Qui da noi si fa molto fatica a cambiare.
+Pensa che tutti medici hanno gli uffici all’interno della struttura ospedaliera ed eseguono analisi anche per un semplice raffreddore; dopo mezz’ora hai i risultati e compri le medicine in seduta stante. Hanno adottato modelli di sviluppo più moderni, mentre in Italia si fa molto fatica a cambiare.
 
 
 
