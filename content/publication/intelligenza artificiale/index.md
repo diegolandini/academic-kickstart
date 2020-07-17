@@ -1,5 +1,5 @@
 ---
-title: "Alla Ricerca Della Scienza Mancante Sulla Coscienza"
+title: "Alla ricerca della scienza mancante sulla coscienza"
 authors:
 - Diderot
 - Tommaso Mancini
