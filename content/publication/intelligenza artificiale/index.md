@@ -1,5 +1,4 @@
 ---
-
 title: "Alla Ricerca Della Scienza Mancante Sulla Coscienza"
 authors:
 - Diderot
@@ -103,7 +102,7 @@ Tutto ciò è strano, fin troppo, ma è interessante pensarci perché se in futu
 
 2. https://it.m.wikipedia.org/wiki/Mente
 
-3. Il concetto fu introdotto da *Epicuro* con il termine greco *parenclisi* (parénklisis, ???????????), successivamente tradotto da Lucrezio con il termine latino *clinamen*.
+3. Il concetto fu introdotto da *Epicuro* con il termine greco *parenclisi* (parénklisis, παρέγκλισις), successivamente tradotto da Lucrezio con il termine latino *clinamen*.
 
 4. Roger Penrose, *Shadows of the Mind: A Search for the Missing Science of Consciousness*; Oxford Univ Pr; 1 agosto 1996
 
