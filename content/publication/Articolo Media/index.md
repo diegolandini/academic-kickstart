@@ -4,10 +4,10 @@ authors:
 - Diderot
 - Giulia Rugolo
 
-date: "2020-07-23"
+date: "2020-07-24"
 doi: ""
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-07-23"
+publishDate: "2020-07-24"
 
 # Summary. An optional shortened abstract.
 summary: ""
