@@ -1,5 +1,4 @@
 ---
-
 title: "L importanza dei social media nelle rivolte sociali"
 authors:
 - Diderot
@@ -178,7 +177,7 @@ https://it.m.wikipedia.org/wiki/Premio_Sakharov_per_la_libert%C3%A0_di_pensiero
 3. Per leggere qualcosa in più sulla morte di George Floyd:
 https://diderotnews.com/publication/blackouttuesday/
 
-4. Manuel Castells; *Reti di indignazione e speranza. Movimenti sociali nell&#39;era di
+4. Manuel Castells; *Reti di indignazione e speranza. Movimenti sociali nell'era di
 internet*; Università Bocconi Editore; 2012
 
 
