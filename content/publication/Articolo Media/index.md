@@ -1,4 +1,5 @@
 ---
+
 title: "L importanza dei social media nelle rivolte sociali"
 authors:
 - Diderot
@@ -39,72 +40,72 @@ draft: false
 
 ---
 
-Vi siete mai fatti delle domande sullíorigine dei movimenti sociali? Le grandi rivoluzioni. Líinizio del cambiamento. Da dove viene la voglia di combattere, lottare fino agli estremi
+Vi siete mai fatti delle domande sull‚Äôorigine dei movimenti sociali? Le grandi rivoluzioni. L‚Äôinizio del cambiamento. Da dove viene la voglia di combattere, lottare fino agli estremi
 delle forze per un futuro migliore?
 
-Ce ne parla **Manuel Castells** (sociologo spagnolo naturalizzato statunitense) nel suo libro *Reti di indignazione e speranza* (2012) quando definisce la societ‡ odierna come ´societ‡ in reteª (*network society*). Le reti digitali, secondo líautore, **influenzano
+Ce ne parla **Manuel Castells** (sociologo spagnolo naturalizzato statunitense) nel suo libro *Reti di indignazione e speranza* (2012) quando definisce la societ√† odierna come ¬´societ√† in rete¬ª (*network society*). Le reti digitali, secondo l‚Äôautore, **influenzano
 profondamente la mente umana attraverso i social media**, andandosi a depositare nelle
-parti pi˘ intrinseche e nascoste di ognuno di noi. Per questa ragione, le reti agiscono su
+parti pi√π intrinseche e nascoste di ognuno di noi. Per questa ragione, le reti agiscono su
 due fronti importanti e complementari: il fronte emotivo/psicologico e quello
 dinamico/sociale. **Un movimento sociale nasce per fronteggiare delle situazioni di
 ingiustizia** che coinvolgono un considerevole gruppo di persone, un intero Paese per
-esempio. Alla base di ogni movimento perÚ cíË sempre un individuo o un piccolo gruppo di
-persone animate da paura, entusiasmo, speranza; e affinchÈ un movimento sociale
-prenda vita, cíË bisogno che la spinta emotiva dei singoli si unisca a quella di altri. » qui
+esempio. Alla base di ogni movimento per√≤ c‚Äô√® sempre un individuo o un piccolo gruppo di
+persone animate da paura, entusiasmo, speranza; e affinch√© un movimento sociale
+prenda vita, c‚Äô√® bisogno che la spinta emotiva dei singoli si unisca a quella di altri. √à qui
 che gli uomini si sentono pronti ad agire in massa, spalleggiandosi e generando nuovi
-sentimenti, quali la solidariet‡, la forza reciproca e líindignazione collettiva.
+sentimenti, quali la solidariet√†, la forza reciproca e l‚Äôindignazione collettiva.
 
 {{< figure library="true" src="media (4).jpeg" title="" lightbox="true" >}}
 
-Il sentimento comune e condiviso sta alla base di ogni rivoluzione, ma cíË qualcosíaltro di
-altrettanto fondamentale che fa da pilastro portante. Viviamo nella societ‡ del web 2.0,
+Il sentimento comune e condiviso sta alla base di ogni rivoluzione, ma c‚Äô√® qualcos‚Äôaltro di
+altrettanto fondamentale che fa da pilastro portante. Viviamo nella societ√† del web 2.0,
 navighiamo, scriviamo post, condividiamo notizie, articoli, video, foto in continuazione e su
 qualsiasi social network. Quasi tutti hanno a disposizione un account Instagram,
-Facebook, Twitter; ed Ë proprio questo che Castells ci illustra. Abbiamo uno strumento
+Facebook, Twitter; ed √® proprio questo che Castells ci illustra. Abbiamo uno strumento
 potentissimo, il web, e spesso falliamo nel saperlo utilizzare efficientemente. Fallimento
-che deriva dalla convinzione che nulla potr‡ mai cambiare grazie ad un video condiviso o
+che deriva dalla convinzione che nulla potr√† mai cambiare grazie ad un video condiviso o
 un like su Twitter. E se ci sbagliassimo?
 
 Alcuni esempi di situazioni di ingiustizia che i movimenti sociali provano a superare sono:
-assenza di democrazia, ingiustizia, brutalit‡ della polizia, sessismo, razzismo, corruzione,
-povert‡.
+assenza di democrazia, ingiustizia, brutalit√† della polizia, sessismo, razzismo, corruzione,
+povert√†.
 
-Si puÚ far riferimento a **due casi di rivoluzioni sociali, nei quali Ë possibile identificare le
-circostanze difficili sopra elencate**: ´La rivoluzione per la libert‡ e la dignit‡ª in Tunisia
-(anche chiamata ´Rivoluzione dei Gelsominiª, 2010-2011) e ´La rivoluzione del 25
-gennaioª (2011) in Egitto. Líaspetto comune a entrambe le rivolte Ë líelemento che
-sancisce líinizio dellíinsorgere popolare cioË **uníazione estrema** che, facendo scalpore
+Si pu√≤ far riferimento a **due casi di rivoluzioni sociali, nei quali √® possibile identificare le
+circostanze difficili sopra elencate**: ¬´La rivoluzione per la libert√† e la dignit√†¬ª in Tunisia
+(anche chiamata ¬´Rivoluzione dei Gelsomini¬ª, 2010-2011) e ¬´La rivoluzione del 25
+gennaio¬ª (2011) in Egitto. L‚Äôaspetto comune a entrambe le rivolte √® l‚Äôelemento che
+sancisce l‚Äôinizio dell‚Äôinsorgere popolare cio√® **un‚Äôazione estrema** che, facendo scalpore
 e essendo ripresa in modo da diventare virale online, agli occhi delle persone risulta come
 termine ultimo e decisivo della loro indignazione e determinazione ad agire. Castells
-scrive: ìOgni rivoluzione ha la sua data di nascita e il suo eroe ribelle.î Il venditore
-ambulante **Mohamed Bouazizi** che si Ë autoimmolato di fronte alla sede di un ufficio
+scrive: ‚ÄúOgni rivoluzione ha la sua data di nascita e il suo eroe ribelle.‚Äù Il venditore
+ambulante **Mohamed Bouazizi** che si √® autoimmolato di fronte alla sede di un ufficio
 governativo tunisino e la studentessa **Asmaa Mahfouz** che ha postato un video in cui
 chiedeva di scendere in Piazza Tahrir a protestare con lei, sono i due eroi ribelli, i due
-elementi scatenanti delle proteste. Si puÚ sottolineare, inoltre, che le due proteste
+elementi scatenanti delle proteste. Si pu√≤ sottolineare, inoltre, che le due proteste
 vantassero come tratto essenziale la **libera connessione e comunicazione tra i vari social
 media, siti di social networking, blog virtuali e reti televisive satellitari**, sfruttati al meglio
-per sensibilizzare il resto del Paese su quanto accadeva in una specifica localit‡. Tra i
-mezzi pi˘ importanti si possono citare: Facebook, Twitter, Instagram, YouTube, Al
-Jazeeraπ e gli innumerevoli blogger che contribuivano ad alimentare la rabbia e ad
-innescare le proteste, dando voce anche ai pi˘ giovani.
+per sensibilizzare il resto del Paese su quanto accadeva in una specifica localit√†. Tra i
+mezzi pi√π importanti si possono citare: Facebook, Twitter, Instagram, YouTube, Al
+Jazeera¬π e gli innumerevoli blogger che contribuivano ad alimentare la rabbia e ad
+innescare le proteste, dando voce anche ai pi√π giovani.
 
 {{< figure library="true" src="media (1).jpeg" title="" lightbox="true" >}}
 
 Per capire a fondo il ruolo chiave dei social network e in che modo le persone lo abbiano
 captato e sfruttato al meglio, analizziamo degli esempi pratici.
-Durante la ìRivoluzione dei Gelsominiî, i partecipanti organizzarono dei dibattiti in piazza,
+Durante la ‚ÄúRivoluzione dei Gelsomini‚Äù, i partecipanti organizzarono dei dibattiti in piazza,
 effettuarono riprese di loro stessi e diffusero i video su Internet. Il giornalista blogger
-**Zouhair Yahiaoui** fu incarcerato e morÏ in prigione, e altri blogger critici come
+**Zouhair Yahiaoui** fu incarcerato e mor√¨ in prigione, e altri blogger critici come
 **Mohamed Abbou** e **Slim Boukdir furono arrestati e detenuti per aver denunciato la
 corruzione del governo tunisino**. Nonostante la censura e la repressione, il popolo non si
-Ë arreso e ha trovato la propria valvola di sfogo in reti satellitari come Al Jazeera. Infatti,
+√® arreso e ha trovato la propria valvola di sfogo in reti satellitari come Al Jazeera. Infatti,
 nacque un collegamento solido tra i giornalisti manifestanti armati di cellulari attivi nel
 fotografare e registrare, e Al Jazeera che ritrasmetteva le immagini a tutta la popolazione.
-Con il passare dei mesi, la rete televisiva riuscÏ a sviluppare un **programma di
+Con il passare dei mesi, la rete televisiva riusc√¨ a sviluppare un **programma di
 comunicazione in grado di collegare i telefonini direttamente al suo satellite**, in modo da
 permettere alle persone che protestavano in piazza di richiedere di essere trasmessi a
 tutta la popolazione solo con un clic. Infine, per dibattere e comunicare su Twitter i
-dimostranti utilizzarono líhashtag *#sidibouzid* (luogo di nascita e del suicidio di Mohamed
+dimostranti utilizzarono l‚Äôhashtag *#sidibouzid* (luogo di nascita e del suicidio di Mohamed
 Bouazizi), riferendosi in questo modo alla rivoluzione tunisina.
 
 {{< figure library="true" src="media (2).jpeg" title="" lightbox="true" >}}
@@ -114,71 +115,71 @@ importanti furono le reti delle tifoserie delle squadre di calcio come al-Ahly e
 Sporting**, che avevano una lunga storia di scontri con la polizia alle spalle. Gli appelli a
 manifestare erano inviati tramite Facebook, utilizzato anche per prendere decisioni su
 come agire, mentre su Twitter e attraverso gli SMS si coordinarono le azioni. Il social
-network si Ë dimostrato uno strumento potente e ìimmortaleî ancora una volta.
-Questíultima caratteristica emerse chiaramente nella risposta da parte del regime egiziano
-alle manifestazioni in atto, che decise di **chiudere líaccesso a internet in tutto il Paese,
-disattivando anche le reti cellulari**. CiÚ che fu chiamato ´*blackout*ª non riuscÏ a durare
-pi˘ di cinque giorni nÈ a fermare i movimenti in Egitto, che evitarono líincomunicabilit‡
-della rivoluzione grazie allíaiuto cruciale di Al Jazeera e di altri tradizionali canali di
+network si √® dimostrato uno strumento potente e ‚Äúimmortale‚Äù ancora una volta.
+Quest‚Äôultima caratteristica emerse chiaramente nella risposta da parte del regime egiziano
+alle manifestazioni in atto, che decise di **chiudere l‚Äôaccesso a internet in tutto il Paese,
+disattivando anche le reti cellulari**. Ci√≤ che fu chiamato ¬´*blackout*¬ª non riusc√¨ a durare
+pi√π di cinque giorni n√© a fermare i movimenti in Egitto, che evitarono l‚Äôincomunicabilit√†
+della rivoluzione grazie all‚Äôaiuto cruciale di Al Jazeera e di altri tradizionali canali di
 comunicazione come fax, radio amatoriali e modem analogici, attraverso i quali i
 manifestanti si scambiarono le informazioni.
 
-Tutto questo Ë conosciuto sotto il nome di ìPrimavera arabaî e si colloca tra la fine del
-2010 e líinizio del 2011. Nello stesso anno, Mohamed Bouazizi Ë stato insignito del
-*Premio Sakharov* ≤ per la libert‡ di pensiero, insieme a Asmaa Mahfouz e altri quattro
-personaggi per il loro contributo a ìcambiamenti storici nel mondo araboî. Questi eroi ribelli
-ci dimostrano **líimportanza del ruolo dei social media nelle rivoluzioni sociali**.
-Mostrandoci una rivolta meno lontana e sicuramente pi˘ plausibile. Grazie alla storia,
-tocchiamo con mano la possibilit‡ che un cambiamento sociale possa iniziare da un post o
-da un semplice hashtag. Quindi alla domanda ìE se ci sbagliassimo?î la risposta Ë
-senzíombra di dubbio sÏ, ci sbagliamo. Il social network Ë líunico strumento che abbiamo,
-la nostra voce, la nostra possibilit‡, la nostra scelta. **Angela Davis** (attivista del
+Tutto questo √® conosciuto sotto il nome di ‚ÄúPrimavera araba‚Äù e si colloca tra la fine del
+2010 e l‚Äôinizio del 2011. Nello stesso anno, Mohamed Bouazizi √® stato insignito del
+*Premio Sakharov* ¬≤ per la libert√† di pensiero, insieme a Asmaa Mahfouz e altri quattro
+personaggi per il loro contributo a ‚Äúcambiamenti storici nel mondo arabo‚Äù. Questi eroi ribelli
+ci dimostrano **l‚Äôimportanza del ruolo dei social media nelle rivoluzioni sociali**.
+Mostrandoci una rivolta meno lontana e sicuramente pi√π plausibile. Grazie alla storia,
+tocchiamo con mano la possibilit√† che un cambiamento sociale possa iniziare da un post o
+da un semplice hashtag. Quindi alla domanda ‚ÄúE se ci sbagliassimo?‚Äù la risposta √®
+senz‚Äôombra di dubbio s√¨, ci sbagliamo. Il social network √® l‚Äôunico strumento che abbiamo,
+la nostra voce, la nostra possibilit√†, la nostra scelta. **Angela Davis** (attivista del
 movimento afroamericano statunitense, militante del Partito Comunista degli Stati Uniti
-d&#39;America fino al 1991) scrive nel suo libro *La libert‡ Ë una lotta costante* (2015): ìNon
+d&#39;America fino al 1991) scrive nel suo libro *La libert√† √® una lotta costante* (2015): ‚ÄúNon
 penso che ci possiamo rivolgere ai governi, a prescindere da chi detiene il potere, per fare
-un qualcosa che solo i movimenti di massa possono fare.î
+un qualcosa che solo i movimenti di massa possono fare.‚Äù
 
 {{< figure library="true" src="media (3).jpeg" title="" lightbox="true" >}}
 
-Spesso ci si domanda: ìMa io cosa ne parlo a fare sui miei social se non ne so niente a
-riguardo e ho pochi follower?î
+Spesso ci si domanda: ‚ÄúMa io cosa ne parlo a fare sui miei social se non ne so niente a
+riguardo e ho pochi follower?‚Äù
 
-Fortunatamente, questo ìproblemaî Ë facilmente risolvibile dal momento che, proprio
-perchÈ sguazziamo agilmente tra i social media e le pagine internet, non viene difficile
+Fortunatamente, questo ‚Äúproblema‚Äù √® facilmente risolvibile dal momento che, proprio
+perch√© sguazziamo agilmente tra i social media e le pagine internet, non viene difficile
 pensare di poterci informare e contemporaneamente informare conoscenti, amici e
-seguaci. Le Rivoluzioni (quelle con la R maiuscola) non sono nate per caso, ma perchÈ
+seguaci. Le Rivoluzioni (quelle con la R maiuscola) non sono nate per caso, ma perch√©
 qualcuno ha deciso che si stava varcando un limite e che la situazione era diventata
-insopportabile. Quel qualcuno si Ë poi rimboccato le maniche e ha agito. Come abbiamo
-visto per la Primavera araba, tutto Ë partito da un video virale, qualcosa che ha suscitato
-líattenzione del mondo intero, che ha risvegliato in molti la voglia e la richiesta di un
+insopportabile. Quel qualcuno si √® poi rimboccato le maniche e ha agito. Come abbiamo
+visto per la Primavera araba, tutto √® partito da un video virale, qualcosa che ha suscitato
+l‚Äôattenzione del mondo intero, che ha risvegliato in molti la voglia e la richiesta di un
 cambiamento.
 
-Attualmente, il video che ha dato il via allíinsorgere popolare Ë quello della morte di
-George Floyd ≥. **Scegliere di non parlare, diffondere, condividere equivale alla scelta di
-chi decide consapevolmente di stare in silenzio**. Come diceva Sartre: ìCiÚ che non Ë
-assolutamente possibile Ë non scegliere.î Serve una presa di coscienza e di posizione per
-sfruttare nel modo pi˘ umano, solidale e giusto possibile, gli strumenti che abbiamo a
+Attualmente, il video che ha dato il via all‚Äôinsorgere popolare √® quello della morte di
+George Floyd ¬≥. **Scegliere di non parlare, diffondere, condividere equivale alla scelta di
+chi decide consapevolmente di stare in silenzio**. Come diceva Sartre: ‚ÄúCi√≤ che non √®
+assolutamente possibile √® non scegliere.‚Äù Serve una presa di coscienza e di posizione per
+sfruttare nel modo pi√π umano, solidale e giusto possibile, gli strumenti che abbiamo a
 disposizione. Quante persone devono ancora soffrire e morire a causa di una nostra
 scelta?
 
 **Note e riferimenti bibliografici:**
 
-1. Al Jazeera Ë una rete televisiva satellitare con sede in Qatar, talvolta menzionata
+1. Al Jazeera √® una rete televisiva satellitare con sede in Qatar, talvolta menzionata
 come Al Jazira.
 
-2. Il Premio Sakharov per la libert‡ di pensiero Ë un riconoscimento dedicato allo
+2. Il Premio Sakharov per la libert√† di pensiero √® un riconoscimento dedicato allo
 scienziato e dissidente sovietico Andrej Dmitrievi? Sacharov, istituito dal
-Parlamento europeo nel 1988 allo scopo di premiare personalit‡ od organizzazioni
-che abbiano dedicato la loro vita alla difesa dei diritti umani e delle libert‡
+Parlamento europeo nel 1988 allo scopo di premiare personalit√† od organizzazioni
+che abbiano dedicato la loro vita alla difesa dei diritti umani e delle libert√†
 individuali. Viene consegnato ogni anno in una data prossima al 10 dicembre, in
 ricordo del giorno della firma della Dichiarazione universale dei diritti umani;
 https://it.m.wikipedia.org/wiki/Premio_Sakharov_per_la_libert%C3%A0_di_pensiero
 
-3. Per leggere qualcosa in pi˘ sulla morte di George Floyd:
+3. Per leggere qualcosa in pi√π sulla morte di George Floyd:
 https://diderotnews.com/publication/blackouttuesday/
 
 4. Manuel Castells; *Reti di indignazione e speranza. Movimenti sociali nell&#39;era di
-internet*; Universit‡ Bocconi Editore; 2012
+internet*; Universit√† Bocconi Editore; 2012
 
 
 ---
