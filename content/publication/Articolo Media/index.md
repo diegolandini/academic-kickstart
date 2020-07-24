@@ -1,5 +1,5 @@
 ---
-title: "L importanza dei social media nelle rivolte sociali"
+title: "Social media e rivoluzioni sociali"
 authors:
 - Diderot
 - Giulia Rugolo
