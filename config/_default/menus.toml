@@ -17,10 +17,10 @@
   url = "#salottodididerot"
   weight = 30
 
-  [[main]]
-  name = "Galleria Foto"
-  url = "#gallery"
-  weight = 45
+  ##[[main]]
+  ##name = "Galleria Foto"
+  ##url = "#gallery"
+  ##weight = 45
 
 [[main]]
   name = "Contattaci"
