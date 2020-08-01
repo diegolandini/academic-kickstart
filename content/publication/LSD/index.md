@@ -113,8 +113,10 @@ Claudio Mencacci, direttore del Dipartimento di Neuroscienze e Salute Mentale de
 Dunque ampliare la ricerca sull’impiego terapeutico delle sostanze psichedeliche non significa promuoverne l’uso spropositato e ricreativo, ma mettere a tacere gli stereotipi che da tempo caratterizzano le sostanze allucinogene e vedere le cose da un punto di vista più scientifico, più creativo, più professionale, non dimenticando mai che una certa quantità di rischio esiste ma che la continua proposta di alternative e la critica incessante sono i due pilastri su cui si regge l’intera ricerca scientifica.
 
 
-Fonti:
+**Fonti:**
 
--Hofmann, “LSD il mio bimbino difficile”
--https://www.stateofmind.it/2017/02/lsd-effetti-impiego-allucinogeni/
--https://www.ilfattoquotidiano.it/2017/05/03/dagli-usa-arriva-la-conferma-le-sostanze-psichedeliche-sono-curative/3559875/
+1. Hofmann, “LSD il mio bimbino difficile”
+
+2. https://www.stateofmind.it/2017/02/lsd-effetti-impiego-allucinogeni/
+
+3. https://www.ilfattoquotidiano.it/2017/05/03/dagli-usa-arriva-la-conferma-le-sostanze-psichedeliche-sono-curative/3559875/
