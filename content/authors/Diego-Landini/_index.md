@@ -60,5 +60,5 @@ user_groups:
 - Soci Fondatori
 
 ---
-Studia Ingegneria Informatica a Roma Tre ed e l'ideatore di Diderot. Il suo gusto per la perfezione e la sua leadership lo rendono l'elemento chiave della catena di montaggio; niente va in porto senza il suo permesso. Non si sa bene cosa combini nel tempo libero, ma a fine giornata se ne esce sempre con qualcosa di geniale.
+Studia Ingegneria Informatica a Roma Tre ed è l'ideatore di Diderot. Il suo gusto per la perfezione e la sua leadership lo rendono l'elemento chiave della catena di montaggio; niente va in porto senza il suo permesso. Non si sa bene cosa combini nel tempo libero, ma a fine giornata se ne esce sempre con qualcosa di geniale.
 ---
