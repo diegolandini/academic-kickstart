@@ -21,9 +21,9 @@ subtitle = "Lo spazio creativo inaugurato per raccogliere poesie, racconti, rifl
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[content.filter_button]]
-    name = "Tutto"
-    tag = "*"
+  # [[content.filter_button]]
+  #  name = "Tutto"
+  #  tag = "*"
 
   [[content.filter_button]]
     name = "Racconti"

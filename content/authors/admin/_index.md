@@ -7,7 +7,7 @@ authors:
 - admin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Dubitare per credere, dubitare prima di credere!
@@ -16,7 +16,7 @@ role: Dubitare per credere, dubitare prima di credere!
 bio: Dubitare per credere, dubitare prima di credere!
 # interests:
 # - Artificial Intelligence
-# - Computational Linguistics 
+# - Computational Linguistics
 # - Information Retrieval
 
 # education:
@@ -58,13 +58,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- 
 - Visitors
+
 ---
 
 Ecco a voi Diderot!
 
-Dalla volontà  di impegnarsi in qualcosa di utile che prende vita **Diderot**, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalità  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare un'alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti. 
+Dalla volontà  di impegnarsi in qualcosa di utile che prende vita **Diderot**, sito divulgativo libero e indipendente, che nasce dal desiderio di proporre una modalità  di informazione differente, basata su ricerca, esperienza e passione di giovani che scrivono per altri giovani, per rappresentare un'alternativa ad un ambiente saturo di notizie selezionate e ragionamenti vuoti.
 
 **Cosa facciamo?**
 
@@ -78,4 +79,3 @@ Attraverso l'accostamento di diverse fonti trattiamo tematiche ed argomenti comp
 Ciascun articolo viene pubblicato sul nostro sito e sui social e tramite la pubblicazione dei post interagiamo con i lettori, raccogliendo richieste, opinioni e domande.
 Vogliamo dare voce a ogni **pensiero**, ogni dubbio che noi giovani nutriamo, per discuterne **liberamente**.
 La partecipazione di tutti coloro che leggono i nostri articoli è utile a noi per migliorare il lavoro che svolgiamo ogni giorno e a voi in modo da sviluppare un pensiero critico incondizionato, che sarà  libero di esprimersi in qualsiasi momento e che potrà  addirittura arricchire l'esperienza di Diderot.
-
