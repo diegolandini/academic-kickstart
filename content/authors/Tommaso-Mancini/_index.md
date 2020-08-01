@@ -59,5 +59,5 @@ user_groups:
 - Soci Fondatori
 
 ---
-Tommaso studia Fisica presso La Sapienza. E uno dei piu fantasiosi del gruppo, autore di gran parte degli articoli di scienze del sito. Non e molto attivo sui social, ma contribuisce silenziosamente alla causa.
+Tommaso studia Fisica presso La Sapienza. È uno dei piu fantasiosi del gruppo, autore di gran parte degli articoli di scienze del sito. Non è molto attivo sui social, ma contribuisce silenziosamente alla causa.
 ---
