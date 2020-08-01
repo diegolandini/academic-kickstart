@@ -13,7 +13,7 @@ superuser: true
 role: Consigliere generale
 
 # Short bio (displayed in user profile at end of posts)
-bio: Promettente studente di Medicina presso La Sapienza, Alessandro conosce praticamente tutto di qualsiasi cosa e puo aiutarti a risolvere qualsiasi tipo di problema. Programma, fa sub, costruisce e la sua scrivania sembra la postazione di un hacker.
+bio: Promettente studente di Medicina presso La Sapienza, Alessandro conosce praticamente tutto di qualsiasi cosa e può aiutarti a risolvere qualsiasi tipo di problema. Programma, fa sub, costruisce e la sua scrivania sembra la postazione di un hacker.
 Interessi:
 -  Qualsiasi cosa
 -
