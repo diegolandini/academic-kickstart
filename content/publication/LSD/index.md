@@ -52,6 +52,8 @@ Il consumo di questa sostanza fuori dalla pratica terapeutica, senza assistenza 
 Oggi si parla infatti di *psicoterapia psichedelica* per indicare le numerose pratiche terapeutiche che includono la somministrazione di micro dosi di sostanze psicoattive per curare molti disturbi quali la depressione, il disturbo post-traumatico da stress e diverse fobie.
 Una scelta di questo tipo ha sollevato un grande dibattito in campo scientifico poiché da anni si sostiene l’ipotesi secondo la quale l’assunzione di LSD o qualsiasi altro allucinogeno possa portare alla manifestazione di disturbi latenti. Nonostante ciò è giusto esaminare entrambe le posizioni, le possibili cure e i diversi effetti collaterali, non dimenticando mai di investigare le diverse cause sociologiche che possono darci un punto di vista più ampio su quello che è l’immenso scenario delle sostanze psicoattive.
 
+{{< figure library="true" src="lsd (6).jpeg" title="" lightbox="true" >}}
+
 **Timothy Leary e la controcultura americana degli anni ‘60.**
 
 Divenuto celebre come l’apostolo delle droghe, Timothy Leary ebbe una grande influenza sulla diffusione illegale dell’LSD negli Stati Uniti.
@@ -71,6 +73,8 @@ Il clamore sollevato dall’LSD raggiunse l’apice intorno agli anni 1964-66, n
 Non è un caso che l’LSD, nel suo ruolo di stupefacente, si diffuse per la prima volta negli Stati Uniti, il paese dove l’industrializzazione e la meccanizzazione di tutti i settori produttivi erano più avanzate che in altre nazioni.
 Dunque le cause sociologiche alla base della diffusione e del consumo di tale sostanza sono molteplici: **materialismo, alienazione, noia e sensazioni di vacuità** in una società ricca e opulenta, carenza di un significativo fondamento filosofico e religioso della vita. Sono questi gli stessi fattori che hanno anche determinato la nascita e la crescita del movimento hippy, evento che non può essere separato dal fenomeno dell’LSD.
 
+{{< figure library="true" src="lsd (1).jpeg" title="" lightbox="true" >}}
+
 **Allucinogeni e riti religiosi**.
 
 I poteri curativi e magico-divinatori dei funghi allucinogeni sono stati scoperti moltissimi anni fa: le testimonianze dei primi conquistatori in America e il ritrovamento di numerosi reperti come le pietre-fungo, dimostrano l’esistenza di un **culto antichissimo** del fungo allucinogeno soprattutto in Guatemala e in Messico.
@@ -79,6 +83,8 @@ Gli aztechi in particolare ritenevano sacro il cactus peyote, la pianta da cui s
  Il curandero, ossia il sacerdote guaritore, è colui che mangia i funghi durante la cerimonia, che si svolge sempre di notte. Talvolta anche gli altri partecipanti al rito possono riceverli, ma in una quantità minore rispetto al sacerdote. Così sotto l’effetto dei funghi sacri, immerso in uno stato visionario condiviso più o meno dai partecipanti, il curandero offre i propri consigli.
 Le cerimonie con i funghi però non assolvono solo questa funzione di consultazione, possiamo dire che per i nativi esse rivestono anche un significato per molti aspetti simile a quello della Comunione per un cristiano credente. I funghi rappresentano dunque un punto di contatto con la divinità, un modo per gettare lo sguardo dentro il paradiso e comunicare direttamente con Dio.
 
+{{< figure library="true" src="lsd (2).jpeg" title="" lightbox="true" >}}
+
 **Horror trip e possibili reazioni psicotiche.**
 
 La pericolosità dell’LSD e di tutti gli altri allucinogeni riveste un significato del tutto particolare. Se i rischi psichici e fisici dei narcotici che creano dipendendeza come gli oppiacei, si palesano solo dopo un uso continuo, la minaccia potenziale dell’LSD è presente in ogni singolo esperimento poiché possono insorgere gravi stati confusionali. Infatti le crisi da LSD sono paragonabili a insorgenze psicotiche di natura maniacale o depressiva.
@@ -86,7 +92,7 @@ Nella condizione maniaco-iperattiva, il senso di onnipotenza o invulnerabilità 
 i fattori che influiscono maggiormente e “positivamente” sulla psiche umana al momento dell’assunzione sono denominati *set* e consistono nelle le persone presenti, nei loro lineamenti, nella loro immagine. L’ambiente acustico è determinante in egual misura: rumori innocui possono trasformarsi in una straziante tortura e, al contrario, un’esperienza entusiasmante può nascere dall’ascolto di una bella musica.
 Significativo quanto l’ambiente esterno, se non addirittura più importante, è lo stato psichico della persona che assume la sostanza, la disposizione mentale nei confronti dell’esperienza e le aspettative rivolte a questa. Un sentimento di gioia può sfociare in beatitudine, la depressione può precipitare nella disperazione.
 
-
+{{< figure library="true" src="lsd (5).jpeg" title="" lightbox="true" >}}
 
 **Un nuovo scenario: la psicoterapia psichedelica**
 
@@ -97,6 +103,8 @@ dimenticate, almeno fino a qualche anno fa, quando diversi ricercatori hanno dat
 
 Ci si chiede in che modo l’LSD riesca ad avere un effetto antidepressivo, la risposta è semplice: è stato scoperto che è un agonista serotoninergico, cioè stimola i recettori della serotonina, che è il principale neurotrasmettitore responsabile del controllo dell’umore.
 Una ricerca pubblicata nel 2011 da Michael e Ann Mithoefer sul Journal of Psychopharmacology ha dimostrato che un uso occasionale di MDMA in unione con una psicoterapia mirata può migliorare le condizioni dei pazienti che soffrono di disturbo post-traumatico da stress.
+
+{{< figure library="true" src="lsd (3).jpeg" title="" lightbox="true" >}}
 
 Come possiamo capire dalle numerose testimonianze, questo settore di ricerca è molto promettente ma bisogna sempre tenere a mente che l’uso di sostanze psichedeliche a scopo terapeutico può essere portato avanti solo sotto la supervisione di professionisti. Infatti negli esperimenti condotti sinora dall’università di New York e dalla Johns Hopkins, in quasi 500 somministrazioni, non si è mai verificato nessun effetto collaterale. Ciò può essere spiegato dal fatto che i volontari sono stati attentamente selezionati, preparati e guidati da terapeuti.
 Per introdurre abitualmente gli allucinogeni come ausilio alla psicoterapia e nella cura delle dipendenze è ancora presto ma si spera che il tabù che circonda gli allucinogeni non influenzi il progredire di una ricerca seria e articolata.
