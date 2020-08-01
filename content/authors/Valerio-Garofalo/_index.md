@@ -60,5 +60,5 @@ user_groups:
 - Soci Fondatori
 
 ---
-Valerio e studente di Psicologia presso l'Universita Pontificia Salesiana e regge abbastanza bene il ritmo di studi. Sembra un poco di buono, ma in realta e un valido collega di lavoro e si dimostra capace di saper sopportare la tensione in situazioni di difficolta. Tra i suoi mille pregi e anche un ottimo gestore delle Instagram stories della pagina.
+Valerio è studente di Psicologia presso l'Universita Pontificia Salesiana e regge abbastanza bene il ritmo di studi. Sembra un poco di buono, ma in realtà è un valido collega di lavoro e si dimostra capace di saper sopportare la tensione in situazioni di difficoltà. Tra i suoi mille pregi è anche un ottimo gestore delle Instagram stories della pagina.
 ---
