@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Web Designer
 # Short bio (displayed in user profile at end of posts)
-bio: Alessandro frequenta Ingegneria Informatico a Roma Tre ed assieme a Diego è il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo è un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale non ti darà buca.
+bio: Alessandro frequenta Ingegneria Informatica a Roma Tre ed assieme a Diego è il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo è un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale non ti darà buca.
 Interessi:
 - Gadget tecnologici
 - La grande Inter
@@ -60,5 +60,5 @@ user_groups:
 - Soci Fondatori
 ---
 
-Alessandro frequenta Ingegneria Informatico a Roma Tre ed assieme a Diego è il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo è un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale non ti darà buca.
+Alessandro frequenta Ingegneria Informatica a Roma Tre ed assieme a Diego è il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo è un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale non ti darà buca.
 ---
