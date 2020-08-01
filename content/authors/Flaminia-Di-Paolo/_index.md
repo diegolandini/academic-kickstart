@@ -13,7 +13,7 @@ superuser: false
 role: Segretaria generale
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brillante studentessa di Comunicazione Pubblica e di Impresa presso La Sapienza di Roma, "Flami" e il fiore all'occhiello della redazione. Le sue qualita sono pressoche illimitate e tra queste rientra quella di problem-solver. Gentile e creativa, e la disegnatrice di fiducia di Diderot.
+bio: Brillante studentessa di Comunicazione Pubblica e di Impresa presso La Sapienza di Roma, "Flami" è il fiore all'occhiello della redazione. Le sue qualità sono pressoche illimitate e tra queste rientra quella di problem-solver. Gentile e creativa, è la disegnatrice di fiducia di Diderot.
 Interessi:
 - Leggere
 - Disegnare
