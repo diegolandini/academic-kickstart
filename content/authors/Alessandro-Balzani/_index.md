@@ -61,5 +61,5 @@ user_groups:
 - Soci Fondatori
 ---
 
-Promettente studente di Medicina presso La Sapienza, Alessandro conosce praticamente tutto di qualsiasi cosa e puo aiutarti a risolvere qualsiasi tipo di problema. Programma, fa sub, costruisce e la sua scrivania sembra la postazione di un hacker.
+Promettente studente di Medicina presso La Sapienza, Alessandro conosce praticamente tutto di qualsiasi cosa e può aiutarti a risolvere qualsiasi tipo di problema. Programma, fa sub, costruisce e la sua scrivania sembra la postazione di un hacker.
 ---
