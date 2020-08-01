@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Segretaria
+role: Segretaria generale
 
 # Short bio (displayed in user profile at end of posts)
 bio: Brillante studentessa di Comunicazione Pubblica e di Impresa presso La Sapienza di Roma, "Flami" e il fiore all'occhiello della redazione. Le sue qualita sono pressoche illimitate e tra queste rientra quella di problem-solver. Gentile e creativa, e la disegnatrice di fiducia di Diderot.

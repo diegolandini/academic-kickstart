@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Responsabile video
 
 # Short bio (displayed in user profile at end of posts)
 bio: Studentessa del DAMS di Roma Tre, Francesca "Fru" e entrata nella redazione come resposabile del gruppo interviste video. Esperta di cinema e qualsiasi film sia stato girato, i membri della redazione sfruttano palesemente le sue dot di regista per realizzare interviste a ripetizione.

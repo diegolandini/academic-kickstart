@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Web Designer
 # Short bio (displayed in user profile at end of posts)
 bio: Alessandro frequenta Ingegneria Informatico a Roma Tre e assieme a Diego e il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo e un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale no ti dara buca.
 Interessi:
