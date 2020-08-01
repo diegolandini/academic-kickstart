@@ -52,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lorenzo.feltoni@gmail.com"
+email: "alessandro.cioffi@hotmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -60,4 +60,4 @@ user_groups:
 - Soci Fondatori
 ---
 
-Alessandro frequenta Ingegneria Informatico a Roma Tre e assieme a Diego e il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo e un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale no ti dara buca.
+Alessandro frequenta Ingegneria Informatico a Roma Tre ed assieme a Diego è il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo è un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale non ti darà buca.
