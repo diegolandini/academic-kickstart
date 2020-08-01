@@ -12,7 +12,7 @@ superuser: false
 # Role/position
 role: Consigliere generale
 # Short bio (displayed in user profile at end of posts)
-bio: Tommaso studia Fisica presso La Sapienza. E uno dei piu fantasiosi del gruppo, autore di gran parte degli articoli di scienze del sito. Non e molto attivo sui social, ma contribuisce silenziosamente alla causa.
+bio: Tommaso studia Fisica presso La Sapienza. È uno dei piu fantasiosi del gruppo, autore di gran parte degli articoli di scienze del sito. Non è molto attivo sui social, ma contribuisce silenziosamente alla causa.
 Interessi:
 - Scienza
 - Si occupa di botanica assieme a Diego e Valerio
