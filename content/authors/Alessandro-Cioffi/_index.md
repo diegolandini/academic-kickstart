@@ -61,3 +61,4 @@ user_groups:
 ---
 
 Alessandro frequenta Ingegneria Informatico a Roma Tre ed assieme a Diego è il membro che ha realizzato il sito per il progetto. Non parla molto sul guppo di whatsapp, ma dal vivo è un gran simpaticone e si fa carico di qualsiasi problema riguardante la pubblicazione. Se vuoi pubblicare un articolo di notte, stai certo che Ale non ti darà buca.
+---
