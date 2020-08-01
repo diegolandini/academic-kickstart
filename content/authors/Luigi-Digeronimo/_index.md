@@ -61,4 +61,4 @@ user_groups:
 - Soci Fondatori
 
 ---
-Luigi "Gigio" studia Giurisprudenza a Roma, presso La Sapienza ed e il nostro contabile. La sua consulenza legale e fondamentale per la sopravvivenza di Diderot ed e un gestore affidabile delle casse della redazione.
+Luigi "Gigio" studia Giurisprudenza a Roma, presso La Sapienza ed è il nostro contabile. La sua consulenza legale è fondamentale per la sopravvivenza di Diderot ed è un gestore affidabile delle casse della redazione.
