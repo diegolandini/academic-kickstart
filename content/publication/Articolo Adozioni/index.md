@@ -1,5 +1,4 @@
 ---
-
 title: "Quanto devo aspettare per avere una famiglia?"
 authors:
 - Diderot
