@@ -97,7 +97,7 @@ I tempi medi necessari per concludere un’adozione nazionale, dal momento della
 Ogni giorno gli aspiranti genitori adottivi, gli enti, le associazioni e anche i bambini stessi lottano contro l’ostacolo delle attese infinite che è dannoso per tutti, specialmente per i bambini. Infatti, mentre il farraginoso iter burocratico è in corso, i piccoli aspettano i loro genitori in un orfanotrofio, in una casa famiglia, in un ospedale quando invece al di fuori di quelle quattro mura ci sarebbero due persone pronte ad abbracciarli, ad accoglierli e a diventare i loro veri genitori. Spesso, a questi bambini viene detto che c’è una famiglia che li aspetta, vengono mostrate loro le foto dei genitori adottivi e a volte rimangono con questa attesa nel cuore per mesi o addirittura anni, aggrappati al volto dei propri genitori attraverso una foto. E lo stesso vivono i genitori che attendono l’arrivo del loro bambino e lo guardano ogni giorno in una foto incorniciata in casa. Tutti questi bambini quando avranno la possibilità di avere una famiglia senza questa attesa interminabile? È una domanda che purtroppo ancora non ha una risposta, ma di cui si dibatte giorno dopo giorno perché ogni bambino ha diritto ad avere una famiglia. E se la legge riconosce il ruolo centrale della famiglia nella crescita di ciascun bambino, perché non donargliene una in tempi più brevi?
 I miei genitori hanno presentato la domanda di adozione nel settembre del 1995, e calcolando che io sono nata a marzo del 1997, sono trascorsi più di due anni e mezzo. Direi che sono un tantino di più rispetto ai canonici 9 mesi, no? L’idoneità è stata data loro il 4 ottobre del 1996, e solamente a giugno dell’anno successivo ho potuto abbracciare i miei genitori. L’attesa dell’adozione è straziante, è un’attesa infinita, ma piena di speranza che non deve mai cessare di esistere. Ogni giorno, ogni minuto che passa, una coppia spera che arrivi quella famosa chiamata. Quando squilla il telefono e dicono che la coppia è finalmente idonea e può proseguire con la pratica, allora il cuore inizia a battere ancora più forte e soprattutto batte per due, perché genitori non si diventa solo quando si ha un figlio tra le braccia, ma si è genitori quando si sa che il bambino c’è, ovunque lui sia. Per i miei genitori, il mio arrivo è stato un grande dono, perché la loro domanda era in scadenza: mancavano solo due settimane. E poi se fosse scaduta avrebbero dovuto ricominciare tutto dall’inizio. Neppure loro ci speravano più. Ma alla fine, è arrivata la chiamata in cui li hanno avvisati che c’era una bambina per loro. E quella bambina ero io.
 
-**Fonti**:
+**Fonti:**
 
 
 1. https://it.wikipedia.org/wiki/Adozione
@@ -117,6 +117,5 @@ I miei genitori hanno presentato la domanda di adozione nel settembre del 1995, 
 8. https://www.aibi.it/ita/iter-adottivi-che-differenze-ci-sono-tra-nazionale-e-internazionale/
 
 9. http://www.commissioneadozioni.it/notizie/situazione-adozioni-india-e-cina/
-
 
 ---
