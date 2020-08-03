@@ -13,7 +13,6 @@ publishDate: "2020-08-04"
 summary: ""
 tags:
 - Adozione
-
 featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
