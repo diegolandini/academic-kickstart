@@ -113,7 +113,7 @@ I miei genitori hanno presentato la domanda di adozione nel settembre del 1995, 
 
 6. http://www.commissioneadozioni.it
 
-7.https://www.ilfattoquotidiano.it/2019/01/13/adozioni-internazionali-in-calo-dopo-scandali-e-chiusura-di-paesi-extra-ue-e-la-prima-scelta-sono-le-soluzioni-scientifiche/4759506/
+7. https://www.ilfattoquotidiano.it/2019/01/13/adozioni-internazionali-in-calo-dopo-scandali-e-chiusura-di-paesi-extra-ue-e-la-prima-scelta-sono-le-soluzioni-scientifiche/4759506/
 
 8. https://www.aibi.it/ita/iter-adottivi-che-differenze-ci-sono-tra-nazionale-e-internazionale/
 
