@@ -5,7 +5,7 @@ summary: "Ho trovato un taccuino sul quale appuntavo ogni pensiero."
 authors:
 - Francesca Motta
 tags:
-- Racconti
+- Racconto
 date: "2020-08-08"
 lastmod: "2020-08-08"
 featured: true
