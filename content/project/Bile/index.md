@@ -1,7 +1,7 @@
 ---
 title: "Bile"
 subtitle: ''
-summary: ""
+summary: "La gente mi fa vomitare."
 authors:
 - Lorenzo Feltoni 
 tags:
