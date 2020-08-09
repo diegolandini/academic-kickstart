@@ -4,6 +4,7 @@ subtitle: ''
 summary: "La gente mi fa vomitare."
 authors:
 - Lorenzo Feltoni 
+- Diego Landini
 tags:
 - Racconto
 date: "2020-08-08"
