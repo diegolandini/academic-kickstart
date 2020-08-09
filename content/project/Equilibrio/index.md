@@ -5,7 +5,7 @@ summary: "È abituata a litigare continuamente con lui, si tormentano a vicenda 
 authors:
 - Francesca Motta
 tags:
-- Racconti
+- Racconto
 date: "2020-08-08"
 lastmod: "2020-08-08"
 featured: true
