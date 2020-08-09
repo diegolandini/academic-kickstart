@@ -5,7 +5,7 @@ summary: "La gente mi fa vomitare."
 authors:
 - Lorenzo Feltoni 
 tags:
-- Racconti
+- Racconto
 date: "2020-08-08"
 lastmod: "2020-08-08"
 featured: true
