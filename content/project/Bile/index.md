@@ -9,7 +9,7 @@ tags:
 date: "2020-08-08"
 lastmod: "2020-08-08"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
