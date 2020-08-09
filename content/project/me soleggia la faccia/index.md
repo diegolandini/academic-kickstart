@@ -29,3 +29,50 @@ image:
 projects: []
 
 ---
+Non dormo mai,
+
+E quando dormo sogno...
+
+Praticamente vivo
+
+24 ore de giorno...
+
+Che si sta vita nun te stressa,
+
+Te stressi da solo...
+
+Chiuso in un pensiero,
+
+Fori dal lavoro...
+
+In litigio co un’epoca 
+
+Giocata da persone sbadate...
+
+Che se scioglie come n’ghiacciaio
+
+Che se sta a venne a rate...
+
+Ma sono vivo e fantasioso 
+
+E come consolazione basta...
+
+Esser sano
+
+E co qualche soldo in tasca...
+
+L’ho vista la sfortuna
+
+Ne è pieno questo mondo
+
+Io rispetto altri posso di d’esse giocondo
+
+Nei giorni de burrasca
+
+Metto na bella giacca
+
+E se sto sole soleggia...
+
+Me soleggia la faccia.
+
+---
