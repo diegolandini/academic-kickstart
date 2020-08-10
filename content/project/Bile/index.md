@@ -3,7 +3,7 @@ title: "Bile"
 subtitle: ''
 summary: "La gente mi fa vomitare."
 authors:
-- Lorenzo Feltoni 
+- Lorenzo Feltoni Gurini
 - Diego Landini
 tags:
 - Racconto
