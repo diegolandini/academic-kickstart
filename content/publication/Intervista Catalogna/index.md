@@ -1,5 +1,4 @@
 ---
-
 title: "Diderot in giro per il mondo: Catalogna"
 authors:
 - Diderot
