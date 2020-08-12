@@ -41,11 +41,6 @@ draft: false
 
 ---
 
-
-
-{{< figure library="true" src="" title="" lightbox="true" >}}
-
-
 *“Fiore tra le belle città del mondo, onore di Spagna, timore e spavento di dichiarati e nascosti nemici, regalo e delizia dei suoi abitanti, rifugio per gli stranieri (…) esempio di lealtà e soddisfazione di tutto ciò che una grande, famosa ricca e ben fondata città può chiedere a un discreto e curioso desiderio”
 -Miguel de Cervantes su Barcellona nel “Don Chisciotte”*
 
@@ -78,6 +73,9 @@ Il processo si è concluso il 12 giugno 2019. Il verdetto unanime dei 7 giudici 
 La sentenza ha stabilito dai 9 ai 13 anni di carcere. Alcuni dei difensori hanno espresso la loro intenzione di appellarsi alla Corte costituzionale di Spagna e alla Corte europea dei diritti umani. 
 La pubblicazione del verdetto della Corte suprema ha scatenato le proteste catalane del 2019 in tutta la regione.
 
+
+{{< figure library="true" src="catalogna.jpeg" title="" lightbox="true" >}}
+
 **4. In Italia sentiamo parlare continuamente delle proteste che hanno luogo a Barcellona per motivazioni politiche. 
 Puoi spiegarci la situazione?**
 
@@ -94,6 +92,8 @@ Quando parliamo di politica credo sia doveroso per prima cosa conoscere e sottol
 Questo fa sì che gli abitanti delle zone attorno la città votino fazioni piuttosto differenti dal resto della popolazione della Catalogna. Si tratta di gente proveniente dalle classi medio-basse, che vota sinistra, come il partito Podemos o la fazione dei socialisti.
 Questa è una notevole differenza con il resto della regione, nella quale l’indipendentismo, ossia la corrente di destra nazionalista, detiene la maggioranza nel Parlamento di Catalogna. Sebbene vi sia molta meno gente che vive nelle zone non limitrofe della città, il meccanismo di rappresentazione elettorale rende possibile un risultato simile.
 
+{{< figure library="true" src="catalogna3.jpeg" title="" lightbox="true" >}}
+
 **6. Come credi che siano i rapporti tra le persone?**
 
 Generalmente da fuori ti può sembrare che le persone tanto in Spagna quanto in Italia siano molto simili per comportamenti sociali, come se esistesse una specie di stile “mediterraneo” che collega le persone e scandisce i rapporti sociali. All’interno del paese, però, non sono assenti stereotipi: per esempio chi vive in Andalusia viene spesso considerato un festaiolo e invece a noi catalani viene rimproverato facilmente di essere taccagni. Può darsi che sia così, ma sono soltanto stereotipi diffusi in Spagna simili a quelli che si trovano nel resto del continente.
@@ -105,6 +105,8 @@ Quale è la più grande differenza che hai notato tra Barcellona e Roma?**
 
 Il difetto di viverci, dal mio punto di vista è non poter sfruttare o godersi appieno il centro per via della presenza di troppi turisti, che sono davvero tanti, non potete immaginare. Il pregio di Barcellona è quello di essere una città a misura d’uomo e quindi puoi avere facilmente tutto quello di cui hai bisogno e in più sei libero di essere ciò che desideri senza che nessuno ti giudichi. 
 È una delle grandi differenze che ho visto vivendo un po’ a Roma. A Barcellona non ti limiti, non ne hai alcuna ragione, mentre a Roma a volte mi sentivo a disagio per il semplice fatto di essere una donna o per girare con la mia amica musulmana, perché sentivo addosso le occhiate scomode che qui non avverto.
+
+{{< figure library="true" src="catalogna2.jpeg" title="" lightbox="true" >}}
 
 **8. Esistono piatti tipici? Quali?**
 
