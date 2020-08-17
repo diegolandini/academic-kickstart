@@ -1,5 +1,4 @@
 ---
-
 title: "Turismo sessuale: italiani sul podio"
 authors:
 - Diderot
@@ -13,9 +12,7 @@ publishDate: "2020-08-18"
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
-- Intervista
-- Catalogna
-- Spagna
+- Turismo sessuale
 
 featured: true
 # Featured image
