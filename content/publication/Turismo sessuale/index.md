@@ -1,5 +1,5 @@
 ---
-title: "Turismo sessuale: italiani sul podio"
+title: "Turismo sessuale italiani sul podio"
 authors:
 - Diderot
 - Francesca Motta
@@ -131,7 +131,7 @@ Chissà se alla fine dell'estate saremo ancora in cima a questa abominevole clas
 
 5. https://www.psicolab.net/il-turismo-sessuale/
 
-6.https://www.corriereadriatico.it/attualita/turismo_sessuale_rosa_600_mila_donne_anno_cercano_amore_luoghi_esotici-3202076.html
+6. https://www.corriereadriatico.it/attualita/turismo_sessuale_rosa_600_mila_donne_anno_cercano_amore_luoghi_esotici-3202076.html
 
 7. http://www.artspecialday.com/9art/2017/05/13/turismo-sessuale/
 
@@ -140,6 +140,5 @@ Chissà se alla fine dell'estate saremo ancora in cima a questa abominevole clas
 9. https://news.cinecitta.com/IT/it-it/news/55/68352/ilaria-borrelli-un-film-contro-la-piaga-del-turismo-sessuale.aspx
 
 10. https://it.wikipedia.org/wiki/Paradise:_Love
-
 
 ---
