@@ -1,5 +1,5 @@
 ---
-title: "Turismo sessuale italiani sul podio"
+title: "Turismo sessuale: italiani sul podio"
 authors:
 - Diderot
 - Francesca Motta
