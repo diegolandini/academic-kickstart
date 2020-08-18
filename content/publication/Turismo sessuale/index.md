@@ -11,7 +11,6 @@ publishDate: "2020-08-18"
 
 # Summary. An optional shortened abstract.
 summary: ""
-
 tags:
 - Turismo
 
@@ -39,7 +38,6 @@ slides: example
 draft: false
 
 ---
-
 
 Quando inizia l'estate, ciascuno di noi pensa a mete meravigliose in cui andare per staccare la spina ed eliminare lo stress accumulato durante l'anno. C'è chi pensa ad un bel posto di mare insieme agli amici, chi ad una vacanza in solitudine in montagna o chi parte con tutta la famiglia per scoprire nuove mete. 
 
