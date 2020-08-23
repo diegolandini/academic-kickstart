@@ -4,6 +4,7 @@ title: "Panoramica sulla ricerca scientifica"
 authors:
 - Diderot
 - Lorenzo Feltoni Gurini
+- Tommaso Mancini
 date: "2020-08-23"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +23,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: true
+  preview_only: false
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -123,6 +124,7 @@ Quando le cose non vanno come si vuole e non si riesce in nessun modo a farle fu
 **How would you describe the early beginning of the career of a young researcher in the environment of the US universities?**
 
 La situazione è davvero molto simile nelle università statunitensi. Molti eccellenti matematici che hanno in precedenza scelto la specializzazione in questo ambito in seguito affrontano diversi campi perché temono che una carriera da ricercatori non sia fattibile. A dire il vero, l’era dei *big data* ha portato opportunità senza precedenti per le persone portate in matematica e che hanno studiato matematica, che includono occasioni di ricerca anche nel privato. 
+
 **In your working environment, for an aspiring researcher, is it possible to pursue a career independently since the start? Or is it always necessary to have the support and help of “already settled” professors in order to be introduced to the world of research?**
 
 E’ sempre molto utile poter contare sull’aiuto di un ricercatore esperto, ma nell’epoca di Google è molto più semplice per un giovane ricercatore farsi un’idea. Ad ogni modo, un mentore è quel che ci vuole per aiutare un ricercatore a capire come passare dall’essere un “consumatore” di matematica ad un creatore di idee.
