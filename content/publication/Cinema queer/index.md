@@ -1,5 +1,4 @@
 ---
-
 title: "Il cinema queer: polemiche e problematiche"
 authors:
 - Diderot
