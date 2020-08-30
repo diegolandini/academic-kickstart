@@ -1,5 +1,5 @@
 ---
-title: "Il cinema queer: polemiche e problematiche"
+title: "Storia e proteste della comunità LGBTQ nel cinema"
 authors:
 - Diderot
 - Francesca Di Pasquo  
