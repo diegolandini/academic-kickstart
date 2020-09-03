@@ -9,7 +9,7 @@ doi: ""
 publishDate: "2020-09-03"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Quella del Venezuela è la storia di un popolo che vorrebbe vivere pacificamente ma che è costantemente oppresso da una politica economica totalizzante."
 tags:
 - Venezuela
 
@@ -19,7 +19,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: true
+  preview_only: false
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
