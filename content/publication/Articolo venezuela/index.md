@@ -68,12 +68,12 @@ Dal 2015 più di 4 milioni di persone hanno abbandonato il Venezuela per raggiun
 
 Come riportato dal settimanale italiano “Internazionale”: *“Il 5 luglio l’alto commissario per i diritti umani dell’Onu ha pubblicato un rapporto secondo cui le forze di sicurezza fedeli al governo, come le forze d’azione speciale (Faes), hanno assassinato almeno 6.800 persone dal gennaio 2018 al maggio 2019. Ha documentato casi di tortura, che includono l’uso di scosse elettriche e waterboarding (annegamento simulato).”*
 
+{{< figure library="true" src="venezuela1.jpg" title="" lightbox="true" >}}
+
 L’attuale presidente venezuelano Maduro, dirige un governo narcos, **utilizzando la mafia locale al fine di contenere la graduale degenerazione del Paese**, ma anche di mantenere i rapporti con le potenze alleate, ossia Russia e Cina. 
 Le città venezuelane risultano essere pervase da gruppi armati costituiti insieme da forze armate e da semplici civili assoldati dal presidente: delle vere e proprie gang legali armate di manganelli, armi da fuoco e moto, pronte a razziare e a fare fuoco su chi non rispetta le leggi ed il coprifuoco, che va dalle 18:00 alle 6:00 del mattino.
 Un altro sviluppo contemporaneo riguarda la modificazione delle mete relative alle esportazioni venezuelane di petrolio dagli Stati Uniti all’Asia: quantità di petrolio e somme di denaro che certamente non coinvolgono il popolo venezuelano. 
 Dal punto di vista economico il Venezuela sta vivendo un crollo totale che è, probabilmente, destinato a concludersi. Considerando che uno stipendio minimo in Venezuela si aggira intorno ad un milione di bolivar, è difficile per un lavoratore comune comprare anche solo una scatoletta di tonno da 140 grammi (il cui costo si aggira intorno ad 1,1 milioni di bolivar), figuriamoci un kg di carne (9,5 milioni di bolivar).
-
-{{< figure library="true" src="venezuela1.jpg" title="" lightbox="true" >}}
 
 **I venezuelani spesso possono quindi permettersi un solo pasto al giorno, con maggiori difficoltà per chi possiede una famiglia numerosa, per chi non lavora e per chi percepisce uno stipendio inferiore alla media**. Quindi, a causa della più alta inflazione del pianeta,, il popolo venezuelano si ritrova a vivere con la costante paura di vedere i propri averi svalutarsi quasi del tutto.
 
