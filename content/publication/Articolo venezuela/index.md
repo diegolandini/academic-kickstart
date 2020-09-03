@@ -1,5 +1,4 @@
 ---
-
 title: "Venezuela: un Paese dal futuro incerto"
 authors:
 - Diderot
@@ -115,6 +114,6 @@ Le domande che si pongono i venezuelani e che si pongono un po’ tutti nel mond
 
 4. www.internazionale.it
 
-5.www.blog.ilgiornale.it
+5. www.blog.ilgiornale.it
 
 ---
