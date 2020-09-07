@@ -1,4 +1,5 @@
 ---
+
 title: "Perche' non possiamo smaltire i rifiuti nello spazio?"
 authors:
 - Diderot
@@ -41,8 +42,8 @@ draft: false
 
 
 
-Il problema dello smaltimento e gestione dei rifiuti Ë un tema largamente affrontato e dibattuto nellíambito dellíecologia, della biologia e dellíingegneria ambientale.
-In generale i rifiuti possono essere trattati con diverse modalit‡:
+Il problema dello smaltimento e gestione dei rifiuti √® un tema largamente affrontato e dibattuto nell‚Äôambito dell‚Äôecologia, della biologia e dell‚Äôingegneria ambientale.
+In generale i rifiuti possono essere trattati con diverse modalit√†:
 
 - Differenziazione
 
@@ -50,9 +51,9 @@ In generale i rifiuti possono essere trattati con diverse modalit‡:
 
 - Smaltimento
 
-La prima opzione viene preliminarmente attuata **in ambito domestico** attraverso la raccolta differenziata, in seguito alla quale si selezionano e si separano i rifiuti che possono essere destinati successivamente al loro riutilizzo (riciclaggio), quelli che possono essere usati per produrre energia ed infine quelli che non rientrano nelle categorie precedenti, destinati allo smaltimento, attraverso diverse modalit‡ ed in dipendenza della loro natura.
+La prima opzione viene preliminarmente attuata **in ambito domestico** attraverso la raccolta differenziata, in seguito alla quale si selezionano e si separano i rifiuti che possono essere destinati successivamente al loro riutilizzo (riciclaggio), quelli che possono essere usati per produrre energia ed infine quelli che non rientrano nelle categorie precedenti, destinati allo smaltimento, attraverso diverse modalit√† ed in dipendenza della loro natura.
 
-Una **parte dei rifiuti solidi urbani (RSU) Ë dunque necessaria**, poichÈ puÚ essere trattata attraverso processi a freddo (*Trattamento Meccanico-Biologico*) e termici (*Termovalorizzazione, Pirolisi e Gassificazione*), **con i quali si puÚ produrre, ad esempio, energia elettrica oppure fornire servizi di teleriscaldamento, cioË produzione e distribuzione di acqua calda** attraverso una rete idrica sotterranea.
+Una **parte dei rifiuti solidi urbani (RSU) √® dunque necessaria**, poich√© pu√≤ essere trattata attraverso processi a freddo (*Trattamento Meccanico-Biologico*) e termici (*Termovalorizzazione, Pirolisi e Gassificazione*), **con i quali si pu√≤ produrre, ad esempio, energia elettrica oppure fornire servizi di teleriscaldamento, cio√® produzione e distribuzione di acqua calda** attraverso una rete idrica sotterranea.
 
 **Il problema principale della gestione dei rifiuti interessa la categoria della porzione da smaltire, che, in Italia, rappresenta circa il 57% degli RSU**. 
 
@@ -60,33 +61,33 @@ Una **parte dei rifiuti solidi urbani (RSU) Ë dunque necessaria**, poichÈ puÚ es
 
 *Nel 2004, in Italia, si sono prodotte circa 32 milioni di tonnellate di RSU, di cui circa 18 milioni di tonnellate* destinate dunque allo smaltimento in discarica.
 
-Gi‡ da parecchi anni si cercano soluzioni che possano ridurre líimpatto ambientale provocato dalle tecnologie esistenti e che riducano le aree dedicate allo smaltimento sul e sotto il suolo, sia in termini di estensione spaziale che in termini di numerosit‡ di tali zone.
+Gi√† da parecchi anni si cercano soluzioni che possano ridurre l‚Äôimpatto ambientale provocato dalle tecnologie esistenti e che riducano le aree dedicate allo smaltimento sul e sotto il suolo, sia in termini di estensione spaziale che in termini di numerosit√† di tali zone.
 
-Tra le tante soluzioni proposte troviamo **líidea di ìgettareî tutto ciÚ che non Ë pi˘ sfruttabile in una grande area, isolata e sigillata che possa contenere tutti i rifiuti del pianeta** senza che emanino cattivi odori, inquinino il suolo o rovinino il panorama: nello spazio. Sarebbe uníidea assolutamente valida e definitiva che potrebbe risolvere una volta per tutte il problema dello smaltimento della nettezza urbana. **PuÚ essere effettivamente la soluzione di questo problema, dato che la tecnologia in campo spaziale ha raggiunto altissimi livelli di sviluppo?**
+Tra le tante soluzioni proposte troviamo **l‚Äôidea di ‚Äúgettare‚Äù tutto ci√≤ che non √® pi√π sfruttabile in una grande area, isolata e sigillata che possa contenere tutti i rifiuti del pianeta** senza che emanino cattivi odori, inquinino il suolo o rovinino il panorama: nello spazio. Sarebbe un‚Äôidea assolutamente valida e definitiva che potrebbe risolvere una volta per tutte il problema dello smaltimento della nettezza urbana. **Pu√≤ essere effettivamente la soluzione di questo problema, dato che la tecnologia in campo spaziale ha raggiunto altissimi livelli di sviluppo?**
 
 ---------------------------------------------SPOILER ALERT---------------------------------------------------
 
-La risposta al quesito precedente Ë NO. Cerchiamo di capire perchÈ.
-La velocit‡ che deve raggiungere un corpo per ìsfuggireî allíattrazione gravitazionale terrestre Ë di circa 12,5 km/s (non chilometri orari, ma al *secondo!*), la quale puÚ essere fornita da pochi propulsori al momento esistenti, endoreattori a propellente solido, liquido oppure ibridi. La caratteristica di questi propulsori, ovvero i motori dei razzi (il cui nome tecnico Ë ìlanciatoriî), Ë quella di riuscire a generare una spinta tale da permettere di raggiungere le altissime velocit‡ necessarie e soprattutto di funzionare anche nel vuoto. PoichÈ un processo di combustione necessita di un combustibile ed un ossidante (sulla terra Ë sufficiente líossigeno presente nellíaria), perchÈ tale processo avvenga anche nel vuoto dello spazio Ë necessario che a bordo di un lanciatore, oltre il propellente, sia stivato anche líossidante. La quantit‡ di materiale propulsivo Ë dunque molto ingente e deve garantire la completa riuscita di una missione, quindi anche eventuali manovre e correzioni di assetto in orbita.
+La risposta al quesito precedente √® NO. Cerchiamo di capire perch√©.
+La velocit√† che deve raggiungere un corpo per ‚Äúsfuggire‚Äù all‚Äôattrazione gravitazionale terrestre √® di circa 12,5 km/s (non chilometri orari, ma al *secondo!*), la quale pu√≤ essere fornita da pochi propulsori al momento esistenti, endoreattori a propellente solido, liquido oppure ibridi. La caratteristica di questi propulsori, ovvero i motori dei razzi (il cui nome tecnico √® ‚Äúlanciatori‚Äù), √® quella di riuscire a generare una spinta tale da permettere di raggiungere le altissime velocit√† necessarie e soprattutto di funzionare anche nel vuoto. Poich√© un processo di combustione necessita di un combustibile ed un ossidante (sulla terra √® sufficiente l‚Äôossigeno presente nell‚Äôaria), perch√© tale processo avvenga anche nel vuoto dello spazio √® necessario che a bordo di un lanciatore, oltre il propellente, sia stivato anche l‚Äôossidante. La quantit√† di materiale propulsivo √® dunque molto ingente e deve garantire la completa riuscita di una missione, quindi anche eventuali manovre e correzioni di assetto in orbita.
 
 {{< figure library="true" src="Rspazio2.jpeg" title="" lightbox="true" >}}
 
-La massa di propellente puÚ arrivare a costituire circa lí85-90% della massa totale, che, sommata alla massa delle strutture ed a quella del sistema propulsivo (propulsore, pompe, tubature, serbatoi, ecc.) lascia un 3-5% circa di payload (carico utile) disponibile per uníimmissione in orbita bassa. CiÚ significa che, ad esempio, per un lanciatore che ha una massa di 100 tonnellate, il payload puÚ avere una massa tra le 3 e le 5 tonnellate. Il costo medio di un lancio in orbita terrestre bassa (LEO- Low Earth Orbit) si aggira intorno ai 10.000-12.000 $/kg di payload, cioË, considerando líesempio precedente, spedire tra le 3 e le 5 tonnellate di spazzatura in orbita bassa costerebbe intorno ai 30-60 milioni di dollari. Bisogna inoltre considerare che nelle orbite basse e medie si ha la maggior concentrazione di detriti spaziali (tutto ciÚ che orbita intorno alla terra creato dallíuomo e non pi˘ utile ad esso) ed il fatto che fino ad una certa quota la presenza dellíatmosfera genera una resistenza (drag atmosferico) che, seppur non cosÏ intensa, provocherebbe il rientro in tempi pi˘ o meno lunghi dei corpi orbitanti. Per evitare questi problemi bisognerebbe inserire i rifiuti in orbite pi˘ alte, facendo salire di 5-10 volte il costo menzionato poco sopra. Secondo questi dati dunque, per le circa 18 milioni di tonnellate di rifiuti, il costo totale per lo smaltimento nello spazio si sarebbe aggirato tra 900 e 2.160 miliardi di dollari. Solo per líItalia in un solo anno.
-PoichÈ a lungo andare questa soluzione potrebbe saturare lo spazio disponibile nelle fasce orbitali dedicate, si potrebbe pensare di spedire il payload alla volta del Sole, cosÏ che sia incenerito definitivamente e lo spazio disponibile in orbita non rappresenti una limitazione. CiÚ farebbe sorgere perÚ altre problematiche, come ad esempio:
+La massa di propellente pu√≤ arrivare a costituire circa l‚Äô85-90% della massa totale, che, sommata alla massa delle strutture ed a quella del sistema propulsivo (propulsore, pompe, tubature, serbatoi, ecc.) lascia un 3-5% circa di payload (carico utile) disponibile per un‚Äôimmissione in orbita bassa. Ci√≤ significa che, ad esempio, per un lanciatore che ha una massa di 100 tonnellate, il payload pu√≤ avere una massa tra le 3 e le 5 tonnellate. Il costo medio di un lancio in orbita terrestre bassa (LEO- Low Earth Orbit) si aggira intorno ai 10.000-12.000 $/kg di payload, cio√®, considerando l‚Äôesempio precedente, spedire tra le 3 e le 5 tonnellate di spazzatura in orbita bassa costerebbe intorno ai 30-60 milioni di dollari. Bisogna inoltre considerare che nelle orbite basse e medie si ha la maggior concentrazione di detriti spaziali (tutto ci√≤ che orbita intorno alla terra creato dall‚Äôuomo e non pi√π utile ad esso) ed il fatto che fino ad una certa quota la presenza dell‚Äôatmosfera genera una resistenza (drag atmosferico) che, seppur non cos√¨ intensa, provocherebbe il rientro in tempi pi√π o meno lunghi dei corpi orbitanti. Per evitare questi problemi bisognerebbe inserire i rifiuti in orbite pi√π alte, facendo salire di 5-10 volte il costo menzionato poco sopra. Secondo questi dati dunque, per le circa 18 milioni di tonnellate di rifiuti, il costo totale per lo smaltimento nello spazio si sarebbe aggirato tra 900 e 2.160 miliardi di dollari. Solo per l‚ÄôItalia in un solo anno.
+Poich√© a lungo andare questa soluzione potrebbe saturare lo spazio disponibile nelle fasce orbitali dedicate, si potrebbe pensare di spedire il payload alla volta del Sole, cos√¨ che sia incenerito definitivamente e lo spazio disponibile in orbita non rappresenti una limitazione. Ci√≤ farebbe sorgere per√≤ altre problematiche, come ad esempio:
 
-- La maggior parte del lanciatore sarebbe destinata alla distruzione, con conseguente perdita economica legata alla non riutilizzabilit‡ dello stesso.
+- La maggior parte del lanciatore sarebbe destinata alla distruzione, con conseguente perdita economica legata alla non riutilizzabilit√† dello stesso.
 
-- La combustione dei rifiuti avverrebbe non sulla superficie del Sole (fotosfera), bensÏ nella parte antecedente alla corona, la cui temperatura media Ë di circa 1 milione di gradi centigradi, sufficiente dunque alla distruzione di qualsiasi tipo di materiale. PoichÈ non possono essere condotti esperimenti con condizioni quantomeno simili a quelle reali in prossimit‡ del Sole, non si possono conoscere ancora gli effetti provocati da una soluzione di questo tipo, come ad esempio líinfluenza sulle tempeste solari.
+- La combustione dei rifiuti avverrebbe non sulla superficie del Sole (fotosfera), bens√¨ nella parte antecedente alla corona, la cui temperatura media √® di circa 1 milione di gradi centigradi, sufficiente dunque alla distruzione di qualsiasi tipo di materiale. Poich√© non possono essere condotti esperimenti con condizioni quantomeno simili a quelle reali in prossimit√† del Sole, non si possono conoscere ancora gli effetti provocati da una soluzione di questo tipo, come ad esempio l‚Äôinfluenza sulle tempeste solari.
 
-Calcolando che nel mondo si producono in media 1 milione di miliardi di tonnellate di rifiuti allíanno, e un lanciatore Saturn V (quello delle missioni Apollo) puÚ trasportare circa 50 tonnellate di payload (per iniezione in orbita lunare, quindi realisticamente tale valore sarebbe molto pi˘ basso per un viaggio verso il sole), servirebbero circa 20 mila miliardi di lanci con Saturn V allíanno. Considerando inoltre che le basi di lancio dislocate nel mondo possono essere contate sulle dita delle mani e che possono gestire circa 10 lanci allíanno, tale obiettivo risulta impossibile da raggiungere.
-Un altro problema di grande rilevanza Ë quello legato al fatto che *non si puÚ avere la sicurezza assoluta che ogni lancio vada a buon* fine. In caso di failure di un lanciatore in fase di volo atmosferico, cioË dal momento del decollo al raggiungimento della linea di Karman (confine teorico che delimita líingresso nello spazio, posizionata convenzionalmente a 100 km di quota dalla superficie terrestre), tutto il payload verrebbe disperso a terra o nel mare, con conseguenze ambientali facilmente deducibili, soprattutto in caso di rifiuti tossici o comunque non biodegradabili, oltre alla dispersione nellíambiente del propellente del lanciatore.
+Calcolando che nel mondo si producono in media 1 milione di miliardi di tonnellate di rifiuti all‚Äôanno, e un lanciatore Saturn V (quello delle missioni Apollo) pu√≤ trasportare circa 50 tonnellate di payload (per iniezione in orbita lunare, quindi realisticamente tale valore sarebbe molto pi√π basso per un viaggio verso il sole), servirebbero circa 20 mila miliardi di lanci con Saturn V all‚Äôanno. Considerando inoltre che le basi di lancio dislocate nel mondo possono essere contate sulle dita delle mani e che possono gestire circa 10 lanci all‚Äôanno, tale obiettivo risulta impossibile da raggiungere.
+Un altro problema di grande rilevanza √® quello legato al fatto che *non si pu√≤ avere la sicurezza assoluta che ogni lancio vada a buon* fine. In caso di failure di un lanciatore in fase di volo atmosferico, cio√® dal momento del decollo al raggiungimento della linea di Karman (confine teorico che delimita l‚Äôingresso nello spazio, posizionata convenzionalmente a 100 km di quota dalla superficie terrestre), tutto il payload verrebbe disperso a terra o nel mare, con conseguenze ambientali facilmente deducibili, soprattutto in caso di rifiuti tossici o comunque non biodegradabili, oltre alla dispersione nell‚Äôambiente del propellente del lanciatore.
 
 {{< figure library="true" src="Rspazio3.jpeg" title="" lightbox="true" >}}
 
 **Costo per kg di payload vs kg di payload per inserimento in orbita LEO**
 
 Considerando il fatto che il PIL italiano nel 2019 risultava di circa 1.787 miliardi di dollari, nella migliore delle ipotesi il costo dello smaltimento sarebbe stato pari a circa il 50% del PIL, nella peggiore del 120% circa. Un costo dunque non sostenibile nemmeno nelle migliori fiabe.
-Bisogner‡ dunque aspettare qualche anno per poter romanticamente dire ìti amoî alla propria met‡ sotto un cielo stellato, tra sacchi di spazzatura cadenti e vecchi elettrodomestici infuocati.
+Bisogner√† dunque aspettare qualche anno per poter romanticamente dire ‚Äúti amo‚Äù alla propria met√† sotto un cielo stellato, tra sacchi di spazzatura cadenti e vecchi elettrodomestici infuocati.
 
 **FONTI:**
 
@@ -94,6 +95,6 @@ Bisogner‡ dunque aspettare qualche anno per poter romanticamente dire ìti amoî a
 
 2. https://scienzapertutti.infn.it/chiedi-allesperto/tutte-le-risposte/2906-0471-rifiuti-sul-sole-2 
 
-3. Corso di Propulsione Aerospaziale 2018-2019, Diego Lentini, Sapienza Universit‡ di Roma
+3. Corso di Propulsione Aerospaziale 2018-2019, Diego Lentini, Sapienza Universit√† di Roma
 
 ---
