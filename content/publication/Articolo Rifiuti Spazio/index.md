@@ -1,5 +1,4 @@
 ---
-
 title: "Perche' non possiamo smaltire i rifiuti nello spazio?"
 authors:
 - Diderot
@@ -39,8 +38,6 @@ slides: example
 draft: false
 
 ---
-
-
 
 Il problema dello smaltimento e gestione dei rifiuti è un tema largamente affrontato e dibattuto nell’ambito dell’ecologia, della biologia e dell’ingegneria ambientale.
 In generale i rifiuti possono essere trattati con diverse modalità:
