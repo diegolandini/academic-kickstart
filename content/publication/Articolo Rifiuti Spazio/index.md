@@ -9,7 +9,7 @@ doi: ""
 publishDate: "2020-09-07"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Il problema dello smaltimento e gestione dei rifiuti è un tema largamente affrontato e dibattuto nell’ambito dell’ecologia, della biologia e dell’ingegneria ambientale."
 tags:
 - Spazio
 - Rifiuti
