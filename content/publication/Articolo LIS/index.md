@@ -1,5 +1,4 @@
 ---
-
 title: "La lingua dei segni: le parole silenziose"
 authors:
 - Diderot
@@ -39,7 +38,7 @@ draft: false
 ---
 
 
-Oggi parliamo della **lingua dei segni** e in particolare della LIS, Lingua dei Segni Italiana*.
+Oggi parliamo della **lingua dei segni** e in particolare della LIS, Lingua dei Segni Italiana.
 
 A questo proposito abbiamo raccolto l'esperienza di due persone che per motivi diversi si sono avvicinate alla LIS e ne sono rimaste affascinate: la **Dott.ssa Judy Esposito**, psicologa specializzata e **Francesca Quattrucci**, studente in infermieristica.
 
