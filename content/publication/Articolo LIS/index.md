@@ -2,6 +2,7 @@
 title: "La lingua dei segni: le parole silenziose"
 authors:
 - Diderot
+- Francesca Motta
 date: "2020-09-21"
 doi: ""
 # Schedule page publish date (NOT publication's date).
