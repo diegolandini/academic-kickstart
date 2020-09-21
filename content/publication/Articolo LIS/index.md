@@ -8,7 +8,7 @@ doi: ""
 publishDate: "2020-09-21"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Da sempre la comunità dei non udenti ha sviluppato sistemi di comunicazioni basati sulla gestualità, partendo da semplici segnali sino ad arrivare alla costruzione di una vera e propria lingua, come la LIS, la Lingua Italiani dei Segni. Con l’aiuto della dott.ssa Judy Esposito, oggi approfondiamo gli aspetti della lingua dei segni, attraverso storia, esperienze personali e difficoltà di inclusione"
 tags:
 - LIS
 
