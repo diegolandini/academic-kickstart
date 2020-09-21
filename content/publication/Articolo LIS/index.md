@@ -56,7 +56,7 @@ Tuttavia, le **ricerche sulla lingua dei segni vennero interrotte, specialmente 
 
 Così iniziò a fare uno studio accurato pubblicando i libri *Sign Language Structure: An Outline of the Visual Communication Systems of the American Deaf e A Dictionary of American Sign Language on Linguistic Principles* in cui affermava che la lingua dei segni era una vera e propria lingua, al pari di tutte le altre. Nei suoi studi, Stokoe fece un confronto tra la ASL (lingua dei segni americana) e la lingua parlata, e notò come la struttura sintattica dei segni fosse simile a quella di una lingua orale.
 
-**La lingua dei segni è universale? Esiste in Italia?
+**La lingua dei segni è universale? Esiste in Italia?**
 
 La lingua dei segni **non è universale**, esistono *tante lingue dei segni quante sono le comunità* sorde, **ogni paese ha la sua lingua** e i suoi dialetti.
 
@@ -77,7 +77,7 @@ Il segnante, la persona che segna, ha una mano dominante con la quale esegue tut
 
 Cinque anni fa mi è cambiata la vita. Un giorno sono stata contattata da un ragazzo, intorno ai 30 anni, che desiderava iniziare una terapia e che soffriva di una sordità profonda. Inizialmente pensavo che in qualche modo ci saremmo capiti, ma le cose sono andate diversamente poiché nonostante lui riuscisse ad emettere dei suoni, comunicava perlopiù con i segni. E così mi sono accorta della grande difficoltà di comunicazione che c'era tra noi e ho capito che tanti anni di studi mi erano serviti solamente in parte. Ho iniziato ad avvicinarmi alla LIS grazie al mio docente Vincenzo Mosca, fondatore dell'Associazione Disabili Gragnano.
 
-**Francesca, invece, cosa ha spinto una ragazza così giovane, ad avvicinarsi alla LIS?
+**Francesca, invece, cosa ha spinto una ragazza così giovane, ad avvicinarsi alla LIS?**
 
 In realtà è stata pura curiosità, poiché quattro anni fa ho visto in televisione degli interpreti LIS e mi sono appassionata a questa lingua che pensavo fosse universale. Ho iniziato con un corso di sensibilizzazione tenuto da un'insegnante sorda. Erano lezioni particolari e affascinanti, meravigliose lezioni silenziose. L'insegnante riusciva a far volare quelle due ore e mezza; inizialmente ci aiutava mimando e poi gradualmente abbiamo iniziato a segnare. Quell'atmosfera che si creava ogni volta era incredibile, riusciva a non farci mai perdere l'attenzione, nemmeno per un attimo, e così mi sono innamorata della LIS e ho proseguito con lo studio di questa lingua fino al livello avanzato. 
 
@@ -111,7 +111,5 @@ Grazie dott.ssa Esposito e grazie Francesca per averci regalato la vostra esperi
 5. https://veasyt.com/it/post/cenni-storia-lingue-segni.html
 
 6. https://www.doppioascolto.it/approfondimenti/cosa-e-la-lingua-dei-segni.html#:~:text=La%20Lingua%20dei%20Segni%20esiste,molto%20simile%20alle%20lingue%20vocali.
-
-
 
 ---
