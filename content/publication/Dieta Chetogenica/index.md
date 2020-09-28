@@ -1,5 +1,4 @@
 ---
-
 title: "Dieta Chetogenica"
 authors:
 - Diderot
@@ -38,7 +37,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: false
+draft: true
 
 ---
 
