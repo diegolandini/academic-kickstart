@@ -6,8 +6,8 @@ authors:
 - Flaminia Di Paolo
 tags:
 - Racconto
-date: "2020-08-08"
-lastmod: "2020-08-08"
+date: "2020-10-10"
+lastmod: "2020-10-10"
 featured: true
 draft: false
 
