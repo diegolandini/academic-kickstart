@@ -1,11 +1,12 @@
 ---
+
 title: "Bianco"
 subtitle: ''
 summary: ""
 authors:
 - Caterina Rugghia
 tags:
-- Poesia
+- Poesie
 date: "2020-10-10"
 lastmod: "2020-10-10"
 featured: true
@@ -31,30 +32,56 @@ projects: []
 ---
 
 Di notte, dal prato di fronte a casa sua si poteva vedere Ruggisce
+
+
 Risuona
+
 Ripete
+
 Un grigiore smagliante tra le dita.
+
 Vorrei una guerra,
+
 Ma sulla schiena
+
 Mi hai lasciato solo
+
 Una manciata di polvere e vetro
+
 E il vento di dicembre
+
 Per scaldarmi i piedi.
+
 Come una seta tagliente,
+
 Riscopro la sua voce
+
 -Sfilacciata e limpida-
+
 Mi grida addosso un vuoto assordante
+
 Un vuoto di cristallo.
+
 Scompare,
+
 In un sorriso biancolatte
+
 E in una pioggia di nei,
+
 Lenta,
+
 Come una rosa
+
 Enorme,
-Come una citt‡.
+
+Come una citt√†.
+
 Sento,
+
 O vorrei sentire
+
 Il ronzare degli aeroplani
+
 Salpare tra le pagine.
 
 Il mio cielo lo voglio di fuoco.
