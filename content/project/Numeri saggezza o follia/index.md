@@ -1,7 +1,7 @@
 ---
 title: "Numero: follia o saggezza?"
 subtitle: ''
-summary: "La gente mi fa vomitare."
+summary: " "
 authors:
 - Flaminia Di Paolo
 tags:
