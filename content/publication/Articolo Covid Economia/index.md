@@ -1,4 +1,5 @@
 ---
+
 title: "Covid e Patto di Stabilita': l'UE al tempo del virus"
 authors:
 - Diderot
@@ -41,56 +42,56 @@ draft: false
 ---
 
 
-NellíItalia del Covid termini come *spread*, *MES* e *Recovery fund* hanno monopolizzato i discorsi di politici, giornalisti e opinionisti da tastiera **riportando ancora una volta al centro del dibattito il discusso ruolo dellíUnione** Europea allíinterno dellíeconomia italiana.
+Nell‚ÄôItalia del Covid termini come *spread*, *MES* e *Recovery fund* hanno monopolizzato i discorsi di politici, giornalisti e opinionisti da tastiera **riportando ancora una volta al centro del dibattito il discusso ruolo dell‚ÄôUnione** Europea all‚Äôinterno dell‚Äôeconomia italiana.
 
-Allíombra di prestiti a fondo perduto, aumento dei tassi di interesse ed eurobond, si Ë consumato un evento storico ma passato in sordina: **la sospensione, per la prima volta dalla sua istituzione, del Patto di Stabilit‡ e Crescita**.
-Per capire líimportanza di tale evento bisogna fare un passo indietro.
+All‚Äôombra di prestiti a fondo perduto, aumento dei tassi di interesse ed eurobond, si √® consumato un evento storico ma passato in sordina: **la sospensione, per la prima volta dalla sua istituzione, del Patto di Stabilit√† e Crescita**.
+Per capire l‚Äôimportanza di tale evento bisogna fare un passo indietro.
 
-Il 7 febbraio del 1992, i dodici paesi membri della Comunit‡ Europea firmano uno dei trattati fondanti di quella che diverr‡, un anno dopo, líUnione Europea.
+Il 7 febbraio del 1992, i dodici paesi membri della Comunit√† Europea firmano uno dei trattati fondanti di quella che diverr√†, un anno dopo, l‚ÄôUnione Europea.
 
 {{< figure library="true" src="covid economis (1).jpg" title="" lightbox="true" >}}
 
-Il primo dei tre pilastri su cui líUE si fonda comprende, oltre alla **nascita di un mercato comune**, la **formazione di uníunione economica e monetaria** (UEM).
+Il primo dei tre pilastri su cui l‚ÄôUE si fonda comprende, oltre alla **nascita di un mercato comune**, la **formazione di un‚Äôunione economica e monetaria** (UEM).
 
-Come intuibile dal nome, la *UEM* mirava non solo alla creazione di uníunione monetaria europea ma anche a ben pi˘ ampi obiettivi di politica economica.
+Come intuibile dal nome, la *UEM* mirava non solo alla creazione di un‚Äôunione monetaria europea ma anche a ben pi√π ampi obiettivi di politica economica.
 
-Líadesione allíunione monetaria richiedeva il rispetto del *principio di condizionalit‡*, che si traduceva nel rispetto, da parte dei paesi membri, dei cosiddetti *criteri di convergenza*.
+L‚Äôadesione all‚Äôunione monetaria richiedeva il rispetto del *principio di condizionalit√†*, che si traduceva nel rispetto, da parte dei paesi membri, dei cosiddetti *criteri di convergenza*.
 
-Nei fatti, i criteri di convergenza sono parametri che gli stati sono chiamati a rispettare per poter continuare a far parte dellíunione. I due vincoli fondamentali riguardavano lo stock di debito e di disavanzo pubblico allíinterno dei bilanci statali.
+Nei fatti, i criteri di convergenza sono parametri che gli stati sono chiamati a rispettare per poter continuare a far parte dell‚Äôunione. I due vincoli fondamentali riguardavano lo stock di debito e di disavanzo pubblico all‚Äôinterno dei bilanci statali.
 
 Che cosa si intende esattamente con *debito* e *disavanzo*?
-Immaginiamo lo Stato come una grande attivit‡ commerciale.
-Per poter andare avanti, uníattivit‡ ha **bisogno che le entrate siano quanto meno pari, se non superiori, alle uscite**. Allo stesso modo, uno Stato per poter funzionare adeguatamente necessita *come minimo* che le entrate siano tali da coprire le uscite (situazione di **Pareggio di bilancio**). Quando le entrate nelle casse statali superano le uscite si ha un **Avanzo**, mentre quando le uscite eccedono le entrate si parla di **Disavanzo di Bilancio**, spesso nominato come ì*deficit*î.
+Immaginiamo lo Stato come una grande attivit√† commerciale.
+Per poter andare avanti, un‚Äôattivit√† ha **bisogno che le entrate siano quanto meno pari, se non superiori, alle uscite**. Allo stesso modo, uno Stato per poter funzionare adeguatamente necessita *come minimo* che le entrate siano tali da coprire le uscite (situazione di **Pareggio di bilancio**). Quando le entrate nelle casse statali superano le uscite si ha un **Avanzo**, mentre quando le uscite eccedono le entrate si parla di **Disavanzo di Bilancio**, spesso nominato come ‚Äú*deficit*‚Äù.
 
-In una situazione di deficit, lo Stato per poter continuare a svolgere la propria funzione (pagamento delle pensioni, costruzione infrastrutture, trasferimenti alla sanit‡ pubblica...) puÚ scegliere di finanziarsi in due modi: tramite **creazione di nuova moneta** o con **emissione di debito pubblico**, attraverso la vendita di titoli di stato.
-Ad oggi la prima opzione Ë da escludere poichÈ, rinunciando alla sovranit‡ monetaria, líItalia non puÚ pi˘ stampare moneta in modo autonomo.
+In una situazione di deficit, lo Stato per poter continuare a svolgere la propria funzione (pagamento delle pensioni, costruzione infrastrutture, trasferimenti alla sanit√† pubblica...) pu√≤ scegliere di finanziarsi in due modi: tramite **creazione di nuova moneta** o con **emissione di debito pubblico**, attraverso la vendita di titoli di stato.
+Ad oggi la prima opzione √® da escludere poich√©, rinunciando alla sovranit√† monetaria, l‚ÄôItalia non pu√≤ pi√π stampare moneta in modo autonomo.
 
 {{< figure library="true" src="covid economis (2).jpg" title="" lightbox="true" >}}
 
-Di conseguenza, **le spese dello Stato possono essere finanziate solo tramite vendita di titoli di stato, su cui lo Stato stesso Ë costretto a pagare interessi**.
+Di conseguenza, **le spese dello Stato possono essere finanziate solo tramite vendita di titoli di stato, su cui lo Stato stesso √® costretto a pagare interessi**.
 
-Quando si parla di *debito pubblico* dunque, ci si riferisce allí**ammontare di titoli emessi dallo Stato per poter coprire i propri disavanzi** annuali.
+Quando si parla di *debito pubblico* dunque, ci si riferisce all‚Äô**ammontare di titoli emessi dallo Stato per poter coprire i propri disavanzi** annuali.
  
-Spiegati i concetti chiave di disavanzo e di debito, possiamo chiarire le due condizioni necessarie per líammissione allíinterno dellíunione monetaria (i cosiddetti ì**parametri di Maastricht**î):
+Spiegati i concetti chiave di disavanzo e di debito, possiamo chiarire le due condizioni necessarie per l‚Äôammissione all‚Äôinterno dell‚Äôunione monetaria (i cosiddetti ‚Äú**parametri di Maastricht**‚Äù):
 
 - *disavanzo pubblico* non superiore al 3% del PIL
 
 - *debito pubblico* non superiore al 60% del PIL
 
-La necessit‡ di mantenere fissi questi due parametri sui bilanci pubblici dei paesi europei anche dopo líavvio dellíunione monetaria porta alla nascita del **Patto di Stabilit‡ e Crescita** (PSC).
+La necessit√† di mantenere fissi questi due parametri sui bilanci pubblici dei paesi europei anche dopo l‚Äôavvio dell‚Äôunione monetaria porta alla nascita del **Patto di Stabilit√† e Crescita** (PSC).
 
-A partire dal 1997 dunque, con líadesione al PSC, **i paesi membri dellíunione monetaria** vengono richiamati al **rispetto dei vincoli sopra citati sul disavanzo e sul debito pubblico**; a questi due parametri viene aggiunto come obiettivo di medio periodo il **pareggio di bilancio pubblico**, che líItalia introduce come legge Costituzionale nel 2012, sotto il governo Monti.
+A partire dal 1997 dunque, con l‚Äôadesione al PSC, **i paesi membri dell‚Äôunione monetaria** vengono richiamati al **rispetto dei vincoli sopra citati sul disavanzo e sul debito pubblico**; a questi due parametri viene aggiunto come obiettivo di medio periodo il **pareggio di bilancio pubblico**, che l‚ÄôItalia introduce come legge Costituzionale nel 2012, sotto il governo Monti.
 
-Negli ultimi anni, il controllo sulla disciplina di bilancio da parte dellíUnione Europea ha sollevato non poche polemiche, soprattutto a causa delle politiche di austerit‡ spesso imposte dallíEuropa (tagli alla spesa pubblica, stretta sulle pensioni..) al fine di indurre una riduzione del deficit dei paesi non in linea con i parametri di Maastricht.
+Negli ultimi anni, il controllo sulla disciplina di bilancio da parte dell‚ÄôUnione Europea ha sollevato non poche polemiche, soprattutto a causa delle politiche di austerit√† spesso imposte dall‚ÄôEuropa (tagli alla spesa pubblica, stretta sulle pensioni..) al fine di indurre una riduzione del deficit dei paesi non in linea con i parametri di Maastricht.
 
-La lunga discussione sulle necessarie modifiche al Patto di Stabilit‡ - come una maggior flessibilit‡ dei parametri o la revisione dei ìtempi di rientroî- ha dovuto perÚ attendere líarrivo del Covid per trovare un riscontro concreto.
+La lunga discussione sulle necessarie modifiche al Patto di Stabilit√† - come una maggior flessibilit√† dei parametri o la revisione dei ‚Äútempi di rientro‚Äù- ha dovuto per√≤ attendere l‚Äôarrivo del Covid per trovare un riscontro concreto.
 
 {{< figure library="true" src="covid economis (1).png" title="" lightbox="true" >}}
 
-Con líavvento della pandemia, infatti, líesplosione del debito pubblico e il crollo del PIL da parte di tutti i paesi ha inevitabilmente spinto la Commissione Europea a sospendere il PSC almeno fino alla fine del 2021. Sebbene la sospensione sia per ora solo provvisoria e non definitiva, sembra ormai inevitabile una consistente modifica dei parametri del Patto. 
+Con l‚Äôavvento della pandemia, infatti, l‚Äôesplosione del debito pubblico e il crollo del PIL da parte di tutti i paesi ha inevitabilmente spinto la Commissione Europea a sospendere il PSC almeno fino alla fine del 2021. Sebbene la sospensione sia per ora solo provvisoria e non definitiva, sembra ormai inevitabile una consistente modifica dei parametri del Patto. 
 
-» evidente, infatti, che le gravi conseguenze economiche causate dal Covid non possano essere fronteggiate adeguatamente con vincoli cosÏ stretti sui bilanci pubblici. 
+√à evidente, infatti, che le gravi conseguenze economiche causate dal Covid non possano essere fronteggiate adeguatamente con vincoli cos√¨ stretti sui bilanci pubblici. 
 
-Si puÚ supporre che, oltre allíintroduzione di un nuovo vincolo basato sullíandamento della spesa pubblica su quattro anni, il percorso di revisione del PSC investir‡ anche parametri chiave, quali il tetto del deficit e quello del debito: parametri che nei fatti la pandemia ha gi‡ messo inevitabilmente da parte.
+Si pu√≤ supporre che, oltre all‚Äôintroduzione di un nuovo vincolo basato sull‚Äôandamento della spesa pubblica su quattro anni, il percorso di revisione del PSC investir√† anche parametri chiave, quali il tetto del deficit e quello del debito: parametri che nei fatti la pandemia ha gi√† messo inevitabilmente da parte.
 
 ---
