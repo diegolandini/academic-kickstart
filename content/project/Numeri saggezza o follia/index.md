@@ -1,5 +1,5 @@
 ---
-title: "Numero: follia o saggezza?"
+title: "Numeri: follia o saggezza?"
 subtitle: ''
 summary: " "
 authors:
