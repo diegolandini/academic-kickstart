@@ -1,5 +1,4 @@
 ---
-
 title: "Covid e Patto di Stabilita': l'UE al tempo del virus"
 authors:
 - Diderot
