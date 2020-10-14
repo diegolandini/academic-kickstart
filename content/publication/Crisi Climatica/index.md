@@ -3,6 +3,7 @@ title: "Il WMO lancia l'allarme"
 authors:
 - Diderot
 - Valerio Garofalo
+- Flaminia Di Paolo
 date: "2020-03-27"
 doi: ""
 # Schedule page publish date (NOT publication's date).
