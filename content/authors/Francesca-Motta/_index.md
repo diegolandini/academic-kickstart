@@ -13,7 +13,7 @@ superuser: true
 role: Caporedattore
 
 # Short bio (displayed in user profile at end of posts)
-bio: Studia Farmacia, parla poco ma scrive tanto!
+bio: Francesca, o "Frap", è l'autrice più prolifica della redazione, una lavoratrice instancabile. Studia Farmacia alla Sapienza, parla poco ma scrive tanto! Sappiamo tutti che nei lunghi silenzi alle riunioni di redazione escogita piani per torturarci e farcela pagare per tutto il tempo e la pazienza che le facciamo perdere. 
 Interessi:
 - 
 # education:
@@ -59,5 +59,5 @@ user_groups:
 - Soci Fondatori
 ---
 
-Studia Farmacia, parla poco ma scrive tanto!
+Francesca, o "Frap", è l'autrice più prolifica della redazione, una lavoratrice instancabile. Studia Farmacia alla Sapienza, parla poco ma scrive tanto! Sappiamo tutti che nei lunghi silenzi alle riunioni di redazione escogita piani per torturarci e farcela pagare per tutto il tempo e la pazienza che le facciamo perdere. 
 ---
