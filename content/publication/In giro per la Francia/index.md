@@ -1,8 +1,8 @@
 ---
-
 title: "Diderot in giro per il mondo: Nizza"
 authors:
 - Diderot
+- Francesca Motta
 date: "2020-10-18"
 doi: ""
 # Schedule page publish date (NOT publication's date).
