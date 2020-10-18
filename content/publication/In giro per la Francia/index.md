@@ -1,15 +1,15 @@
 ---
+
 title: "Diderot in giro per il mondo: Nizza"
 authors:
 - Diderot
-- 
 date: "2020-10-18"
 doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-18"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Ancora una volta partiamo per il mondo per ascoltare le parole di Sara, studentessa di medicina in Francia, a Nizza, che ha deciso di lasciare Roma a 18 anni."
 tags:
 - Francia
 - Nizza
@@ -39,82 +39,80 @@ draft: false
 
 ---
 
+Alla fine delle scuole superiori √® tempo per tutti di decidere cosa si far√† in futuro. 
 
+C‚Äô√® chi sceglie di andare direttamente a lavorare, chi sceglie di fare l‚Äôuniversit√† e chi sceglie di prendersi un po‚Äô di tempo per riflettere. 
 
-Alla fine delle scuole superiori Ë tempo per tutti di decidere cosa si far‡ in futuro. 
+Per i ragazzi che scelgono l‚Äôuniversit√†, lo studio non finisce subito dopo l‚Äôesame di maturit√†, poich√© molte facolt√† prevedono un test di ammissione. 
 
-CíË chi sceglie di andare direttamente a lavorare, chi sceglie di fare líuniversit‡ e chi sceglie di prendersi un poí di tempo per riflettere. 
+Purtroppo non tutti riescono ad accedere alle facolt√† desiderate poich√© i posti sono limitati e spesso in queste tipologie di test anche il caso e la fortuna giocano un grande ruolo. Pu√≤ succedere che non si riesca a passare, ma davanti agli ostacoli non bisogna mai arrendersi; si deve accettare che qualcosa sia andato nel verso sbagliato e ripartire, trovando nuove strade o cambiando direzione.
 
-Per i ragazzi che scelgono líuniversit‡, lo studio non finisce subito dopo líesame di maturit‡, poichÈ molte facolt‡ prevedono un test di ammissione. 
+Oggi, siamo con Sara, una ragazza che ha deciso di cambiare la sua vita per rincorrere il suo sogno perch√© qui in Italia non le √® stato permesso di raggiungerlo, cos√¨ ha scelto di volare all‚Äôestero.
 
-Purtroppo non tutti riescono ad accedere alle facolt‡ desiderate poichÈ i posti sono limitati e spesso in queste tipologie di test anche il caso e la fortuna giocano un grande ruolo. PuÚ succedere che non si riesca a passare, ma davanti agli ostacoli non bisogna mai arrendersi; si deve accettare che qualcosa sia andato nel verso sbagliato e ripartire, trovando nuove strade o cambiando direzione.
-
-Oggi, siamo con Sara, una ragazza che ha deciso di cambiare la sua vita per rincorrere il suo sogno perchÈ qui in Italia non le Ë stato permesso di raggiungerlo, cosÏ ha scelto di volare allíestero.
-
-**Ciao Sara, ti va di parlarci un poí di te?**
+**Ciao Sara, ti va di parlarci un po‚Äô di te?**
 
 Sono Sara, ho quasi 25 anni, sono nata a Roma e oggi vivo a Nizza, in Francia.
 
-Mi sono trasferita all'et‡ di 18 anni, poco dopo la maturit‡. Ho frequentato il liceo con indirizzo "Classico Internazionale francese", Virgilio, a Roma, grazie al quale ho potuto acquisire il diploma di maturit‡ italiano e francese (ìBaccalaurÈatî), e quest'ultimo mi ha garantito l'accesso all'universit‡ in Francia.
+Mi sono trasferita all'et√† di 18 anni, poco dopo la maturit√†. Ho frequentato il liceo con indirizzo "Classico Internazionale francese", Virgilio, a Roma, grazie al quale ho potuto acquisire il diploma di maturit√† italiano e francese (‚ÄúBaccalaur√©at‚Äù), e quest'ultimo mi ha garantito l'accesso all'universit√† in Francia.
 
 
-**Adesso abiti a Nizza, come mai hai scelto proprio questa citt‡?**
+**Adesso abiti a Nizza, come mai hai scelto proprio questa citt√†?**
 
-Il territorio francese al livello scolastico Ë diviso in ìaccademieî come ad esempio líaccademia di Nizza o líaccademia di Marsiglia. Tutte le persone che abitano a Nizza o nei dintorni fanno parte di quella accademia. Gli italiani con il diploma francese sono considerati come parte dellíaccademia di Nizza.
+Il territorio francese al livello scolastico √® diviso in ‚Äúaccademie‚Äù come ad esempio l‚Äôaccademia di Nizza o l‚Äôaccademia di Marsiglia. Tutte le persone che abitano a Nizza o nei dintorni fanno parte di quella accademia. Gli italiani con il diploma francese sono considerati come parte dell‚Äôaccademia di Nizza.
 
-**PerchÈ hai deciso di lasciare líItalia?**
+**Perch√© hai deciso di lasciare l‚ÄôItalia?**
 
-Molte persone mi chiedono perchÈ ho lasciato l'Italia e sono venuta in Francia. Oggi, dopo sei anni, rispondo spesso "Non me lo ricordo pi˘!".
+Molte persone mi chiedono perch√© ho lasciato l'Italia e sono venuta in Francia. Oggi, dopo sei anni, rispondo spesso "Non me lo ricordo pi√π!".
 
-Forse Ë stato un po' per caso, ma il caso fa spesso le cose bene!
+Forse √® stato un po' per caso, ma il caso fa spesso le cose bene!
 
-Una serie di motivi mi hanno spinta a lasciare Roma dopo il liceo: la selezione totalmente insensata e ingiusta del test di medicina in Italia, che ho provato nell'aprile del 2014 senza successo; la carta del diploma francese da poter giocare; il desiderio di libert‡ di una qualunque ragazza di 18 anni, la voglia di camminare con le mie gambe, di costruire una vita al di fuori di casa ; la separazione dei miei genitori nel 2013, motivo di cui allora non mi rendevo conto e che ho potuto elaborare solo a posteriori, ma che ha sicuramente avuto un impatto sulla mia partenza.
+Una serie di motivi mi hanno spinta a lasciare Roma dopo il liceo: la selezione totalmente insensata e ingiusta del test di medicina in Italia, che ho provato nell'aprile del 2014 senza successo; la carta del diploma francese da poter giocare; il desiderio di libert√† di una qualunque ragazza di 18 anni, la voglia di camminare con le mie gambe, di costruire una vita al di fuori di casa ; la separazione dei miei genitori nel 2013, motivo di cui allora non mi rendevo conto e che ho potuto elaborare solo a posteriori, ma che ha sicuramente avuto un impatto sulla mia partenza.
 
 {{< figure library="true" src="nizza (3).jpg" title="" lightbox="true" >}}
 
-**La tua famiglia Ë stata contenta della scelta presa?**
+**La tua famiglia √® stata contenta della scelta presa?**
 
-Per la mia famiglia la mia partenza non Ë stata facile, specialmente per mia madre, con la quale ho un legame molto intenso, perÚ tutti mi hanno sostenuta psicologicamente ed economicamente. Anzi, mi hanno sempre spinta a spiccare il volo!
+Per la mia famiglia la mia partenza non √® stata facile, specialmente per mia madre, con la quale ho un legame molto intenso, per√≤ tutti mi hanno sostenuta psicologicamente ed economicamente. Anzi, mi hanno sempre spinta a spiccare il volo!
 
-E per questo non smetterÚ mai di ringraziarli.
+E per questo non smetter√≤ mai di ringraziarli.
 
-**Quali sono le prime difficolt‡ in cui sei inciampata? E quali sono le grandi differenze che hai notato immediatamente?**
+**Quali sono le prime difficolt√† in cui sei inciampata? E quali sono le grandi differenze che hai notato immediatamente?**
 
-Non ho trovato grandi difficolt‡ perchÈ la Francia e líItalia non sono cosÏ distanti da un punto di visita culturale. I primi mesi sono stati difficili per la separazione dalla mia famiglia e perchÈ dovevo ricominciare una nuova vita. La mia fortuna Ë stata quella di incontrare dei nuovi amici che, come dico sempre, si sono trovati nel posto giusto al momento giusto e da subito ho sentito queste persone come la mia nuova famiglia in Francia. 
+Non ho trovato grandi difficolt√† perch√© la Francia e l‚ÄôItalia non sono cos√¨ distanti da un punto di visita culturale. I primi mesi sono stati difficili per la separazione dalla mia famiglia e perch√© dovevo ricominciare una nuova vita. La mia fortuna √® stata quella di incontrare dei nuovi amici che, come dico sempre, si sono trovati nel posto giusto al momento giusto e da subito ho sentito queste persone come la mia nuova famiglia in Francia. 
 
-La prima volta che sono tornata a Roma, nel periodo natalizio, ero contenta di essere tornata a casa, ma sentivo la nostalgia e la voglia di ritornare a Nizza. Da quel momento ho capito quanto fosse forte questo sentimento di appartenenza al paese che mi aveva adottata e dentro di me sapevo che la mia casa era Nizza, non pi˘ Roma.
+La prima volta che sono tornata a Roma, nel periodo natalizio, ero contenta di essere tornata a casa, ma sentivo la nostalgia e la voglia di ritornare a Nizza. Da quel momento ho capito quanto fosse forte questo sentimento di appartenenza al paese che mi aveva adottata e dentro di me sapevo che la mia casa era Nizza, non pi√π Roma.
 
-**Bene, torniamo al test di medicina. In Francia il test di ammissione alla facolt‡ di medicina Ë diverso dal nostro. Che differenza cíË?**
+**Bene, torniamo al test di medicina. In Francia il test di ammissione alla facolt√† di medicina √® diverso dal nostro. Che differenza c‚Äô√®?**
 
-Líammissione alla facolt‡ di medicina Ë molto diversa perchÈ in Francia líaccesso al primo anno non prevede nessun test, ma la selezione avviene durante il primo anno di corso. Il concorso Ë diviso in due parti: una parte si svolge nel primo semestre, a Dicembre e líaltra parte nel secondo, a Maggio. Le domande del test sono tutte a risposta multipla e trattano gli argomenti del programma di studi del primo anno, non vi Ë nessuna domanda al di fuori di ciÚ che hanno spiegato i professori. Il programma comprende le materie scientifiche di base come matematica, biologia, chimica ma anche materie pi˘ specifiche come anatomia, fisiologia e farmacologia.
-Nonostante sembri pi˘ facile entrare rispetto allíItalia, il primo anno Ë molto difficile anche perchÈ líaccesso al secondo Ë riservato solo al 10% degli studenti. 
+L‚Äôammissione alla facolt√† di medicina √® molto diversa perch√© in Francia l‚Äôaccesso al primo anno non prevede nessun test, ma la selezione avviene durante il primo anno di corso. Il concorso √® diviso in due parti: una parte si svolge nel primo semestre, a Dicembre e l‚Äôaltra parte nel secondo, a Maggio. Le domande del test sono tutte a risposta multipla e trattano gli argomenti del programma di studi del primo anno, non vi √® nessuna domanda al di fuori di ci√≤ che hanno spiegato i professori. Il programma comprende le materie scientifiche di base come matematica, biologia, chimica ma anche materie pi√π specifiche come anatomia, fisiologia e farmacologia.
+Nonostante sembri pi√π facile entrare rispetto all‚ÄôItalia, il primo anno √® molto difficile anche perch√© l‚Äôaccesso al secondo √® riservato solo al 10% degli studenti. 
 
-**Come ti sei sentita quando sei arrivata a Nizza e ti Ë stata data la possibilit‡ di provare a fare ciÚ che sognavi?**
+**Come ti sei sentita quando sei arrivata a Nizza e ti √® stata data la possibilit√† di provare a fare ci√≤ che sognavi?**
 
-Ho provato una sensazione piacevole: quella di essere selezionata sulla base delle mie capacit‡ e su materie strettamente collegate alla medicina dopo aver ricevuto gli strumenti necessari per prepararmi al meglio.
+Ho provato una sensazione piacevole: quella di essere selezionata sulla base delle mie capacit√† e su materie strettamente collegate alla medicina dopo aver ricevuto gli strumenti necessari per prepararmi al meglio.
 
 {{< figure library="true" src="nizza (1).jpg" title="" lightbox="true" >}}
 
 **Hai passato subito il test di medicina francese?**
 
-Il primo anno non sono riuscita a passare il test, ma per fortuna in Francia cíË la possibilit‡ di ripetere líanno accademico una seconda volta. E finalmente, la volta successiva ce lího fatta! Quando ho ricevuto i risultati, ho provato tanta soddisfazione perchÈ avevo giocato tutte le mie carte, avevo studiato per due anni, mi ero messa in gioco e grazie a tutto questo sono riuscita a intraprendere il percorso di studi che sognavo.
+Il primo anno non sono riuscita a passare il test, ma per fortuna in Francia c‚Äô√® la possibilit√† di ripetere l‚Äôanno accademico una seconda volta. E finalmente, la volta successiva ce l‚Äôho fatta! Quando ho ricevuto i risultati, ho provato tanta soddisfazione perch√© avevo giocato tutte le mie carte, avevo studiato per due anni, mi ero messa in gioco e grazie a tutto questo sono riuscita a intraprendere il percorso di studi che sognavo.
 
-**ComíË studiare medicina a Nizza? So che si fa molta pi˘ pratica, giusto?**
+**Com‚Äô√® studiare medicina a Nizza? So che si fa molta pi√π pratica, giusto?**
 
-Questo Ë un discorso valido per tutte le facolt‡ in Francia: si fa molta pi˘ pratica. Per quanto riguarda medicina, il percorso di studi dura sei anni e i primi tre anni sono solo teorici: lezioni, studio individuale a casa e qualche piccolo stage per avere un primo approccio. A partire dal quarto anno, il lavoro diventa sia pratico, infatti tutte le mattine andiamo in ospedale per lo stage, sia teorico durante il pomeriggio, in cui si seguono le lezioni e si fanno esercitazioni in aula. Questo tipo di approccio lo reputo ottimo, perchÈ da un punto di vista pedagogico vedere le cose in pratica ti aiuta a fissare i concetti teorici e in pi˘ ti permette di vedere se il mestiere che hai scelto ti piace veramente ed Ë quello che vuoi fare. Il medico Ë a contatto con i pazienti, con le persone, con il personale, fa qualcosa che si impara soltanto con la pratica. Mi sembrerebbe assurdo adesso pensare ad un approccio solo teorico perchÈ dai pazienti ho imparato tanto da un punto di vista clinico, umano e relazionale.
+Questo √® un discorso valido per tutte le facolt√† in Francia: si fa molta pi√π pratica. Per quanto riguarda medicina, il percorso di studi dura sei anni e i primi tre anni sono solo teorici: lezioni, studio individuale a casa e qualche piccolo stage per avere un primo approccio. A partire dal quarto anno, il lavoro diventa sia pratico, infatti tutte le mattine andiamo in ospedale per lo stage, sia teorico durante il pomeriggio, in cui si seguono le lezioni e si fanno esercitazioni in aula. Questo tipo di approccio lo reputo ottimo, perch√© da un punto di vista pedagogico vedere le cose in pratica ti aiuta a fissare i concetti teorici e in pi√π ti permette di vedere se il mestiere che hai scelto ti piace veramente ed √® quello che vuoi fare. Il medico √® a contatto con i pazienti, con le persone, con il personale, fa qualcosa che si impara soltanto con la pratica. Mi sembrerebbe assurdo adesso pensare ad un approccio solo teorico perch√© dai pazienti ho imparato tanto da un punto di vista clinico, umano e relazionale.
 
 **In cosa vorresti specializzarti?**
 
-Attualmente ho finito il quinto anno di medicina, tra poco inizierÚ il sesto in cui deciderÚ quale sar‡ la mia specializzazione. Io vorrei fare medicina generale, ne sono sempre pi˘ convinta. Eí una specialistica che dura tre anni in cui si svolgono degli stage in vari reparti molto diversi tra loro: pronto soccorso, pediatria, ginecologia. » proprio questa variet‡ del mestiere che ricerco e infatti questo Ë la prima motivazione che mi ha portato a questa scelta. Il secondo motivo Ë che grazie agli stage  mi sono resa conto che il mio punto forte nella medicina Ë il rapporto con il paziente ed Ë anche líaspetto che mi d‡ pi˘ soddisfazione, quindi ho bisogno di una specialistica in cui io possa avere tempo da dedicare ai pazienti: per parlare con loro e ascoltarli. Penso che sia importante per me perchÈ mi fa bene, ma Ë anche utile da un punto di vista medico perchÈ pi˘ si conosce il paziente e pi˘ si ha un quadro completo della situazione che aiuta a occuparsi meglio di lui.
+Attualmente ho finito il quinto anno di medicina, tra poco inizier√≤ il sesto in cui decider√≤ quale sar√† la mia specializzazione. Io vorrei fare medicina generale, ne sono sempre pi√π convinta. E‚Äô una specialistica che dura tre anni in cui si svolgono degli stage in vari reparti molto diversi tra loro: pronto soccorso, pediatria, ginecologia. √à proprio questa variet√† del mestiere che ricerco e infatti questo √® la prima motivazione che mi ha portato a questa scelta. Il secondo motivo √® che grazie agli stage  mi sono resa conto che il mio punto forte nella medicina √® il rapporto con il paziente ed √® anche l‚Äôaspetto che mi d√† pi√π soddisfazione, quindi ho bisogno di una specialistica in cui io possa avere tempo da dedicare ai pazienti: per parlare con loro e ascoltarli. Penso che sia importante per me perch√© mi fa bene, ma √® anche utile da un punto di vista medico perch√© pi√π si conosce il paziente e pi√π si ha un quadro completo della situazione che aiuta a occuparsi meglio di lui.
 
-**Tralasciando líuniversit‡, quali sono i pregi e i difetti di questa citt‡?**
+**Tralasciando l‚Äôuniversit√†, quali sono i pregi e i difetti di questa citt√†?**
 
-Nizza Ë una citt‡ piacevole, piccola, specialmente per una persona che Ë cresciuta a Roma. Vivere a Nizza Ë come un eterno week-end al mare, sembra di stare in un mondo che scorre pi˘ lentamente. Il pregio pi˘ grande  Ë la sua luce: un sole che rende tutto pi˘ accentuato, illumina il mare facendo uscire il suo colore pi˘ bello o quando si passeggia nella citt‡ vecchia fa brillare ogni edificio e ogni angolo della citt‡. Il difetto pi˘ grande di Nizza Ë che essendo una citt‡ turistica sembra fatta proprio per attrarre le persone e far vivere un poí di spensieratezza a chi arriva. Ad oggi, dopo 7 anni, sento il bisogno di un luogo pi˘ stimolante da un punto di vista culturale, sociale, politico perchÈ questi aspetti sono molto carenti a Nizza, perchÈ tutta líorganizzazione della citt‡ ruota intorno al fatto che questa citt‡ debba essere carina allíapparenza, bella da vedere, ma poi in fondo non cíË molto.
+Nizza √® una citt√† piacevole, piccola, specialmente per una persona che √® cresciuta a Roma. Vivere a Nizza √® come un eterno week-end al mare, sembra di stare in un mondo che scorre pi√π lentamente. Il pregio pi√π grande  √® la sua luce: un sole che rende tutto pi√π accentuato, illumina il mare facendo uscire il suo colore pi√π bello o quando si passeggia nella citt√† vecchia fa brillare ogni edificio e ogni angolo della citt√†. Il difetto pi√π grande di Nizza √® che essendo una citt√† turistica sembra fatta proprio per attrarre le persone e far vivere un po‚Äô di spensieratezza a chi arriva. Ad oggi, dopo 7 anni, sento il bisogno di un luogo pi√π stimolante da un punto di vista culturale, sociale, politico perch√© questi aspetti sono molto carenti a Nizza, perch√© tutta l‚Äôorganizzazione della citt√† ruota intorno al fatto che questa citt√† debba essere carina all‚Äôapparenza, bella da vedere, ma poi in fondo non c‚Äô√® molto.
 
 {{< figure library="true" src="nizza (2).jpg" title="" lightbox="true" >}}
 
-Comunque, con questa domanda mi hai fatto riflettere, mi sono venute le lacrime agli occhi perchÈ ho pensato:îSono 7 anni che sto qui!î e per un attimo mi hai fatto rivedere la me che a 18 anni Ë arrivata qui conoscendo solo qualche parola di francese e adesso invece sono in riva al mare, con tante esperienze fatte e con la voglia di partire ancora, di conoscere nuovi luoghi, magari verso il nord della Francia.
+Comunque, con questa domanda mi hai fatto riflettere, mi sono venute le lacrime agli occhi perch√© ho pensato:‚ÄùSono 7 anni che sto qui!‚Äù e per un attimo mi hai fatto rivedere la me che a 18 anni √® arrivata qui conoscendo solo qualche parola di francese e adesso invece sono in riva al mare, con tante esperienze fatte e con la voglia di partire ancora, di conoscere nuovi luoghi, magari verso il nord della Francia.
 
-**Grazie Sara per la tua disponibilit‡, Ë stato un piacere chiacchierare con te. Un grande in bocca al lupo per il tuo futuro. **
+**Grazie Sara per la tua disponibilit√†, √® stato un piacere chiacchierare con te. Un grande in bocca al lupo per il tuo futuro. **
 
 ---
