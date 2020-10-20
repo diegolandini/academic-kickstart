@@ -113,6 +113,6 @@ Nizza è una città piacevole, piccola, specialmente per una persona che è cres
 
 Comunque, con questa domanda mi hai fatto riflettere, mi sono venute le lacrime agli occhi perché ho pensato:”Sono 7 anni che sto qui!” e per un attimo mi hai fatto rivedere la me che a 18 anni è arrivata qui conoscendo solo qualche parola di francese e adesso invece sono in riva al mare, con tante esperienze fatte e con la voglia di partire ancora, di conoscere nuovi luoghi, magari verso il nord della Francia.
 
-**Grazie Sara per la tua disponibilità, è stato un piacere chiacchierare con te. Un grande in bocca al lupo per il tuo futuro. **
+**Grazie Sara per la tua disponibilità, è stato un piacere chiacchierare con te. Un grande in bocca al lupo per il tuo futuro.**
 
 ---
