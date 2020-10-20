@@ -1,5 +1,4 @@
 ---
-
 title: "La Bolivia riabbraccia la democrazia"
 authors:
 - Diderot
