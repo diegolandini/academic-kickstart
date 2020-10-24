@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Segretaria generale
+role: Vice-Caporedattore, Graphic designer
 
 # Short bio (displayed in user profile at end of posts)
 bio: Brillante studentessa di Comunicazione Pubblica e di Impresa presso La Sapienza di Roma, "Flami" è il fiore all'occhiello della redazione. Le sue qualità sono pressoche illimitate e tra queste rientra quella di problem-solver. Gentile e creativa, è la disegnatrice di fiducia di Diderot.
