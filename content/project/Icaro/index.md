@@ -1,4 +1,5 @@
 ---
+
 title: "Icaro"
 subtitle: ''
 summary: ""
@@ -57,7 +58,7 @@ e bevi l'amaro ricordo
 delle tue indistruttibili ali
 
 
-«distrutte».
+Â«distrutteÂ».
 
 
 Tu piccolo uomo,
