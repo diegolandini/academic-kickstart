@@ -2,7 +2,7 @@
 
 title: "100/100"
 subtitle: ''
-summary: ""
+summary: "Vòta, pure oggi più bianca der cuppolotto de ‘na chiesa, più inutilizzata de un giocattolo dimenticato da un bambino capriccioso."
 authors:
 - Mattia Mincuzzi
 tags:
