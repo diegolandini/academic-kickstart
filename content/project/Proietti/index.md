@@ -1,8 +1,7 @@
 ---
-
 title: "Proietti"
 subtitle: ''
-summary: ""
+summary: "Gigi ma che me combini, e qui er momento è grave."
 authors:
 - Mattia Mincuzzi
 tags:
