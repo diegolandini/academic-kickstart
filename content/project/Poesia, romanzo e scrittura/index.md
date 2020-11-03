@@ -2,7 +2,7 @@
 
 title: "Poesia, romanzo e scrittura"
 subtitle: ''
-summary: ""
+summary: "L’uomo è diverso dalla maggior parte degli altri animali perché ha il pollice opponibile. "
 authors:
 - Andrea Troisi
 tags:
