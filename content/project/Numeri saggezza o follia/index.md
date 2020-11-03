@@ -1,7 +1,9 @@
 ---
 title: "Numeri: follia o saggezza?"
 subtitle: ''
-summary: " "
+summary: "Di notte, dal prato di fronte a casa sua si poteva vedere tutta la città sottostante e, se si alzava poco
+poco lo sguardo si poteva ammirare a bocca aperta quello che lei aveva sempre considerato lo
+spettacolo più bello del mondo."
 authors:
 - Flaminia Di Paolo
 tags:
