@@ -1,5 +1,4 @@
 ---
-
 title: "Mia amata follia"
 subtitle: ''
 summary: "Camminava avanti e indietro con quei tacchi a spillo che rimbombavano ovunque fino ad arrivare al piano di sotto, al mio appartamento. Ogni sera era la solita storia: quella camminava e io mi ritrovavo qua a bestemmiare. "
