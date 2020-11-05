@@ -1,7 +1,9 @@
 ---
-title: "Líarte dell'illustrazione"
+
+title: "L‚Äôarte dell'illustrazione"
 authors:
 - Diderot
+- Francesca Motta
 date: "2020-11-05"
 doi: ""
 # Schedule page publish date (NOT publication's date).
@@ -40,74 +42,74 @@ draft: false
 ---
 Oggi abbiamo incontrato **Felicita Sala, vincitrice del premio Andersen 2020 come migliore illustratrice.** 
 
-Definita dalla giuria **"Una delle figure pi˘ interessanti e promettenti della giovane illustrazione italiana. Per un segno limpido e incisivo dalle forti valenze narrative. Per una consapevole e attenta cultura figurativa capace di dar corpo e forza ad un segno originale."**
+Definita dalla giuria **"Una delle figure pi√π interessanti e promettenti della giovane illustrazione italiana. Per un segno limpido e incisivo dalle forti valenze narrative. Per una consapevole e attenta cultura figurativa capace di dar corpo e forza ad un segno originale."**
 
-**Ciao Felicita, prima di tutto, potresti spiegarci chi Ë l'illustratore e cosa crea?**
+**Ciao Felicita, prima di tutto, potresti spiegarci chi √® l'illustratore e cosa crea?**
 
-Ci sono tanti tipi di illustrazione: quella editoriale, quella pubblicitaria o commerciale, quella per bambini, quella che non ha particolare definizione e si avvicina pi˘ allíarte, un poí fine a se stessa. Tutti gli illustratori creano immagini. Queste immagini sono quasi sempre legate a un testo.
+Ci sono tanti tipi di illustrazione: quella editoriale, quella pubblicitaria o commerciale, quella per bambini, quella che non ha particolare definizione e si avvicina pi√π all‚Äôarte, un po‚Äô fine a se stessa. Tutti gli illustratori creano immagini. Queste immagini sono quasi sempre legate a un testo.
 
 {{< figure library="true" src="illustratrice (2).jpg" title=""lightbox="true" >}}
 
 
 
-**Che cos'Ë per te l'illustrazione?**
+**Che cos'√® per te l'illustrazione?**
 
-Io lavoro nel campo del libro illustrato, che Ë spesso ma non necessariamente il campo di lettura dei bambini. Per me illustrare vuol dire raccontare una storia per immagini e questa storia, nel mio caso, Ë rivolta principalmente ai bimbi. 
-
-
-**PerchÈ hai scelto il mondo dell'infanzia?**
-
-PerchÈ mi sono innamorata dei libri illustrati, allíinizio come oggetti díarte. Vi ho trovato una grande libert‡ artistica. 
-
-Il mondo dellíillustrazione per líinfanzia Ë pieno di grandissimi talenti. Ci sono illustratori che sono allíaltezza di Picasso per la loro innovazione e prolificit‡ e bravura, ma nessuno li conosce al di fuori di noi del settore. Mi ha subito attratto questo stare dietro le quinte dellíillustratore, il non appartenere al mondo delle gallerie e dei critici, di essere a servizio della narrazione. Oggi per me Ë molto importante sviluppare tecniche nuove e crescere nello stile, ma ha sempre maggior importanza la storia. Come la si racconta, perchÈ, a chi Ë rivolta. Mi sento a servizio della storia, ne cerco sempre una che sappia parlare ai bambini in modo autentico.
+Io lavoro nel campo del libro illustrato, che √® spesso ma non necessariamente il campo di lettura dei bambini. Per me illustrare vuol dire raccontare una storia per immagini e questa storia, nel mio caso, √® rivolta principalmente ai bimbi. 
 
 
-**» difficile immergersi nel mondo dei bambini e dar vita a illustrazioni che riescano ad attirare la loro attenzione e li coinvolgano emotivamente?**
+**Perch√© hai scelto il mondo dell'infanzia?**
 
-Non so se Ë difficile. Sicuramente lo diventa se lo si fa apposta. Se si pensa devo a tutti i costi fare una cosa che piaccia ai bambini. Vale soprattutto per chi scrive, perchÈ poi alla fine Ë la storia che attira i bambini e li tiene dentro il libro. Per me le illustrazioni sono importantissime, e sono un modo di raccontare la storia parallelo a quella scritta. Ma se la storia non regge, anche le illustrazioni pi˘ belle rimarranno chiuse nel libro che non verr‡ pi˘ aperto.
-Detto questo, chi Ë riuscito a coinvolgere i bambini credo abbia un contatto ancora vivo con il suo bambino interiore. Io tratto abbastanza male la mia bambina interiore, ma quando sto creando uníillustrazione spesso la ritrovo. Le immagini pi˘ riuscite per me sono quelle che ho fatto pensando a lei. 
+Perch√© mi sono innamorata dei libri illustrati, all‚Äôinizio come oggetti d‚Äôarte. Vi ho trovato una grande libert√† artistica. 
+
+Il mondo dell‚Äôillustrazione per l‚Äôinfanzia √® pieno di grandissimi talenti. Ci sono illustratori che sono all‚Äôaltezza di Picasso per la loro innovazione e prolificit√† e bravura, ma nessuno li conosce al di fuori di noi del settore. Mi ha subito attratto questo stare dietro le quinte dell‚Äôillustratore, il non appartenere al mondo delle gallerie e dei critici, di essere a servizio della narrazione. Oggi per me √® molto importante sviluppare tecniche nuove e crescere nello stile, ma ha sempre maggior importanza la storia. Come la si racconta, perch√©, a chi √® rivolta. Mi sento a servizio della storia, ne cerco sempre una che sappia parlare ai bambini in modo autentico.
+
+
+**√à difficile immergersi nel mondo dei bambini e dar vita a illustrazioni che riescano ad attirare la loro attenzione e li coinvolgano emotivamente?**
+
+Non so se √® difficile. Sicuramente lo diventa se lo si fa apposta. Se si pensa devo a tutti i costi fare una cosa che piaccia ai bambini. Vale soprattutto per chi scrive, perch√© poi alla fine √® la storia che attira i bambini e li tiene dentro il libro. Per me le illustrazioni sono importantissime, e sono un modo di raccontare la storia parallelo a quella scritta. Ma se la storia non regge, anche le illustrazioni pi√π belle rimarranno chiuse nel libro che non verr√† pi√π aperto.
+Detto questo, chi √® riuscito a coinvolgere i bambini credo abbia un contatto ancora vivo con il suo bambino interiore. Io tratto abbastanza male la mia bambina interiore, ma quando sto creando un‚Äôillustrazione spesso la ritrovo. Le immagini pi√π riuscite per me sono quelle che ho fatto pensando a lei. 
 
 {{< figure library="true" src="illustratrice (3).jpg" title=""lightbox="true" >}}
 
-**Qual Ë stato il tuo percorso formativo?**
+**Qual √® stato il tuo percorso formativo?**
 
-Sono cresciuta a Perth, in Australia. Ho sempre avuto un amore per il disegno e la pittura, ma non vedevo come questo potesse diventare fonte di lavoro, mi sembrava un lusso per pochi. E quindi ho studiato Filosofia e lingue allíuniversit‡ del Western Australia, laureandomi in Filosofia estetica.  Poi ho passato vari anni a girovagare per líEuropa insegnando inglese e facendo altri lavori per pagare líaffitto. Ho scoperto il libro illustrato nel 2005 durante un viaggio in Italia, e ho capito che era quello che volevo fare nella vita. Non potendo fare corsi, mi sono messa a imparare da sola, frequentando fiere, parlando con altri illustratori, leggendo molti libri illustrati e facendo tantissimi errori. 
+Sono cresciuta a Perth, in Australia. Ho sempre avuto un amore per il disegno e la pittura, ma non vedevo come questo potesse diventare fonte di lavoro, mi sembrava un lusso per pochi. E quindi ho studiato Filosofia e lingue all‚Äôuniversit√† del Western Australia, laureandomi in Filosofia estetica.  Poi ho passato vari anni a girovagare per l‚ÄôEuropa insegnando inglese e facendo altri lavori per pagare l‚Äôaffitto. Ho scoperto il libro illustrato nel 2005 durante un viaggio in Italia, e ho capito che era quello che volevo fare nella vita. Non potendo fare corsi, mi sono messa a imparare da sola, frequentando fiere, parlando con altri illustratori, leggendo molti libri illustrati e facendo tantissimi errori. 
 
 
 **Fai qualcosa in particolare per trovare l'ispirazione giusta?**
 
-Sicuramente faccio tante cose sbagliate. Dormo poco, passo troppo tempo su internet, mi paragono a quello che vorrei essere che Ë molto diverso da me stilisticamente, sono molto dura con me stessa. Non ho mai trovato ispirazione cercandola. Sicuramente quando cambio questi comportamenti lavoro meglio. Ma le cose belle alla fine vengono dal duro lavoro. 
-Spesso si immagina líartista come qualcuno che viene colpito dallíispirazione e la riporta sul foglio, come un medium. Non so se Ë mai stato cosÏ per alcuni grandi artisti, i geni pi˘ prolifici. So per certo che nellíarte (e nellíillustrazione in particolare) le opere pi˘ belle, pi˘ riuscite, pi˘ geniali, sono sempre frutto di duro lavoro, di molto tempo di studio e ricerca, e soprattutto di una costante battaglia interiore con i propri limiti. 
+Sicuramente faccio tante cose sbagliate. Dormo poco, passo troppo tempo su internet, mi paragono a quello che vorrei essere che √® molto diverso da me stilisticamente, sono molto dura con me stessa. Non ho mai trovato ispirazione cercandola. Sicuramente quando cambio questi comportamenti lavoro meglio. Ma le cose belle alla fine vengono dal duro lavoro. 
+Spesso si immagina l‚Äôartista come qualcuno che viene colpito dall‚Äôispirazione e la riporta sul foglio, come un medium. Non so se √® mai stato cos√¨ per alcuni grandi artisti, i geni pi√π prolifici. So per certo che nell‚Äôarte (e nell‚Äôillustrazione in particolare) le opere pi√π belle, pi√π riuscite, pi√π geniali, sono sempre frutto di duro lavoro, di molto tempo di studio e ricerca, e soprattutto di una costante battaglia interiore con i propri limiti. 
 
 
-**Riesci sempre a trovare un equilibrio tra la tua creativit‡ e ciÚ che ti viene richiesto dai clienti/editori?**
+**Riesci sempre a trovare un equilibrio tra la tua creativit√† e ci√≤ che ti viene richiesto dai clienti/editori?**
 
-Non sempre. A volte mi lascio condizionare troppo da quello che penso voglia quellíeditore, soprattutto lavorando col mercato americano. Penso che ancor prima di creare líimmagine mi condiziona il fatto che quel libro sar‡ per líAmerica, e quindi non posso permettermi di osare troppo, perchÈ gi‡ so che poi dovrÚ combattere con il team di marketing che mi far‡ cambiare le cose. Pi˘ vado avanti e pi˘ scelgo di lavorare con editori che conosco e che mi concederanno pi˘ libert‡. Per questo adoro lavorare con gli editori Francesi, che hanno molto rispetto per la libert‡ creativa dellíillustratore, e non hanno paura di mostrare ai bambini tante cose che nel mondo anglofono non esisterebbero (per esempio sangue, pipe, colori troppo cupi, astrazioni e temi troppo assurdi o adulti).
+Non sempre. A volte mi lascio condizionare troppo da quello che penso voglia quell‚Äôeditore, soprattutto lavorando col mercato americano. Penso che ancor prima di creare l‚Äôimmagine mi condiziona il fatto che quel libro sar√† per l‚ÄôAmerica, e quindi non posso permettermi di osare troppo, perch√© gi√† so che poi dovr√≤ combattere con il team di marketing che mi far√† cambiare le cose. Pi√π vado avanti e pi√π scelgo di lavorare con editori che conosco e che mi concederanno pi√π libert√†. Per questo adoro lavorare con gli editori Francesi, che hanno molto rispetto per la libert√† creativa dell‚Äôillustratore, e non hanno paura di mostrare ai bambini tante cose che nel mondo anglofono non esisterebbero (per esempio sangue, pipe, colori troppo cupi, astrazioni e temi troppo assurdi o adulti).
 
 
 **Ci sono degli artisti che hanno lasciato un segno nel tuo percorso?**
 
-Moltissimi, e cambiano sempre. Storicamente líillustrazione degli anni 60-70, tra cui Miroslav äaöek, Alice e Martin Provensen, ät?p·n Zav?el, Ben Shahn, Ilon Wikland.
+Moltissimi, e cambiano sempre. Storicamente l‚Äôillustrazione degli anni 60-70, tra cui Miroslav ≈†a≈°ek, Alice e Martin Provensen, ≈†t?p√°n Zav?el, Ben Shahn, Ilon Wikland.
 
 
-**Quali sono le tecniche che utilizzi di pi˘?**
+**Quali sono le tecniche che utilizzi di pi√π?**
 
 Acquerello e matite colorate sono alla base di tutto quello che faccio. Poi il gouache e i pastelli a cera o a olio.
 
 {{< figure library="true" src="illustratrice (4).jpg" title=""lightbox="true" >}}
 
-**Com'Ë stato vincere il premio Andersen 2020? Te lo aspettavi? Cosa hai provato?**
+**Com'√® stato vincere il premio Andersen 2020? Te lo aspettavi? Cosa hai provato?**
 
-Un premio assolutamente inaspettato. Non sono quasi mai soddisfatta del mio lavoro e sono molto dura con me stessa, non avrei mai pensato di meritare un tale riconoscimento, perchÈ credo di avere ancora tanta strada da fare. PerÚ evidentemente forse qualcosa di bello ho fatto per meritare questo premio, e questa cosa mi consola. 
+Un premio assolutamente inaspettato. Non sono quasi mai soddisfatta del mio lavoro e sono molto dura con me stessa, non avrei mai pensato di meritare un tale riconoscimento, perch√© credo di avere ancora tanta strada da fare. Per√≤ evidentemente forse qualcosa di bello ho fatto per meritare questo premio, e questa cosa mi consola. 
 
 
 **Quali consigli daresti a chi vuole intraprendere questa carriera?**
 
-Il primo Ë di rendersi conto, come dicevo prima, che questo mestiere Ë una battaglia. Bisogna combattere per trovare il proprio stile, non Ë facile e non Ë immediato. Combattere vuol dire sedersi e disegnare, tanto, cercando il pi˘í possibile di non guardare quello che fanno gli altri. Questo non vuol dire non avere riferimenti perÚ. 
-E poi il secondo consiglio Ë di sviluppare una buona cultura del libro illustrato. Seguire corsi, anche online, leggere moltissimi libri, conoscere le grandi figure e i grandi classici del libro per bambini. Di approfondire il rapporto tra testo immagine, di studiarlo, per avere un senso di cosa funziona e cosa no. Il terzo consiglio Ë di non dimenticare il bambino lettore e il bambino interiore, perchÈ il libro illustrato Ë rivolto sempre a loro prima di tutto. 
+Il primo √® di rendersi conto, come dicevo prima, che questo mestiere √® una battaglia. Bisogna combattere per trovare il proprio stile, non √® facile e non √® immediato. Combattere vuol dire sedersi e disegnare, tanto, cercando il pi√π‚Äô possibile di non guardare quello che fanno gli altri. Questo non vuol dire non avere riferimenti per√≤. 
+E poi il secondo consiglio √® di sviluppare una buona cultura del libro illustrato. Seguire corsi, anche online, leggere moltissimi libri, conoscere le grandi figure e i grandi classici del libro per bambini. Di approfondire il rapporto tra testo immagine, di studiarlo, per avere un senso di cosa funziona e cosa no. Il terzo consiglio √® di non dimenticare il bambino lettore e il bambino interiore, perch√© il libro illustrato √® rivolto sempre a loro prima di tutto. 
 
 
-**Grazie Felicita per averci dedicato un poí del tuo tempo, Ë stato un grande piacere chiacchierare con te e conoscere il tuo lavoro e la tua storia. Ti facciamo un grande in bocca al lupo per tutto quanto e complimenti ancora per le tue meravigliose illustrazioni.**
+**Grazie Felicita per averci dedicato un po‚Äô del tuo tempo, √® stato un grande piacere chiacchierare con te e conoscere il tuo lavoro e la tua storia. Ti facciamo un grande in bocca al lupo per tutto quanto e complimenti ancora per le tue meravigliose illustrazioni.**
 
 {{< figure library="true" src="illustratrice (1).jpg" title=""lightbox="true" >}}
 
@@ -122,17 +124,17 @@ E poi il secondo consiglio Ë di sviluppare una buona cultura del libro illustrat
 
 Illustration is a form of art that dates back to antiquity. The Egyptians already drew images on papyrus and then, thanks to the introduction of the pergamen, it was easier to draw on books that were initially in the form of a roll. The invention of the code, the lit book, opened the door to illustration with the miniature technique, that is, an ornamental painting with which manuscripts and books were decorated.
 
-Thanks to the invention of the press, the book market was a turning point. The illustrations, first in black and white, then in colour, were mostly intended for an adult audience, but in the nineteenth century, both illustration for adults and for children were proposed. Nowadays, more adult illustrated books are being produced, but the world of childrenís illustration continues to grow more and more.
+Thanks to the invention of the press, the book market was a turning point. The illustrations, first in black and white, then in colour, were mostly intended for an adult audience, but in the nineteenth century, both illustration for adults and for children were proposed. Nowadays, more adult illustrated books are being produced, but the world of children‚Äôs illustration continues to grow more and more.
 
-**That is why we met Felicita Sala, the winner of Italyís Premio Andersen 2020 as best illustrator.**
+**That is why we met Felicita Sala, the winner of Italy‚Äôs Premio Andersen 2020 as best illustrator.**
 
-Defined by the jury **ìOne of the most interesting and promising figures of young Italian illustration. For a clear and incisive sign with strong narrative value. "For a conscious and attentive figurative culture capable of giving body and strength to an original mark.î**
+Defined by the jury **‚ÄúOne of the most interesting and promising figures of young Italian illustration. For a clear and incisive sign with strong narrative value. "For a conscious and attentive figurative culture capable of giving body and strength to an original mark.‚Äù**
 
 {{< figure library="true" src="illustratrice (2).jpg" title=""lightbox="true" >}}
 
 **Hi Felicita, first of all, could you explain to us what is an illustrator and what does she/he create?**
 
-There are many kinds of illustrations: editorial, advertising or commercial illustration, childrenís illustration, Illustration that doesnít fit into any category and is closer to art, for itís own sake. 
+There are many kinds of illustrations: editorial, advertising or commercial illustration, children‚Äôs illustration, Illustration that doesn‚Äôt fit into any category and is closer to art, for it‚Äôs own sake. 
 All illustrators make images. These images are almost always linked to a text.
 
 
@@ -145,21 +147,21 @@ I work in the field of picture books, which is often but not necessarily the chi
 
 Because I fell in love with picture books, at first as art objects. I found that in this job you could have great artistic freedom.
 
-The world of childrenís illustration is full of great talent. There are illustrators that could be compared to Picasso in terms of how prolific and innovative their work is, but they are unknown outside the picture book world. 
+The world of children‚Äôs illustration is full of great talent. There are illustrators that could be compared to Picasso in terms of how prolific and innovative their work is, but they are unknown outside the picture book world. 
 What attracted me about this world was the possibility to work behind the scenes so to speak. The illustrator, in comparison to a fine artist, does not create work for galleries or art critics. The illustrator serves a narrative.  We are visual narrators. 
-Today it is very important for me to develop my style and technique, but more important than this is the story. How it is told, why, to whom. Iím always looking for stories which speak to children in an authentic, non condescending way. I run from stories which try to teach something to children in a moralistic way. 
+Today it is very important for me to develop my style and technique, but more important than this is the story. How it is told, why, to whom. I‚Äôm always looking for stories which speak to children in an authentic, non condescending way. I run from stories which try to teach something to children in a moralistic way. 
 
 
 **Is it difficult to dive into the world of children and to create illustrations that can attract their attention and involve them emotionally?**
 
-I don't know if it's difficult. I'm sure it becomes so if you do it on purpose. If you think: I have to do something that children like. This is especially true for writers, because ultimately itís the story that attracts children and keeps their attention. For me, the illustrations are very important, and they are a way to tell the story that is parallel to the written story. But if the story does not hold, even the most beautiful illustrations will remain shut in a book that will no longer be opened.
+I don't know if it's difficult. I'm sure it becomes so if you do it on purpose. If you think: I have to do something that children like. This is especially true for writers, because ultimately it‚Äôs the story that attracts children and keeps their attention. For me, the illustrations are very important, and they are a way to tell the story that is parallel to the written story. But if the story does not hold, even the most beautiful illustrations will remain shut in a book that will no longer be opened.
 
-Having said that, I think that those who have succeeded in writing stories that capture childrenís attention are those who have kept their inner child alive. I personally am not often kind to my inner child, but when Iím creating an illustration I find her there and I work better. The best work Iíve done has been work Iíve done for my inner child. 
+Having said that, I think that those who have succeeded in writing stories that capture children‚Äôs attention are those who have kept their inner child alive. I personally am not often kind to my inner child, but when I‚Äôm creating an illustration I find her there and I work better. The best work I‚Äôve done has been work I‚Äôve done for my inner child. 
 
 
 **What is your educational background?**
 
-I grew up in Perth, Australia. I've always loved drawing and painting, but I couldn't see how this could become a source of work, it seemed to be a luxury for a few people. And so I studied Philosophy and languages at the University of Western Australia, graduating in aesthetic Philosophy. Then I spent several years wandering around Europe, teaching English and doing other jobs to pay the rent. I discovered contemporary picture books in 2005 during a trip to Italy, and I understood that it was what I wanted to do in life. Because I wasnít able to do any illustration courses, I started learning on my own. I studied and read many picture books, went to book fairs, met other illustrators, practiced a lot and made many mistakes.  
+I grew up in Perth, Australia. I've always loved drawing and painting, but I couldn't see how this could become a source of work, it seemed to be a luxury for a few people. And so I studied Philosophy and languages at the University of Western Australia, graduating in aesthetic Philosophy. Then I spent several years wandering around Europe, teaching English and doing other jobs to pay the rent. I discovered contemporary picture books in 2005 during a trip to Italy, and I understood that it was what I wanted to do in life. Because I wasn‚Äôt able to do any illustration courses, I started learning on my own. I studied and read many picture books, went to book fairs, met other illustrators, practiced a lot and made many mistakes.  
 
 
 {{< figure library="true" src="illustratrice (1).jpg" title=""lightbox="true" >}}
@@ -169,18 +171,18 @@ I grew up in Perth, Australia. I've always loved drawing and painting, but I cou
 
 I certainly do a lot of things wrong. I don't sleep much, I spend too much time on the Internet, I compare my work to what I think it should be, which may be in a different style altogether, I am very hard on myself. I have never found inspiration by looking for it. When I change this way of thinking I certainly work better. But ultimately good quality work comes from working hard. 
 
-Often one imagines the ëartistí as someone who is suddenly struck by inspiration and then transcribes it into art. I donít know if this has ever happened to the greatest artists, the prolific geniuses. I do know that in art (and in illustration particularly),
-the best work is always the fruit of a good amount of time spent working and searching, and also of a constant inner battle with oneís own limitations. 
+Often one imagines the ‚Äòartist‚Äô as someone who is suddenly struck by inspiration and then transcribes it into art. I don‚Äôt know if this has ever happened to the greatest artists, the prolific geniuses. I do know that in art (and in illustration particularly),
+the best work is always the fruit of a good amount of time spent working and searching, and also of a constant inner battle with one‚Äôs own limitations. 
 
 
 **Can you always strike a balance between your creativity and what your clients/publishers demand?**
 
-Not always. Sometimes Iím too conditioned by what I think the publisher wants, especially in the American market. I think that even before I create the image, I am affected by the fact that that book will be for America, and so I donít dare as much, to avoid arguing with the marketing team who might make me change things. The older I get, the more I choose to work with publishers with whom I have a good relationship and who will give me that freedom. That is why I love working with French publishers, who have great respect for the creative freedom of the illustrator, and who are not afraid to show children many things that are often not permitted in the Anglophone world (e.g. blood, pipes, colours which are not bright enough, abstractions and absurd or adult themes).
+Not always. Sometimes I‚Äôm too conditioned by what I think the publisher wants, especially in the American market. I think that even before I create the image, I am affected by the fact that that book will be for America, and so I don‚Äôt dare as much, to avoid arguing with the marketing team who might make me change things. The older I get, the more I choose to work with publishers with whom I have a good relationship and who will give me that freedom. That is why I love working with French publishers, who have great respect for the creative freedom of the illustrator, and who are not afraid to show children many things that are often not permitted in the Anglophone world (e.g. blood, pipes, colours which are not bright enough, abstractions and absurd or adult themes).
 
 
 **Are there any artists who have left a mark in your career as an illustrator?**
 
-There are many, and they always change. Historically, the illustration of the 1960ís, including Miroslav äaöek, Alice and Martin Provensen, ät?p·n Zav?el, Ben Shahn, Ilon Wikland.
+There are many, and they always change. Historically, the illustration of the 1960‚Äôs, including Miroslav ≈†a≈°ek, Alice and Martin Provensen, ≈†t?p√°n Zav?el, Ben Shahn, Ilon Wikland.
 
 
 **What are the techniques that you use the most?**
@@ -196,9 +198,9 @@ It was a completely unexpected prize. I am almost never happy with my work, and 
 
 **What advice would you give to those who want to take up this career?**
 
-The first is to realise, as I mentioned before, that this job is a battle. You have to fight to find your style, it isnít easy and it isnít immediate. Fighting means sitting down and drawing as much as possible, and trying not to get too caught up in what other people do.  This doesnít mean however, not to have any points of reference or inspiration. 
+The first is to realise, as I mentioned before, that this job is a battle. You have to fight to find your style, it isn‚Äôt easy and it isn‚Äôt immediate. Fighting means sitting down and drawing as much as possible, and trying not to get too caught up in what other people do.  This doesn‚Äôt mean however, not to have any points of reference or inspiration. 
 
-The second piece of advice is to really develop an illustrated book culture. Take a course, read lots of books, get to know the great picture book makers of the past. Understand better the relationship between text and image, see what works and what doesnít.
+The second piece of advice is to really develop an illustrated book culture. Take a course, read lots of books, get to know the great picture book makers of the past. Understand better the relationship between text and image, see what works and what doesn‚Äôt.
 And finally, do not forget the child reader and your own inner child, because the picture book is made for them first of all.
 
 
