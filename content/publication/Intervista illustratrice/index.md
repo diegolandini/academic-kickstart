@@ -1,5 +1,4 @@
 ---
-
 title: "L’arte dell'illustrazione"
 authors:
 - Diderot
