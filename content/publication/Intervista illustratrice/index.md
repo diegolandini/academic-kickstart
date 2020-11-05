@@ -116,7 +116,7 @@ E poi il secondo consiglio è di sviluppare una buona cultura del libro illustra
 ----------------------------------------------------------
 
 
-~ THE ENGLISH VERSION ~
+**~ THE ENGLISH VERSION ~**
 
 
 **The art of illustration** 
