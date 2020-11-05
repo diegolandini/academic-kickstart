@@ -36,8 +36,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 
-draft: true
-
+draft: false
 ---
 Oggi abbiamo incontrato **Felicita Sala, vincitrice del premio Andersen 2020 come migliore illustratrice.** 
 
