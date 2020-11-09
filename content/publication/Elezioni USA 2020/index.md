@@ -1,5 +1,4 @@
 ---
-
 title: "Elezioni USA 2020: cosa rimane di uno degli Election Day piu' strani di sempre"
 authors:
 - Diderot
