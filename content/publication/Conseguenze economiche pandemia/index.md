@@ -1,4 +1,5 @@
 ---
+
 title: "Le conseguenze economiche della pandemia"
 authors:
 - Diderot
@@ -42,13 +43,13 @@ draft: false
 
 **Introduzione**
 
-La recente emergenza legata al virus Covid-19 ha fatto riemergere paragoni bellici siadal punto di vista degli effetti sul sistema sanitario, siada quello economico. Si Ë tornatia parlare di produzione di  beni  necessari  da  parte  dello  Stato  e  di  espansione  del  debito  pubblico,  strumenti  tipici dellíeconomie di guerra. Per questo politicied economisti hanno guardato indietro nel tempo per trovare soluzioni gi‡ attuatedurante il secolo scorso, caratterizzato da due guerre mondiali e dalla Grande Depressione del 1929. Proprio negli anni í30 del Novecento, mentre líeconomia mondiale soffriva i postumi della Grande Depressione, Keynes formulÚ un approccio rivoluzionario.
+La recente emergenza legata al virus Covid-19 ha fatto riemergere paragoni bellici siadal punto di vista degli effetti sul sistema sanitario, siada quello economico. Si √® tornatia parlare di produzione di  beni  necessari  da  parte  dello  Stato  e  di  espansione  del  debito  pubblico,  strumenti  tipici dell‚Äôeconomie di guerra. Per questo politicied economisti hanno guardato indietro nel tempo per trovare soluzioni gi√† attuatedurante il secolo scorso, caratterizzato da due guerre mondiali e dalla Grande Depressione del 1929. Proprio negli anni ‚Äô30 del Novecento, mentre l‚Äôeconomia mondiale soffriva i postumi della Grande Depressione, Keynes formul√≤ un approccio rivoluzionario.
 
-Líobiettivo di questo saggionei prossimi paragrafi sar‡ quello di ripercorrere il pensiero keynesiano e le caratteristiche che ne hanno fatto uno dei maggiori approcci della politica economica, idee proposte  da  Keynes a  partire  dalsuo  scritto  ìTeoria  Generaleî  del  1936(^1).  A  84  anni  dalla pubblicazione,le teorie keynesiane sono tornate díattualit‡ per affrontare unoshock economico simile per valori di recessionedel prodotto a quello del 1929, nonostante il sistema internazionale sia cambiato nei suoi interpretie negli assetti economici. Proprio come annunciÚ Keynes,la soluzione dellíindebitamento  pubblico  per  rilanciare  líeconomia  potrebbe portarenuove  opportunit‡  di innovazione e sviluppo agli Stati.
+L‚Äôobiettivo di questo saggionei prossimi paragrafi sar√† quello di ripercorrere il pensiero keynesiano e le caratteristiche che ne hanno fatto uno dei maggiori approcci della politica economica, idee proposte  da  Keynes a  partire  dalsuo  scritto  ‚ÄúTeoria  Generale‚Äù  del  1936(^1).  A  84  anni  dalla pubblicazione,le teorie keynesiane sono tornate d‚Äôattualit√† per affrontare unoshock economico simile per valori di recessionedel prodotto a quello del 1929, nonostante il sistema internazionale sia cambiato nei suoi interpretie negli assetti economici. Proprio come annunci√≤ Keynes,la soluzione dell‚Äôindebitamento  pubblico  per  rilanciare  l‚Äôeconomia  potrebbe portarenuove  opportunit√†  di innovazione e sviluppo agli Stati.
 
-Si  cercher‡  di  applicare  le  teorie  keynesiane  al  sistema  istituzionale  ed  economico  attuale, soffermandoci sul ruolo crescente dellíUnione Europea. Líorganizzazione internazionale negli ultimi decenni  Ë  stata líattrice pi˘  importante  nel  nostro  continente  dal  punto  di  vista  delle  politiche economiche.  La  capacit‡  di  essere  parte  integrante  nellíeconomia  degli  Stati,  intervenendo  con politiche economiche *ad  hoc*,Ë stato nel corso della crisi del 2008 un fattore importante per la salvezza di alcuni Stati e potr‡ esserlo anche in questa emergenza economico-sanitaria.
+Si  cercher√†  di  applicare  le  teorie  keynesiane  al  sistema  istituzionale  ed  economico  attuale, soffermandoci sul ruolo crescente dell‚ÄôUnione Europea. L‚Äôorganizzazione internazionale negli ultimi decenni  √®  stata l‚Äôattrice pi√π  importante  nel  nostro  continente  dal  punto  di  vista  delle  politiche economiche.  La  capacit√†  di  essere  parte  integrante  nell‚Äôeconomia  degli  Stati,  intervenendo  con politiche economiche *ad  hoc*,√® stato nel corso della crisi del 2008 un fattore importante per la salvezza di alcuni Stati e potr√† esserlo anche in questa emergenza economico-sanitaria.
 
-AllíUnione Europea spetter‡ il compito di evitare gli errori commessi dai singoli Stati al termine della Prima Guerra Mondiale, quegli errori che costrinsero Keynes a lasciare in disaccordo la conferenza di Versailles e che vennero poi criticati allíinterno del libro ìLe cause economiche della paceî(^2), titolo da cui prende spunto questo scritto.
+All‚ÄôUnione Europea spetter√† il compito di evitare gli errori commessi dai singoli Stati al termine della Prima Guerra Mondiale, quegli errori che costrinsero Keynes a lasciare in disaccordo la conferenza di Versailles e che vennero poi criticati all‚Äôinterno del libro ‚ÄúLe cause economiche della pace‚Äù(^2), titolo da cui prende spunto questo scritto.
 
 ---------------------
 ^1. Keynes J. M.,The General Theory of Employment, Interest and Money, 1936
@@ -60,19 +61,19 @@ AllíUnione Europea spetter‡ il compito di evitare gli errori commessi dai singol
 
 {{< figure library="true" src="economia-pandemia.JPG" title=""lightbox="true" >}} (^3)
 
-Per politiche economiche keynesiane si intendono generalmente quelle politiche miranti a stabilizzare il  sistema  macroeconomico  (domanda,  reddito,  occupazione,  produzione,  prezzi,  bilancia  dei pagamenti) e facilitare la sua conservazione verso líequilibrio di piena occupazione(^4). Il punto di partenza Ë la constatazione che le economie di mercato sono normalmente soggette nel breve periodo a fluttuazioni cicliche reali, nel reddito e nella occupazione. Secondo i keynesiani, le politiche di stabilizzazione devono essere attuate in primo luogo mediante politiche di gestione della domanda aggregata implicanti la riduzione della varianza della domanda, al fine di contrastare le fluttuazioni cicliche. Per affrontare i problemi di lungo periodo derivanti da una prolungata depressioneeda una permanente sotto-utilizzazione delle risorse o di una stagnazione dellíeconomia, non Ë sufficiente uníazione di ìcontrollo fineî del ciclo o di un pump-priming(^5). 
+Per politiche economiche keynesiane si intendono generalmente quelle politiche miranti a stabilizzare il  sistema  macroeconomico  (domanda,  reddito,  occupazione,  produzione,  prezzi,  bilancia  dei pagamenti) e facilitare la sua conservazione verso l‚Äôequilibrio di piena occupazione(^4). Il punto di partenza √® la constatazione che le economie di mercato sono normalmente soggette nel breve periodo a fluttuazioni cicliche reali, nel reddito e nella occupazione. Secondo i keynesiani, le politiche di stabilizzazione devono essere attuate in primo luogo mediante politiche di gestione della domanda aggregata implicanti la riduzione della varianza della domanda, al fine di contrastare le fluttuazioni cicliche. Per affrontare i problemi di lungo periodo derivanti da una prolungata depressioneeda una permanente sotto-utilizzazione delle risorse o di una stagnazione dell‚Äôeconomia, non √® sufficiente un‚Äôazione di ‚Äúcontrollo fine‚Äù del ciclo o di un pump-priming(^5). 
 
-La stabilizzazione dovrebbe avvenire attorno ad un trend di reddito crescente nel tempo, anche per evitare líaccentuarsi dei conflitti tra gli obiettivi di breve e di lungo periodo della politica economica. Dunque per politiche keynesiane ci si puÚ riferire a: politiche di stabilizzazione di breve periodo, politiche strutturali e politiche economiche redistributive. 
+La stabilizzazione dovrebbe avvenire attorno ad un trend di reddito crescente nel tempo, anche per evitare l‚Äôaccentuarsi dei conflitti tra gli obiettivi di breve e di lungo periodo della politica economica. Dunque per politiche keynesiane ci si pu√≤ riferire a: politiche di stabilizzazione di breve periodo, politiche strutturali e politiche economiche redistributive. 
 
-La posizione keynesiana tradizionale consiste nel garantire un alto grado di discrezionalit‡ alle autorit‡  di  politica  economica,  le  quali  possono  aggiustare  la  propria  azione  a  seconda  delle circostanze che si vengono a determinare. Per quanto riguarda invece gli specifici strumenti di controllo della domanda la posizione kaynesiana Ë favorevole alla politica fiscale, considerata essereefficace soprattutto in situazioni di depressione. In particolare Keynes pensava ad una politica di lavori  pubblici  per  risolvere  i  problemi  dellíeccessiva  disoccupazione.  Il  suggerimento  dato  da Keynes Ë quello di aumentare laspesapubblicache comportarendimenti futuri di tipo diretto o indiretto, come ad esempio imprese pubbliche o investimenti in istruzione(^6). La politica della spesa pubblica Ë stata sia nel periodo della ricostruzione post-bellica, sia negli anni í50 e í60 del secolo scorso, uníarma fondamentale della politica economica e sembra essere la strada utilizzata per far fronte alla crisi economica successiva allo stop della maggior parte delle attivit‡ economiche durante il Coronavirus.
+La posizione keynesiana tradizionale consiste nel garantire un alto grado di discrezionalit√† alle autorit√†  di  politica  economica,  le  quali  possono  aggiustare  la  propria  azione  a  seconda  delle circostanze che si vengono a determinare. Per quanto riguarda invece gli specifici strumenti di controllo della domanda la posizione kaynesiana √® favorevole alla politica fiscale, considerata essereefficace soprattutto in situazioni di depressione. In particolare Keynes pensava ad una politica di lavori  pubblici  per  risolvere  i  problemi  dell‚Äôeccessiva  disoccupazione.  Il  suggerimento  dato  da Keynes √® quello di aumentare laspesapubblicache comportarendimenti futuri di tipo diretto o indiretto, come ad esempio imprese pubbliche o investimenti in istruzione(^6). La politica della spesa pubblica √® stata sia nel periodo della ricostruzione post-bellica, sia negli anni ‚Äô50 e ‚Äô60 del secolo scorso, un‚Äôarma fondamentale della politica economica e sembra essere la strada utilizzata per far fronte alla crisi economica successiva allo stop della maggior parte delle attivit√† economiche durante il Coronavirus.
 
 
 ---------------------
-^3. Allíinterno    dellíequazione di    equilibrio nel    mercato    dei    beni: Il fattore 1/1-c1 Ëun numero maggiore di 1 (poichÈla propensione marginale al consumo, c1, Ëcompresa tra 0 e 1) ed Ëchiamato moltiplicatore della spesa pubblica (detto anche moltiplicatore keynesiano), in quanto moltiplica líeffetto dellíaumento della spesa autonoma (il termine tra parentesi: c0 + ?+ G -c1T). Il significato del moltiplicatore Ë il seguente: un aumento di una componente della spesa autonoma (ad esempio della spesa pubblica) provoca un aumento della domanda che spinge gli imprenditori ad aumentare la produzione e dunque ad investire maggiormente.
+^3. All‚Äôinterno    dell‚Äôequazione di    equilibrio nel    mercato    dei    beni: Il fattore 1/1-c1 √®un numero maggiore di 1 (poich√©la propensione marginale al consumo, c1, √®compresa tra 0 e 1) ed √®chiamato moltiplicatore della spesa pubblica (detto anche moltiplicatore keynesiano), in quanto moltiplica l‚Äôeffetto dell‚Äôaumento della spesa autonoma (il termine tra parentesi: c0 + ?+ G -c1T). Il significato del moltiplicatore √® il seguente: un aumento di una componente della spesa autonoma (ad esempio della spesa pubblica) provoca un aumento della domanda che spinge gli imprenditori ad aumentare la produzione e dunque ad investire maggiormente.
 
 ^4. Marelli E., Signorelli M, Politica economica, 2016 
 
-^5. Ossia la ìmessa in motoîdella macchina dellíeconomia, attraverso un iniziale intervento pubblico.
+^5. Ossia la ‚Äúmessa in moto‚Äùdella macchina dell‚Äôeconomia, attraverso un iniziale intervento pubblico.
 
 ^6. Keynes J. M., How to Pay the War, 1940
 
@@ -80,7 +81,7 @@ La posizione keynesiana tradizionale consiste nel garantire un alto grado di dis
 
 **LE POLITICHE CONTRO IL CORONAVIRUS**
 
-Come detto in precedenza, la politica della spesa pubblica e stata la politica economica attuata durante gli anni post-bellici. Per esplicare la politica di bilancio e le alternative modalita di finanziamento dei disavanzi pubblici occorre partire dal vincolo di bilancio dellíoperatore pubblico:
+Come detto in precedenza, la politica della spesa pubblica e stata la politica economica attuata durante gli anni post-bellici. Per esplicare la politica di bilancio e le alternative modalita di finanziamento dei disavanzi pubblici occorre partire dal vincolo di bilancio dell‚Äôoperatore pubblico:
 
 {{< figure library="true" src="economia-pandemia2.JPG" title=""lightbox="true" >}} 
 
@@ -97,14 +98,14 @@ Pertanto la spesa pubblica puo essere finanziata mediante le seguenti modalita:
 - Con i titoli
 
 Nella visione keynesiana dei primi anni vi era la possibilita di una politica di *deficit spending*, tuttavia
-tutti ora concordano nella necessita di rispettare il pareggio di bilancio almeno nel lungo periodo (G=T). In questi mesi líaumento del debito pubblico sara pero inevitabile, con il rapporto debito/PIL italiano che potrebbe salire fino al 160%(^7). Anche se elevati disavanzi sono sconsigliati, la politica fiscale in disavanzo puo essere vista positivamente quando si segue líapproccio del *tax-smoothing*(^8).
+tutti ora concordano nella necessita di rispettare il pareggio di bilancio almeno nel lungo periodo (G=T). In questi mesi l‚Äôaumento del debito pubblico sara pero inevitabile, con il rapporto debito/PIL italiano che potrebbe salire fino al 160%(^7). Anche se elevati disavanzi sono sconsigliati, la politica fiscale in disavanzo puo essere vista positivamente quando si segue l‚Äôapproccio del *tax-smoothing*(^8).
 
-Un ulteriore indebitamento da parte del governo, con un debito rimborsabile gradualmente negli anni futuri, consentirebbe di ridistribuire líonere tra tutte le generazioni. Un altro metodo e quello degli stabilizzatori automatici, stabilizzatori che si attivano ìautomaticamenteî al variare del reddito o della produzione. I disavanzi pubblici variano dunque in modo anticiclico grazie alle imposte
+Un ulteriore indebitamento da parte del governo, con un debito rimborsabile gradualmente negli anni futuri, consentirebbe di ridistribuire l‚Äôonere tra tutte le generazioni. Un altro metodo e quello degli stabilizzatori automatici, stabilizzatori che si attivano ‚Äúautomaticamente‚Äù al variare del reddito o della produzione. I disavanzi pubblici variano dunque in modo anticiclico grazie alle imposte
 proporzionali, ai sussidi ecc. Proprio per questo stabilizzano il sistema economico: nelle recessioni diminuiscono le entrate ed aumentano le uscite, implicando un sostegno del reddito disponibile e quindi della domanda aggregata controbilanciando la recessione iniziale; viceversa nelle fasi
 espansive.
 
 Nel lungo periodo, in un sistema con un importante debito pubblico, vi sono solamente le seguenti
-soluzioni alternative, di cui solo líultima e perseguibile se si vuole garantire la stabilita
+soluzioni alternative, di cui solo l‚Äôultima e perseguibile se si vuole garantire la stabilita
 macroeconomica:
 
 - Ripudio del debito
@@ -113,16 +114,16 @@ macroeconomica:
 
 - Rimborso del debito
 
-Nel sistema europeo solamente líultima soluzione risulta essere percorribile. Il rimborso del debito
+Nel sistema europeo solamente l‚Äôultima soluzione risulta essere percorribile. Il rimborso del debito
 consiste infatti nel ripagare lo stock dei titoli emessi per coprire tutti i disavanzi annui. Si parla di
-processo di auto-alimentazione del debito con riferimento al pagamento di interessi sullo stock di debito accumulato, chiamato servizio del debito. Questo circolo vizioso tra disavanzo e debito, si puÚ rappresentare con la seguente formula:
+processo di auto-alimentazione del debito con riferimento al pagamento di interessi sullo stock di debito accumulato, chiamato servizio del debito. Questo circolo vizioso tra disavanzo e debito, si pu√≤ rappresentare con la seguente formula:
 
 {{< figure library="true" src="economia-pandemia3.JPG" title=""lightbox="true" >}} 
 
 Il rischio in questo frangente e che il governo sia costretto a pagare elevati premi a rischio, per il
-timore di un ripudio del debito, ovvero di uníinflazione futura. I tassi díinteresse nazionali di un paese
+timore di un ripudio del debito, ovvero di un‚Äôinflazione futura. I tassi d‚Äôinteresse nazionali di un paese
 altamente indebitato incorporano: il rischio di svalutazione e il rischio di ripudio. Un modo per
-calcolare líincidenza di questi due rischi e il cosiddetto spread rispetto ad un paese ìbenchmarkî
+calcolare l‚Äôincidenza di questi due rischi e il cosiddetto spread rispetto ad un paese ‚Äúbenchmark‚Äù
 (come ad esempio la Germania). E il manifestarsi di una crisi di fiducia che potrebbe accrescere la
 probabilita di default di uno Stato(^9).
 
@@ -130,57 +131,57 @@ probabilita di default di uno Stato(^9).
 {{< figure library="true" src="economia-pandemia4.JPG" title=""lightbox="true" >}} (^10)
 
 
-Tuttavia negli ultimi anni in Europa, anche durante la crisi del 2008, líUnione Europea ha avuto
-líimportante ruolo di aiutare i Paesi vicini al default. Un compito al quale e chiamata anche in questi
+Tuttavia negli ultimi anni in Europa, anche durante la crisi del 2008, l‚ÄôUnione Europea ha avuto
+l‚Äôimportante ruolo di aiutare i Paesi vicini al default. Un compito al quale e chiamata anche in questi
 giorni per rispondere alla crisi successiva al Coronavirus.
 
 
 ---------------------
-^7. Rogari M., Trovati G., Il debito al 155,7% ìcostaî 43 mila euro a ogni italiano. Il deficit cancella le clausole Iva. Link:
+^7. Rogari M., Trovati G., Il debito al 155,7% ‚Äúcosta‚Äù 43 mila euro a ogni italiano. Il deficit cancella le clausole Iva. Link:
 https://www.ilsole24ore.com/art/debito-1557percento-43mila-euro-testa-deficit-cancella-clausole-iva-ADIeJJM
 
 ^8. Marelli E., Signorelli M., Politica Economica, cit.
 
 ^9. Marelli E, Signorelli M., Politica Economica, cit.
 
-^10. Líaumento della spesa pubblica comporta lo spostamento della curva IS verso destra. Dopo líaumento della spesa pubblica, la curva
+^10. L‚Äôaumento della spesa pubblica comporta lo spostamento della curva IS verso destra. Dopo l‚Äôaumento della spesa pubblica, la curva
 IS interseca la curva LM nel punto C, nuovo punto di equilibrio, caratterizzato da un livello di produzione e di tasso di interesse piu
-elevato (Y1 e i1). Allíinizio líaumento della spesa pubblica, attraverso líeffetto del moltiplicatore, fa aumentare la produzione da Y0
-a Y2 (punto B). Líaumento a sua volta provoca la crescita del tasso di interesse (da i0 a i1). Tale aumento rende meno convenienti gli
-investimenti privati che si riducono, provocando líeffetto di spiazzamento di una politica fiscale espansiva. Alla riduzione degli
+elevato (Y1 e i1). All‚Äôinizio l‚Äôaumento della spesa pubblica, attraverso l‚Äôeffetto del moltiplicatore, fa aumentare la produzione da Y0
+a Y2 (punto B). L‚Äôaumento a sua volta provoca la crescita del tasso di interesse (da i0 a i1). Tale aumento rende meno convenienti gli
+investimenti privati che si riducono, provocando l‚Äôeffetto di spiazzamento di una politica fiscale espansiva. Alla riduzione degli
 investimenti segue la riduzione della domanda aggregata e dunque della produzione che si colloca infine al livello di equilibrio pari a
-Y1. Il grado di spiazzamento determina líefficacia di una politica fiscale. Se gli investimenti sono sensibili al tasso di interesse, una
+Y1. Il grado di spiazzamento determina l‚Äôefficacia di una politica fiscale. Se gli investimenti sono sensibili al tasso di interesse, una
 politica fiscale espansiva sara poco efficace perche il tasso di interesse aumenta e gli investimenti diminuiranno provocando un effetto
 di spiazzamento.
 
 
 
 
-**LíINTEGRAZIONE ECONOMICA EUROPEA**
+**L‚ÄôINTEGRAZIONE ECONOMICA EUROPEA**
 
 Al termine del secondo conflitto mondiale, il mondo cerco di trovare una forma di collaborazione tra
-gli Stati, da un punto di vista politico ed economico(^11). Diversi trattati furono precursori dellíUnione
-Europea che conosciamo oggi: dal Trattato istitutivo della CECA, fino al Trattato di Maastricht, il quale allíarticolo 2 afferma: ìPromuovere un progresso economico e sociale e un elevato livello di
-occupazione e pervenire a uno sviluppo equilibrato e sostenibileî(^12).
+gli Stati, da un punto di vista politico ed economico(^11). Diversi trattati furono precursori dell‚ÄôUnione
+Europea che conosciamo oggi: dal Trattato istitutivo della CECA, fino al Trattato di Maastricht, il quale all‚Äôarticolo 2 afferma: ‚ÄúPromuovere un progresso economico e sociale e un elevato livello di
+occupazione e pervenire a uno sviluppo equilibrato e sostenibile‚Äù(^12).
 
-Per far parte dei Paesi appartenenti alla zona Euro e necessario: un tasso díinflazione annuo non
-superiore dellí1,5% a quello dei tre Paesi con meno inflazione. Un tasso díinteresse nominale sui
+Per far parte dei Paesi appartenenti alla zona Euro e necessario: un tasso d‚Äôinflazione annuo non
+superiore dell‚Äô1,5% a quello dei tre Paesi con meno inflazione. Un tasso d‚Äôinteresse nominale sui
 titoli pubblici a lungo termine non superiore del 2% a quello dei tre paesi meno inflazionistici, un
 disavanzo pubblico non superiore al 3% del Pil, a meno di situazioni eccezionali e temporanee, il
-debito pubblico non superiore al 60% del Pil, e infine il tasso di cambio allíinterno della banda di
+debito pubblico non superiore al 60% del Pil, e infine il tasso di cambio all‚Äôinterno della banda di
 oscillazione normale dello Sme, almeno per un biennio. Inoltre nel 1997, per mantenere i criteri di
-Maastricht, fu firmato il ìPatto di Stabilitaî. Le norme del patto sono mirate allíobiettivo della
-stabilita, per evitare che un Paese con elevati disavanzi e debiti, che si era comportato ìbeneî durante
-la fase di convergenza, una volta ammesso nellíEurozona, abbia comportamenti opportunistici in
+Maastricht, fu firmato il ‚ÄúPatto di Stabilita‚Äù. Le norme del patto sono mirate all‚Äôobiettivo della
+stabilita, per evitare che un Paese con elevati disavanzi e debiti, che si era comportato ‚Äúbene‚Äù durante
+la fase di convergenza, una volta ammesso nell‚ÄôEurozona, abbia comportamenti opportunistici in
 tema di finanza pubblica. Il PSC fissava due parametri importanti: il pareggio del bilancio pubblico
 e il tetto al rapporto deficit/Pil pari al 3%.
 
 
 Nonostante questo, in seguito alla crisi del 2008, questi paletti sono stati messi da parte per permettere
 agli Stati di reagire. Gia nella Grande Recessione del 2009 i disavanzi pubblici erano fortemente
-peggiorati in tutti i Paesi per: i salvataggi bancari, líagire degli stabilizzatori automatici e i pacchetti
-di stimolo fiscale discrezionali adottati in vari Paesi. Nellíarco di due anni, i rapporti tra disavanzo e
-Pil sono peggiorati in diversi Paesi dellíEurozona: nel 2009 si sono toccate punte di oltre il -10% in
+peggiorati in tutti i Paesi per: i salvataggi bancari, l‚Äôagire degli stabilizzatori automatici e i pacchetti
+di stimolo fiscale discrezionali adottati in vari Paesi. Nell‚Äôarco di due anni, i rapporti tra disavanzo e
+Pil sono peggiorati in diversi Paesi dell‚ÄôEurozona: nel 2009 si sono toccate punte di oltre il -10% in
 Grecia, Irlanda, Portogallo. Le vecchie regole si mostravano obsolete soprattutto a seguito della crisi
 dei debiti sovrani. Questa situazione porto a nuove regole per i bilanci e per le politiche
 macroeconomiche. Furono introdotti il Six-Pack e il successivo Two-Pack, oltre alla riforma del Patto
@@ -188,16 +189,16 @@ di stabilita. Le riforme del PSC attuate tra il 2010 e il 2013, con le nuove nor
 come il Fiscal Compact, sono andate nella direzione di un progressivo inasprimento di piu stretti
 controlli.
 
-Le generalizzate politiche díausterita hanno comportato che, mentre gli Stati Uniti si ripresero presto
-dopo la Grande Recessione del 2009, líEurozona subi due recessioni in un quinquennio, con una
+Le generalizzate politiche d‚Äôausterita hanno comportato che, mentre gli Stati Uniti si ripresero presto
+dopo la Grande Recessione del 2009, l‚ÄôEurozona subi due recessioni in un quinquennio, con una
 successiva debole ripresa. Perfino le istituzioni europee si sono rese conto che un aggiustamento nella
 direzione della crescita sarebbe stato piu opportuno. Molte speranze aveva suscitato il piano
-díinvestimenti proposto da Junker, per un totale inizialmente previsto di 300 miliardi di euro, che
-venne pero criticato per líinsufficienza dellíapplicazione.
+d‚Äôinvestimenti proposto da Junker, per un totale inizialmente previsto di 300 miliardi di euro, che
+venne pero criticato per l‚Äôinsufficienza dell‚Äôapplicazione.
 
 
 Considerate le limitazioni del Piano Junker, un recupero della spesa pubblica per investimenti, si
-diceva che avrebbe consentito un immediato sollievo per líeconomia. Fondi atti a migliorare:
+diceva che avrebbe consentito un immediato sollievo per l‚Äôeconomia. Fondi atti a migliorare:
 infrastrutture, trasporti, formazione del capitale umano e ricerca. Non solo investimenti in grandi
 opere, ma anche micro-interventi (edilizia popolare, scuola, ambiente). Proprio come pensato da
 Keynes, il quale affermava che nei momenti di sottoccupazione, e utile aumentare la spesa pubblica
@@ -208,61 +209,61 @@ successivamente ad una situazione di avanzo.
 11^. Cercando di evitare gli errori commessi al termine del primo conflitto, che furono una delle cause della reazione tedesca che secondo
 Keynes sfocio nel nazismo e successivamente nella Seconda Guerra mondiale.
 
-^12. Trattato di Maastricht, Trattato sullíUnione Europea, Gazzetta ufficiale n. C 191 del 29 luglio 1992. Link:
+^12. Trattato di Maastricht, Trattato sull‚ÄôUnione Europea, Gazzetta ufficiale n. C 191 del 29 luglio 1992. Link:
 http://www.integrazionemigranti.gov.it/Normativa/Documents/Normativa/Trattati%20e%20Convenzioni/Trattato%20Maastricht.pdf
 
 
 
-**I PROBLEMI STRUTTURALI DELLíECONOMIA ITALIANA**
+**I PROBLEMI STRUTTURALI DELL‚ÄôECONOMIA ITALIANA**
 
-I problemi che invece affliggono líeconomia italiana non sono solo di tipo ciclico, ma anche
+I problemi che invece affliggono l‚Äôeconomia italiana non sono solo di tipo ciclico, ma anche
 precedenti e di natura strutturale. Una delle principali cause della stentata crescita negli anni
 precedenti e la dinamica del tutto insoddisfacente della produttivita nel lavoro. La produttivita media
 per persona occupata e rimasta stazionaria dal 1999 al 2017, mentre e aumentata del 23% in
 Germania. La pessima performance della produttivita ha diverse cause: gli scarsi investimenti in capitale fisico, la minor diffusione delle nuove tecnologie e le contenute spese in ricerca e sviluppo,
-la struttura industriale sbilanciata verso le piccole-medie imprese, una bassa spesa per líistruzione,
+la struttura industriale sbilanciata verso le piccole-medie imprese, una bassa spesa per l‚Äôistruzione,
 oltre alle insufficienze nella capacita innovativa e imprenditoriale(^13).
 
 
 ---------------------
-13 Come conseguenza vi e anche un modello di specializzazione ìobsoletoî (solo il 27% della popolazione in eta compresa tra i 25 e i
+13 Come conseguenza vi e anche un modello di specializzazione ‚Äúobsoleto‚Äù (solo il 27% della popolazione in eta compresa tra i 25 e i
 35 anni possiede una laurea, contro il 40% della media UE-28).
 
 
 
 **LE SFIDE DELLA CRISI COVID-19**
 
-Molti economisti richiamano le teorie di Keynes per rispondere allíattuale crisi legata alla pandemia.
+Molti economisti richiamano le teorie di Keynes per rispondere all‚Äôattuale crisi legata alla pandemia.
 Agli investimenti pubblici piu tradizionali, potrebbero aggiungersi fattori tecnologici in grado di
-aumentare líefficienza produttiva dellíItalia: banda larga, robotizzazione, energie verdi. Un modo per
+aumentare l‚Äôefficienza produttiva dell‚ÄôItalia: banda larga, robotizzazione, energie verdi. Un modo per
 mettere in circolo denaro, aumentare i consumi e quindi la produzione, abbattendo la
 disoccupazione(^14).
 
-La sospensione dei pagamenti dellíIRES e IRAP, i contributi a fondo perduto e la cassa integrazione
+La sospensione dei pagamenti dell‚ÄôIRES e IRAP, i contributi a fondo perduto e la cassa integrazione
 sono solo alcuni strumenti utilizzati per permettere alle aziende di non fallire e dare assistenza ai
 cittadini rimasti senza lavoro. Tuttavia la possibilita di nuove risorse attraverso gli aiuti europei e
-líaumento del debito pubblico, potrebbero permettere allíItalia una capacita di investimento
+l‚Äôaumento del debito pubblico, potrebbero permettere all‚ÄôItalia una capacita di investimento
 irripetibile. Nel 2020 il Governo si apprestera a stanziare un nuovo deficit da circa 55 miliardi, con
-un piano díaiuti europei europeo di oltre 170 miliardi(^15). Tuttavia allíinterno dei Decreti Rilancio e
+un piano d‚Äôaiuti europei europeo di oltre 170 miliardi(^15). Tuttavia all‚Äôinterno dei Decreti Rilancio e
 Liquidita oltre agli aiuti necessari per aziende e lavoratori, dovranno esserci anche investimenti
-strutturali per permettere allíItalia di allinearsi alla media europea della produttivita del lavoro(^16).
-Azioni da eseguire per rilanciare líeconomia italiana dopo anni di stagnazione.
+strutturali per permettere all‚ÄôItalia di allinearsi alla media europea della produttivita del lavoro(^16).
+Azioni da eseguire per rilanciare l‚Äôeconomia italiana dopo anni di stagnazione.
 
 **CONCLUSIONE**
 
 La nostra economia e arrivata alla pandemia con un organismo indebolito da un quarto di secolo di
 ristagno economico e da un debito pubblico che non consente un uso adeguato della spesa pubblica
-in disavanzo per mitigare recessioni. Nellíimmediato, i miliardi stanziati vanno spesi per evitare
-líarresto dellíeconomia, sostenendo il reddito di chi lo perde e dando alle imprese la liquidita
+in disavanzo per mitigare recessioni. Nell‚Äôimmediato, i miliardi stanziati vanno spesi per evitare
+l‚Äôarresto dell‚Äôeconomia, sostenendo il reddito di chi lo perde e dando alle imprese la liquidita
 sufficiente a far fronte alla caduta della domanda(^17).
 
-Líinsegnamento che possiamo trarre da Keynes e che il ruolo dello Stato nella gestione di questa crisi
+L‚Äôinsegnamento che possiamo trarre da Keynes e che il ruolo dello Stato nella gestione di questa crisi
 dovra necessariamente essere piu ampio. Smentendo almeno in questa fase le teorie neoliberiste(^18),
 dato che in una situazione di emergenza la parola libero mercato perde ogni significato. A differenza
-delle cause che portarono allo scoppio della Seconda Guerra Mondiale pero, ora líUnione Europea
+delle cause che portarono allo scoppio della Seconda Guerra Mondiale pero, ora l‚ÄôUnione Europea
 avra il compito piu difficile degli ultimi anni: elevarsi a organizzazione di raccordo tra varie entita,
-per essere non solo portatrice di pace allíinterno del continente, ma anche di prosperita condivisa. Il
-Recovery Fund, adottato dallíUE in questi giorni, potrebbe andare in questa direzione(^19).
+per essere non solo portatrice di pace all‚Äôinterno del continente, ma anche di prosperita condivisa. Il
+Recovery Fund, adottato dall‚ÄôUE in questi giorni, potrebbe andare in questa direzione(^19).
 
 ---------------------
 ^14. Valentini C., La vecchia teoria di Keyes vale ancora. Link: https://www.italiaoggi.it/news/la-vecchia-teoria-di-keynes-vale-ancora-
@@ -271,15 +272,15 @@ Recovery Fund, adottato dallíUE in questi giorni, potrebbe andare in questa dire
 ^15. Mobili M., Rogari M., Dl Rilancio: addio alle clausole Iva, nuovo deficit da 55 miliardi. Link: https://www.ilsole24ore.com/art/dlrilancio-
 addio-clausole-iva-nuovo-deficit-55-miliardi-ADXXZmP
 
-^16. Beda R., Piano Von der Leyen: Recovery Fund da 750 miliardi di cui 500 a fondo perduto. Per líItalia previsti 82 miliardi di aiuti e
+^16. Beda R., Piano Von der Leyen: Recovery Fund da 750 miliardi di cui 500 a fondo perduto. Per l‚ÄôItalia previsti 82 miliardi di aiuti e
 91 di crediti. Link: https://www.ilsole24ore.com/art/piano-von-der-leyen-recovery-fund-750-miliardi-cui-500-fondo-perduto--ADydiZT
 
 ^17. Sostegno alla liquidita delle famiglie e delle imprese. Link: http://www.mef.gov.it/covid-19/Sostegno-alla-liquidita-delle-famigliee-
 delle-imprese-tramite-il-sistema-bancario/
 
-^18. Burda M., Wyplosz C., Macroeconomia. Uníanalisi europea, 2014
+^18. Burda M., Wyplosz C., Macroeconomia. Un‚Äôanalisi europea, 2014
 
-^19. Soldavini P., Il fondo di salvataggio europeo e le misure per il rilancio dellíeconomia. Link: https://www.ilsole24ore.com/art/ilfondo-
+^19. Soldavini P., Il fondo di salvataggio europeo e le misure per il rilancio dell‚Äôeconomia. Link: https://www.ilsole24ore.com/art/ilfondo-
 salvataggio-europeo-e-misure-il-rilancio-economia-dieci-domande-AD3kFSU
 
 
