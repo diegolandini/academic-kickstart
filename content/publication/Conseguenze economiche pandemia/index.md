@@ -202,7 +202,7 @@ diceva che avrebbe consentito un immediato sollievo per l’economia. Fondi atti
 infrastrutture, trasporti, formazione del capitale umano e ricerca. Non solo investimenti in grandi
 opere, ma anche micro-interventi (edilizia popolare, scuola, ambiente). Proprio come pensato da
 Keynes, il quale affermava che nei momenti di sottoccupazione, e utile aumentare la spesa pubblica
-anche a costo di incorrere in un deficit spending, perche tale aumento avrebbe portato
+anche a costo di incorrere in un *deficit spending*, perche tale aumento avrebbe portato
 successivamente ad una situazione di avanzo.
 
 ---------------------
