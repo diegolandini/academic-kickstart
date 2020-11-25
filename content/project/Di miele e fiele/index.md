@@ -1,7 +1,16 @@
 ---
 title: "Di miele e fiele"
 subtitle: ''
-summary: ""
+summary: "Ho lasciato entrare il tramonto dal finestrino  
+
+
+fino a sentirlo nei polmoni 
+
+
+ho aspettato che mi scuotesse 
+
+
+dal centro alla periferia."
 authors:
 - Caterina Rugghia
 tags:
