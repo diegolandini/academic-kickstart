@@ -1,5 +1,4 @@
 ---
-
 title: "Laccio emostatico"
 subtitle: ''
 summary: "Il divano spostato, la televisione accesa su un canale sconosciuto, bottiglie per terra e sul tavolo sporco una valanga di cicche ancora fumanti."
