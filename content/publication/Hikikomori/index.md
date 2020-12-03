@@ -1,5 +1,4 @@
 ---
-
 title: "Hikikomori: il disagio sociale che ti allontana dal mondo"
 authors:
 - Diderot
