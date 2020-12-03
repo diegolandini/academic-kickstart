@@ -9,7 +9,7 @@ doi: ""
 publishDate: "2020-12-02"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Il fenomeno degli hikikomori e' un disagio sociale nato in Giappone, ma che si sta piano piano estendendo in tutto il mondo. Il termine hikikomori significa letteralmente “stare in disparte o isolarsi”. Le prime manifestazioni in Giappone di questa forma di ritiro sociale vennero descritte nel 1978 da Y. Kasahara e chiamate tajkyaku shinkeishou cioe' reatreat neurosis e si riferiva a soggetti che abbandonavano la scuola o il lavoro, senza avere una diagnosi di depressione o altre patologie psichiatriche."
 tags:
 - Hikikomori
 
