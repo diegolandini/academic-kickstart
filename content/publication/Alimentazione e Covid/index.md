@@ -1,5 +1,4 @@
 ---
-
 title: "Alimentazione e COVID-19"
 authors:
 - Diderot
