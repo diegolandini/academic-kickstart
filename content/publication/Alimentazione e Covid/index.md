@@ -1,4 +1,5 @@
 ---
+
 title: "Alimentazione e COVID-19"
 authors:
 - Diderot
@@ -22,7 +23,7 @@ featured: true
 image:
   caption: 
   focal_point: ""
-  preview_only: true
+  preview_only: false
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -41,46 +42,46 @@ draft: false
 
 ---
 
-Il 2020 ci ha costretto a fare i conti con un parassita virale che ci era sconosciuto: il Sars-coV-2. Questa ìspiacevole conoscenzaî ha sconvolto la nostra routine e le nostre abitudini, ha spazzato via le nostre sicurezze e distrutto la nostra *comfort-zone*, ci ha fatto familiarizzare con parole che prima di questíanno scovavamo solo in qualche articolo scientifico o economico: pandemia, *lockdown*, *smartworking*.
-Líumanit‡ si Ë ritrovata immersa in questo grande e confusionario nuovo mondo, nel quale nulla Ë certo e tutti hanno paura dellíaltro. 
+Il 2020 ci ha costretto a fare i conti con un parassita virale che ci era sconosciuto: il Sars-coV-2. Questa ‚Äúspiacevole conoscenza‚Äù ha sconvolto la nostra routine e le nostre abitudini, ha spazzato via le nostre sicurezze e distrutto la nostra *comfort-zone*, ci ha fatto familiarizzare con parole che prima di quest‚Äôanno scovavamo solo in qualche articolo scientifico o economico: pandemia, *lockdown*, *smartworking*.
+L‚Äôumanit√† si √® ritrovata immersa in questo grande e confusionario nuovo mondo, nel quale nulla √® certo e tutti hanno paura dell‚Äôaltro. 
 
-CiÚ che ne Ë  risultato a livello psicologico Ë stata senza dubbio una sorta di terrore inarginabile dettato dal contagio fisico e dallíemergenza sanitaria mondiale. Tra i fattori di stress bisogna includere quello generato, soprattutto inizialmente, da una cascata di informazioni imprecise, dalla mancanza di linee guida inequivocabili e da un cospetto reale sulla natura del rischio.
+Ci√≤ che ne √®  risultato a livello psicologico √® stata senza dubbio una sorta di terrore inarginabile dettato dal contagio fisico e dall‚Äôemergenza sanitaria mondiale. Tra i fattori di stress bisogna includere quello generato, soprattutto inizialmente, da una cascata di informazioni imprecise, dalla mancanza di linee guida inequivocabili e da un cospetto reale sulla natura del rischio.
 
-Facendo esperienza di un distacco totale dal mondo esterno, ci siamo ritrovati a guardare dentro casa nostra e dentro noi stessi e cercare in quei posti il nostro equilibrio e la nostra identit‡. Abbiamo riadattato alla situazione il nostro stile di vita e molti hanno colto líoccasione per modificare in meglio le proprie abitudini e limitare i comportamenti con impatti negativi sulla nostra salute.
+Facendo esperienza di un distacco totale dal mondo esterno, ci siamo ritrovati a guardare dentro casa nostra e dentro noi stessi e cercare in quei posti il nostro equilibrio e la nostra identit√†. Abbiamo riadattato alla situazione il nostro stile di vita e molti hanno colto l‚Äôoccasione per modificare in meglio le proprie abitudini e limitare i comportamenti con impatti negativi sulla nostra salute.
 
-Abbiamo riscoperto la gioia della cucina e il piacere di condivisione con i cari e, costretti a mettere un ìfreno alla vita freneticaî, abbiamo avuto la possibilit‡ di rispolverare il piacere delle piccole cose: preparare una sana e completa colazione, dedicare il tempo opportuno alla consumazione dei nostri pasti, ristabilire il nostro orologio biologico e, in un contesto casalingo forzato dove tutti i giorni sembrano uguali, concedersi qualche sfizio extra nel *weekend* per poi ricominciare con il piede giusto ad assumere un comportamento alimentare equilibrato per il resto della settimana. 
+Abbiamo riscoperto la gioia della cucina e il piacere di condivisione con i cari e, costretti a mettere un ‚Äúfreno alla vita frenetica‚Äù, abbiamo avuto la possibilit√† di rispolverare il piacere delle piccole cose: preparare una sana e completa colazione, dedicare il tempo opportuno alla consumazione dei nostri pasti, ristabilire il nostro orologio biologico e, in un contesto casalingo forzato dove tutti i giorni sembrano uguali, concedersi qualche sfizio extra nel *weekend* per poi ricominciare con il piede giusto ad assumere un comportamento alimentare equilibrato per il resto della settimana. 
 
-Dunque, in questo periodo risulta essere importante seguire uníalimentazione corretta caratterizzata da una dieta varia e bilanciata con lo scopo di rafforzare il sistema immunitario, alleato numero uno per il mantenimento del nostro organismo in salute.
+Dunque, in questo periodo risulta essere importante seguire un‚Äôalimentazione corretta caratterizzata da una dieta varia e bilanciata con lo scopo di rafforzare il sistema immunitario, alleato numero uno per il mantenimento del nostro organismo in salute.
 
 {{< figure library="true" src="alimentazionecovid1.jpg" title=""lightbox="true" >}}
 
 
 **Cosa bisognerebbe mangiare in questo periodo?**
 
-Una dieta ricca di **frutta e verdura**, si sa, Ë fondamentale! Si consiglia di aumentare la quota di alimenti vegetali freschi e di stagione, dunque Ë importante porre la nostra attenzione sulla provenienza e sulla stagionalit‡. 
-Inoltre, alcuni studi epidemiologici hanno evidenziato che diete ricche di frutta e verdura hanno un effetto realmente protettivo nei confronti dellíorganismo e líazione protettiva si puÚ attribuire ai diversi composti bioattivi presenti sotto forma di antiossidanti e immunostimolanti. 
+Una dieta ricca di **frutta e verdura**, si sa, √® fondamentale! Si consiglia di aumentare la quota di alimenti vegetali freschi e di stagione, dunque √® importante porre la nostra attenzione sulla provenienza e sulla stagionalit√†. 
+Inoltre, alcuni studi epidemiologici hanno evidenziato che diete ricche di frutta e verdura hanno un effetto realmente protettivo nei confronti dell‚Äôorganismo e l‚Äôazione protettiva si pu√≤ attribuire ai diversi composti bioattivi presenti sotto forma di antiossidanti e immunostimolanti. 
 
-Sono consigliate perlopi˘ frutta e verdura di **colore viola-arancio-giallo-rosso** che apportano **polifenoli** e **vitamina C**; i polifenoli hanno uníazione protettiva a livello cellulare e hanno propriet‡ antinfiammatorie, antiallergiche ed antivirali. La vitamina C, invece, grazie ai suoi poteri antiossidanti, innalza le barriere del **sistema immunitario** e aiuta líorganismo nella prevenzione di alcune patologie.
+Sono consigliate perlopi√π frutta e verdura di **colore viola-arancio-giallo-rosso** che apportano **polifenoli** e **vitamina C**; i polifenoli hanno un‚Äôazione protettiva a livello cellulare e hanno propriet√† antinfiammatorie, antiallergiche ed antivirali. La vitamina C, invece, grazie ai suoi poteri antiossidanti, innalza le barriere del **sistema immunitario** e aiuta l‚Äôorganismo nella prevenzione di alcune patologie.
 
-Inoltre Ë consigliabile aumentare la quantit‡ di **pesce** in quanto la presenza di grassi polinsaturi (Omega-3) e di vitamina D rappresenta un grande sostegno per il sistema immunitario. Si raccomanda soprattutto la consumazione di salmone, sgombro, merluzzo e alici.
+Inoltre √® consigliabile aumentare la quantit√† di **pesce** in quanto la presenza di grassi polinsaturi (Omega-3) e di vitamina D rappresenta un grande sostegno per il sistema immunitario. Si raccomanda soprattutto la consumazione di salmone, sgombro, merluzzo e alici.
 
-Anche la **frutta secca** È fondamentale poichÈ contiene nutrienti ad azione cardioprotettiva, come grassi insaturi, proteine di alta qualit‡, e vitamine. In particolare, sono le mandorle e le noci, che possiamo consumare come snack o per guarnire un bel *breakfast bowl*, ad essere ricche di vitamina E, acido folico, niacina e sali minerali.
+Anche la **frutta secca** √© fondamentale poich√© contiene nutrienti ad azione cardioprotettiva, come grassi insaturi, proteine di alta qualit√†, e vitamine. In particolare, sono le mandorle e le noci, che possiamo consumare come snack o per guarnire un bel *breakfast bowl*, ad essere ricche di vitamina E, acido folico, niacina e sali minerali.
 
-… giusto integrare anche con una corretta dose di **legumi**, che sono alimenti dallíelevato valore nutritivo e offrono un aiuto pi˘ specifico al sistema immunitario grazie al loro contenuto in vitamine e sali minerali. 
+√â giusto integrare anche con una corretta dose di **legumi**, che sono alimenti dall‚Äôelevato valore nutritivo e offrono un aiuto pi√π specifico al sistema immunitario grazie al loro contenuto in vitamine e sali minerali. 
 
-Si consiglia di inserire nella dieta anche cibi ricchi di **selenio** che Ë presente nei **funghi** e nei **cereali**, in quanto selenio e betaglucano sono indispensabili per attivare i globuli bianchi, deputati a difenderci dalle infezioni e a riparare tessuti eventualmente danneggiati. 
+Si consiglia di inserire nella dieta anche cibi ricchi di **selenio** che √® presente nei **funghi** e nei **cereali**, in quanto selenio e betaglucano sono indispensabili per attivare i globuli bianchi, deputati a difenderci dalle infezioni e a riparare tessuti eventualmente danneggiati. 
 
-**Cosa invece Ë importante limitare?**
+**Cosa invece √® importante limitare?**
 
-Bisogna tenere líattenzione alta nel limitare i **cibi grassi**, le bevande ricche di **zucchero** ed eccessi di **carboidrati**. Un abuso di questi alimenti Ë sconsigliato soprattutto se non si fa uníadeguata attivit‡ fisica o in questo periodo in cui si rimane per molto tempo in casa.
- Un occhio particolare allí**alcool**, lo **zucchero** e il **sale**, che in quantit‡ esagerate possono risultare dannosi e ricchi in calorie.
+Bisogna tenere l‚Äôattenzione alta nel limitare i **cibi grassi**, le bevande ricche di **zucchero** ed eccessi di **carboidrati**. Un abuso di questi alimenti √® sconsigliato soprattutto se non si fa un‚Äôadeguata attivit√† fisica o in questo periodo in cui si rimane per molto tempo in casa.
+ Un occhio particolare all‚Äô**alcool**, lo **zucchero** e il **sale**, che in quantit√† esagerate possono risultare dannosi e ricchi in calorie.
 
 {{< figure library="true" src="alimentazionecovid2.jpg" title=""lightbox="true" >}}
 
-Se ci ritroviamo a dedicare pi˘ tempo alla cucina perchÈ ci gratifica e ci unisce alla famiglia, approfittiamone per sperimentare e proviamo a sostituire ingredienti come la panna o la cioccolata confezionata con ingredienti pi˘ ìleggeriî, come la ricotta o creme di frutta secca.
-Usiamo questo momento anche per curare di pi˘ la variet‡ degli alimenti che serviamo in tavola, combinando sempre in maniera nuova i macroalimenti tra loro. 
+Se ci ritroviamo a dedicare pi√π tempo alla cucina perch√© ci gratifica e ci unisce alla famiglia, approfittiamone per sperimentare e proviamo a sostituire ingredienti come la panna o la cioccolata confezionata con ingredienti pi√π ‚Äúleggeri‚Äù, come la ricotta o creme di frutta secca.
+Usiamo questo momento anche per curare di pi√π la variet√† degli alimenti che serviamo in tavola, combinando sempre in maniera nuova i macroalimenti tra loro. 
 
-E non dimentichiamoci che uníalimentazione corretta deve essere affiancata dalla giusta attivit‡ fisica per il benessere del nostro organismo, non solo per una questione prettamente estetica, ma anche per prenderci cura della nostra psiche: corpo e mente lavorano insieme sinergicamente!
+E non dimentichiamoci che un‚Äôalimentazione corretta deve essere affiancata dalla giusta attivit√† fisica per il benessere del nostro organismo, non solo per una questione prettamente estetica, ma anche per prenderci cura della nostra psiche: corpo e mente lavorano insieme sinergicamente!
 
 
 **Fonti:**
